@@ -389,6 +389,48 @@ with open(f'{WORKSPACE}/COCHE_Weekly_Report.md', 'w') as f:
 
 print(f"  Report saved")
 
+# Generate FULL_LIST.md (per-year markdown tables)
+print(f"  Generating FULL_LIST.md...")
+from collections import Counter
+
+full = []
+full.append('# COCHE 全部论文列表')
+full.append(f'')
+full.append(f'> 📊 **{len(current)} 篇** | ⏰ 更新: {datetime.now().strftime("%Y-%m-%d %H:%M")} UTC+8')
+full.append(f'> 数据来源: PubMed · [返回首页](README.md)')
+full.append('')
+full.append('---')
+full.append('')
+
+year_cnt = Counter(p.get('pub_year', '?') for p in current)
+for year in sorted(year_cnt.keys(), reverse=True):
+    yr_papers = [p for p in current if p.get('pub_year') == year]
+    full.append(f'## {year} ({len(yr_papers)} 篇)')
+    full.append('')
+    full.append('| # | 标题 | 日期 | 期刊 | COCHE 作者 | PMID |')
+    full.append('|---|------|------|------|------------|------|')
+    for i, p in enumerate(yr_papers, 1):
+        doi = p.get('doi', '')
+        pmid = p.get('pmid', '')
+        link = f'https://doi.org/{doi}' if doi else f'https://pubmed.ncbi.nlm.nih.gov/{pmid}'
+        title = p.get('title', '').replace('|', '\\\\|')
+        date_str = f"{p.get('pub_year','')}-{(p.get('pub_month','') or 'Jan')[:3]}-{(p.get('pub_day','') or '01').zfill(2)}"
+        m = month_map.get((p.get('pub_month','') or 'Jan')[:3], '01')
+        date_str = f"{p.get('pub_year','')}-{m}-{(p.get('pub_day','') or '01').zfill(2)}"
+        authors = ', '.join(p.get('coche_authors', [])[:3])
+        if len(p.get('coche_authors', [])) > 3:
+            authors += ' et al.'
+        journal = (p.get('journal', '') or '')[:30]
+        full.append(f'| {i} | [{title}]({link}) | {date_str} | {journal} | {authors or "N/A"} | {pmid} |')
+    full.append('')
+
+full.append('---')
+full.append(f'*自动生成 {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} · [返回首页](README.md)*')
+
+with open(f'{WORKSPACE}/FULL_LIST.md', 'w') as f:
+    f.write('\n'.join(full))
+print(f"  FULL_LIST.md generated")
+
 # ==============================================================
 # Generate index.md for GitHub Pages rendering
 # ==============================================================
@@ -485,7 +527,7 @@ echo "[$(date '+%H:%M:%S')] Step 5: Saved snapshot for next week" | tee -a "$LOG
 # ==============================================================
 echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
 cd "$WORKSPACE"
-git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json README.md index.html scripts/coche_weekly_update.sh
+git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json README.md FULL_LIST.md index.html scripts/coche_weekly_update.sh
 git commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No new changes"
 gh auth setup-git -h github.com 2>/dev/null
 git push origin main || echo "  Push failed"
