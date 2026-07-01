@@ -1,37 +1,36 @@
 # COCHE All Papers
 
-> 📊 **263** papers | ⏰ 2026-07-01 15:58 UTC+8 | [Home](README.md)
+> 📊 **263** papers | ⏰ 2026-07-01 16:06 UTC+8 | [Home](README.md)
 
 ---
 
-## 2026 (24)
+## 2026 (23)
 
 | # | Title | Date | Journal | COCHE Authors | PMID |
 |---|---|---|---|---|---|
 | 1 | [Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise ma](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | Microsystems & nanoengineering | Xinge Yu | 42324249 |
-| 2 | [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insensitive PCrCEST MRI a](https://doi.org/10.1002/nbm.70280) | 2026-06-21 | NMR in biomedicine | Qizhi Yang | 41948794 |
-| 3 | [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | 42319942 |
-| 4 | [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therap](https://doi.org/10.1002/smll.74020) | 2026-06-19 | Small (Weinheim an der Bergstr | Bangul Khan,Bee Luan Khoo | 42318608 |
-| 5 | [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | 42300259 |
-| 6 | [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | 42206883 |
-| 7 | [Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ qua](https://doi.org/10.1016/S2589-7500(24)00154-7) | 2026-05-18 | The Lancet. Digital health | Dengqiang Jia | 39455194 |
-| 8 | [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemistry | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | 41995179 |
-| 9 | [DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring and Wound Healing on Burned S](https://doi.org/10.1002/adhm.202505887) | 2026-04-24 | Advanced healthcare materials | Rafi U Shan Ahmad,Muhammad Shehzad Khan,Bangul Khan,Bee Luan Khoo | 42027058 |
-| 10 | [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | 41989927 |
-| 11 | [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | 41984945 |
-| 12 | [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-Life Alkaline Flow B](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | Advanced science (Weinheim, Ba | Yue Hou | 41980210 |
-| 13 | [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and fu](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | Ultrasonics | Yang Liu | 41980481 |
-| 14 | [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advanced Wearable Electroca](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | Small science | Bangul Khan,Md Shohidul Islam,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | 42112468 |
-| 15 | [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim, Ba | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | 41847908 |
-| 16 | [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | 41498585 |
-| 17 | [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | 41739548 |
-| 18 | [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | 41757248 |
-| 19 | [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | Circulation research | Yujie Pu,Yu Huang | 41685426 |
-| 20 | [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | 42051419 |
-| 21 | [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) | 2026-01-29 | International journal of molec | Bee Luan Khoo | 41683755 |
-| 22 | [A microfluidic microspheres accumulation platform for direct visualization of urine albumin-to-creat](https://doi.org/10.1016/j.bios.2026.118400) | 2026-01-13 | Biosensors & bioelectronics | Chenyu Cui,Ting-Hsuan Chen | 41564481 |
-| 23 | [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | 41520071 |
-| 24 | [Artificial Intelligence-Enhanced Wearable Blood Pressure Monitoring in Resource-Limited Settings: A ](https://doi.org/10.1007/s40820-025-02003-9) | 2026-01-05 | Nano-micro letters | Ting Xiang,Zijun Liu | 41486315 |
+| 2 | [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | 42319942 |
+| 3 | [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therap](https://doi.org/10.1002/smll.74020) | 2026-06-19 | Small (Weinheim an der Bergstr | Bangul Khan,Bee Luan Khoo | 42318608 |
+| 4 | [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | 42300259 |
+| 5 | [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | 42206883 |
+| 6 | [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemistry | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | 41995179 |
+| 7 | [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insensitive PCrCEST MRI a](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | NMR in biomedicine | Qizhi Yang | 41948794 |
+| 8 | [DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring and Wound Healing on Burned S](https://doi.org/10.1002/adhm.202505887) | 2026-04-24 | Advanced healthcare materials | Rafi U Shan Ahmad,Muhammad Shehzad Khan,Bangul Khan,Bee Luan Khoo | 42027058 |
+| 9 | [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | 41989927 |
+| 10 | [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | 41984945 |
+| 11 | [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-Life Alkaline Flow B](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | Advanced science (Weinheim, Ba | Yue Hou | 41980210 |
+| 12 | [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and fu](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | Ultrasonics | Yang Liu | 41980481 |
+| 13 | [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advanced Wearable Electroca](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | Small science | Bangul Khan,Md Shohidul Islam,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | 42112468 |
+| 14 | [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim, Ba | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | 41847908 |
+| 15 | [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | 41498585 |
+| 16 | [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | 41739548 |
+| 17 | [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | 41757248 |
+| 18 | [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | Circulation research | Yujie Pu,Yu Huang | 41685426 |
+| 19 | [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | 42051419 |
+| 20 | [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) | 2026-01-29 | International journal of molec | Bee Luan Khoo | 41683755 |
+| 21 | [A microfluidic microspheres accumulation platform for direct visualization of urine albumin-to-creat](https://doi.org/10.1016/j.bios.2026.118400) | 2026-01-13 | Biosensors & bioelectronics | Chenyu Cui,Ting-Hsuan Chen | 41564481 |
+| 22 | [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | 41520071 |
+| 23 | [Artificial Intelligence-Enhanced Wearable Blood Pressure Monitoring in Resource-Limited Settings: A ](https://doi.org/10.1007/s40820-025-02003-9) | 2026-01-05 | Nano-micro letters | Ting Xiang,Zijun Liu | 41486315 |
 
 ## 2025 (54)
 
@@ -41,16 +40,16 @@
 | 2 | [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) | 2025-12-22 | Proceedings of the National Ac | Chun Ki Yiu,Binbin Zhang,Jingkun Zhou,Jian Li,Jiyu Li,Zhenlin Chen,Zhenyu Liu,Xinge Yu | 41428887 |
 | 3 | [Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by reperfusion therapy-a ](https://doi.org/10.1038/s41467-025-66167-z) | 2025-12-14 | Nature communications | L T Lui,Rosa H M Chan | 41392086 |
 | 4 | [A conformal piezoelectric microsystem for demographic-adaptive and calibration-free cuffless blood p](https://doi.org/10.1038/s41467-025-67118-4) | 2025-12-09 | Nature communications | Cunman Liang,Zhou Jiang,Lei Zhao,Xiao Yang,Ni Zhao | 41366208 |
-| 5 | [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interactions in Polymer Elect](https://doi.org/10.1002/adma.202512960) | 2025-12-01 | Advanced materials (Deerfield  | Dechao Zhang,Shimei Li,Qi Xiong,Chunyi Zhi | 41324265 |
-| 6 | [Covalent and polyfluorinated lithium salt for stable LiCoO](https://doi.org/10.1038/s41467-025-65256-3) | 2025-11-24 | Nature communications | Qi Xiong,Shimei Li,Dechao Zhang,Chunyi Zhi | 41285746 |
-| 7 | [Deciphering age- and sex-specific patterns of coronary artery atherosclerosis from a large Chinese c](https://doi.org/10.1038/s41467-025-64940-8) | 2025-11-22 | Nature communications | Xinnian Yang,Dengqiang Jia | 41274881 |
-| 8 | [High-strength and fracture-resistant ionogels via solvent-tailored interphase cohesion in nanofibrou](https://doi.org/10.1126/sciadv.aea6883) | 2025-11-19 | Science advances | Weibin Jia,Xingdao He,Peng Shi | 41259524 |
-| 9 | [Catalytic electrolytes enable fast reaction kinetics and temperature adaptability for aqueous zinc-b](https://doi.org/10.1038/s41467-025-65047-w) | 2025-11-18 | Nature communications | Yue Hou,Chunyi Zhi | 41253747 |
-| 10 | [Assessment of Acute Stress and Chronic Stress for Mental Health Management by a Fully Integrated Wea](https://doi.org/10.1021/acsnano.5c12395) | 2025-11-06 | ACS nano | Jiyu Li,Chun Ki Yiu,Binbin Zhang,Jian Li,Xinge Yu | 41196685 |
-| 11 | [Long-life aqueous zinc-iodine flow batteries enabled by selectively intercepting hydrated ions.](https://doi.org/10.1038/s41467-025-64344-8) | 2025-10-21 | Nature communications | Zhaodong Huang | 41120297 |
-| 12 | [Deep-learning-based HER2 status assessment from multimodal breast cancer data predicts neoadjuvant t](https://doi.org/10.1038/s41551-025-01495-5) | 2025-10-17 | Nature biomedical engineering | Jiadong Zhang,Kannie W Y Chan | 41107520 |
-| 13 | [Micro/Nanorobots for Combating Brain Disorders: Challenges, Advances, and Perspectives.](https://doi.org/10.1002/advs.202516592) | 2025-10-17 | Advanced science (Weinheim, Ba | Qi Zhang | 41103256 |
-| 14 | [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data Consistency.](https://doi.org/10.1002/nbm.70159) | 2025-10-16 | NMR in biomedicine | Huabing Liu,Kannie W Y Chan | 41098042 |
+| 5 | [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data Consistency.](https://doi.org/10.1002/nbm.70159) | 2025-12-01 | NMR in biomedicine | Huabing Liu,Kannie W Y Chan | 41098042 |
+| 6 | [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interactions in Polymer Elect](https://doi.org/10.1002/adma.202512960) | 2025-12-01 | Advanced materials (Deerfield  | Dechao Zhang,Shimei Li,Qi Xiong,Chunyi Zhi | 41324265 |
+| 7 | [Covalent and polyfluorinated lithium salt for stable LiCoO](https://doi.org/10.1038/s41467-025-65256-3) | 2025-11-24 | Nature communications | Qi Xiong,Shimei Li,Dechao Zhang,Chunyi Zhi | 41285746 |
+| 8 | [Deciphering age- and sex-specific patterns of coronary artery atherosclerosis from a large Chinese c](https://doi.org/10.1038/s41467-025-64940-8) | 2025-11-22 | Nature communications | Xinnian Yang,Dengqiang Jia | 41274881 |
+| 9 | [High-strength and fracture-resistant ionogels via solvent-tailored interphase cohesion in nanofibrou](https://doi.org/10.1126/sciadv.aea6883) | 2025-11-19 | Science advances | Weibin Jia,Xingdao He,Peng Shi | 41259524 |
+| 10 | [Catalytic electrolytes enable fast reaction kinetics and temperature adaptability for aqueous zinc-b](https://doi.org/10.1038/s41467-025-65047-w) | 2025-11-18 | Nature communications | Yue Hou,Chunyi Zhi | 41253747 |
+| 11 | [Assessment of Acute Stress and Chronic Stress for Mental Health Management by a Fully Integrated Wea](https://doi.org/10.1021/acsnano.5c12395) | 2025-11-06 | ACS nano | Jiyu Li,Chun Ki Yiu,Binbin Zhang,Jian Li,Xinge Yu | 41196685 |
+| 12 | [Long-life aqueous zinc-iodine flow batteries enabled by selectively intercepting hydrated ions.](https://doi.org/10.1038/s41467-025-64344-8) | 2025-10-21 | Nature communications | Zhaodong Huang | 41120297 |
+| 13 | [Deep-learning-based HER2 status assessment from multimodal breast cancer data predicts neoadjuvant t](https://doi.org/10.1038/s41551-025-01495-5) | 2025-10-17 | Nature biomedical engineering | Jiadong Zhang,Kannie W Y Chan | 41107520 |
+| 14 | [Micro/Nanorobots for Combating Brain Disorders: Challenges, Advances, and Perspectives.](https://doi.org/10.1002/advs.202516592) | 2025-10-17 | Advanced science (Weinheim, Ba | Qi Zhang | 41103256 |
 | 15 | [Saturation-Transfer-Based MRI of the Brain in Multiple Sclerosis Patients at 3T.](https://doi.org/10.1002/jmri.70147) | 2025-10-13 | Journal of magnetic resonance  | Kannie W Y Chan | 41078166 |
 | 16 | [Corrigendum to "sulfated hyaluronic acid/collagen-based biomimetic hybrid nanofiber skin for diabeti](https://doi.org/10.1016/j.carbpol.2025.124372) | 2025-09-25 | Carbohydrate polymers | Weibin Jia | 41198279 |
 | 17 | [Next-Generation Piezoelectric Materials in Wearable and Implantable Devices for Continuous Physiolog](https://doi.org/10.1002/advs.202507853) | 2025-09-25 | Advanced science (Weinheim, Ba | Bangul Khan,Wasim Ullah Khan,Rafi U Shan Ahmad,Muhammad Shehzad Khan,Mohamed Elhousseini Hilal,Bee Luan Khoo | 40997277 |
@@ -92,7 +91,7 @@
 | 53 | [Aqueous Alkaline Zinc-Iodine Battery with Two-Electron Transfer.](https://doi.org/10.1021/acsnano.4c16550) | 2025-01-07 | ACS nano | Zhaodong Huang,Chunyi Zhi | 39772478 |
 | 54 | [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applications | Hongjin Li,Shih-Chi Chen | 39741128 |
 
-## 2024 (75)
+## 2024 (76)
 
 | # | Title | Date | Journal | COCHE Authors | PMID |
 |---|---|---|---|---|---|
@@ -103,19 +102,19 @@
 | 5 | [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthcare Monitoring.](https://doi.org/10.1002/adma.202406798) | 2024-12-02 | Advanced materials (Deerfield  | Jingkun Zhou,Jiyu Li,Binbin Zhang,Jian Li,Xinge Yu | 39623795 |
 | 6 | [Tailoring Biopolymers for Electronic Skins: Materials Design and Applications.](https://doi.org/10.1002/adma.202413112) | 2024-12-01 | Advanced materials (Deerfield  | Xiao Yang | 39618142 |
 | 7 | [Ultrahigh Energy and Power Density in Ni-Zn Aqueous Battery via Superoxide-Activated Three-Electron ](https://doi.org/10.1007/s40820-024-01586-z) | 2024-11-29 | Nano-micro letters | Bolong Li,Kai Yang,Zheng Gong,Derek Ho | 39612109 |
-| 8 | [Opportunities for System Neuroscience.](https://doi.org/10.1007/978-3-031-69188-1_10) | 2024-11-26 | Advances in neurobiology | Russell W Chan | 39589717 |
-| 9 | [Ion-Selective Mobility Differential Amplifier: Enhancing Pressure-Induced Voltage Response in Hydrog](https://doi.org/10.1002/anie.202415000) | 2024-11-26 | Angewandte Chemie (Internation | Kai Yang,Bolong Li,Zhihao Ma,Jiangang Xu,Dong Wang,Zhiheng Zeng,Derek Ho | 39545315 |
-| 10 | [Versatile Biopolymers for Advanced Lithium and Zinc Metal Batteries.](https://doi.org/10.1002/adma.202413515) | 2024-11-26 | Advanced materials (Deerfield  | Shimei Li,Chunyi Zhi | 39588901 |
-| 11 | [In vivo gene editing of T-cells in lymph nodes for enhanced cancer immunotherapy.](https://doi.org/10.1038/s41467-024-54292-0) | 2024-11-25 | Nature communications | Weibin Jia,Peng Shi | 39587061 |
-| 12 | [Miniaturized, portable gustation interfaces for VR/AR/MR.](https://doi.org/10.1073/pnas.2412116121) | 2024-11-25 | Proceedings of the National Ac | Chun Ki Yiu,Xinge Yu | 39585986 |
-| 13 | [Multifunctional hydrogel electronics for closed-loop antiepileptic treatment.](https://doi.org/10.1126/sciadv.adq9207) | 2024-11-22 | Science advances | Xi Zhao,Peng Shi | 39576849 |
-| 14 | [Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening.](https://doi.org/10.1038/s41467-024-53419-7) | 2024-11-19 | Nature communications | Feng Guo,Richard Yan-Do,Peng Shi | 39562763 |
-| 15 | [Supramolecular Crystals based Fast Single Ion Conductor for Long-Cycling Solid Zinc Batteries.](https://doi.org/10.1002/anie.202406683) | 2024-11-18 | Angewandte Chemie (Internation | Qi Xiong,Chunyi Zhi | 39492747 |
-| 16 | [Mormyroidea-inspired electronic skin for active non-contact three-dimensional tracking and sensing.](https://doi.org/10.1038/s41467-024-54249-3) | 2024-11-14 | Nature communications | Jingkun Zhou,Jian Li,Huiling Jia,Shengxin Jia,Jiyu Li,Chun Ki Yiu,Binbin Zhang,Xinge Yu | 39543135 |
-| 17 | [Gradient Distribution of Zincophilic Sites for Stable Aqueous Zinc-Based Flow Batteries with High Ca](https://doi.org/10.1002/adma.202414388) | 2024-11-14 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 39543439 |
-| 18 | [A universal framework for determining the effect of operating parameters on piezoionic voltage gener](https://doi.org/10.1039/d4mh01067a) | 2024-11-11 | Materials horizons | Jiangang Xu,Qiang Li,Derek Ho | 39234925 |
-| 19 | [MXene Hydrogels for Soft Multifunctional Sensing: A Synthesis-Centric Review.](https://doi.org/10.1002/smll.202405047) | 2024-11-06 | Small (Weinheim an der Bergstr | Kai Yang,Derek Ho | 39501918 |
-| 20 | [Imaging treatment efficacy of repeated photodynamic therapy in glioblastoma using chemical exchange ](https://doi.org/10.1002/mrm.30362) | 2024-11-05 | Magnetic resonance in medicine | Se Weon Park,Yang Liu,Kannie W Y Chan | 39498581 |
+| 8 | [Ion-Selective Mobility Differential Amplifier: Enhancing Pressure-Induced Voltage Response in Hydrog](https://doi.org/10.1002/anie.202415000) | 2024-11-26 | Angewandte Chemie (Internation | Kai Yang,Bolong Li,Zhihao Ma,Jiangang Xu,Dong Wang,Zhiheng Zeng,Derek Ho | 39545315 |
+| 9 | [Versatile Biopolymers for Advanced Lithium and Zinc Metal Batteries.](https://doi.org/10.1002/adma.202413515) | 2024-11-26 | Advanced materials (Deerfield  | Shimei Li,Chunyi Zhi | 39588901 |
+| 10 | [In vivo gene editing of T-cells in lymph nodes for enhanced cancer immunotherapy.](https://doi.org/10.1038/s41467-024-54292-0) | 2024-11-25 | Nature communications | Weibin Jia,Peng Shi | 39587061 |
+| 11 | [Miniaturized, portable gustation interfaces for VR/AR/MR.](https://doi.org/10.1073/pnas.2412116121) | 2024-11-25 | Proceedings of the National Ac | Chun Ki Yiu,Xinge Yu | 39585986 |
+| 12 | [Multifunctional hydrogel electronics for closed-loop antiepileptic treatment.](https://doi.org/10.1126/sciadv.adq9207) | 2024-11-22 | Science advances | Xi Zhao,Peng Shi | 39576849 |
+| 13 | [Single-cell encoded gene silencing for high-throughput combinatorial siRNA screening.](https://doi.org/10.1038/s41467-024-53419-7) | 2024-11-19 | Nature communications | Feng Guo,Richard Yan-Do,Peng Shi | 39562763 |
+| 14 | [Supramolecular Crystals based Fast Single Ion Conductor for Long-Cycling Solid Zinc Batteries.](https://doi.org/10.1002/anie.202406683) | 2024-11-18 | Angewandte Chemie (Internation | Qi Xiong,Chunyi Zhi | 39492747 |
+| 15 | [Mormyroidea-inspired electronic skin for active non-contact three-dimensional tracking and sensing.](https://doi.org/10.1038/s41467-024-54249-3) | 2024-11-14 | Nature communications | Jingkun Zhou,Jian Li,Huiling Jia,Shengxin Jia,Jiyu Li,Chun Ki Yiu,Binbin Zhang,Xinge Yu | 39543135 |
+| 16 | [Gradient Distribution of Zincophilic Sites for Stable Aqueous Zinc-Based Flow Batteries with High Ca](https://doi.org/10.1002/adma.202414388) | 2024-11-14 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 39543439 |
+| 17 | [A universal framework for determining the effect of operating parameters on piezoionic voltage gener](https://doi.org/10.1039/d4mh01067a) | 2024-11-11 | Materials horizons | Jiangang Xu,Qiang Li,Derek Ho | 39234925 |
+| 18 | [MXene Hydrogels for Soft Multifunctional Sensing: A Synthesis-Centric Review.](https://doi.org/10.1002/smll.202405047) | 2024-11-06 | Small (Weinheim an der Bergstr | Kai Yang,Derek Ho | 39501918 |
+| 19 | [Imaging treatment efficacy of repeated photodynamic therapy in glioblastoma using chemical exchange ](https://doi.org/10.1002/mrm.30362) | 2024-11-05 | Magnetic resonance in medicine | Se Weon Park,Yang Liu,Kannie W Y Chan | 39498581 |
+| 20 | [Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer abdominal organ qua](https://doi.org/10.1016/S2589-7500(24)00154-7) | 2024-11-01 | The Lancet. Digital health | Dengqiang Jia | 39455194 |
 | 21 | [NOise Reduction with DIstribution Corrected (NORDIC) principal component analysis improves brain act](https://doi.org/10.1162/imag_a_00325) | 2024-10-24 | Imaging neuroscience (Cambridg | Russell W Chan | 39463889 |
 | 22 | [DNA polymerase mediated CRISPR/Cas12a trans-cleavage for dual-mode quantification of uracil DNA glyc](https://doi.org/10.1016/j.talanta.2024.127089) | 2024-10-21 | Talanta | Chenyu Cui,Ting-Hsuan Chen | 39467442 |
 | 23 | [A fully integrated breathable haptic textile.](https://doi.org/10.1126/sciadv.adq9575) | 2024-10-18 | Science advances | Jingkun Zhou,Chun Ki Yiu,Shengxin Jia,Jian Li,Jiyu Li,Binbin Zhang,Xinge Yu | 39423259 |
@@ -132,12 +131,12 @@
 | 34 | [CEST effect of dimethyl sulfoxide at negative offset frequency.](https://doi.org/10.1002/nbm.5238) | 2024-08-12 | NMR in biomedicine | Haoyun Su,Yang Liu,Jianpan Huang,Kannie W Y Chan | 39134479 |
 | 35 | [Bacterial Iron Siderophore Drives Tumor Survival and Ferroptosis Resistance in a Biofilm-Tumor Spher](https://doi.org/10.1002/advs.202404467) | 2024-08-12 | Advanced science (Weinheim, Ba | Bee Luan Khoo | 39135304 |
 | 36 | [An ingestible, battery-free, tissue-adhering robotic interface for non-invasive and chronic electros](https://doi.org/10.1038/s41467-024-51102-5) | 2024-08-08 | Nature communications | Dengfeng Li,Jingkun Zhou,Jian Li,Xinge Yu | 39117667 |
-| 37 | [Toehold region triggered CRISPR/Cas12a trans-cleavage for detection of uracil-DNA glycosylase activi](https://doi.org/10.1002/biot.202400097) | 2024-08-06 | Biotechnology journal | Chenyu Cui | 38987221 |
-| 38 | [High-Detectivity All-Polymer Photodiode Empowers Smart Vitality Surveillance and Computational Imagi](https://doi.org/10.1002/adma.202407271) | 2024-07-30 | Advanced materials (Deerfield  | Jipsa Chelora Veetil,Iyappan Gunasekaran,Xinge Yu | 39081083 |
-| 39 | [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker.](https://doi.org/10.1016/j.bios.2024.116597) | 2024-07-20 | Biosensors & bioelectronics | Ya Huang,Jingkun Zhou,Binbin Zhang,Jian Li,Xinge Yu | 39059179 |
-| 40 | [Deciphering the Temporal-Spatial Interactive Heterogeneity of Long Non-Coding RNAs and RNA-Binding P](https://doi.org/10.1021/jacs.4c05205) | 2024-07-17 | Journal of the American Chemic | Peng Shi | 39016781 |
-| 41 | [MXene Supported Surface Plasmon Polaritons for Optical Microfiber Ammonia Sensing.](https://doi.org/10.1021/acs.analchem.4c01484) | 2024-07-12 | Analytical chemistry | Derek Ho | 38994642 |
-| 42 | [Biometric-Tuned E-Skin Sensor with Real Fingerprints Provides Insights on Tactile Perception: Rosa P](https://doi.org/10.1002/advs.202400234) | 2024-07-10 | Advanced science (Weinheim, Ba | Cong Wu | 38988056 |
+| 37 | [High-Detectivity All-Polymer Photodiode Empowers Smart Vitality Surveillance and Computational Imagi](https://doi.org/10.1002/adma.202407271) | 2024-07-30 | Advanced materials (Deerfield  | Jipsa Chelora Veetil,Iyappan Gunasekaran,Xinge Yu | 39081083 |
+| 38 | [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker.](https://doi.org/10.1016/j.bios.2024.116597) | 2024-07-20 | Biosensors & bioelectronics | Ya Huang,Jingkun Zhou,Binbin Zhang,Jian Li,Xinge Yu | 39059179 |
+| 39 | [Deciphering the Temporal-Spatial Interactive Heterogeneity of Long Non-Coding RNAs and RNA-Binding P](https://doi.org/10.1021/jacs.4c05205) | 2024-07-17 | Journal of the American Chemic | Peng Shi | 39016781 |
+| 40 | [MXene Supported Surface Plasmon Polaritons for Optical Microfiber Ammonia Sensing.](https://doi.org/10.1021/acs.analchem.4c01484) | 2024-07-12 | Analytical chemistry | Derek Ho | 38994642 |
+| 41 | [Biometric-Tuned E-Skin Sensor with Real Fingerprints Provides Insights on Tactile Perception: Rosa P](https://doi.org/10.1002/advs.202400234) | 2024-07-10 | Advanced science (Weinheim, Ba | Cong Wu | 38988056 |
+| 42 | [Toehold region triggered CRISPR/Cas12a trans-cleavage for detection of uracil-DNA glycosylase activi](https://doi.org/10.1002/biot.202400097) | 2024-07-01 | Biotechnology journal | Chenyu Cui | 38987221 |
 | 43 | [Baroreceptor-Inspired Microneedle Skin Patch for Pressure-Controlled Drug Release.](https://doi.org/10.34133/bmef.0044) | 2024-06-28 | BME frontiers | Ya Huang,Xinge Yu | 38946867 |
 | 44 | [Recent Advances in Materials, Devices and Algorithms Toward Wearable Continuous Blood Pressure Monit](https://doi.org/10.1021/acsnano.4c04291) | 2024-06-26 | ACS nano | Jian Li,Zhenlin Chen,Chun Ki Yiu,Xinge Yu | 38923501 |
 | 45 | [Quantifying Asymmetric Zinc Deposition: A Guide Factor for Designing Durable Zinc Anodes.](https://doi.org/10.1002/adma.202406451) | 2024-06-25 | Advanced materials (Deerfield  | Zhaodong Huang,Dechao Zhang,Qi Xiong,Shimei Li,Chunyi Zhi | 38888505 |
@@ -170,79 +169,79 @@
 | 72 | [Heartfelt living: Deciphering the link between lifestyle choices and cardiovascular vitality.](https://doi.org/10.1016/j.cpcardiol.2024.102397) | 2024-01-15 | Current problems in cardiology | Muhammad Shehzad Khan | 38232921 |
 | 73 | [Preclinical Application of CEST MRI to Detect Early and Regional Tumor Response to Local Brain Tumor](https://doi.org/10.3390/pharmaceutics16010101) | 2024-01-12 | Pharmaceutics | Se-Weon Park,Kannie W Y Chan | 38258112 |
 | 74 | [Battery-free, wireless, and electricity-driven soft swimmer for water quality and virus monitoring.](https://doi.org/10.1126/sciadv.adk6301) | 2024-01-10 | Science advances | Dengfeng Li,Jingkun Zhou,Ya Huang,Huiling Jia,Xinge Yu | 38198552 |
-| 75 | [The effect of aquaporin-4 inhibition on cerebrospinal fluid-tissue water exchange in mouse brain det](https://doi.org/10.1002/nbm.5093) | 2024-01-01 | NMR in biomedicine | Kannie W Y Chan | 38163739 |
+| 75 | [Opportunities for System Neuroscience.](https://doi.org/10.1007/978-3-031-69188-1_10) | 2024-01-01 | Advances in neurobiology | Russell W Chan | 39589717 |
+| 76 | [The effect of aquaporin-4 inhibition on cerebrospinal fluid-tissue water exchange in mouse brain det](https://doi.org/10.1002/nbm.5093) | 2024-01-01 | NMR in biomedicine | Kannie W Y Chan | 38163739 |
 
-## 2023 (65)
+## 2023 (64)
 
 | # | Title | Date | Journal | COCHE Authors | PMID |
 |---|---|---|---|---|---|
 | 1 | [Integrated Ink Printing Paper Based Self-Powered Electrochemical Multimodal Biosensing (IFP](https://doi.org/10.1002/advs.202305962) | 2023-12-31 | Advanced science (Weinheim, Ba | Xianglin Ji | 38161220 |
-| 2 | [[Application of electronic skin in healthcare and virtual reality].](https://doi.org/10.7507/1001-5515.202210035) | 2023-12-30 | Sheng wu yi xue gong cheng xue | Xinge Yu | 38151928 |
+| 2 | [[Application of electronic skin in healthcare and virtual reality].](https://doi.org/10.7507/1001-5515.202210035) | 2023-12-25 | Sheng wu yi xue gong cheng xue | Xinge Yu | 38151928 |
 | 3 | [Thermal and Moisture Managing E-Textiles Enabled by Janus Hierarchical Gradient Honeycombs.](https://doi.org/10.1002/adma.202311633) | 2023-12-24 | Advanced materials (Deerfield  | Xinge Yu | 38112378 |
 | 4 | [Cardiovascular challenges in the era of antiretroviral therapy for AIDS/ HIV: A comprehensive review](https://doi.org/10.1016/j.cpcardiol.2023.102353) | 2023-12-20 | Current problems in cardiology | Muhammad Shehzad Khan | 38128638 |
 | 5 | [Selenium-Anchored Chlorine Redox Chemistry in Aqueous Zinc Dual-Ion Batteries.](https://doi.org/10.1002/adma.202309330) | 2023-12-06 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 38009647 |
 | 6 | [Metal-Free Eutectic Electrolyte with Weak Hydrogen Bonds for High-Rate and Ultra-Stable Ammonium-Ion](https://doi.org/10.1002/adma.202308210) | 2023-12-06 | Advanced materials (Deerfield  | Dechao Zhang,Chunyi Zhi | 37916840 |
 | 7 | [Perovskite Cathodes for Aqueous and Organic Iodine Batteries Operating Under One and Two Electrons R](https://doi.org/10.1002/adma.202304557) | 2023-12-03 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 37587645 |
-| 8 | [Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.](https://doi.org/10.2337/db22-0004) | 2023-12-02 | Diabetes | Richard Yan-Do | 36084321 |
-| 9 | [Crystal Orientation Engineering of Perfectly Matched Heterogeneous Textured ZnSe for an Enhanced Int](https://doi.org/10.1021/acsnano.3c07848) | 2023-11-30 | ACS nano | Donghong Wang,Chunyi Zhi | 38033247 |
-| 10 | [The 2023 wearable photoplethysmography roadmap.](https://doi.org/10.1088/1361-6579/acead2) | 2023-11-29 | Physiological measurement | Nan Ji,Yuan-Ting Zhang | 37494945 |
-| 11 | [Beyond the beat: A pioneering investigation into exercise modalities for alleviating diabetic cardio](https://doi.org/10.1016/j.cpcardiol.2023.102222) | 2023-11-23 | Current problems in cardiology | Muhammad Shehzad Khan | 38000567 |
-| 12 | [Wireless, battery-free, multifunctional integrated bioelectronics for respiratory pathogens monitori](https://doi.org/10.1038/s41467-023-43189-z) | 2023-11-20 | Nature communications | Jingkun Zhou,Huiling Jia,Ya Huang,Ji Yu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | 37985765 |
-| 13 | [Cardiovascular diseases crossroads: cGAS-STING signaling and disease progression.](https://doi.org/10.1016/j.cpcardiol.2023.102189) | 2023-11-11 | Current problems in cardiology | Muhammad Shehzad Khan | 37956918 |
-| 14 | [Skin-Integrated Wireless Odor Message Delivery Electronics for the Deaf-blind.](https://doi.org/10.1021/acsnano.3c08287) | 2023-11-02 | ACS nano | Yanli Jiao,Rui Shi,Chun Ki Yiu,Dengfeng Li,Shengxin Jia,Xinge Yu | 37917185 |
-| 15 | [Editorial for "Multi-Parametric MRI for Evaluating Variations in Renal Structure, Function, and Endo](https://doi.org/10.1002/jmri.29096) | 2023-10-26 | Journal of magnetic resonance  | Jianpan Huang,Kannie W Y Chan | 37881885 |
-| 16 | [Molecular Engineering of a Metal-Organic Polymer for Enhanced Electrochemical Nitrate-to-Ammonia Con](https://doi.org/10.1002/anie.202309930) | 2023-10-20 | Angewandte Chemie (Internation | Zhaodong Huang,Chunyi Zhi | 37828577 |
-| 17 | [Spider Silk-Inspired Binder Design for Flexible Lithium-Ion Battery with High Durability.](https://doi.org/10.1002/adma.202303165) | 2023-10-19 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 37493625 |
-| 18 | [Creatine mapping of the brain at 3T by CEST MRI.](https://doi.org/10.1002/mrm.29876) | 2023-10-09 | Magnetic resonance in medicine | Kannie W Y Chan | 37814487 |
-| 19 | [Muscle-inspired soft robots based on bilateral dielectric elastomer actuators.](https://doi.org/10.1038/s41378-023-00592-2) | 2023-10-07 | Microsystems & nanoengineering | Dengfeng Li | 37814608 |
-| 20 | [Self-Adaptive Droplet Bouncing on a Dual Gradient Surface.](https://doi.org/10.1002/smll.202304635) | 2023-10-02 | Small (Weinheim an der Bergstr | Chenyang Wu,Jiaying Mo,Zuankai Wang | 37786271 |
-| 21 | [A deformability-based biochip for precise label-free stratification of metastatic subtypes using dee](https://doi.org/10.1038/s41378-023-00577-1) | 2023-09-28 | Microsystems & nanoengineering | Shangjie Zou,Zhiqiang Ma,Wang Guo,Bee Luan Khoo | 37780810 |
-| 22 | [Recent Advances in Bioelectronics for Localized Drug Delivery.](https://doi.org/10.1002/smtd.202301068) | 2023-09-27 | Small methods | Ya Huang,Xinge Yu | 37759393 |
-| 23 | [Three-Electron Transfer-Based High-Capacity Organic Lithium-Iodine (Chlorine) Batteries.](https://doi.org/10.1002/anie.202310168) | 2023-09-12 | Angewandte Chemie (Internation | Shimei Li,Zhaodong Huang,Chunyi Zhi | 37656770 |
-| 24 | [Tellurium with Reversible Six-Electron Transfer Chemistry for High-Performance Zinc Batteries.](https://doi.org/10.1021/jacs.3c06488) | 2023-09-06 | Journal of the American Chemic | Zhaodong Huang,Chunyi Zhi | 37672393 |
-| 25 | [Completely Activated and Phase-Transformed KFeMnHCF for Zn/K Hybrid Batteries with 14 500 Cycles by ](https://doi.org/10.1002/adma.202304878) | 2023-08-30 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 37401112 |
-| 26 | [AMPK-Dependent YAP Inhibition Mediates the Protective Effect of Metformin against Obesity-Associated](https://doi.org/10.3390/antiox12091681) | 2023-08-28 | Antioxidants (Basel, Switzerla | Lijing Kang,Yu Huang | 37759984 |
-| 27 | [Lung Tumor Image Segmentation from Computer Tomography Images Using MobileNetV2 and Transfer Learnin](https://doi.org/10.3390/bioengineering10080981) | 2023-08-20 | Bioengineering (Basel, Switzer | Zainab Riaz,Bangul Khan,Md Shohidul Islam | 37627866 |
-| 28 | [Thin, soft, wearable system for continuous wireless monitoring of artery blood pressure.](https://doi.org/10.1038/s41467-023-40763-3) | 2023-08-17 | Nature communications | Jian Li,Huiling Jia,Jingkun Zhou,Shengxin Jia,Dengfeng Li,Binbin Zhang,Ya Huang,Jiyu Li,Chun Ki Yiu,Yanli Jiao,Xuecheng Tai,Raymond H Chan,Yuanting Zhang,Xinge Yu | 37591881 |
-| 29 | [d-Band Center Optimization of Ti](https://doi.org/10.1021/acsami.3c08512) | 2023-08-15 | ACS applied materials & interf | Derek Ho | 37582059 |
-| 30 | [Order-disorder engineering of RuO](https://doi.org/10.1039/d3mh00339f) | 2023-07-31 | Materials horizons | Derek Ho | 37194917 |
-| 31 | [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin toxicity and their he](https://doi.org/10.1007/s11356-023-28515-8) | 2023-07-26 | Environmental science and poll | Muhammad Shehzad Khan | 37493912 |
-| 32 | [Biofilms exacerbate atherogenesis through macrophage-induced inflammatory responses in a fibrous pla](https://doi.org/10.1016/j.actbio.2023.06.028) | 2023-06-28 | Acta biomaterialia | Yatian Fu,Bee Luan Khoo | 37385520 |
-| 33 | [Multi-target landmark detection with incomplete images via reinforcement learning and shape prior em](https://doi.org/10.1016/j.media.2023.102875) | 2023-06-24 | Medical image analysis | Dengqiang Jia | 37441881 |
-| 34 | [European Society of Hypertension recommendations for the validation of cuffless blood pressure measu](https://doi.org/10.1097/HJH.0000000000003483) | 2023-06-22 | Journal of hypertension | Yuanting Zhang | 37303198 |
-| 35 | [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) | 2023-06-14 | Nature reviews. Chemistry | Zhaodong Huang,Chunyi Zhi | 37316580 |
-| 36 | [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to detect glucose uptake](https://doi.org/10.1002/nbm.4962) | 2023-06-13 | NMR in biomedicine | Yang Liu,Kannie W Y Chan | 37211349 |
-| 37 | [Distinct bacterial population dynamics and disease dissemination after biofilm dispersal and disasse](https://doi.org/10.1038/s41396-023-01446-5) | 2023-06-03 | The ISME journal | Bee Luan Khoo | 37270584 |
-| 38 | [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for implantable bioelectron](https://doi.org/10.1126/sciadv.adg8602) | 2023-05-31 | Science advances | Jiyu Li,Xinge Yu | 37256954 |
-| 39 | [Emerging sensing and modeling technologies for wearable and cuffless blood pressure monitoring.](https://doi.org/10.1038/s41746-023-00835-6) | 2023-05-22 | NPJ digital medicine | Lei Zhao,Cunman Liang,Yiqun Xiao,Nan Ji,Yuan-Ting Zhang,Ni Zhao | 37217650 |
-| 40 | [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing System Enhances Oste](https://doi.org/10.1002/advs.202302272) | 2023-05-21 | Advanced science (Weinheim, Ba | Xiao Yang,Anthony Hei Long Chan,Raymond Hon Fu Chan,Zuankai Wang | 37211693 |
-| 41 | [Wearable patches for transdermal drug delivery.](https://doi.org/10.1016/j.apsb.2023.05.009) | 2023-05-15 | Acta pharmaceutica Sinica. B | Xinge Yu | 37425057 |
-| 42 | [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) | 2023-05-09 | Nature communications | Chun Ki Yiu,Shengxin Jia,Jingkun Zhou,Jian Li,Yuyu Gao,Ya Huang,Dengfeng Li,Xinge Yu | 37160931 |
-| 43 | [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioelectronics and Thera](https://doi.org/10.3390/mi14051005) | 2023-05-06 | Micromachines | Bangul Khan | 37241628 |
-| 44 | [Manipulating Electric Double Layer Adsorption for Stable Solid-Electrolyte Interphase in 2.3 Ah Zn-P](https://doi.org/10.1002/anie.202302583) | 2023-05-03 | Angewandte Chemie (Internation | Yu Wang,Chunyi Zhi | 37000437 |
-| 45 | [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion Chemistry.](https://doi.org/10.1002/anie.202303292) | 2023-04-27 | Angewandte Chemie (Internation | Qi Xiong,Chunyi Zhi | 37017579 |
-| 46 | [Distinct chemistry between Zn and Li at varied temperature.](https://doi.org/10.1016/j.scib.2023.04.020) | 2023-04-20 | Science bulletin | Donghong Wang,Chunyi Zhi | 37105799 |
-| 47 | [Causal inference based cuffless blood pressure estimation: A pilot study.](https://doi.org/10.1016/j.compbiomed.2023.106900) | 2023-04-12 | Computers in biology and medic | Yuan-Ting Zhang | 37087777 |
-| 48 | [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in skin electronics.](https://doi.org/10.1126/sciadv.adg1837) | 2023-04-07 | Science advances | Jiyu Li,Jingkun Zhou,Xinge Yu | 37027471 |
-| 49 | [Early detection of metastasis in ascites and peritoneal lavage - new perspectives using label-free m](https://doi.org/10.1016/j.ebiom.2023.104554) | 2023-04-01 | EBioMedicine | Bee Luan Khoo | 37011437 |
-| 50 | [Sulfolane-containing aqueous electrolyte solutions for producing efficient ampere-hour-level zinc me](https://doi.org/10.1038/s41467-023-37524-7) | 2023-04-01 | Nature communications | Yu Wang,Chunyi Zhi | 37005392 |
-| 51 | [Regulating Inorganic and Organic Components to Build Amorphous-ZnF](https://doi.org/10.1002/adma.202210051) | 2023-03-30 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 36840372 |
-| 52 | [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) | 2023-03-27 | Nature communications | Xiayi Xu,Fei Han,Shih-Chi Chen | 36973254 |
-| 53 | [Chemical exchange saturation transfer MRI detects myelin changes in cuprizone mouse model at 3T.](https://doi.org/10.1002/nbm.4937) | 2023-03-25 | NMR in biomedicine | Kannie W Y Chan | 36965064 |
-| 54 | [Intelligent Soft Sweat Sensors for the Simultaneous Healthcare Monitoring and Safety Warning.](https://doi.org/10.1002/adhm.202202846) | 2023-03-01 | Advanced healthcare materials | Jiyu Li,Chun Ki Yiu,Jian Li,Jingkun Zhou,Yuyu Gao,Dengfeng Li,Xinge Yu | 36773301 |
-| 55 | [Ultrathin, Soft, Bioresorbable Organic Electrochemical Transistors for Transient Spatiotemporal Mapp](https://doi.org/10.1002/advs.202300504) | 2023-02-24 | Advanced science (Weinheim, Ba | Jingkun Zhou,Jiyu Li,Jian Li,Huiling Jia,Dengfeng Li,Xinge Yu | 36825679 |
-| 56 | [Atomic Plasma Grafting: Precise Control of Functional Groups on Ti](https://doi.org/10.1021/acsami.2c22609) | 2023-02-22 | ACS applied materials & interf | Jiangang Xu,Derek Ho | 36812910 |
-| 57 | [Oxidative stress induced by Etoposide anti-cancer chemotherapy drives the emergence of tumor-associa](https://doi.org/10.1016/j.jare.2023.02.011) | 2023-02-21 | Journal of advanced research | Yanlin Deng,Bee Luan Khoo | 36822389 |
-| 58 | [An Air-Rechargeable Zn Battery Enabled by Organic-Inorganic Hybrid Cathode.](https://doi.org/10.1007/s40820-023-01023-7) | 2023-02-16 | Nano-micro letters | Xinliang Li,Chunyi Zhi | 36795246 |
-| 59 | [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosis in end-stage heart](https://doi.org/10.3389/fimmu.2023.1053793) | 2023-02-15 | Frontiers in immunology | Shangjie Zou,Bee Luan Khoo | 36875078 |
-| 60 | [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal Electrodes and a Pla](https://doi.org/10.3390/s23042021) | 2023-02-10 | Sensors (Basel, Switzerland) | Shuai-Chen Wang,Binbin Zhang,Lijing Kang | 36850631 |
-| 61 | [Biofilm Potentiates Cancer-Promoting Effects of Tumor-Associated Macrophages in a 3D Multi-Faceted T](https://doi.org/10.1002/smll.202205904) | 2023-02-07 | Small (Weinheim an der Bergstr | Yatian Fu,Bee Luan Khoo | 36748304 |
-| 62 | [Wearable and battery-free wound dressing system for wireless and early sepsis diagnosis.](https://doi.org/10.1002/btm2.10445) | 2023-02-01 | Bioengineering & translational | Jiyu Li,Jingkun Zhou,Jian Li,Xinge Yu | 38023725 |
-| 63 | [Hybrid Therapeutic Device (CUHK-OA-M2) for Relieving Symptoms Induced by Knee Osteoarthritis.](https://doi.org/10.3390/bioengineering10010095) | 2023-01-11 | Bioengineering (Basel, Switzer | Xiayi Xu | 36671667 |
-| 64 | [Multiple CEST contrast imaging of nose-to-brain drug delivery using iohexol liposomes at 3T MRI.](https://doi.org/10.1016/j.jconrel.2023.01.011) | 2023-01-10 | Journal of controlled release  | Kannie W Y Chan | 36623695 |
-| 65 | [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressive Energy Storage De](https://doi.org/10.1002/smtd.202201448) | 2023-01-06 | Small methods | Chunyi Zhi | 36609814 |
+| 8 | [Crystal Orientation Engineering of Perfectly Matched Heterogeneous Textured ZnSe for an Enhanced Int](https://doi.org/10.1021/acsnano.3c07848) | 2023-11-30 | ACS nano | Donghong Wang,Chunyi Zhi | 38033247 |
+| 9 | [The 2023 wearable photoplethysmography roadmap.](https://doi.org/10.1088/1361-6579/acead2) | 2023-11-29 | Physiological measurement | Nan Ji,Yuan-Ting Zhang | 37494945 |
+| 10 | [Beyond the beat: A pioneering investigation into exercise modalities for alleviating diabetic cardio](https://doi.org/10.1016/j.cpcardiol.2023.102222) | 2023-11-23 | Current problems in cardiology | Muhammad Shehzad Khan | 38000567 |
+| 11 | [Wireless, battery-free, multifunctional integrated bioelectronics for respiratory pathogens monitori](https://doi.org/10.1038/s41467-023-43189-z) | 2023-11-20 | Nature communications | Jingkun Zhou,Huiling Jia,Ya Huang,Ji Yu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | 37985765 |
+| 12 | [Cardiovascular diseases crossroads: cGAS-STING signaling and disease progression.](https://doi.org/10.1016/j.cpcardiol.2023.102189) | 2023-11-11 | Current problems in cardiology | Muhammad Shehzad Khan | 37956918 |
+| 13 | [Skin-Integrated Wireless Odor Message Delivery Electronics for the Deaf-blind.](https://doi.org/10.1021/acsnano.3c08287) | 2023-11-02 | ACS nano | Yanli Jiao,Rui Shi,Chun Ki Yiu,Dengfeng Li,Shengxin Jia,Xinge Yu | 37917185 |
+| 14 | [Editorial for "Multi-Parametric MRI for Evaluating Variations in Renal Structure, Function, and Endo](https://doi.org/10.1002/jmri.29096) | 2023-10-26 | Journal of magnetic resonance  | Jianpan Huang,Kannie W Y Chan | 37881885 |
+| 15 | [Molecular Engineering of a Metal-Organic Polymer for Enhanced Electrochemical Nitrate-to-Ammonia Con](https://doi.org/10.1002/anie.202309930) | 2023-10-20 | Angewandte Chemie (Internation | Zhaodong Huang,Chunyi Zhi | 37828577 |
+| 16 | [Spider Silk-Inspired Binder Design for Flexible Lithium-Ion Battery with High Durability.](https://doi.org/10.1002/adma.202303165) | 2023-10-19 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 37493625 |
+| 17 | [Creatine mapping of the brain at 3T by CEST MRI.](https://doi.org/10.1002/mrm.29876) | 2023-10-09 | Magnetic resonance in medicine | Kannie W Y Chan | 37814487 |
+| 18 | [Muscle-inspired soft robots based on bilateral dielectric elastomer actuators.](https://doi.org/10.1038/s41378-023-00592-2) | 2023-10-07 | Microsystems & nanoengineering | Dengfeng Li | 37814608 |
+| 19 | [Self-Adaptive Droplet Bouncing on a Dual Gradient Surface.](https://doi.org/10.1002/smll.202304635) | 2023-10-02 | Small (Weinheim an der Bergstr | Chenyang Wu,Jiaying Mo,Zuankai Wang | 37786271 |
+| 20 | [A deformability-based biochip for precise label-free stratification of metastatic subtypes using dee](https://doi.org/10.1038/s41378-023-00577-1) | 2023-09-28 | Microsystems & nanoengineering | Shangjie Zou,Zhiqiang Ma,Wang Guo,Bee Luan Khoo | 37780810 |
+| 21 | [Recent Advances in Bioelectronics for Localized Drug Delivery.](https://doi.org/10.1002/smtd.202301068) | 2023-09-27 | Small methods | Ya Huang,Xinge Yu | 37759393 |
+| 22 | [Three-Electron Transfer-Based High-Capacity Organic Lithium-Iodine (Chlorine) Batteries.](https://doi.org/10.1002/anie.202310168) | 2023-09-12 | Angewandte Chemie (Internation | Shimei Li,Zhaodong Huang,Chunyi Zhi | 37656770 |
+| 23 | [Tellurium with Reversible Six-Electron Transfer Chemistry for High-Performance Zinc Batteries.](https://doi.org/10.1021/jacs.3c06488) | 2023-09-06 | Journal of the American Chemic | Zhaodong Huang,Chunyi Zhi | 37672393 |
+| 24 | [Completely Activated and Phase-Transformed KFeMnHCF for Zn/K Hybrid Batteries with 14 500 Cycles by ](https://doi.org/10.1002/adma.202304878) | 2023-08-30 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 37401112 |
+| 25 | [AMPK-Dependent YAP Inhibition Mediates the Protective Effect of Metformin against Obesity-Associated](https://doi.org/10.3390/antiox12091681) | 2023-08-28 | Antioxidants (Basel, Switzerla | Lijing Kang,Yu Huang | 37759984 |
+| 26 | [Lung Tumor Image Segmentation from Computer Tomography Images Using MobileNetV2 and Transfer Learnin](https://doi.org/10.3390/bioengineering10080981) | 2023-08-20 | Bioengineering (Basel, Switzer | Zainab Riaz,Bangul Khan,Md Shohidul Islam | 37627866 |
+| 27 | [Thin, soft, wearable system for continuous wireless monitoring of artery blood pressure.](https://doi.org/10.1038/s41467-023-40763-3) | 2023-08-17 | Nature communications | Jian Li,Huiling Jia,Jingkun Zhou,Shengxin Jia,Dengfeng Li,Binbin Zhang,Ya Huang,Jiyu Li,Chun Ki Yiu,Yanli Jiao,Xuecheng Tai,Raymond H Chan,Yuanting Zhang,Xinge Yu | 37591881 |
+| 28 | [d-Band Center Optimization of Ti](https://doi.org/10.1021/acsami.3c08512) | 2023-08-15 | ACS applied materials & interf | Derek Ho | 37582059 |
+| 29 | [Order-disorder engineering of RuO](https://doi.org/10.1039/d3mh00339f) | 2023-07-31 | Materials horizons | Derek Ho | 37194917 |
+| 30 | [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin toxicity and their he](https://doi.org/10.1007/s11356-023-28515-8) | 2023-07-26 | Environmental science and poll | Muhammad Shehzad Khan | 37493912 |
+| 31 | [Biofilms exacerbate atherogenesis through macrophage-induced inflammatory responses in a fibrous pla](https://doi.org/10.1016/j.actbio.2023.06.028) | 2023-06-28 | Acta biomaterialia | Yatian Fu,Bee Luan Khoo | 37385520 |
+| 32 | [Multi-target landmark detection with incomplete images via reinforcement learning and shape prior em](https://doi.org/10.1016/j.media.2023.102875) | 2023-06-24 | Medical image analysis | Dengqiang Jia | 37441881 |
+| 33 | [European Society of Hypertension recommendations for the validation of cuffless blood pressure measu](https://doi.org/10.1097/HJH.0000000000003483) | 2023-06-22 | Journal of hypertension | Yuanting Zhang | 37303198 |
+| 34 | [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) | 2023-06-14 | Nature reviews. Chemistry | Zhaodong Huang,Chunyi Zhi | 37316580 |
+| 35 | [Distinct bacterial population dynamics and disease dissemination after biofilm dispersal and disasse](https://doi.org/10.1038/s41396-023-01446-5) | 2023-06-03 | The ISME journal | Bee Luan Khoo | 37270584 |
+| 36 | [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to detect glucose uptake](https://doi.org/10.1002/nbm.4962) | 2023-06-01 | NMR in biomedicine | Yang Liu,Kannie W Y Chan | 37211349 |
+| 37 | [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for implantable bioelectron](https://doi.org/10.1126/sciadv.adg8602) | 2023-05-31 | Science advances | Jiyu Li,Xinge Yu | 37256954 |
+| 38 | [Emerging sensing and modeling technologies for wearable and cuffless blood pressure monitoring.](https://doi.org/10.1038/s41746-023-00835-6) | 2023-05-22 | NPJ digital medicine | Lei Zhao,Cunman Liang,Yiqun Xiao,Nan Ji,Yuan-Ting Zhang,Ni Zhao | 37217650 |
+| 39 | [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing System Enhances Oste](https://doi.org/10.1002/advs.202302272) | 2023-05-21 | Advanced science (Weinheim, Ba | Xiao Yang,Anthony Hei Long Chan,Raymond Hon Fu Chan,Zuankai Wang | 37211693 |
+| 40 | [Wearable patches for transdermal drug delivery.](https://doi.org/10.1016/j.apsb.2023.05.009) | 2023-05-15 | Acta pharmaceutica Sinica. B | Xinge Yu | 37425057 |
+| 41 | [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) | 2023-05-09 | Nature communications | Chun Ki Yiu,Shengxin Jia,Jingkun Zhou,Jian Li,Yuyu Gao,Ya Huang,Dengfeng Li,Xinge Yu | 37160931 |
+| 42 | [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioelectronics and Thera](https://doi.org/10.3390/mi14051005) | 2023-05-06 | Micromachines | Bangul Khan | 37241628 |
+| 43 | [Manipulating Electric Double Layer Adsorption for Stable Solid-Electrolyte Interphase in 2.3 Ah Zn-P](https://doi.org/10.1002/anie.202302583) | 2023-05-03 | Angewandte Chemie (Internation | Yu Wang,Chunyi Zhi | 37000437 |
+| 44 | [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion Chemistry.](https://doi.org/10.1002/anie.202303292) | 2023-04-27 | Angewandte Chemie (Internation | Qi Xiong,Chunyi Zhi | 37017579 |
+| 45 | [Distinct chemistry between Zn and Li at varied temperature.](https://doi.org/10.1016/j.scib.2023.04.020) | 2023-04-20 | Science bulletin | Donghong Wang,Chunyi Zhi | 37105799 |
+| 46 | [Causal inference based cuffless blood pressure estimation: A pilot study.](https://doi.org/10.1016/j.compbiomed.2023.106900) | 2023-04-12 | Computers in biology and medic | Yuan-Ting Zhang | 37087777 |
+| 47 | [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in skin electronics.](https://doi.org/10.1126/sciadv.adg1837) | 2023-04-07 | Science advances | Jiyu Li,Jingkun Zhou,Xinge Yu | 37027471 |
+| 48 | [Early detection of metastasis in ascites and peritoneal lavage - new perspectives using label-free m](https://doi.org/10.1016/j.ebiom.2023.104554) | 2023-04-01 | EBioMedicine | Bee Luan Khoo | 37011437 |
+| 49 | [Sulfolane-containing aqueous electrolyte solutions for producing efficient ampere-hour-level zinc me](https://doi.org/10.1038/s41467-023-37524-7) | 2023-04-01 | Nature communications | Yu Wang,Chunyi Zhi | 37005392 |
+| 50 | [Regulating Inorganic and Organic Components to Build Amorphous-ZnF](https://doi.org/10.1002/adma.202210051) | 2023-03-30 | Advanced materials (Deerfield  | Zhaodong Huang,Chunyi Zhi | 36840372 |
+| 51 | [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) | 2023-03-27 | Nature communications | Xiayi Xu,Fei Han,Shih-Chi Chen | 36973254 |
+| 52 | [Chemical exchange saturation transfer MRI detects myelin changes in cuprizone mouse model at 3T.](https://doi.org/10.1002/nbm.4937) | 2023-03-25 | NMR in biomedicine | Kannie W Y Chan | 36965064 |
+| 53 | [Intelligent Soft Sweat Sensors for the Simultaneous Healthcare Monitoring and Safety Warning.](https://doi.org/10.1002/adhm.202202846) | 2023-03-01 | Advanced healthcare materials | Jiyu Li,Chun Ki Yiu,Jian Li,Jingkun Zhou,Yuyu Gao,Dengfeng Li,Xinge Yu | 36773301 |
+| 54 | [Ultrathin, Soft, Bioresorbable Organic Electrochemical Transistors for Transient Spatiotemporal Mapp](https://doi.org/10.1002/advs.202300504) | 2023-02-24 | Advanced science (Weinheim, Ba | Jingkun Zhou,Jiyu Li,Jian Li,Huiling Jia,Dengfeng Li,Xinge Yu | 36825679 |
+| 55 | [Atomic Plasma Grafting: Precise Control of Functional Groups on Ti](https://doi.org/10.1021/acsami.2c22609) | 2023-02-22 | ACS applied materials & interf | Jiangang Xu,Derek Ho | 36812910 |
+| 56 | [Oxidative stress induced by Etoposide anti-cancer chemotherapy drives the emergence of tumor-associa](https://doi.org/10.1016/j.jare.2023.02.011) | 2023-02-21 | Journal of advanced research | Yanlin Deng,Bee Luan Khoo | 36822389 |
+| 57 | [An Air-Rechargeable Zn Battery Enabled by Organic-Inorganic Hybrid Cathode.](https://doi.org/10.1007/s40820-023-01023-7) | 2023-02-16 | Nano-micro letters | Xinliang Li,Chunyi Zhi | 36795246 |
+| 58 | [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosis in end-stage heart](https://doi.org/10.3389/fimmu.2023.1053793) | 2023-02-15 | Frontiers in immunology | Shangjie Zou,Bee Luan Khoo | 36875078 |
+| 59 | [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal Electrodes and a Pla](https://doi.org/10.3390/s23042021) | 2023-02-10 | Sensors (Basel, Switzerland) | Shuai-Chen Wang,Binbin Zhang,Lijing Kang | 36850631 |
+| 60 | [Biofilm Potentiates Cancer-Promoting Effects of Tumor-Associated Macrophages in a 3D Multi-Faceted T](https://doi.org/10.1002/smll.202205904) | 2023-02-07 | Small (Weinheim an der Bergstr | Yatian Fu,Bee Luan Khoo | 36748304 |
+| 61 | [Wearable and battery-free wound dressing system for wireless and early sepsis diagnosis.](https://doi.org/10.1002/btm2.10445) | 2023-02-01 | Bioengineering & translational | Jiyu Li,Jingkun Zhou,Jian Li,Xinge Yu | 38023725 |
+| 62 | [Hybrid Therapeutic Device (CUHK-OA-M2) for Relieving Symptoms Induced by Knee Osteoarthritis.](https://doi.org/10.3390/bioengineering10010095) | 2023-01-11 | Bioengineering (Basel, Switzer | Xiayi Xu | 36671667 |
+| 63 | [Multiple CEST contrast imaging of nose-to-brain drug delivery using iohexol liposomes at 3T MRI.](https://doi.org/10.1016/j.jconrel.2023.01.011) | 2023-01-10 | Journal of controlled release  | Kannie W Y Chan | 36623695 |
+| 64 | [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressive Energy Storage De](https://doi.org/10.1002/smtd.202201448) | 2023-01-06 | Small methods | Chunyi Zhi | 36609814 |
 
-## 2022 (34)
+## 2022 (35)
 
 | # | Title | Date | Journal | COCHE Authors | PMID |
 |---|---|---|---|---|---|
@@ -250,36 +249,37 @@
 | 2 | [Three-dimensional nanofabrication via ultrafast laser patterning and kinetically regulated material ](https://doi.org/10.1126/science.abm8420) | 2022-12-22 | Science (New York, N.Y.) | Fei Han,Ni Zhao,Shih-Chi Chen | 36548430 |
 | 3 | [Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tumor DNAs.](https://doi.org/10.1002/adma.202207282) | 2022-12-16 | Advanced materials (Deerfield  | Xianglin Ji,Xi Zhao,Richard Yan-Do,Yuanting Zhang,Peng Shi | 36412926 |
 | 4 | [COVID-19 instigates adipose browning and atrophy through VEGF in small mammals.](https://doi.org/10.1038/s42255-022-00697-4) | 2022-12-08 | Nature metabolism | Yuanting Zhang | 36482111 |
-| 5 | [Monitor Tumor pHe and Response Longitudinally during Treatment Using CEST MRI-Detectable Alginate Mi](https://doi.org/10.1021/acsami.2c10493) | 2022-11-30 | ACS applied materials & interf | Kannie W Y Chan | 36448714 |
-| 6 | [Lithium in breast milk transiently affects the renal electrolytic balance of infants.](https://doi.org/10.1111/bdi.13275) | 2022-11-28 | Bipolar disorders | Abdul-Mojeed Olabisi Ilyas | 36409044 |
-| 7 | [Chemical Exchange Saturation Transfer Magnetic Resonance Imaging for Longitudinal Assessment of Intr](https://doi.org/10.1161/STROKEAHA.122.040830) | 2022-11-23 | Stroke | Kannie W Y Chan | 36416125 |
-| 8 | [Blood vessels in fat tissues and vasculature-derived signals in controlling lipid metabolism and met](https://doi.org/10.1097/CM9.0000000000002406) | 2022-11-20 | Chinese medical journal | Yihai Cao | 36382988 |
-| 9 | [Polymeric Single-Ion Conductors with Enhanced Side-Chain Motion for High-Performance Solid Zinc-Ion ](https://doi.org/10.1002/adma.202207682) | 2022-11-07 | Advanced materials (Deerfield  | Chunyi Zhi | 36208070 |
-| 10 | [Mapping of Spatiotemporal Auricular Electrophysiological Signals Reveals Human Biometric Clusters.](https://doi.org/10.1002/adhm.202201404) | 2022-10-31 | Advanced healthcare materials | Cong Wu,Xinge Yu,Wen Jung Li | 36217916 |
-| 11 | [Discrete single-cell microRNA analysis for phenotyping the heterogeneity of acute myeloid leukemia.](https://doi.org/10.1016/j.biomaterials.2022.121869) | 2022-10-25 | Biomaterials | Xi Zhao,Xianglin Ji,Peng Shi | 36327706 |
-| 12 | [MRDFF: A deep forest based framework for CT whole heart segmentation.](https://doi.org/10.1016/j.ymeth.2022.10.005) | 2022-10-22 | Methods (San Diego, Calif.) | Qingqi Hong | 36283656 |
-| 13 | [Diverse and Composite Roles of miRNA in Non-Neuronal Cells and Neuronal Synapses in Alzheimer's Dise](https://doi.org/10.3390/biom12101505) | 2022-10-17 | Biomolecules | Xinrong Li,Shih-Chi Chen | 36291714 |
-| 14 | [Construction of enzyme-laden vascular scaffolds based on hyaluronic acid oligosaccharides-modified c](https://doi.org/10.1016/j.actbio.2022.09.041) | 2022-09-23 | Acta biomaterialia | Weibin Jia | 36155095 |
-| 15 | [Task Autonomy of a Flexible Endoscopic System for Laser-Assisted Surgery.](https://doi.org/10.34133/2022/9759504) | 2022-08-24 | Cyborg and bionic systems (Was | Hangjie Mo | 38616915 |
-| 16 | [Wide-Bandwidth Nanocomposite-Sensor Integrated Smart Mask for Tracking Multiphase Respiratory Activi](https://doi.org/10.1002/advs.202203565) | 2022-08-23 | Advanced science (Weinheim, Ba | Cong Wu,Xinge Yu,Wen Jung Li | 35999427 |
-| 17 | [Imaging of sugar-based contrast agents using their hydroxyl proton exchange properties.](https://doi.org/10.1002/nbm.4784) | 2022-07-24 | NMR in biomedicine | Kannie W Y Chan | 35665547 |
-| 18 | [Label-free enrichment of human blast cells from whole blood for leukemia monitoring.](https://doi.org/10.1016/j.xpro.2022.101584) | 2022-07-20 | STAR protocols | Yatian Fu,Shangjie Zou,Bee Luan Khoo | 35880120 |
-| 19 | [Implantable Electronic Medicine Enabled by Bioresorbable Microneedles for Wireless Electrotherapy an](https://doi.org/10.1021/acs.nanolett.2c01997) | 2022-07-11 | Nano letters | Ya Huang,Jian Li,Chun Ki Yiu,Jingkun Zhou,Jiyu Li,Dengfeng Li,Binbin Zhang,Xinge Yu | 35816764 |
-| 20 | [Accurate prediction of drug-induced heterogeneous response of red cell in vivo using a gravity-drive](https://doi.org/10.1016/j.aca.2022.340151) | 2022-07-08 | Analytica chimica acta | Bee Luan Khoo | 35934381 |
-| 21 | [Tailoring the metal electrode morphology via electrochemical protocol optimization for long-lasting ](https://doi.org/10.1038/s41467-022-31461-7) | 2022-06-27 | Nature communications | Donghong Wang,Chunyi Zhi | 35760974 |
-| 22 | [Ionic Liquid-Softened Polymer Electrolyte for Anti-Drying Flexible Zinc Ion Batteries.](https://doi.org/10.1021/acsami.2c06793) | 2022-06-06 | ACS applied materials & interf | Donghong Wang,Chunyi Zhi | 35666254 |
-| 23 | [High-Voltage Organic Cathodes for Zinc-Ion Batteries through Electron Cloud and Solvation Structure ](https://doi.org/10.1002/anie.202203453) | 2022-06-01 | Angewandte Chemie (Internation | Zhaodong Huang,Donghong Wang,Chunyi Zhi | 35532543 |
-| 24 | [3D Upconversion Barcodes for Combinatory Wireless Neuromodulation in Behaving Animals.](https://doi.org/10.1002/adhm.202200304) | 2022-04-28 | Advanced healthcare materials | Richard Yan-Do,Peng Shi | 35426262 |
-| 25 | [Dendrite Issues for Zinc Anodes in a Flexible Cell Configuration for Zinc-Based Wearable Energy-Stor](https://doi.org/10.1002/anie.202202780) | 2022-04-27 | Angewandte Chemie (Internation | Donghong Wang,Chunyi Zhi | 35347828 |
-| 26 | [Transient, Implantable, Ultrathin Biofuel Cells Enabled by Laser-Induced Graphene and Gold Nanoparti](https://doi.org/10.1021/acs.nanolett.2c00864) | 2022-04-12 | Nano letters | Jiyu Li,Chun Ki Yiu,Dengfeng Li,Ya Huang,Jingkun Zhou,Jian Li,Yanli Jiao,Binbin Zhang,Xinge Yu | 35411774 |
-| 27 | [Sequencing-free Analysis of Multiple Methylations on Gene-Specific mRNAs.](https://doi.org/10.1021/jacs.2c01036) | 2022-03-23 | Journal of the American Chemic | Xi Zhao,Peng Shi | 35321539 |
-| 28 | [Rapid detection of microorganisms in a fish infection microfluidics platform.](https://doi.org/10.1016/j.jhazmat.2022.128572) | 2022-02-25 | Journal of hazardous materials | Bee Luan Khoo | 35278965 |
-| 29 | [Molecular Imaging of Brain Tumors and Drug Delivery Using CEST MRI: Promises and Challenges.](https://doi.org/10.3390/pharmaceutics14020451) | 2022-02-20 | Pharmaceutics | Se-Weon Park,Kannie W Y Chan | 35214183 |
-| 30 | [Early Predictor Tool of Disease Using Label-Free Liquid Biopsy-Based Platforms for Patient-Centric H](https://doi.org/10.3390/cancers14030818) | 2022-02-06 | Cancers | Wei Li,Bee Luan Khoo | 35159085 |
-| 31 | [Stretchable Sweat-Activated Battery in Skin-Integrated Electronics for Continuous Wireless Sweat Mon](https://doi.org/10.1002/advs.202104635) | 2022-01-28 | Advanced science (Weinheim, Ba | Jingkun Zhou,Chun Ki Yiu,Sina Khazaee Nejad,Jiyu Li,Ya Huang,Enming Song,Xinge Yu | 35088587 |
-| 32 | [Electronic skin as wireless human-machine interfaces for robotic VR.](https://doi.org/10.1126/sciadv.abl6700) | 2022-01-14 | Science advances | Chunki Yiu,Ya Huang,Jingkun Zhou,Sina Khazaee Nejad,Dengfeng Li,Xinge Yu | 35030019 |
-| 33 | [Two-Electron Redox Chemistry Enabled High-Performance Iodide-Ion Conversion Battery.](https://doi.org/10.1002/anie.202113576) | 2022-01-12 | Angewandte Chemie (Internation | Qi Yang,Chunyi Zhi | 34931752 |
-| 34 | [A 6-gene panel as a signature to predict recovery from advanced heart failure using transcriptomic a](https://doi.org/10.1016/j.gendis.2021.12.001) | 2022-01-05 | Genes & diseases | Shangjie Zou,Bee Luan Khoo | 35873015 |
+| 5 | [Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.](https://doi.org/10.2337/db22-0004) | 2022-12-01 | Diabetes | Richard Yan-Do | 36084321 |
+| 6 | [Monitor Tumor pHe and Response Longitudinally during Treatment Using CEST MRI-Detectable Alginate Mi](https://doi.org/10.1021/acsami.2c10493) | 2022-11-30 | ACS applied materials & interf | Kannie W Y Chan | 36448714 |
+| 7 | [Lithium in breast milk transiently affects the renal electrolytic balance of infants.](https://doi.org/10.1111/bdi.13275) | 2022-11-28 | Bipolar disorders | Abdul-Mojeed Olabisi Ilyas | 36409044 |
+| 8 | [Chemical Exchange Saturation Transfer Magnetic Resonance Imaging for Longitudinal Assessment of Intr](https://doi.org/10.1161/STROKEAHA.122.040830) | 2022-11-23 | Stroke | Kannie W Y Chan | 36416125 |
+| 9 | [Blood vessels in fat tissues and vasculature-derived signals in controlling lipid metabolism and met](https://doi.org/10.1097/CM9.0000000000002406) | 2022-11-20 | Chinese medical journal | Yihai Cao | 36382988 |
+| 10 | [Polymeric Single-Ion Conductors with Enhanced Side-Chain Motion for High-Performance Solid Zinc-Ion ](https://doi.org/10.1002/adma.202207682) | 2022-11-07 | Advanced materials (Deerfield  | Chunyi Zhi | 36208070 |
+| 11 | [Mapping of Spatiotemporal Auricular Electrophysiological Signals Reveals Human Biometric Clusters.](https://doi.org/10.1002/adhm.202201404) | 2022-10-31 | Advanced healthcare materials | Cong Wu,Xinge Yu,Wen Jung Li | 36217916 |
+| 12 | [Discrete single-cell microRNA analysis for phenotyping the heterogeneity of acute myeloid leukemia.](https://doi.org/10.1016/j.biomaterials.2022.121869) | 2022-10-25 | Biomaterials | Xi Zhao,Xianglin Ji,Peng Shi | 36327706 |
+| 13 | [MRDFF: A deep forest based framework for CT whole heart segmentation.](https://doi.org/10.1016/j.ymeth.2022.10.005) | 2022-10-22 | Methods (San Diego, Calif.) | Qingqi Hong | 36283656 |
+| 14 | [Diverse and Composite Roles of miRNA in Non-Neuronal Cells and Neuronal Synapses in Alzheimer's Dise](https://doi.org/10.3390/biom12101505) | 2022-10-17 | Biomolecules | Xinrong Li,Shih-Chi Chen | 36291714 |
+| 15 | [Construction of enzyme-laden vascular scaffolds based on hyaluronic acid oligosaccharides-modified c](https://doi.org/10.1016/j.actbio.2022.09.041) | 2022-09-23 | Acta biomaterialia | Weibin Jia | 36155095 |
+| 16 | [Task Autonomy of a Flexible Endoscopic System for Laser-Assisted Surgery.](https://doi.org/10.34133/2022/9759504) | 2022-08-24 | Cyborg and bionic systems (Was | Hangjie Mo | 38616915 |
+| 17 | [Wide-Bandwidth Nanocomposite-Sensor Integrated Smart Mask for Tracking Multiphase Respiratory Activi](https://doi.org/10.1002/advs.202203565) | 2022-08-23 | Advanced science (Weinheim, Ba | Cong Wu,Xinge Yu,Wen Jung Li | 35999427 |
+| 18 | [Imaging of sugar-based contrast agents using their hydroxyl proton exchange properties.](https://doi.org/10.1002/nbm.4784) | 2022-07-24 | NMR in biomedicine | Kannie W Y Chan | 35665547 |
+| 19 | [Label-free enrichment of human blast cells from whole blood for leukemia monitoring.](https://doi.org/10.1016/j.xpro.2022.101584) | 2022-07-20 | STAR protocols | Yatian Fu,Shangjie Zou,Bee Luan Khoo | 35880120 |
+| 20 | [Implantable Electronic Medicine Enabled by Bioresorbable Microneedles for Wireless Electrotherapy an](https://doi.org/10.1021/acs.nanolett.2c01997) | 2022-07-11 | Nano letters | Ya Huang,Jian Li,Chun Ki Yiu,Jingkun Zhou,Jiyu Li,Dengfeng Li,Binbin Zhang,Xinge Yu | 35816764 |
+| 21 | [Accurate prediction of drug-induced heterogeneous response of red cell in vivo using a gravity-drive](https://doi.org/10.1016/j.aca.2022.340151) | 2022-07-08 | Analytica chimica acta | Bee Luan Khoo | 35934381 |
+| 22 | [Tailoring the metal electrode morphology via electrochemical protocol optimization for long-lasting ](https://doi.org/10.1038/s41467-022-31461-7) | 2022-06-27 | Nature communications | Donghong Wang,Chunyi Zhi | 35760974 |
+| 23 | [Ionic Liquid-Softened Polymer Electrolyte for Anti-Drying Flexible Zinc Ion Batteries.](https://doi.org/10.1021/acsami.2c06793) | 2022-06-06 | ACS applied materials & interf | Donghong Wang,Chunyi Zhi | 35666254 |
+| 24 | [High-Voltage Organic Cathodes for Zinc-Ion Batteries through Electron Cloud and Solvation Structure ](https://doi.org/10.1002/anie.202203453) | 2022-06-01 | Angewandte Chemie (Internation | Zhaodong Huang,Donghong Wang,Chunyi Zhi | 35532543 |
+| 25 | [3D Upconversion Barcodes for Combinatory Wireless Neuromodulation in Behaving Animals.](https://doi.org/10.1002/adhm.202200304) | 2022-04-28 | Advanced healthcare materials | Richard Yan-Do,Peng Shi | 35426262 |
+| 26 | [Dendrite Issues for Zinc Anodes in a Flexible Cell Configuration for Zinc-Based Wearable Energy-Stor](https://doi.org/10.1002/anie.202202780) | 2022-04-27 | Angewandte Chemie (Internation | Donghong Wang,Chunyi Zhi | 35347828 |
+| 27 | [Transient, Implantable, Ultrathin Biofuel Cells Enabled by Laser-Induced Graphene and Gold Nanoparti](https://doi.org/10.1021/acs.nanolett.2c00864) | 2022-04-12 | Nano letters | Jiyu Li,Chun Ki Yiu,Dengfeng Li,Ya Huang,Jingkun Zhou,Jian Li,Yanli Jiao,Binbin Zhang,Xinge Yu | 35411774 |
+| 28 | [Sequencing-free Analysis of Multiple Methylations on Gene-Specific mRNAs.](https://doi.org/10.1021/jacs.2c01036) | 2022-03-23 | Journal of the American Chemic | Xi Zhao,Peng Shi | 35321539 |
+| 29 | [Rapid detection of microorganisms in a fish infection microfluidics platform.](https://doi.org/10.1016/j.jhazmat.2022.128572) | 2022-02-25 | Journal of hazardous materials | Bee Luan Khoo | 35278965 |
+| 30 | [Molecular Imaging of Brain Tumors and Drug Delivery Using CEST MRI: Promises and Challenges.](https://doi.org/10.3390/pharmaceutics14020451) | 2022-02-20 | Pharmaceutics | Se-Weon Park,Kannie W Y Chan | 35214183 |
+| 31 | [Early Predictor Tool of Disease Using Label-Free Liquid Biopsy-Based Platforms for Patient-Centric H](https://doi.org/10.3390/cancers14030818) | 2022-02-06 | Cancers | Wei Li,Bee Luan Khoo | 35159085 |
+| 32 | [Stretchable Sweat-Activated Battery in Skin-Integrated Electronics for Continuous Wireless Sweat Mon](https://doi.org/10.1002/advs.202104635) | 2022-01-28 | Advanced science (Weinheim, Ba | Jingkun Zhou,Chun Ki Yiu,Sina Khazaee Nejad,Jiyu Li,Ya Huang,Enming Song,Xinge Yu | 35088587 |
+| 33 | [Electronic skin as wireless human-machine interfaces for robotic VR.](https://doi.org/10.1126/sciadv.abl6700) | 2022-01-14 | Science advances | Chunki Yiu,Ya Huang,Jingkun Zhou,Sina Khazaee Nejad,Dengfeng Li,Xinge Yu | 35030019 |
+| 34 | [Two-Electron Redox Chemistry Enabled High-Performance Iodide-Ion Conversion Battery.](https://doi.org/10.1002/anie.202113576) | 2022-01-12 | Angewandte Chemie (Internation | Qi Yang,Chunyi Zhi | 34931752 |
+| 35 | [A 6-gene panel as a signature to predict recovery from advanced heart failure using transcriptomic a](https://doi.org/10.1016/j.gendis.2021.12.001) | 2022-01-05 | Genes & diseases | Shangjie Zou,Bee Luan Khoo | 35873015 |
 
 ## 2021 (11)
 
@@ -298,4 +298,4 @@
 | 11 | [Interfacial Laser-Induced Graphene Enabling High-Performance Liquid-Solid Triboelectric Nanogenerato](https://doi.org/10.1002/adma.202104290) | 2021-09-12 | Advanced materials (Deerfield  | Yuan-Ting Zhang,Zuankai Wang | 34510586 |
 
 ---
-*Generated 2026-07-01 15:58:09 · All dates are first-published*
+*Generated 2026-07-01 16:06:57 · All dates are first-published*
