@@ -485,7 +485,7 @@ echo "[$(date '+%H:%M:%S')] Step 5: Saved snapshot for next week" | tee -a "$LOG
 # ==============================================================
 echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
 cd "$WORKSPACE"
-git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json index.md scripts/coche_weekly_update.sh _config.yml
+git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json index.html .nojekyll scripts/coche_weekly_update.sh
 git commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No new changes"
 gh auth setup-git -h github.com 2>/dev/null
 git push origin main || echo "  Push failed"
