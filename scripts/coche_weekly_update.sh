@@ -139,10 +139,28 @@ for i in range(0, len(all_ids), 100):
             y = pub_date.find('Year'); y = y.text if y is not None else ''
             m = pub_date.find('Month'); m = m.text if m is not None else ''
             d = pub_date.find('Day'); d = d.text if d is not None else ''
+            # If pub date is in the future (epub ahead of print), fall back to DateCompleted
+            date_completed = article.getparent().find('DateCompleted') if article.getparent() is not None else None
+            if date_completed is None:
+                # Try MedlineCitation level
+                for ancestor in article.iterancestors('MedlineCitation'):
+                    date_completed = ancestor.find('DateCompleted')
+                    if date_completed is not None:
+                        break
+            if date_completed is not None:
+                cy = date_completed.find('Year')
+                cm = date_completed.find('Month')
+                cd = date_completed.find('Day')
+                completed_date = (cy.text if cy is not None else ''), (cm.text if cm is not None else ''), (cd.text if cd is not None else '')
+            else:
+                completed_date = None
             
             papers.append({
                 'pmid': pmid, 'doi': doi, 'title': title,
                 'journal': journal_name, 'pub_year': y, 'pub_month': m, 'pub_day': d,
+                'completed_year': completed_date[0] if completed_date else '',
+                'completed_month': completed_date[1] if completed_date else '',
+                'completed_day': completed_date[2] if completed_date else '',
                 'authors': authors, 'coche_authors': coche_authors,
             })
         except:
@@ -444,7 +462,15 @@ def get_date(p):
     m = p.get('pub_month', '') or 'Jan'
     d = p.get('pub_day', '') or '01'
     mm = month_map.get(m[:3], '01')
-    return f'{y}-{mm.zfill(2)}-{d.zfill(2)}'
+    date_str = f'{y}-{mm.zfill(2)}-{d.zfill(2)}'
+    # If pub date is in future (epub ahead of print), use completed date
+    if date_str > datetime.now().strftime('%Y-%m-%d') and p.get('completed_year'):
+        cy = p.get('completed_year', '')
+        cm = p.get('completed_month', '') or 'Jan'
+        cd = p.get('completed_day', '') or '01'
+        cmm = month_map.get(cm[:3], '01')
+        date_str = f'{cy}-{cmm.zfill(2)}-{cd.zfill(2)}'
+    return date_str
 
 recent_idx = []
 older_idx = []
