@@ -397,16 +397,14 @@ cp "$PUBMED_FILE" "$PREV_FILE"
 echo "[$(date '+%H:%M:%S')] Step 5: Saved snapshot for next week" | tee -a "$LOG_FILE"
 
 # ==============================================================
-# Step 6: Commit and push to GitHub (if repo is configured)
+# Step 6: Commit and push to GitHub
 # ==============================================================
-if [ -d "$WORKSPACE/.git" ] && git -C "$WORKSPACE" remote get-url origin &>/dev/null; then
-    echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
-    git -C "$WORKSPACE" add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json coche_weekly_update.log
-    git -C "$WORKSPACE" commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No changes to commit"
-    git -C "$WORKSPACE" push origin main || echo "  Push failed (check GitHub auth)"
-else
-    echo "[$(date '+%H:%M:%S')] Step 6: GitHub not configured — skipping push" | tee -a "$LOG_FILE"
-fi
+echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
+cd "$WORKSPACE"
+git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json scripts/coche_weekly_update.sh
+git commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No new changes"
+git remote set-url origin "https://oauth2:${GH_TOKEN}@github.com/ZLI-afk/coche-papers.git" 2>/dev/null
+git push origin main || echo "  Push failed"
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] === COCHE Weekly Update Complete ===" | tee -a "$LOG_FILE"
 echo "" | tee -a "$LOG_FILE"
