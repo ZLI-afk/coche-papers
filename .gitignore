@@ -1,0 +1,21 @@
+# Don't track personal/workspace files
+skills/
+AGENTS.md
+SOUL.md
+TOOLS.md
+USER.md
+IDENTITY.md
+HEARTBEAT.md
+MEMORY.md
+memory/
+*.log
+coche_*.json
+!coche_pubmed.json
+!coche_pubmed_previous.json
+coche_master.json
+coche_gs*.json
+coche_s2*.json
+coche_papers*.json
+coche_new_papers.json
+coche_recent_30d.json
+crossref_coche.json
