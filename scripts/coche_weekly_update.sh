@@ -11,6 +11,11 @@
 set -e
 
 WORKSPACE="/home/ubuntu/.openclaw/workspace"
+
+# Load GitHub token if available
+if [ -f "$WORKSPACE/.gh_token" ]; then
+  source "$WORKSPACE/.gh_token"
+fi
 PUBMED_FILE="$WORKSPACE/coche_pubmed.json"
 PREV_FILE="$WORKSPACE/coche_pubmed_previous.json"
 EXCEL_FILE="$WORKSPACE/COCHE_Papers.xlsx"
