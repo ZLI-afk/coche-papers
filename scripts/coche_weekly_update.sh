@@ -388,6 +388,90 @@ with open(f'{WORKSPACE}/COCHE_Weekly_Report.md', 'w') as f:
     f.write('\n'.join(report))
 
 print(f"  Report saved")
+
+# ==============================================================
+# Generate index.md for GitHub Pages rendering
+# ==============================================================
+from collections import Counter
+from datetime import datetime, timedelta
+
+thirty_days_ago = (datetime.now() - timedelta(days=30)).strftime('%Y-%m-%d')
+
+def get_date(p):
+    y = p.get('pub_year', '')
+    m = p.get('pub_month', '') or 'Jan'
+    d = p.get('pub_day', '') or '01'
+    mm = month_map.get(m[:3], '01')
+    return f'{y}-{mm.zfill(2)}-{d.zfill(2)}'
+
+recent_idx = []
+older_idx = []
+for p in current:
+    if get_date(p) >= thirty_days_ago:
+        recent_idx.append(p)
+    else:
+        older_idx.append(p)
+
+year_cnt = Counter(p.get('pub_year', '?') for p in current)
+
+idx = []
+idx.append('# COCHE Paper Tracker')
+idx.append('')
+idx.append(f'> **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**')
+idx.append(f'> 每周一自动更新 | 数据来源: PubMed API')
+idx.append(f'')
+idx.append(f'📊 **总论文数: {len(current)} 篇** | 🆕 近30天: {len(recent_idx)} 篇 | ⏰ 更新: {datetime.now().strftime("%Y-%m-%d %H:%M")}')
+idx.append('')
+idx.append('---')
+idx.append('')
+
+if recent_idx:
+    idx.append(f'## 🟡 近30天发表 ({len(recent_idx)} 篇)')
+    idx.append('')
+    idx.append('| # | 标题 | 日期 | 期刊 | COCHE 作者 |')
+    idx.append('|---|------|------|------|------------|')
+    for i, p in enumerate(recent_idx, 1):
+        doi = p.get('doi', '')
+        pmid = p.get('pmid', '')
+        link = f'https://doi.org/{doi}' if doi else f'https://pubmed.ncbi.nlm.nih.gov/{pmid}'
+        title = p.get('title', '')
+        title_display = title[:75] + ('...' if len(title) > 75 else '')
+        date = get_date(p)
+        journal = p.get('journal', '')[:30]
+        authors = ', '.join(p.get('coche_authors', [])[:2])
+        if len(p.get('coche_authors', [])) > 2:
+            authors += ' 等'
+        idx.append(f'| {i} | [{title_display}]({link}) | {date} | {journal} | {authors or "N/A"} |')
+    idx.append('')
+
+idx.append(f'## 📋 全部论文 ({len(current)} 篇)')
+idx.append('')
+for year in sorted(year_cnt.keys(), reverse=True):
+    yr_papers = [p for p in current if p.get('pub_year') == year]
+    idx.append(f'### {year} ({len(yr_papers)} 篇)')
+    idx.append('')
+    idx.append('| # | 标题 | 日期 | 期刊 |')
+    idx.append('|---|------|------|------|')
+    for i, p in enumerate(yr_papers, 1):
+        doi = p.get('doi', '')
+        pmid = p.get('pmid', '')
+        link = f'https://doi.org/{doi}' if doi else f'https://pubmed.ncbi.nlm.nih.gov/{pmid}'
+        title_display = p.get('title', '')[:75] + ('...' if len(p.get('title', '')) > 75 else '')
+        date = get_date(p)
+        journal = p.get('journal', '')[:28]
+        idx.append(f'| {i} | [{title_display}]({link}) | {date} | {journal} |')
+    idx.append('')
+
+idx.append('---')
+idx.append('')
+idx.append(f'📥 [下载 Excel](COCHE_Papers.xlsx) | 📄 [下载 JSON](coche_pubmed.json) | 📝 [周报](COCHE_Weekly_Report.md)')
+idx.append('')
+idx.append(f'*自动生成于 {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} · Powered by PubMed API*')
+
+with open(f'{WORKSPACE}/index.md', 'w') as f:
+    f.write('\n'.join(idx))
+
+print(f"  index.md generated")
 PYEOF
 
 # ==============================================================
@@ -401,7 +485,7 @@ echo "[$(date '+%H:%M:%S')] Step 5: Saved snapshot for next week" | tee -a "$LOG
 # ==============================================================
 echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
 cd "$WORKSPACE"
-git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json scripts/coche_weekly_update.sh
+git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json index.md scripts/coche_weekly_update.sh _config.yml
 git commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No new changes"
 git remote set-url origin "https://oauth2:${GH_TOKEN}@github.com/ZLI-afk/coche-papers.git" 2>/dev/null
 git push origin main || echo "  Push failed"
