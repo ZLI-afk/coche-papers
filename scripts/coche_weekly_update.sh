@@ -487,7 +487,7 @@ echo "[$(date '+%H:%M:%S')] Step 6: Pushing to GitHub..." | tee -a "$LOG_FILE"
 cd "$WORKSPACE"
 git add COCHE_Papers.xlsx COCHE_Weekly_Report.md coche_pubmed.json coche_pubmed_previous.json index.md scripts/coche_weekly_update.sh _config.yml
 git commit -m "Weekly COCHE paper update $(date '+%Y-%m-%d')" || echo "  No new changes"
-git remote set-url origin "https://oauth2:${GH_TOKEN}@github.com/ZLI-afk/coche-papers.git" 2>/dev/null
+gh auth setup-git -h github.com 2>/dev/null
 git push origin main || echo "  Push failed"
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] === COCHE Weekly Update Complete ===" | tee -a "$LOG_FILE"
