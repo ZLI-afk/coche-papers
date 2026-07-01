@@ -163,6 +163,12 @@ for p in papers:
 
 cleaned.sort(key=lambda x: (x.get('pub_year','0'), x.get('pub_month','0'), x.get('pub_day','0')), reverse=True)
 
+# Slim down: keep only author names (not full affiliations) to reduce file size
+for p in cleaned:
+    p['authors'] = [a.get('name', a) if isinstance(a, dict) else a for a in p.get('authors', [])]
+    p.pop('all_affiliations', None)
+    p.pop('coche_in_grants', None)
+
 output_path = '/home/ubuntu/.openclaw/workspace/coche_pubmed.json'
 with open(output_path, 'w') as f:
     json.dump(cleaned, f, indent=2, ensure_ascii=False)
