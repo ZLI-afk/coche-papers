@@ -1,9 +1,9 @@
 # COCHE Weekly Report
 
-**2026-07-02 13:30** UTC+8
+**2026-07-02 13:53** UTC+8
 
 ## Summary
-- Total: 272 | ⭐ 双满足: 12 | 仅InnoHK致谢: 9
+- Total: 272 | ⭐ 双满足: 62 | 仅InnoHK致谢: 9
 - Past 30d: 4 (双满足: 0)
 
 ## 📋 近30天其他（单通道）
@@ -14,4 +14,4 @@
 - [The piezoionic diode: field-driven amplification of mechano-](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | 
 
 ---
-*Generated 2026-07-02 13:30:59 · ⭐=dual channel*
+*Generated 2026-07-02 13:53:49 · ⭐=dual channel*
