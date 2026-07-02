@@ -229,7 +229,8 @@ for i in range(0, len(all_ids), 100):
             y = pub_date.find('Year'); y = y.text if y is not None else ''
             m = pub_date.find('Month'); m = m.text if m is not None else ''
             d = pub_date.find('Day'); d = d.text if d is not None else ''
-            date_completed = article.getparent().find('DateCompleted') if article.getparent() is not None else None
+            date_completed = None
+            date_completed = None  # xml.etree has no getparent()
             if date_completed is None:
                 for ancestor in article.iterancestors('MedlineCitation'):
                     date_completed = ancestor.find('DateCompleted')
