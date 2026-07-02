@@ -1,7 +1,8 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **263 papers** | 🆕 **4 past 30d** | ⏰ 2026-07-01 16:06 UTC+8
+> 双通道搜索: 机构署名 (affiliation) + InnoHK 致谢 (ITC KPI 合规)
+> 📊 **263 papers** | 🏷 InnoHK收录: 0 | 🆕 **4 past 30d** | ⏰ 2026-07-02 13:00 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -9,13 +10,13 @@
 
 ## 🟡 Past 30 Days (4)
 
-1. **[Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise management.](https://doi.org/10.1038/s41378-026-01362-6)**  
+1. **[Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise management.](https://doi.org/10.1038/s41378-026-01362-6)**
    - 📅 2026-06-22 | 📰 Microsystems & nanoengineering | 👤 Xinge Yu
-2. **[Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752)**  
+2. **[Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752)**
    - 📅 2026-06-19 | 📰 Science advances | 👤 Peng Shi
-3. **[MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therapeutics.](https://doi.org/10.1002/smll.74020)**  
+3. **[MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therapeutics.](https://doi.org/10.1002/smll.74020)**
    - 📅 2026-06-19 | 📰 Small (Weinheim an der Bergstrasse, Germ | 👤 Bangul Khan,Bee Luan Khoo
-4. **[The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j)**  
+4. **[The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j)**
    - 📅 2026-06-04 | 📰 Materials horizons | 👤 Bolong Li,Kai Yang,Zhihao Ma et al.
 
 ## 📋 All by Year
@@ -320,4 +321,4 @@
 </details>
 
 ---
-*Auto-updated weekly via PubMed API — all dates are first-published*
+*Auto-updated weekly via PubMed API (dual-channel: affiliation + InnoHK acknowledgement) — all dates are first-published*
