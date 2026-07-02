@@ -1,5 +1,5 @@
 # COCHE Paper Tracker — Weekly Report
-**更新时间**: 2026-07-02 13:10 (Asia/Shanghai)
+**更新时间**: 2026-07-02 13:12 (Asia/Shanghai)
 
 ## 📊 概要
 - **论文总数**: 0 篇
@@ -19,4 +19,4 @@ ITC认可致谢声明模板：
 > *Partly supported:* "This study was funded in part by the InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government..."
 
 ---
-*自动生成于 2026-07-02 13:10:29 | 数据来源: PubMed API (双通道: affiliation + InnoHK acknowledgement)*
+*自动生成于 2026-07-02 13:12:30 | 数据来源: PubMed API (双通道: affiliation + InnoHK acknowledgement)*
