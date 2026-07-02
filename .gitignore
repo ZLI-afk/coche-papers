@@ -19,3 +19,12 @@ coche_papers*.json
 coche_new_papers.json
 coche_recent_30d.json
 crossref_coche.json
+
+# Sensitive files — never commit
+.gh_token
+trojan-config.json
+.clawhub/
+coche_pubmed_fetch_log.txt
+openclaw-workspace-state.json
+coche_gs_ack_checklist.md
+
