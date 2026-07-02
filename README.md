@@ -1,18 +1,27 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **272 papers** | ⭐ 双通道: 103 | ⏰ 2026-07-02 18:36 UTC+8
+> 📊 **272 papers** | ⭐ Dual-Channel: 103 | ⏰ 2026-07-02 18:45 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
+## ⭐ What Does the Star Mean?
+
+**⭐ Dual-Channel** = A paper matches **BOTH** of the following criteria required by ITC/InnoHK KPI reporting:
+
+1. **COCHE Affiliation** — at least one author lists COCHE as their institutional affiliation
+2. **InnoHK/ITC Acknowledgement** — the paper explicitly acknowledges InnoHK, the Innovation & Technology Commission (ITC), or the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) in its funding/acknowledgement section
+
+Papers matching only one channel (affiliation-only or acknowledgement-only) are collapsed by default and shown without the ⭐ badge. Only dual-channel papers count toward official ITC KPIs.
+
 ---
 
-## ⭐ 近期发表 — 机构+致谢双满足 (1)
+## ⭐ Recent — Dual-Channel (1)
 
 1. **[The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j)**
    - 📅 2026-06-04 | 📰 Materials horizons | 👤 Bolong Li,Kai Yang,Zhihao Ma et al.
 
-<details><summary>📋 近30天其他 (3 篇，单通道)</summary>
+<details><summary>📋 Other Recent (3 papers, single-channel)</summary>
 
 - [Sweat and air permeable electronics enabled by engineered hierarchical fabric sy](https://doi.org/10.1038/s41378-026-01362-6) (2026-06-22)
 - [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) (2026-06-19)
@@ -20,7 +29,7 @@
 
 </details>
 
-## 📋 全部论文（按年份）
+## 📋 All Papers by Year
 
 <details>
 <summary><b>2026</b> — 26 papers ⭐10 🆕4</summary>
@@ -35,11 +44,11 @@
 8. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
 9. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
 10. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
-<details><summary>更多论文 +13 机构署名 +3 InnoHK（单通道）</summary>
+<details><summary>More papers +13 affiliation +3 InnoHK (single-channel)</summary>
 - [Sweat and air permeable electronics enabled by engineered hierarchical fabric sy](https://doi.org/10.1038/s41378-026-01362-6) (2026-06-22)
 - [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) (2026-06-19)
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized M](https://doi.org/10.1002/smll.74020) (2026-06-19)
-- [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Hu](https://doi.org/10.1002/advs.75507) (2026-05-05) 🏷
+- [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Hu](https://doi.org/10.1002/advs.75507) (2026-05-05) 🏷 InnoHK-only
 - [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insen](https://doi.org/10.1002/nbm.70280) (2026-05-01)
 - [DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring and Wound](https://doi.org/10.1002/adhm.202505887) (2026-04-24)
 - [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-](https://doi.org/10.1002/advs.202524374) (2026-04-14)
@@ -47,11 +56,11 @@
 - [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advance](https://doi.org/10.1002/smsc.202500526) (2026-03-28)
 - [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Fa](https://doi.org/10.1021/acssensors.5c03201) (2026-02-25)
 - [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and A](https://doi.org/10.1161/CIRCRESAHA.125.326815) (2026-02-13)
-- [Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaque](https://doi.org/10.3390/bioengineering13020190) (2026-02-06) 🏷
+- [Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaque](https://doi.org/10.3390/bioengineering13020190) (2026-02-06) 🏷 InnoHK-only
 - [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) (2026-01-29)
 - [A microfluidic microspheres accumulation platform for direct visualization of ur](https://doi.org/10.1016/j.bios.2026.118400) (2026-01-13)
 - [Artificial Intelligence-Enhanced Wearable Blood Pressure Monitoring in Resource-](https://doi.org/10.1007/s40820-025-02003-9) (2026-01-05)
-- [Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1](https://doi.org/10.1371/journal.pone.0336449) (2026-01-01) 🏷
+- [Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1](https://doi.org/10.1371/journal.pone.0336449) (2026-01-01) 🏷 InnoHK-only
 </details>
 
 </details>
@@ -90,9 +99,9 @@
 29. ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: ](https://doi.org/10.1016/j.mtbio.2025.101663) — *Materials today. Bio* (2025-03-14)
 30. ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time ](https://doi.org/10.1021/acsnano.4c09980) — *ACS nano* (2025-01-17)
 31. ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) — *Light, science & applications* (2025-01-01)
-<details><summary>更多论文 +23 机构署名 +3 InnoHK（单通道）</summary>
+<details><summary>More papers +23 affiliation +3 InnoHK (single-channel)</summary>
 - [Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by re](https://doi.org/10.1038/s41467-025-66167-z) (2025-12-14)
-- [HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane d](https://doi.org/10.1016/j.media.2025.103758) (2025-12-01) 🏷
+- [HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane d](https://doi.org/10.1016/j.media.2025.103758) (2025-12-01) 🏷 InnoHK-only
 - [Deep-learning-based HER2 status assessment from multimodal breast cancer data pr](https://doi.org/10.1038/s41551-025-01495-5) (2025-10-17)
 - [Saturation-Transfer-Based MRI of the Brain in Multiple Sclerosis Patients at 3T.](https://doi.org/10.1002/jmri.70147) (2025-10-13)
 - [Corrigendum to "sulfated hyaluronic acid/collagen-based biomimetic hybrid nanofi](https://doi.org/10.1016/j.carbpol.2025.124372) (2025-09-25)
@@ -101,9 +110,9 @@
 - [Lewis Acid-Driven Weak Electrostatic Interaction of Polybenzimidazole-Based Memb](https://doi.org/10.1002/adma.202510023) (2025-09-09)
 - [Oriented synergistic assembly of one-dimensional Te nanowires/SWCNTs for high-pe](https://doi.org/10.1016/j.jcis.2025.138878) (2025-08-29)
 - [Automatic cell classification and quantification with machine learning in immuno](https://doi.org/10.1080/01478885.2025.2523618) (2025-07-01)
-- [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos ](https://doi.org/10.1016/j.media.2025.103611) (2025-07-01) 🏷
+- [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos ](https://doi.org/10.1016/j.media.2025.103611) (2025-07-01) 🏷 InnoHK-only
 - [Deep learning enhanced deciphering of brain activity maps for discovery of thera](https://doi.org/10.1016/j.isci.2025.112868) (2025-06-10)
-- [Artificial intelligence-enabled prenatal ultrasound for the detection of fetal c](https://doi.org/10.1016/j.eclinm.2025.103250) (2025-06-01) 🏷
+- [Artificial intelligence-enabled prenatal ultrasound for the detection of fetal c](https://doi.org/10.1016/j.eclinm.2025.103250) (2025-06-01) 🏷 InnoHK-only
 - [Y-shaped DNA as a dynamic self-assembly nanomaterial for phenotype-specific regu](https://doi.org/10.1093/rb/rbaf043) (2025-05-14)
 - [Advancements in Bio-Integrated Flexible Electronics for Hemodynamic Monitoring i](https://doi.org/10.1002/advs.202415215) (2025-04-25)
 - [Minimizing neonatal hypothyroidism induced by lithium exposure through breast mi](https://doi.org/10.1016/j.jtemb.2025.127653) (2025-04-12)
@@ -150,11 +159,11 @@
 24. ⭐ [A three-dimensional liquid diode for soft, integrated permeable electronics.](https://doi.org/10.1038/s41586-024-07161-1) — *Nature* (2024-03-27)
 25. ⭐ [A high-current hydrogel generator with engineered mechanoionic asymmetry.](https://doi.org/10.1038/s41467-024-45931-7) — *Nature communications* (2024-02-19)
 26. ⭐ [Battery-free, wireless, and electricity-driven soft swimmer for water quality an](https://doi.org/10.1126/sciadv.adk6301) — *Science advances* (2024-01-10)
-<details><summary>更多论文 +50 机构署名 +3 InnoHK（单通道）</summary>
+<details><summary>More papers +50 affiliation +3 InnoHK (single-channel)</summary>
 - [Navigating sensor-skin coupling challenges in magnetic-based blood pressure moni](https://doi.org/10.1016/j.cpcardiol.2024.102964) (2024-12-17)
 - [Tailoring Biopolymers for Electronic Skins: Materials Design and Applications.](https://doi.org/10.1002/adma.202413112) (2024-12-01)
-- [Exploring the effectiveness of instruction tuning in biomedical language process](https://doi.org/10.1016/j.artmed.2024.103007) (2024-12-01) 🏷
-- [Uncertainty quantification of the pressure waveform using a Windkessel model.](https://doi.org/10.1002/cnm.3867) (2024-12-01) 🏷
+- [Exploring the effectiveness of instruction tuning in biomedical language process](https://doi.org/10.1016/j.artmed.2024.103007) (2024-12-01) 🏷 InnoHK-only
+- [Uncertainty quantification of the pressure waveform using a Windkessel model.](https://doi.org/10.1002/cnm.3867) (2024-12-01) 🏷 InnoHK-only
 - [In vivo gene editing of T-cells in lymph nodes for enhanced cancer immunotherapy](https://doi.org/10.1038/s41467-024-54292-0) (2024-11-25)
 - [Miniaturized, portable gustation interfaces for VR/AR/MR.](https://doi.org/10.1073/pnas.2412116121) (2024-11-25)
 - [Multifunctional hydrogel electronics for closed-loop antiepileptic treatment.](https://doi.org/10.1126/sciadv.adq9207) (2024-11-22)
@@ -165,7 +174,7 @@
 - [NOise Reduction with DIstribution Corrected (NORDIC) principal component analysi](https://doi.org/10.1162/imag_a_00325) (2024-10-24)
 - [DNA polymerase mediated CRISPR/Cas12a trans-cleavage for dual-mode quantificatio](https://doi.org/10.1016/j.talanta.2024.127089) (2024-10-21)
 - [A fully integrated breathable haptic textile.](https://doi.org/10.1126/sciadv.adq9575) (2024-10-18)
-- [Unsupervised shape-and-texture-based generative adversarial tuning of pre-traine](https://doi.org/10.1002/mp.17291) (2024-10-01) 🏷
+- [Unsupervised shape-and-texture-based generative adversarial tuning of pre-traine](https://doi.org/10.1002/mp.17291) (2024-10-01) 🏷 InnoHK-only
 - [Accurate detection and instance segmentation of unstained living adherent cells ](https://doi.org/10.1016/j.compbiomed.2024.109151) (2024-09-26)
 - [Constructing a Janus Catholyte/Cathode Structure: A New Strategy for Stable Zn-O](https://doi.org/10.1002/adma.202410209) (2024-09-20)
 - [MXene Supported Electrodeposition Engineering of Layer Double Hydroxide for Alka](https://doi.org/10.1002/anie.202411443) (2024-09-13)
@@ -244,7 +253,7 @@
 31. ⭐ [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal ](https://doi.org/10.3390/s23042021) — *Sensors (Basel, Switzerland)* (2023-02-10)
 32. ⭐ [Wearable and battery-free wound dressing system for wireless and early sepsis di](https://doi.org/10.1002/btm2.10445) — *Bioengineering & translational* (2023-02-01)
 33. ⭐ [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressi](https://doi.org/10.1002/smtd.202201448) — *Small methods* (2023-01-06)
-<details><summary>更多论文 +31 机构署名（单通道）</summary>
+<details><summary>More papers +31 affiliation (single-channel)</summary>
 - [Integrated Ink Printing Paper Based Self-Powered Electrochemical Multimodal Bios](https://doi.org/10.1002/advs.202305962) (2023-12-31)
 - [[Application of electronic skin in healthcare and virtual reality].](https://doi.org/10.7507/1001-5515.202210035) (2023-12-25)
 - [Thermal and Moisture Managing E-Textiles Enabled by Janus Hierarchical Gradient ](https://doi.org/10.1002/adma.202311633) (2023-12-24)
@@ -286,7 +295,7 @@
 1. ⭐ [Touch IoT enabled by wireless self-sensing and haptic-reproducing electronic ski](https://doi.org/10.1126/sciadv.ade2450) — *Science advances* (2022-12-23)
 2. ⭐ [Three-dimensional nanofabrication via ultrafast laser patterning and kinetically](https://doi.org/10.1126/science.abm8420) — *Science (New York, N.Y.)* (2022-12-22)
 3. ⭐ [Polymeric Single-Ion Conductors with Enhanced Side-Chain Motion for High-Perform](https://doi.org/10.1002/adma.202207682) — *Advanced materials (Deerfield * (2022-11-07)
-<details><summary>更多论文 +32 机构署名（单通道）</summary>
+<details><summary>More papers +32 affiliation (single-channel)</summary>
 - [Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tum](https://doi.org/10.1002/adma.202207282) (2022-12-16)
 - [COVID-19 instigates adipose browning and atrophy through VEGF in small mammals.](https://doi.org/10.1038/s42255-022-00697-4) (2022-12-08)
 - [Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and With](https://doi.org/10.2337/db22-0004) (2022-12-01)
@@ -326,7 +335,7 @@
 <details>
 <summary><b>2021</b> — 11 papers</summary>
 
-<details><summary>更多论文 +11 机构署名（单通道）</summary>
+<details><summary>More papers +11 affiliation (single-channel)</summary>
 - [Stabilizing Interface pH by N-Modified Graphdiyne for Dendrite-Free and High-Rat](https://doi.org/10.1002/anie.202112304) (2021-12-20)
 - [Development of Cell-Carrying Magnetic Microrobots with Bioactive Nanostructured ](https://doi.org/10.3390/mi12121572) (2021-12-17)
 - [Small-Dipole-Molecule-Containing Electrolytes for High-Voltage Aqueous Rechargea](https://doi.org/10.1002/adma.202106180) (2021-11-28)
@@ -343,6 +352,7 @@
 </details>
 
 ---
-> ⭐ **突出展示** = 机构署名 + InnoHK致谢 双满足 | 单通道论文默认折叠，点击展开
+> **⭐ Star = Dual-Channel**: paper matches BOTH COCHE affiliation AND InnoHK/ITC acknowledgement (ITC KPI compliant).  
+> Single-channel papers (affiliation-only or InnoHK-only) are collapsed by default — click to expand.
 
 *Auto-updated weekly via PubMed API — all dates are first-published*

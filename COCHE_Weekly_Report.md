@@ -1,22 +1,24 @@
 # COCHE Weekly Report
 
-**2026-07-02 18:36** UTC+8
+**2026-07-02 18:45** UTC+8
 
 ## Summary
-- Total: 272 | ⭐ 双满足: 103 | 仅InnoHK致谢: 9
-- Past 30d: 4 (双满足: 1)
+- Total: 272 | ⭐ Dual-Channel: 103 | InnoHK-only: 9
+- Past 30d: 4 (Dual-Channel: 1)
 
-## ⭐ 近期 — 机构+致谢双满足
+> **⭐ Dual-Channel** = COCHE institutional affiliation + InnoHK/ITC acknowledgement. These count toward official ITC KPIs.
+
+## ⭐ Recent — Dual-Channel (Affiliation + InnoHK/ITC)
 
 | # | Title | Date | Journal | COCHE Authors |
 |---|---|---|---|---|
 | 1 | [The piezoionic diode: field-driven amplification of mechano-](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang … |
 
-## 📋 近30天其他（单通道）
+## 📋 Other Recent (Single-Channel)
 
-- [Sweat and air permeable electronics enabled by engineered hi](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | 
-- [Electronics with switchable flexibility for 3D conforming ne](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | 
-- [MXene-Based Piezoelectric and Triboelectric Energy Harvester](https://doi.org/10.1002/smll.74020) | 2026-06-19 | 
+- [Sweat and air permeable electronics enabled by engineered hi](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | affiliation
+- [Electronics with switchable flexibility for 3D conforming ne](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | affiliation
+- [MXene-Based Piezoelectric and Triboelectric Energy Harvester](https://doi.org/10.1002/smll.74020) | 2026-06-19 | affiliation
 
 ---
-*Generated 2026-07-02 18:36:59 · ⭐=dual channel*
+*Generated 2026-07-02 18:45:21 · ⭐ = Dual-Channel (affiliation + InnoHK/ITC)*
