@@ -1,6 +1,6 @@
 # COCHE All Papers
 
-> 📊 **272** papers | ⭐ 双通道: 99 | ⏰ 2026-07-02 17:54 UTC+8 | [Home](README.md)
+> 📊 **272** papers | ⭐ 双通道: 103 | ⏰ 2026-07-02 18:36 UTC+8 | [Home](README.md)
 
 ---
 
@@ -10,23 +10,23 @@
 |---|---|---|---|---|---|---|
 | 1 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | **双满足** | 42300259 |
 | 2 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | **双满足** | 42206883 |
-| 3 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | **双满足** | 41989927 |
-| 4 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | **双满足** | 41984945 |
-| 5 | ⭐ [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | **双满足** | 41498585 |
-| 6 | ⭐ [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | **双满足** | 41757248 |
-| 7 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | **双满足** | 42051419 |
-| 8 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | **双满足** | 41520071 |
+| 3 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemistry | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | **双满足** | 41995179 |
+| 4 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | **双满足** | 41989927 |
+| 5 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | **双满足** | 41984945 |
+| 6 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim, Ba | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | **双满足** | 41847908 |
+| 7 | ⭐ [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | **双满足** | 41498585 |
+| 8 | ⭐ [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | **双满足** | 41757248 |
+| 9 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | **双满足** | 42051419 |
+| 10 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | **双满足** | 41520071 |
 | - | Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise ma](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | Microsystems & nanoengine | Xinge Yu | affil | 42324249 |
 | - | Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | affil | 42319942 |
 | - | MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therap](https://doi.org/10.1002/smll.74020) | 2026-06-19 | Small (Weinheim an der Be | Bangul Khan,Bee Luan Khoo | affil | 42318608 |
-| - | Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chem | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | affil | 41995179 |
 | - | A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Human-Machine Interact](https://doi.org/10.1002/advs.75507) | 2026-05-05 | Advanced science (Weinhei | N/A | 🏷 InnoHK | 42086494 |
 | - | Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insensitive PCrCEST MRI a](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | NMR in biomedicine | Qizhi Yang | affil | 41948794 |
 | - | DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring and Wound Healing on Burned S](https://doi.org/10.1002/adhm.202505887) | 2026-04-24 | Advanced healthcare mater | Rafi U Shan Ahmad,Muhammad Shehzad Khan,Bangul Khan,Bee Luan Khoo | affil | 42027058 |
 | - | Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-Life Alkaline Flow B](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | Advanced science (Weinhei | Yue Hou | affil | 41980210 |
 | - | Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and fu](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | Ultrasonics | Yang Liu | affil | 41980481 |
 | - | Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advanced Wearable Electroca](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | Small science | Bangul Khan,Md Shohidul Islam,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | affil | 42112468 |
-| - | Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinhei | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | affil | 41847908 |
 | - | Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | affil | 41739548 |
 | - | Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | Circulation research | Yujie Pu,Yu Huang | affil | 41685426 |
 | - | Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaques from Carotid Ultra](https://doi.org/10.3390/bioengineering13020190) | 2026-02-06 | Bioengineering (Basel, Sw | N/A | 🏷 InnoHK | 41749730 |
@@ -55,19 +55,21 @@
 | 14 | ⭐ [A solid-state battery capable of 180 C superfast charging and 100% energy retention at -30 °C.](https://doi.org/10.1073/pnas.2511121122) | 2025-09-08 | Proceedings of the National Ac | Shimei Li,Dechao Zhang,Qi Xiong,Zhaodong Huang,Chunyi Zhi | **双满足** | 40920935 |
 | 15 | ⭐ [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) | 2025-08-29 | Magnetic resonance in medicine | Yang Liu,Se Weon Park,Lok Hin Law,Kannie W Y Chan | **双满足** | 40883871 |
 | 16 | ⭐ [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) | 2025-08-28 | ACS nano | Wooyoung Park,Shengxin Jia,Chun Ki Yiu,Xinge Yu | **双满足** | 40873398 |
-| 17 | ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electronic wound bandage.](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | Yanli Jiao,Jingkun Zhou,Chun Ki Yiu,Jian Li,Binbin Zhang,Zhenlin Chen,Xinge Yu | **双满足** | 40593825 |
-| 18 | ⭐ [Plasmonic printing of high-performance metal oxide electronics under room temperature.](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | Jian Li,Jingkun Zhou,Xinge Yu | **双满足** | 40537557 |
-| 19 | ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Internation | Chunyi Zhi | **双满足** | 40464841 |
-| 20 | ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | Xiao Yang,Kannie W Y Chan,Zuankai Wang | **双满足** | 40474951 |
-| 21 | ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Flexible and Compact E](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Bergstr | Qing Yin | **双满足** | 40434238 |
-| 22 | ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interphases Enabling 5.1 V S](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Internation | Yue Hou,Shimei Li,Chunyi Zhi | **双满足** | 40377405 |
-| 23 | ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-Voltage Lithium Meta](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerfield  | Shimei Li,Qi Xiong,Dechao Zhang,Chunyi Zhi | **双满足** | 40317519 |
-| 24 | ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface f](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | Chunki Yiu,Jian Li,Jingkun Zhou,Binbin Zhang,Xinge Yu | **双满足** | 40138404 |
-| 25 | ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine interface.](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | Shengxin Jia,Jiyu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | **双满足** | 40117358 |
-| 26 | ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and intraoperative and post](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | Xinge Yu | **双满足** | 40106548 |
-| 27 | ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: Current trends and f](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | Rafi U Shan Ahmad,Wasim Ullah Khan,Muhammad Shehzad Khan | **双满足** | 40213156 |
-| 28 | ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time Monitoring and Vascu](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | Zhiqiang Ma,Shangjie Zou,Ke Huang,Wei Li,Mohamed Elhousseini Hilal,Mingze Zhu,Yatian Fu,Bee Luan Khoo | **双满足** | 39818734 |
-| 29 | ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applications | Hongjin Li,Shih-Chi Chen | **双满足** | 39741128 |
+| 17 | ⭐ [Advancements in microfluidic technology for rapid bacterial detection and inflammation-driven diseas](https://doi.org/10.1039/d4lc00795f) | 2025-07-08 | Lab on a chip | Yatian Fu,Wei Li,Bee Luan Khoo | **双满足** | 40201957 |
+| 18 | ⭐ [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for Rapid, Cost-Effective Urinary](https://doi.org/10.1021/acs.analchem.5c00930) | 2025-07-08 | Analytical chemistry | Wei Li,Mingze Zhu,Xinrui Wang,Zhiqiang Ma,Mohamed Elhousseini Hilal,Bryan P Yan,Bee Luan Khoo | **双满足** | 40628647 |
+| 19 | ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electronic wound bandage.](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | Yanli Jiao,Jingkun Zhou,Chun Ki Yiu,Jian Li,Binbin Zhang,Zhenlin Chen,Xinge Yu | **双满足** | 40593825 |
+| 20 | ⭐ [Plasmonic printing of high-performance metal oxide electronics under room temperature.](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | Jian Li,Jingkun Zhou,Xinge Yu | **双满足** | 40537557 |
+| 21 | ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Internation | Chunyi Zhi | **双满足** | 40464841 |
+| 22 | ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | Xiao Yang,Kannie W Y Chan,Zuankai Wang | **双满足** | 40474951 |
+| 23 | ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Flexible and Compact E](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Bergstr | Qing Yin | **双满足** | 40434238 |
+| 24 | ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interphases Enabling 5.1 V S](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Internation | Yue Hou,Shimei Li,Chunyi Zhi | **双满足** | 40377405 |
+| 25 | ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-Voltage Lithium Meta](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerfield  | Shimei Li,Qi Xiong,Dechao Zhang,Chunyi Zhi | **双满足** | 40317519 |
+| 26 | ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface f](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | Chunki Yiu,Jian Li,Jingkun Zhou,Binbin Zhang,Xinge Yu | **双满足** | 40138404 |
+| 27 | ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine interface.](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | Shengxin Jia,Jiyu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | **双满足** | 40117358 |
+| 28 | ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and intraoperative and post](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | Xinge Yu | **双满足** | 40106548 |
+| 29 | ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: Current trends and f](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | Rafi U Shan Ahmad,Wasim Ullah Khan,Muhammad Shehzad Khan | **双满足** | 40213156 |
+| 30 | ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time Monitoring and Vascu](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | Zhiqiang Ma,Shangjie Zou,Ke Huang,Wei Li,Mohamed Elhousseini Hilal,Mingze Zhu,Yatian Fu,Bee Luan Khoo | **双满足** | 39818734 |
+| 31 | ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applications | Hongjin Li,Shih-Chi Chen | **双满足** | 39741128 |
 | - | Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by reperfusion therapy-a ](https://doi.org/10.1038/s41467-025-66167-z) | 2025-12-14 | Nature communications | L T Lui,Rosa H M Chan | affil | 41392086 |
 | - | HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane detection in fetal he](https://doi.org/10.1016/j.media.2025.103758) | 2025-12-01 | Medical image analysis | N/A | 🏷 InnoHK | 40876099 |
 | - | Deep-learning-based HER2 status assessment from multimodal breast cancer data predicts neoadjuvant t](https://doi.org/10.1038/s41551-025-01495-5) | 2025-10-17 | Nature biomedical enginee | Jiadong Zhang,Kannie W Y Chan | affil | 41107520 |
@@ -77,8 +79,6 @@
 | - | Hybrid living electronic skin for proactive scarless wound healing.](https://doi.org/10.1016/j.biomaterials.2025.123721) | 2025-09-15 | Biomaterials | Peng Shi | affil | 40972250 |
 | - | Lewis Acid-Driven Weak Electrostatic Interaction of Polybenzimidazole-Based Membrane for Alkaline Zi](https://doi.org/10.1002/adma.202510023) | 2025-09-09 | Advanced materials (Deerf | Chunyi Zhi | affil | 40926377 |
 | - | Oriented synergistic assembly of one-dimensional Te nanowires/SWCNTs for high-performance thermoelec](https://doi.org/10.1016/j.jcis.2025.138878) | 2025-08-29 | Journal of colloid and in | Bo Wu | affil | 40896993 |
-| - | Advancements in microfluidic technology for rapid bacterial detection and inflammation-driven diseas](https://doi.org/10.1039/d4lc00795f) | 2025-07-08 | Lab on a chip | Yatian Fu,Wei Li,Bee Luan Khoo | affil | 40201957 |
-| - | A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for Rapid, Cost-Effective Urinary](https://doi.org/10.1021/acs.analchem.5c00930) | 2025-07-08 | Analytical chemistry | Wei Li,Mingze Zhu,Xinrui Wang,Zhiqiang Ma,Mohamed Elhousseini Hilal,Bryan P Yan,Bee Luan Khoo | affil | 40628647 |
 | - | Automatic cell classification and quantification with machine learning in immunohistochemistry image](https://doi.org/10.1080/01478885.2025.2523618) | 2025-07-01 | Journal of histotechnolog | Muhammad Shehzad Khan | affil | 40591929 |
 | - | TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos with a multi-tier tr](https://doi.org/10.1016/j.media.2025.103611) | 2025-07-01 | Medical image analysis | N/A | 🏷 InnoHK | 40344944 |
 | - | Deep learning enhanced deciphering of brain activity maps for discovery of therapeutics for brain di](https://doi.org/10.1016/j.isci.2025.112868) | 2025-06-10 | iScience | Peng Shi | affil | 40678509 |
@@ -308,4 +308,4 @@
 
 ---
 > ⭐ 双满足 = 机构署名 + InnoHK致谢 | 单通道论文以 `-` 序号弱化
-*Generated 2026-07-02 17:54:19*
+*Generated 2026-07-02 18:36:59*

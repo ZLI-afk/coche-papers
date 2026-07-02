@@ -1,9 +1,9 @@
 # COCHE Weekly Report
 
-**2026-07-02 17:54** UTC+8
+**2026-07-02 18:36** UTC+8
 
 ## Summary
-- Total: 272 | ⭐ 双满足: 99 | 仅InnoHK致谢: 9
+- Total: 272 | ⭐ 双满足: 103 | 仅InnoHK致谢: 9
 - Past 30d: 4 (双满足: 1)
 
 ## ⭐ 近期 — 机构+致谢双满足
@@ -19,4 +19,4 @@
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvester](https://doi.org/10.1002/smll.74020) | 2026-06-19 | 
 
 ---
-*Generated 2026-07-02 17:54:19 · ⭐=dual channel*
+*Generated 2026-07-02 18:36:59 · ⭐=dual channel*

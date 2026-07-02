@@ -3,7 +3,7 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · Dual-channel: affiliation + InnoHK · ⭐=both
 
-📊 **Total: 272** | ⭐ 双满足: 99 | 🆕 Past 30d: 4 | ⏰ 2026-07-02 17:54
+📊 **Total: 272** | ⭐ 双满足: 103 | 🆕 Past 30d: 4 | ⏰ 2026-07-02 18:36
 
 ---
 
@@ -21,24 +21,24 @@
 |---|---|---|---|---|
 | 1 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conv...](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | 双满足 |
 | 2 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | 双满足 |
-| 3 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Dep...](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Ch | 双满足 |
-| 4 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation s...](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | 双满足 |
-| 5 | ⭐ [A review of microfluidic technologies for thermal management in flexib...](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | 双满足 |
-| 6 | ⭐ [Cardiac health assessment across scenarios and devices using a multimo...](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligenc | 双满足 |
-| 7 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | 双满足 |
-| 8 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-of...](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | 双满足 |
-<details><summary>单通道论文 +15 机构 +3 InnoHK</summary>
+| 3 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes ...](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemi | 双满足 |
+| 4 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Dep...](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Ch | 双满足 |
+| 5 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation s...](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | 双满足 |
+| 6 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Elect...](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim | 双满足 |
+| 7 | ⭐ [A review of microfluidic technologies for thermal management in flexib...](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | 双满足 |
+| 8 | ⭐ [Cardiac health assessment across scenarios and devices using a multimo...](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligenc | 双满足 |
+| 9 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | 双满足 |
+| 10 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-of...](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | 双满足 |
+<details><summary>单通道论文 +13 机构 +3 InnoHK</summary>
 - [Sweat and air permeable electronics enabled by engineered hierarchical...](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | affil
 - [Electronics with switchable flexibility for 3D conforming neural inter...](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | affil
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Pers...](https://doi.org/10.1002/smll.74020) | 2026-06-19 | affil
-- [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes ...](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | affil
 - [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sen...](https://doi.org/10.1002/advs.75507) | 2026-05-05 | 🏷 InnoHK
 - [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Usin...](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | affil
 - [DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring...](https://doi.org/10.1002/adhm.202505887) | 2026-04-24 | affil
 - [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes...](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | affil
 - [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for m...](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | affil
 - [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels f...](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | affil
-- [Wearable Tailored Passive Radiative Cooling Textile for Flexible Elect...](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | affil
 - [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis o...](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | affil
 - [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transi...](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | affil
 - [Cascaded Deep Learning-Based Model for Classification and Segmentation...](https://doi.org/10.3390/bioengineering13020190) | 2026-02-06 | 🏷 InnoHK
@@ -68,20 +68,22 @@
 | 14 | ⭐ [A solid-state battery capable of 180 C superfast charging and 100% ene...](https://doi.org/10.1073/pnas.2511121122) | 2025-09-08 | Proceedings of the Nationa | 双满足 |
 | 15 | ⭐ [Evaluating the effectiveness of distortion self-correction for CEST-EP...](https://doi.org/10.1002/mrm.70048) | 2025-08-29 | Magnetic resonance in medi | 双满足 |
 | 16 | ⭐ [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) | 2025-08-28 | ACS nano | 双满足 |
-| 17 | ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeuti...](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | 双满足 |
-| 18 | ⭐ [Plasmonic printing of high-performance metal oxide electronics under r...](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | 双满足 |
-| 19 | ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Interna | 双满足 |
-| 20 | ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | 双满足 |
-| 21 | ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Struct...](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Ber | 双满足 |
-| 22 | ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyt...](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Interna | 双满足 |
-| 23 | ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes...](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerfi | 双满足 |
-| 24 | ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enha...](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | 双满足 |
-| 25 | ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-ma...](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | 双满足 |
-| 26 | ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostic...](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | 双满足 |
-| 27 | ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular ...](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | 双满足 |
-| 28 | ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic ...](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | 双满足 |
-| 29 | ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applicati | 双满足 |
-<details><summary>单通道论文 +25 机构 +3 InnoHK</summary>
+| 17 | ⭐ [Advancements in microfluidic technology for rapid bacterial detection ...](https://doi.org/10.1039/d4lc00795f) | 2025-07-08 | Lab on a chip | 双满足 |
+| 18 | ⭐ [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for...](https://doi.org/10.1021/acs.analchem.5c00930) | 2025-07-08 | Analytical chemistry | 双满足 |
+| 19 | ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeuti...](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | 双满足 |
+| 20 | ⭐ [Plasmonic printing of high-performance metal oxide electronics under r...](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | 双满足 |
+| 21 | ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Interna | 双满足 |
+| 22 | ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | 双满足 |
+| 23 | ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Struct...](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Ber | 双满足 |
+| 24 | ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyt...](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Interna | 双满足 |
+| 25 | ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes...](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerfi | 双满足 |
+| 26 | ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enha...](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | 双满足 |
+| 27 | ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-ma...](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | 双满足 |
+| 28 | ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostic...](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | 双满足 |
+| 29 | ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular ...](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | 双满足 |
+| 30 | ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic ...](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | 双满足 |
+| 31 | ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applicati | 双满足 |
+<details><summary>单通道论文 +23 机构 +3 InnoHK</summary>
 - [Glucagon-like peptide-1 receptor agonist in large vessel occlusion tre...](https://doi.org/10.1038/s41467-025-66167-z) | 2025-12-14 | affil
 - [HarmonicEchoNet: Leveraging harmonic convolutions for automated standa...](https://doi.org/10.1016/j.media.2025.103758) | 2025-12-01 | 🏷 InnoHK
 - [Deep-learning-based HER2 status assessment from multimodal breast canc...](https://doi.org/10.1038/s41551-025-01495-5) | 2025-10-17 | affil
@@ -91,8 +93,6 @@
 - [Hybrid living electronic skin for proactive scarless wound healing.](https://doi.org/10.1016/j.biomaterials.2025.123721) | 2025-09-15 | affil
 - [Lewis Acid-Driven Weak Electrostatic Interaction of Polybenzimidazole-...](https://doi.org/10.1002/adma.202510023) | 2025-09-09 | affil
 - [Oriented synergistic assembly of one-dimensional Te nanowires/SWCNTs f...](https://doi.org/10.1016/j.jcis.2025.138878) | 2025-08-29 | affil
-- [Advancements in microfluidic technology for rapid bacterial detection ...](https://doi.org/10.1039/d4lc00795f) | 2025-07-08 | affil
-- [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for...](https://doi.org/10.1021/acs.analchem.5c00930) | 2025-07-08 | affil
 - [Automatic cell classification and quantification with machine learning...](https://doi.org/10.1080/01478885.2025.2523618) | 2025-07-01 | affil
 - [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasou...](https://doi.org/10.1016/j.media.2025.103611) | 2025-07-01 | 🏷 InnoHK
 - [Deep learning enhanced deciphering of brain activity maps for discover...](https://doi.org/10.1016/j.isci.2025.112868) | 2025-06-10 | affil
@@ -332,4 +332,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-07-02 17:54:19 · PubMed API · ⭐=机构署名+InnoHK致谢 双满足*
+*2026-07-02 18:36:59 · PubMed API · ⭐=机构署名+InnoHK致谢 双满足*
