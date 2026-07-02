@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **272 papers** | ⭐ 双通道: 62 | ⏰ 2026-07-02 13:53 UTC+8
+> 📊 **272 papers** | ⭐ 双通道: 66 | ⏰ 2026-07-02 15:46 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary><b>2025</b> — 57 papers ⭐23</summary>
+<summary><b>2025</b> — 57 papers ⭐24</summary>
 
 1. ⭐ [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Struc](https://doi.org/10.3390/molecules31010086) — *Molecules (Basel, Switzerland)* (2025-12-25)
 2. ⭐ [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) — *Proceedings of the National Ac* (2025-12-22)
@@ -70,15 +70,16 @@
 13. ⭐ [A solid-state battery capable of 180 C superfast charging and 100% energy retent](https://doi.org/10.1073/pnas.2511121122) — *Proceedings of the National Ac* (2025-09-08)
 14. ⭐ [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) — *Magnetic resonance in medicine* (2025-08-29)
 15. ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electron](https://doi.org/10.1038/s41467-025-61261-8) — *Nature communications* (2025-07-01)
-16. ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) — *Chemical science* (2025-05-30)
-17. ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interpha](https://doi.org/10.1002/anie.202505147) — *Angewandte Chemie (Internation* (2025-05-23)
-18. ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-](https://doi.org/10.1002/adma.202504333) — *Advanced materials (Deerfield * (2025-05-02)
-19. ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human](https://doi.org/10.1126/sciadv.adt6041) — *Science advances* (2025-03-26)
-20. ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine inte](https://doi.org/10.1126/sciadv.adt0318) — *Science advances* (2025-03-21)
-21. ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and int](https://doi.org/10.1126/sciadv.adu3146) — *Science advances* (2025-03-19)
-22. ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: ](https://doi.org/10.1016/j.mtbio.2025.101663) — *Materials today. Bio* (2025-03-14)
-23. ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) — *Light, science & applications* (2025-01-01)
-<details><summary>更多论文 +31 机构署名 +3 InnoHK（单通道）</summary>
+16. ⭐ [Plasmonic printing of high-performance metal oxide electronics under room temper](https://doi.org/10.1038/s41563-025-02268-w) — *Nature materials* (2025-06-19)
+17. ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) — *Chemical science* (2025-05-30)
+18. ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interpha](https://doi.org/10.1002/anie.202505147) — *Angewandte Chemie (Internation* (2025-05-23)
+19. ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-](https://doi.org/10.1002/adma.202504333) — *Advanced materials (Deerfield * (2025-05-02)
+20. ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human](https://doi.org/10.1126/sciadv.adt6041) — *Science advances* (2025-03-26)
+21. ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine inte](https://doi.org/10.1126/sciadv.adt0318) — *Science advances* (2025-03-21)
+22. ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and int](https://doi.org/10.1126/sciadv.adu3146) — *Science advances* (2025-03-19)
+23. ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: ](https://doi.org/10.1016/j.mtbio.2025.101663) — *Materials today. Bio* (2025-03-14)
+24. ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) — *Light, science & applications* (2025-01-01)
+<details><summary>更多论文 +30 机构署名 +3 InnoHK（单通道）</summary>
 - [Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by re](https://doi.org/10.1038/s41467-025-66167-z) (2025-12-14)
 - [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) (2025-12-01)
 - [HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane d](https://doi.org/10.1016/j.media.2025.103758) (2025-12-01) 🏷
@@ -94,7 +95,6 @@
 - [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for Rapid, Co](https://doi.org/10.1021/acs.analchem.5c00930) (2025-07-08)
 - [Automatic cell classification and quantification with machine learning in immuno](https://doi.org/10.1080/01478885.2025.2523618) (2025-07-01)
 - [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos ](https://doi.org/10.1016/j.media.2025.103611) (2025-07-01) 🏷
-- [Plasmonic printing of high-performance metal oxide electronics under room temper](https://doi.org/10.1038/s41563-025-02268-w) (2025-06-19)
 - [Deep learning enhanced deciphering of brain activity maps for discovery of thera](https://doi.org/10.1016/j.isci.2025.112868) (2025-06-10)
 - [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) (2025-06-09)
 - [Artificial intelligence-enabled prenatal ultrasound for the detection of fetal c](https://doi.org/10.1016/j.eclinm.2025.103250) (2025-06-01) 🏷
@@ -118,7 +118,7 @@
 </details>
 
 <details>
-<summary><b>2024</b> — 79 papers ⭐12</summary>
+<summary><b>2024</b> — 79 papers ⭐13</summary>
 
 1. ⭐ [Designing Zwitterionic Bottlebrush Polymers to Enable Long-Cycling Quasi-Solid-S](https://doi.org/10.1002/anie.202409500) — *Angewandte Chemie (Internation* (2024-12-16)
 2. ⭐ [Design Chemical Exchange Saturation Transfer Contrast Agents and Nanocarriers fo](https://doi.org/10.1021/acsnano.4c05923) — *ACS nano* (2024-12-06)
@@ -130,9 +130,10 @@
 8. ⭐ [Wearable bio-adhesive metal detector array (BioMDA) for spinal implants.](https://doi.org/10.1038/s41467-024-51987-2) — *Nature communications* (2024-09-06)
 9. ⭐ [Intelligent wearable olfactory interface for latency-free mixed reality and fast](https://doi.org/10.1038/s41467-024-48884-z) — *Nature communications* (2024-05-25)
 10. ⭐ [Polymer hetero-electrolyte enabled solid-state 2.4-V Zn/Li hybrid batteries.](https://doi.org/10.1038/s41467-024-47950-w) — *Nature communications* (2024-05-03)
-11. ⭐ [A high-current hydrogel generator with engineered mechanoionic asymmetry.](https://doi.org/10.1038/s41467-024-45931-7) — *Nature communications* (2024-02-19)
-12. ⭐ [Battery-free, wireless, and electricity-driven soft swimmer for water quality an](https://doi.org/10.1126/sciadv.adk6301) — *Science advances* (2024-01-10)
-<details><summary>更多论文 +64 机构署名 +3 InnoHK（单通道）</summary>
+11. ⭐ [A three-dimensional liquid diode for soft, integrated permeable electronics.](https://doi.org/10.1038/s41586-024-07161-1) — *Nature* (2024-03-27)
+12. ⭐ [A high-current hydrogel generator with engineered mechanoionic asymmetry.](https://doi.org/10.1038/s41467-024-45931-7) — *Nature communications* (2024-02-19)
+13. ⭐ [Battery-free, wireless, and electricity-driven soft swimmer for water quality an](https://doi.org/10.1126/sciadv.adk6301) — *Science advances* (2024-01-10)
+<details><summary>更多论文 +63 机构署名 +3 InnoHK（单通道）</summary>
 - [Navigating sensor-skin coupling challenges in magnetic-based blood pressure moni](https://doi.org/10.1016/j.cpcardiol.2024.102964) (2024-12-17)
 - [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthc](https://doi.org/10.1002/adma.202406798) (2024-12-02)
 - [Tailoring Biopolymers for Electronic Skins: Materials Design and Applications.](https://doi.org/10.1002/adma.202413112) (2024-12-01)
@@ -185,7 +186,6 @@
 - [Artificial Vascular with Pressure-Responsive Property based on Deformable Microf](https://doi.org/10.1002/adhm.202304532) (2024-04-26)
 - [Halide Exchange in Perovskites Enables Bromine/Iodine Hybrid Cathodes for Highly](https://doi.org/10.1002/adma.202401924) (2024-04-15)
 - [Zinc Powder Anodes for Rechargeable Aqueous Zinc-Based Batteries.](https://doi.org/10.1021/acs.nanolett.4c00101) (2024-03-30)
-- [A three-dimensional liquid diode for soft, integrated permeable electronics.](https://doi.org/10.1038/s41586-024-07161-1) (2024-03-27)
 - [Deep-learning-based super-resolution for accelerating chemical exchange saturati](https://doi.org/10.1002/nbm.5130) (2024-03-15)
 - [Sulfated hyaluronic acid/collagen-based biomimetic hybrid nanofiber skin for dia](https://doi.org/10.1016/j.carbpol.2024.122025) (2024-03-05)
 - [On-Site Melanoma Diagnosis Utilizing a Swellable Microneedle-Assisted Skin Inter](https://doi.org/10.1002/advs.202306188) (2024-02-28)
@@ -205,7 +205,7 @@
 </details>
 
 <details>
-<summary><b>2023</b> — 64 papers ⭐21</summary>
+<summary><b>2023</b> — 64 papers ⭐23</summary>
 
 1. ⭐ [The 2023 wearable photoplethysmography roadmap.](https://doi.org/10.1088/1361-6579/acead2) — *Physiological measurement* (2023-11-29)
 2. ⭐ [Wireless, battery-free, multifunctional integrated bioelectronics for respirator](https://doi.org/10.1038/s41467-023-43189-z) — *Nature communications* (2023-11-20)
@@ -216,19 +216,21 @@
 7. ⭐ [AMPK-Dependent YAP Inhibition Mediates the Protective Effect of Metformin agains](https://doi.org/10.3390/antiox12091681) — *Antioxidants (Basel, Switzerla* (2023-08-28)
 8. ⭐ [Lung Tumor Image Segmentation from Computer Tomography Images Using MobileNetV2 ](https://doi.org/10.3390/bioengineering10080981) — *Bioengineering (Basel, Switzer* (2023-08-20)
 9. ⭐ [Thin, soft, wearable system for continuous wireless monitoring of artery blood p](https://doi.org/10.1038/s41467-023-40763-3) — *Nature communications* (2023-08-17)
-10. ⭐ [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for imp](https://doi.org/10.1126/sciadv.adg8602) — *Science advances* (2023-05-31)
-11. ⭐ [Emerging sensing and modeling technologies for wearable and cuffless blood press](https://doi.org/10.1038/s41746-023-00835-6) — *NPJ digital medicine* (2023-05-22)
-12. ⭐ [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing ](https://doi.org/10.1002/advs.202302272) — *Advanced science (Weinheim, Ba* (2023-05-21)
-13. ⭐ [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) — *Nature communications* (2023-05-09)
-14. ⭐ [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioe](https://doi.org/10.3390/mi14051005) — *Micromachines* (2023-05-06)
-15. ⭐ [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion](https://doi.org/10.1002/anie.202303292) — *Angewandte Chemie (Internation* (2023-04-27)
-16. ⭐ [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in](https://doi.org/10.1126/sciadv.adg1837) — *Science advances* (2023-04-07)
-17. ⭐ [Sulfolane-containing aqueous electrolyte solutions for producing efficient amper](https://doi.org/10.1038/s41467-023-37524-7) — *Nature communications* (2023-04-01)
-18. ⭐ [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) — *Nature communications* (2023-03-27)
-19. ⭐ [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosi](https://doi.org/10.3389/fimmu.2023.1053793) — *Frontiers in immunology* (2023-02-15)
-20. ⭐ [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal ](https://doi.org/10.3390/s23042021) — *Sensors (Basel, Switzerland)* (2023-02-10)
-21. ⭐ [Wearable and battery-free wound dressing system for wireless and early sepsis di](https://doi.org/10.1002/btm2.10445) — *Bioengineering & translational* (2023-02-01)
-<details><summary>更多论文 +43 机构署名（单通道）</summary>
+10. ⭐ [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin t](https://doi.org/10.1007/s11356-023-28515-8) — *Environmental science and poll* (2023-07-26)
+11. ⭐ [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) — *Nature reviews. Chemistry* (2023-06-14)
+12. ⭐ [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for imp](https://doi.org/10.1126/sciadv.adg8602) — *Science advances* (2023-05-31)
+13. ⭐ [Emerging sensing and modeling technologies for wearable and cuffless blood press](https://doi.org/10.1038/s41746-023-00835-6) — *NPJ digital medicine* (2023-05-22)
+14. ⭐ [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing ](https://doi.org/10.1002/advs.202302272) — *Advanced science (Weinheim, Ba* (2023-05-21)
+15. ⭐ [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) — *Nature communications* (2023-05-09)
+16. ⭐ [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioe](https://doi.org/10.3390/mi14051005) — *Micromachines* (2023-05-06)
+17. ⭐ [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion](https://doi.org/10.1002/anie.202303292) — *Angewandte Chemie (Internation* (2023-04-27)
+18. ⭐ [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in](https://doi.org/10.1126/sciadv.adg1837) — *Science advances* (2023-04-07)
+19. ⭐ [Sulfolane-containing aqueous electrolyte solutions for producing efficient amper](https://doi.org/10.1038/s41467-023-37524-7) — *Nature communications* (2023-04-01)
+20. ⭐ [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) — *Nature communications* (2023-03-27)
+21. ⭐ [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosi](https://doi.org/10.3389/fimmu.2023.1053793) — *Frontiers in immunology* (2023-02-15)
+22. ⭐ [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal ](https://doi.org/10.3390/s23042021) — *Sensors (Basel, Switzerland)* (2023-02-10)
+23. ⭐ [Wearable and battery-free wound dressing system for wireless and early sepsis di](https://doi.org/10.1002/btm2.10445) — *Bioengineering & translational* (2023-02-01)
+<details><summary>更多论文 +41 机构署名（单通道）</summary>
 - [Integrated Ink Printing Paper Based Self-Powered Electrochemical Multimodal Bios](https://doi.org/10.1002/advs.202305962) (2023-12-31)
 - [[Application of electronic skin in healthcare and virtual reality].](https://doi.org/10.7507/1001-5515.202210035) (2023-12-25)
 - [Thermal and Moisture Managing E-Textiles Enabled by Janus Hierarchical Gradient ](https://doi.org/10.1002/adma.202311633) (2023-12-24)
@@ -249,11 +251,9 @@
 - [Tellurium with Reversible Six-Electron Transfer Chemistry for High-Performance Z](https://doi.org/10.1021/jacs.3c06488) (2023-09-06)
 - [d-Band Center Optimization of Ti](https://doi.org/10.1021/acsami.3c08512) (2023-08-15)
 - [Order-disorder engineering of RuO](https://doi.org/10.1039/d3mh00339f) (2023-07-31)
-- [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin t](https://doi.org/10.1007/s11356-023-28515-8) (2023-07-26)
 - [Biofilms exacerbate atherogenesis through macrophage-induced inflammatory respon](https://doi.org/10.1016/j.actbio.2023.06.028) (2023-06-28)
 - [Multi-target landmark detection with incomplete images via reinforcement learnin](https://doi.org/10.1016/j.media.2023.102875) (2023-06-24)
 - [European Society of Hypertension recommendations for the validation of cuffless ](https://doi.org/10.1097/HJH.0000000000003483) (2023-06-22)
-- [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) (2023-06-14)
 - [Distinct bacterial population dynamics and disease dissemination after biofilm d](https://doi.org/10.1038/s41396-023-01446-5) (2023-06-03)
 - [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to d](https://doi.org/10.1002/nbm.4962) (2023-06-01)
 - [Wearable patches for transdermal drug delivery.](https://doi.org/10.1016/j.apsb.2023.05.009) (2023-05-15)

@@ -1848,8 +1848,11 @@
       "Xinge Yu"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "unded by the Ministry of Science and ICT (no. RS-2024-00411904), in part by the InnoHK Project on Project 2.2—AI-based three-dimensional ultrasound imaging algorithm at the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), and the Innovation and Technology Commission of Hong Ko",
+    "innohk_source": "doi_direct"
   },
   {
     "pmid": "40678509",
@@ -4589,8 +4592,11 @@
       "Xinge Yu"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "iversity of Hong Kong (grant nos. 9667221, 9678274 and 9610444), as part of the InnoHK Project 2.2–AI-based 3D ultrasound imaging algorithm at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), the Research Grants Council of the Hong Kong Special Administrative Region (grants no",
+    "innohk_source": "doi_direct"
   },
   {
     "pmid": "38491754",
@@ -6009,8 +6015,11 @@
       "Muhammad Shehzad Khan"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "section__content\" id=\"Ack1-content\"> The authors would like to thank Health @ InnoHK (Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) Shatin, Hong Kong, SAR, China for providing support in preparation of this comprehensive peer research. <div class=\"",
+    "innohk_source": "doi_direct"
   },
   {
     "pmid": "37385520",
@@ -6132,8 +6141,11 @@
       "Chunyi Zhi"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "c-article-section__content\" id=\"Ack1-content\"> This work was supported by the InnoHK Project (Project 1.3 — Flexible and Stretchable Technologies (FAST) for monitoring of CVD risk factors: sensing and applications and Project 1.4 — Flexible and Stretchable Technologies (FAST) for monitoring of CVD r",
+    "innohk_source": "doi_direct"
   },
   {
     "pmid": "37270584",
