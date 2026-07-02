@@ -72,170 +72,203 @@ def is_recent(p, threshold_date):
     return format_date(p) >= threshold_date
 
 def generate_readme(papers, recent, now):
-    affil_count = sum(1 for p in papers if 'affiliation' in p.get('source', []))
-    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
+    both = [p for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])]
+    single = [p for p in papers if p not in both]
+    both_recent = [p for p in recent if p in both]
+    
     lines = []
     lines.append('# 🧠 COCHE Paper Tracker')
     lines.append('')
     lines.append('> **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  ')
-    lines.append('> 双通道搜索: 机构署名 (affiliation) + InnoHK 致谢 (ITC KPI 合规)')
-    lines.append(f'> 📊 **{len(papers)} papers** | 🏷 InnoHK收录: {innohk_count} | 🆕 **{len(recent)} past 30d** | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8')
+    lines.append(f'> 📊 **{len(papers)} papers** | ⭐ 双通道: {len(both)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8')
     lines.append('')
     lines.append('📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)')
     lines.append('')
     lines.append('---')
     lines.append('')
-    if recent:
-        lines.append(f'## 🟡 Past 30 Days ({len(recent)})')
+    
+    # ⭐ Tier 1: Both channels — always prominent
+    if both_recent:
+        lines.append(f'## ⭐ 近期发表 — 机构+致谢双满足 ({len(both_recent)})')
         lines.append('')
-        for i, p in enumerate(recent, 1):
-            sources = p.get('source', [])
-            tag = ' 🏷️' if 'innohk_acknowledgement' in sources and 'affiliation' not in sources else ''
-            lines.append(f'{i}. **[{p["title"]}]({format_link(p)})**{tag}')
+        for i, p in enumerate(both_recent, 1):
+            lines.append(f'{i}. **[{p["title"]}]({format_link(p)})**')
             lines.append(f'   - 📅 {format_date(p)} | 📰 {(p.get("journal","") or "N/A")[:40]} | 👤 {format_authors(p)}')
         lines.append('')
+    
+    # 📋 Other recent papers — collapsed
+    other_recent = [p for p in recent if p not in both_recent]
+    if other_recent:
+        lines.append(f'<details><summary>📋 近30天其他 ({len(other_recent)} 篇，单通道)</summary>')
+        lines.append('')
+        for p in other_recent:
+            tag = ' 🏷' if p.get('source')==['innohk_acknowledgement'] else ''
+            lines.append(f'- [{p["title"][:80]}]({format_link(p)}) ({format_date(p)}){tag}')
+        lines.append('')
+        lines.append('</details>')
+        lines.append('')
+    
+    # Full list by year — both first, single collapsed
     year_counts = Counter(p['pub_year'] for p in papers)
-    lines.append('## 📋 All by Year')
+    lines.append('## 📋 全部论文（按年份）')
     lines.append('')
     for year in sorted(year_counts.keys(), reverse=True):
-        yr_papers = [p for p in papers if p['pub_year'] == year]
-        yr_recent = sum(1 for p in yr_papers if is_recent(p, threshold_str))
-        yr_innohk = sum(1 for p in yr_papers if 'innohk_acknowledgement' in p.get('source', []))
+        yr = [p for p in papers if p['pub_year'] == year]
+        yr_both = [p for p in yr if p in both]
+        yr_single = [p for p in yr if p not in yr_both]
+        yr_recent = sum(1 for p in yr if is_recent(p, threshold_str))
         badge = ''
+        if yr_both: badge += f' ⭐{len(yr_both)}'
         if yr_recent: badge += f' 🆕{yr_recent}'
-        if yr_innohk: badge += f' 🏷{yr_innohk}'
         lines.append(f'<details>')
-        lines.append(f'<summary><b>{year}</b> — {len(yr_papers)} papers{badge}</summary>')
+        lines.append(f'<summary><b>{year}</b> — {len(yr)} papers{badge}</summary>')
         lines.append('')
-        for i, p in enumerate(yr_papers, 1):
-            sources = p.get('source', [])
-            tag = ' 🏷' if 'innohk_acknowledgement' in sources else ''
-            lines.append(f'{i}. [{p["title"]}]({format_link(p)}) — *{(p.get("journal","") or "N/A")[:30]}* ({format_date(p)}){tag}')
+        for i, p in enumerate(yr_both, 1):
+            lines.append(f'{i}. ⭐ [{p["title"][:80]}]({format_link(p)}) — *{(p.get("journal","") or "N/A")[:30]}* ({format_date(p)})')
+        if yr_single:
+            yr_single_innohk = [p for p in yr_single if p.get('source')==['innohk_acknowledgement']]
+            yr_single_affil = [p for p in yr_single if p not in yr_single_innohk]
+            tail = ''
+            if yr_single_affil: tail += f' +{len(yr_single_affil)} 机构署名'
+            if yr_single_innohk: tail += f' +{len(yr_single_innohk)} InnoHK'
+            lines.append(f'<details><summary>更多论文{tail}（单通道）</summary>')
+            for p in yr_single:
+                tag = ' 🏷' if p.get('source')==['innohk_acknowledgement'] else ''
+                lines.append(f'- [{p["title"][:80]}]({format_link(p)}) ({format_date(p)}){tag}')
+            lines.append('</details>')
         lines.append('')
         lines.append('</details>')
         lines.append('')
     lines.append('---')
-    lines.append('*Auto-updated weekly via PubMed API (dual-channel: affiliation + InnoHK acknowledgement) — all dates are first-published*')
+    lines.append('> ⭐ **突出展示** = 机构署名 + InnoHK致谢 双满足 | 单通道论文默认折叠，点击展开')
+    lines.append('')
+    lines.append('*Auto-updated weekly via PubMed API — all dates are first-published*')
     lines.append('')
     return '\n'.join(lines)
 
 def generate_full_list(papers, now):
+    both = [p for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])]
+    both_set = set(id(p) for p in both)
     lines = []
     lines.append('# COCHE All Papers')
     lines.append('')
-    lines.append(f'> 📊 **{len(papers)}** papers | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8 | [Home](README.md)')
-    lines.append(f'> 搜索策略: 机构署名 + InnoHK 致谢 (ITC KPI 合规)')
+    lines.append(f'> 📊 **{len(papers)}** papers | ⭐ 双通道: {len(both)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8 | [Home](README.md)')
     lines.append('')
     lines.append('---')
     lines.append('')
     year_counts = Counter(p['pub_year'] for p in papers)
     for year in sorted(year_counts.keys(), reverse=True):
         yr_papers = [p for p in papers if p['pub_year'] == year]
+        yr_both = [p for p in yr_papers if p in both]
+        yr_single = [p for p in yr_papers if p not in yr_both]
         lines.append(f'## {year} ({len(yr_papers)})')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors | Source | PMID |')
+        lines.append('| # | Title | Date | Journal | COCHE Authors | Status | PMID |')
         lines.append('|---|---|---|---|---|---|---|')
-        for i, p in enumerate(yr_papers, 1):
+        for i, p in enumerate(yr_both, 1):
             title_escaped = p['title'].replace('|', '\\|')
-            sources = p.get('source', [])
-            if 'innohk_acknowledgement' in sources:
-                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
-            else:
-                src = 'affil'
-            lines.append(f'| {i} | [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:30]} | {format_authors(p, 99, "")} | {src} | {p["pmid"]} |')
+            lines.append(f'| {i} | ⭐ [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:30]} | {format_authors(p, 99, "")} | **双满足** | {p["pmid"]} |')
+        for p in yr_single:
+            is_innohk = p.get('source')==['innohk_acknowledgement']
+            title_escaped = p['title'].replace('|', '\\|')
+            tag = '🏷 InnoHK' if is_innohk else 'affil'
+            lines.append(f'| - | {title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 99, "")} | {tag} | {p["pmid"]} |')
         lines.append('')
-    lines.append(f'---')
-    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · Dual-channel search · All dates are first-published*')
+    lines.append('---')
+    lines.append('> ⭐ 双满足 = 机构署名 + InnoHK致谢 | 单通道论文以 `-` 序号弱化')
+    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")}*')
     lines.append('')
     return '\n'.join(lines)
 
 def generate_report(papers, recent, now):
-    affil_count = sum(1 for p in papers if 'affiliation' in p.get('source', []))
-    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
-    innohk_only = sum(1 for p in papers if p.get('source') == ['innohk_acknowledgement'])
+    both = [p for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])]
+    innohk_only = sum(1 for p in papers if p.get('source')==['innohk_acknowledgement'])
+    both_recent = [p for p in recent if p in both]
     lines = []
     lines.append(f'# COCHE Weekly Report')
     lines.append('')
     lines.append(f'**{now.strftime("%Y-%m-%d %H:%M")}** UTC+8')
     lines.append('')
     lines.append('## Summary')
-    lines.append(f'- Total: {len(papers)} (affiliation: {affil_count} | InnoHK ack: {innohk_count} | InnoHK-only: {innohk_only})')
-    lines.append(f'- Past 30d: {len(recent)}')
+    lines.append(f'- Total: {len(papers)} | ⭐ 双满足: {len(both)} | 仅InnoHK致谢: {innohk_only}')
+    lines.append(f'- Past 30d: {len(recent)} (双满足: {len(both_recent)})')
     lines.append('')
-    lines.append('## Search Strategy')
-    lines.append('Dual-channel search for ITC KPI compliance:')
-    lines.append('1. Affiliation: COCHE/Cerebro-Cardiovascular Health Engineering + Hong Kong')
-    lines.append('2. Acknowledgement: InnoHK + ITC/HKSAR Government')
-    lines.append('')
-    if recent:
-        lines.append('## 🟡 Past 30 Days')
+    if both_recent:
+        lines.append('## ⭐ 近期 — 机构+致谢双满足')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors | Source |')
-        lines.append('|---|---|---|---|---|---|')
-        for i, p in enumerate(recent, 1):
-            sources = p.get('source', [])
-            if 'innohk_acknowledgement' in sources:
-                src_label = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
-            else:
-                src_label = 'affil'
-            lines.append(f'| {i} | [{p["title"][:60]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 2, " …")} | {src_label} |')
+        lines.append('| # | Title | Date | Journal | COCHE Authors |')
+        lines.append('|---|---|---|---|---|')
+        for i, p in enumerate(both_recent, 1):
+            lines.append(f'| {i} | [{p["title"][:60]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 2, " …")} |')
+        lines.append('')
+    other_recent = [p for p in recent if p not in both_recent]
+    if other_recent:
+        lines.append('## 📋 近30天其他（单通道）')
+        lines.append('')
+        for p in other_recent:
+            tag = '🏷 InnoHK' if p.get('source')==['innohk_acknowledgement'] else ''
+            lines.append(f'- [{p["title"][:60]}]({format_link(p)}) | {format_date(p)} | {tag}')
         lines.append('')
     lines.append('---')
-    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · Dual-channel: affiliation + InnoHK*')
+    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · ⭐=dual channel*')
     lines.append('')
     return '\n'.join(lines)
 
 def generate_index(papers, recent, now):
-    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
+    both = [p for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])]
+    both_recent = [p for p in recent if p in both]
     lines = []
     lines.append('# COCHE Paper Tracker')
     lines.append('')
     lines.append('> **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**')
-    lines.append('> Weekly auto-update · Data: PubMed API · Dual-channel: affiliation + InnoHK')
+    lines.append('> Weekly auto-update · Dual-channel: affiliation + InnoHK · ⭐=both')
     lines.append('')
-    lines.append(f'📊 **Total: {len(papers)}** | 🏷 InnoHK: {innohk_count} | 🆕 Past 30d: {len(recent)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")}')
+    lines.append(f'📊 **Total: {len(papers)}** | ⭐ 双满足: {len(both)} | 🆕 Past 30d: {len(recent)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")}')
     lines.append('')
     lines.append('---')
     lines.append('')
-    if recent:
-        lines.append(f'## 🟡 Past 30 Days ({len(recent)})')
+    if both_recent:
+        lines.append(f'## ⭐ 近期 — 机构+致谢双满足 ({len(both_recent)})')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors | Source |')
-        lines.append('|---|---|---|---|---|---|')
-        for i, p in enumerate(recent, 1):
+        lines.append('| # | Title | Date | Journal | COCHE Authors |')
+        lines.append('|---|---|---|---|---|')
+        for i, p in enumerate(both_recent, 1):
             title = p['title'][:70] + ('...' if len(p['title']) > 70 else '')
-            sources = p.get('source', [])
-            if 'innohk_acknowledgement' in sources:
-                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
-            else:
-                src = 'affil'
-            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:28]} | {format_authors(p, 2, " 等")} | {src} |')
+            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:28]} | {format_authors(p, 2, " 等")} |')
         lines.append('')
+    
+    # Full list — both first, single collapsed
     year_counts = Counter(p['pub_year'] for p in papers)
     lines.append(f'## 📋 Full List ({len(papers)})')
     lines.append('')
     for year in sorted(year_counts.keys(), reverse=True):
-        yr_papers = [p for p in papers if p['pub_year'] == year]
-        lines.append(f'### {year} ({len(yr_papers)})')
+        yr = [p for p in papers if p['pub_year'] == year]
+        yr_both = [p for p in yr if p in both]
+        yr_single = [p for p in yr if p not in yr_both]
+        lines.append(f'### {year} ({len(yr)} papers)')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | Source |')
+        lines.append('| # | Title | Date | Journal | Status |')
         lines.append('|---|---|---|---|---|')
-        for i, p in enumerate(yr_papers, 1):
+        for i, p in enumerate(yr_both, 1):
             title = p['title'][:70] + ('...' if len(p['title']) > 70 else '')
-            sources = p.get('source', [])
-            if 'innohk_acknowledgement' in sources:
-                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
-            else:
-                src = 'affil'
-            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:26]} | {src} |')
+            lines.append(f'| {i} | ⭐ [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:26]} | 双满足 |')
+        if yr_single:
+            yr_si = [p for p in yr_single if p.get('source')==['innohk_acknowledgement']]
+            yr_sa = [p for p in yr_single if p not in yr_si]
+            tail = ''
+            if yr_sa: tail += f' +{len(yr_sa)} 机构'
+            if yr_si: tail += f' +{len(yr_si)} InnoHK'
+            lines.append(f'<details><summary>单通道论文{tail}</summary>')
+            for p in yr_single:
+                tag = '🏷 InnoHK' if p.get('source')==['innohk_acknowledgement'] else 'affil'
+                title = p['title'][:70] + ('...' if len(p['title']) > 70 else '')
+                lines.append(f'- [{title}]({format_link(p)}) | {format_date(p)} | {tag}')
+            lines.append('</details>')
         lines.append('')
     lines.append('---')
-    lines.append('')
     lines.append('📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)')
     lines.append('')
-    lines.append('> 🏷️ affil = affiliation match | InnoHK = acknowledgement match (ITC KPI compliant) | both = matched both')
-    lines.append('')
-    lines.append(f'*{now.strftime("%Y-%m-%d %H:%M:%S")} · PubMed API · Dual-channel search*')
+    lines.append(f'*{now.strftime("%Y-%m-%d %H:%M:%S")} · PubMed API · ⭐=机构署名+InnoHK致谢 双满足*')
     lines.append('')
     return '\n'.join(lines)
 
@@ -248,52 +281,61 @@ def generate_excel(papers, threshold_str):
     hdr_font = Font(bold=True, size=11, color='FFFFFF')
     hdr_fill = PatternFill(start_color='2F5496', end_color='2F5496', fill_type='solid')
     hdr_align = Alignment(horizontal='center', vertical='center', wrap_text=True)
-    yellow_fill = PatternFill(start_color='FFF2CC', end_color='FFF2CC', fill_type='solid')
-    green_fill = PatternFill(start_color='D9EAD3', end_color='D9EAD3', fill_type='solid')
+    gold_fill = PatternFill(start_color='FFF2CC', end_color='FFF2CC', fill_type='solid')  # both + recent
+    gray_font = Font(size=10, color='999999')
     thin_border = Border(left=Side(style='thin'),right=Side(style='thin'),top=Side(style='thin'),bottom=Side(style='thin'))
-    headers = ['#','PMID','Title','DOI','First Published','Journal','COCHE Authors','Source','All Authors','Link']
+    headers = ['#','PMID','Title','DOI','First Published','Journal','COCHE Authors','Status','All Authors','Link']
     for col, h in enumerate(headers, 1):
         c = ws.cell(row=1, column=col, value=h)
         c.font = hdr_font; c.fill = hdr_fill; c.alignment = hdr_align; c.border = thin_border
-    col_widths = [5, 10, 55, 30, 14, 30, 30, 22, 50, 35]
+    col_widths = [5, 10, 55, 30, 14, 30, 30, 20, 50, 35]
     for i,w in enumerate(col_widths, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = w
-    for idx, p in enumerate(papers, 1):
+    
+    # Sort: both-first, then date desc
+    def sort_key(p):
+        is_both = 0 if ('affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])) else 1
+        return (is_both, format_date(p))
+    sorted_papers = sorted(papers, key=sort_key)
+    # Actually: both-first + date-desc: both papers in date desc, then single papers in date desc
+    both_papers = [p for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])]
+    single_papers = [p for p in papers if p not in both_papers]
+    # Sort each section by date desc
+    mo_ord = {'Jan':0,'Feb':1,'Mar':2,'Apr':3,'May':4,'Jun':5,'Jul':6,'Aug':7,'Sep':8,'Oct':9,'Nov':10,'Dec':11}
+    both_papers.sort(key=lambda p: (int(p.get('pub_year','0')or'0'), mo_ord.get((p.get('pub_month','')or'Jan')[:3],0), int((p.get('pub_day','01')or'01'))), reverse=True)
+    single_papers.sort(key=lambda p: (int(p.get('pub_year','0')or'0'), mo_ord.get((p.get('pub_month','')or'Jan')[:3],0), int((p.get('pub_day','01')or'01'))), reverse=True)
+    # Interleave: both papers remain date-sorted, then single papers
+    display_order = both_papers + single_papers
+    
+    for idx, p in enumerate(display_order, 1):
         date_str = format_date(p)
         link = format_link(p)
         coche_auth = ', '.join(p.get('coche_authors', []))
         all_auth = ', '.join(str(a) for a in p.get('authors', [])[:8])
         if len(p.get('authors', [])) > 8: all_auth += ' ...'
-        # Source label
-        sources = p.get('source', [])
-        if 'affiliation' in sources and 'innohk_acknowledgement' in sources:
-            source_label = 'affiliation + InnoHK'
-        elif 'innohk_acknowledgement' in sources:
-            source_label = 'InnoHK acknowledgement'
-        elif 'affiliation' in sources:
-            source_label = 'affiliation'
+        is_both = 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[])
+        is_innohk_only = p.get('source')==['innohk_acknowledgement']
+        if is_both:
+            status_label = '⭐ 双满足'
+        elif is_innohk_only:
+            status_label = '🏷 InnoHK'
         else:
-            source_label = 'unknown'
-        row_data = [idx, p['pmid'], p['title'], p.get('doi',''), date_str, p.get('journal',''), coche_auth, source_label, all_auth, link]
+            status_label = 'affil'
+        row_data = [idx, p['pmid'], p['title'], p.get('doi',''), date_str, p.get('journal',''), coche_auth, status_label, all_auth, link]
         is_rec = date_str >= threshold_str
-        is_innohk_only = p.get('source') == ['innohk_acknowledgement']
         for col, val in enumerate(row_data, 1):
             c = ws.cell(row=idx + 1, column=col, value=val)
-            c.font = Font(size=10, bold=is_rec); c.alignment = Alignment(vertical='top', wrap_text=True); c.border = thin_border
-            if is_rec:
-                c.fill = yellow_fill
-            elif is_innohk_only:
-                c.fill = green_fill
-    legend_row = len(papers) + 3
+            c.font = Font(size=10, bold=(is_both and is_rec), color=('999999' if not is_both and not is_rec else None))
+            c.alignment = Alignment(vertical='top', wrap_text=True)
+            c.border = thin_border
+            if is_rec and is_both:
+                c.fill = gold_fill
+    legend_row = len(display_order) + 3
     ws.cell(row=legend_row, column=1, value='🟡').font = Font(size=14)
-    recent_count = len([p for p in papers if format_date(p) >= threshold_str])
-    ws.cell(row=legend_row, column=2, value=f'Yellow = past 30 days ({recent_count} papers)')
+    both_count = len(both_papers)
+    recent_both = sum(1 for p in both_papers if format_date(p) >= threshold_str)
+    ws.cell(row=legend_row, column=2, value=f'⭐ 双满足 = 机构署名 + InnoHK致谢 ({both_count} 篇) | 黄色高亮 = 双满足 + 近30天发表 ({recent_both} 篇) | 灰色 = 单通道')
     ws.merge_cells(start_row=legend_row, start_column=2, end_row=legend_row, end_column=10)
-    legend_row2 = legend_row + 1
-    innohk_only_count = sum(1 for p in papers if p.get('source') == ['innohk_acknowledgement'])
-    ws.cell(row=legend_row2, column=1, value='🟢').font = Font(size=14)
-    ws.cell(row=legend_row2, column=2, value=f'Green = InnoHK acknowledgement only (no COCHE affiliation, {innohk_only_count} papers)')
-    ws.merge_cells(start_row=legend_row2, start_column=2, end_row=legend_row2, end_column=10)
     ws.freeze_panes = 'A2'
     ws.auto_filter.ref = ws.dimensions
     wb.save(EXCEL_FILE)
