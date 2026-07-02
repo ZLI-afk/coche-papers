@@ -1,6 +1,6 @@
 # COCHE All Papers
 
-> 📊 **272** papers | ⭐ Dual-Channel: 103 | ⏰ 2026-07-02 18:45 UTC+8 | [Home](README.md)
+> 📊 **272** papers | ⭐ Dual-Channel: 105 | ⏰ 2026-07-02 19:21 UTC+8 | [Home](README.md)
 
 > **⭐ Dual-Channel** = COCHE affiliation + InnoHK/ITC acknowledgement (counts toward ITC KPI). Single-channel papers use `-` numbering. See [README](README.md) for full explanation.
 
@@ -10,18 +10,19 @@
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
-| 1 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | **Dual-Channel** | 42300259 |
-| 2 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | **Dual-Channel** | 42206883 |
-| 3 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemistry | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | **Dual-Channel** | 41995179 |
-| 4 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | **Dual-Channel** | 41989927 |
-| 5 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | **Dual-Channel** | 41984945 |
-| 6 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim, Ba | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | **Dual-Channel** | 41847908 |
-| 7 | ⭐ [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | **Dual-Channel** | 41498585 |
-| 8 | ⭐ [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | **Dual-Channel** | 41757248 |
-| 9 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | **Dual-Channel** | 42051419 |
-| 10 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | **Dual-Channel** | 41520071 |
+| 1 | ⭐ [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | **Dual-Channel** | 42319942 |
+| 2 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | **Dual-Channel** | 42300259 |
+| 3 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | **Dual-Channel** | 42206883 |
+| 4 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemistry | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | **Dual-Channel** | 41995179 |
+| 5 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Chemic | Yue Hou,Chunyi Zhi | **Dual-Channel** | 41989927 |
+| 6 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | **Dual-Channel** | 41984945 |
+| 7 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim, Ba | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | **Dual-Channel** | 41847908 |
+| 8 | ⭐ [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | **Dual-Channel** | 41498585 |
+| 9 | ⭐ [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | **Dual-Channel** | 41739548 |
+| 10 | ⭐ [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligence | Wei Tang | **Dual-Channel** | 41757248 |
+| 11 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | **Dual-Channel** | 42051419 |
+| 12 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | **Dual-Channel** | 41520071 |
 | - | Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise ma](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | Microsystems & nanoengine | Xinge Yu | affiliation | 42324249 |
-| - | Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | affiliation | 42319942 |
 | - | MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized Monitoring and Therap](https://doi.org/10.1002/smll.74020) | 2026-06-19 | Small (Weinheim an der Be | Bangul Khan,Bee Luan Khoo | affiliation | 42318608 |
 | - | A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Human-Machine Interact](https://doi.org/10.1002/advs.75507) | 2026-05-05 | Advanced science (Weinhei | N/A | 🏷 InnoHK-only | 42086494 |
 | - | Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insensitive PCrCEST MRI a](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | NMR in biomedicine | Qizhi Yang | affiliation | 41948794 |
@@ -29,7 +30,6 @@
 | - | Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-Life Alkaline Flow B](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | Advanced science (Weinhei | Yue Hou | affiliation | 41980210 |
 | - | Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and fu](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | Ultrasonics | Yang Liu | affiliation | 41980481 |
 | - | Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advanced Wearable Electroca](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | Small science | Bangul Khan,Md Shohidul Islam,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | affiliation | 42112468 |
-| - | Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | affiliation | 41739548 |
 | - | Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | Circulation research | Yujie Pu,Yu Huang | affiliation | 41685426 |
 | - | Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaques from Carotid Ultra](https://doi.org/10.3390/bioengineering13020190) | 2026-02-06 | Bioengineering (Basel, Sw | N/A | 🏷 InnoHK-only | 41749730 |
 | - | Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) | 2026-01-29 | International journal of  | Bee Luan Khoo | affiliation | 41683755 |
@@ -310,4 +310,4 @@
 
 ---
 > **⭐ Dual-Channel** = COCHE affiliation + InnoHK/ITC acknowledgement (ITC KPI compliant) | Single-channel papers use `-` numbering
-*Generated 2026-07-02 18:45:21*
+*Generated 2026-07-02 19:21:31*

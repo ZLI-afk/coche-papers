@@ -3,15 +3,16 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ Star = Dual-Channel (COCHE affiliation + InnoHK/ITC acknowledgement)
 
-📊 **Total: 272** | ⭐ Dual-Channel: 103 | 🆕 Past 30d: 4 | ⏰ 2026-07-02 18:45
+📊 **Total: 272** | ⭐ Dual-Channel: 105 | 🆕 Past 30d: 4 | ⏰ 2026-07-02 19:21
 
 ---
 
-## ⭐ Recent — Dual-Channel (1)
+## ⭐ Recent — Dual-Channel (2)
 
 | # | Title | Date | Journal | COCHE Authors |
 |---|---|---|---|---|
-| 1 | [The piezoionic diode: field-driven amplification of mechano-ionic conv...](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang et al. |
+| 1 | [Electronics with switchable flexibility for 3D conforming neural inter...](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi |
+| 2 | [The piezoionic diode: field-driven amplification of mechano-ionic conv...](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang et al. |
 
 ## 📋 Full List (272)
 
@@ -19,19 +20,20 @@
 
 | # | Title | Date | Journal | Status |
 |---|---|---|---|---|
-| 1 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conv...](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Dual-Channel |
-| 2 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Dual-Channel |
-| 3 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes ...](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemi | Dual-Channel |
-| 4 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Dep...](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Ch | Dual-Channel |
-| 5 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation s...](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Dual-Channel |
-| 6 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Elect...](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim | Dual-Channel |
-| 7 | ⭐ [A review of microfluidic technologies for thermal management in flexib...](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Dual-Channel |
-| 8 | ⭐ [Cardiac health assessment across scenarios and devices using a multimo...](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligenc | Dual-Channel |
-| 9 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Dual-Channel |
-| 10 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-of...](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Dual-Channel |
-<details><summary>Single-channel papers +13 affiliation +3 InnoHK</summary>
+| 1 | ⭐ [Electronics with switchable flexibility for 3D conforming neural inter...](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Dual-Channel |
+| 2 | ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conv...](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Dual-Channel |
+| 3 | ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Dual-Channel |
+| 4 | ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes ...](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chemi | Dual-Channel |
+| 5 | ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Dep...](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American Ch | Dual-Channel |
+| 6 | ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation s...](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Dual-Channel |
+| 7 | ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Elect...](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinheim | Dual-Channel |
+| 8 | ⭐ [A review of microfluidic technologies for thermal management in flexib...](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Dual-Channel |
+| 9 | ⭐ [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis o...](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Dual-Channel |
+| 10 | ⭐ [Cardiac health assessment across scenarios and devices using a multimo...](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligenc | Dual-Channel |
+| 11 | ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Dual-Channel |
+| 12 | ⭐ [Accelerating CEST MRI through complementary undersampling and multi-of...](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineering | Dual-Channel |
+<details><summary>Single-channel papers +11 affiliation +3 InnoHK</summary>
 - [Sweat and air permeable electronics enabled by engineered hierarchical...](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | affiliation
-- [Electronics with switchable flexibility for 3D conforming neural inter...](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | affiliation
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Pers...](https://doi.org/10.1002/smll.74020) | 2026-06-19 | affiliation
 - [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sen...](https://doi.org/10.1002/advs.75507) | 2026-05-05 | 🏷 InnoHK-only
 - [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Usin...](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | affiliation
@@ -39,7 +41,6 @@
 - [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes...](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | affiliation
 - [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for m...](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | affiliation
 - [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels f...](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | affiliation
-- [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis o...](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | affiliation
 - [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transi...](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | affiliation
 - [Cascaded Deep Learning-Based Model for Classification and Segmentation...](https://doi.org/10.3390/bioengineering13020190) | 2026-02-06 | 🏷 InnoHK-only
 - [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) | 2026-01-29 | affiliation
@@ -332,4 +333,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-07-02 18:45:21 · PubMed API · ⭐ = Dual-Channel (COCHE affiliation + InnoHK/ITC acknowledgement)*
+*2026-07-02 19:21:31 · PubMed API · ⭐ = Dual-Channel (COCHE affiliation + InnoHK/ITC acknowledgement)*

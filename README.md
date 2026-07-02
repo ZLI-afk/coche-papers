@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **272 papers** | ⭐ Dual-Channel: 103 | ⏰ 2026-07-02 18:45 UTC+8
+> 📊 **272 papers** | ⭐ Dual-Channel: 105 | ⏰ 2026-07-02 19:21 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -16,15 +16,16 @@ Papers matching only one channel (affiliation-only or acknowledgement-only) are 
 
 ---
 
-## ⭐ Recent — Dual-Channel (1)
+## ⭐ Recent — Dual-Channel (2)
 
-1. **[The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j)**
+1. **[Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752)**
+   - 📅 2026-06-19 | 📰 Science advances | 👤 Peng Shi
+2. **[The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j)**
    - 📅 2026-06-04 | 📰 Materials horizons | 👤 Bolong Li,Kai Yang,Zhihao Ma et al.
 
-<details><summary>📋 Other Recent (3 papers, single-channel)</summary>
+<details><summary>📋 Other Recent (2 papers, single-channel)</summary>
 
 - [Sweat and air permeable electronics enabled by engineered hierarchical fabric sy](https://doi.org/10.1038/s41378-026-01362-6) (2026-06-22)
-- [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) (2026-06-19)
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized M](https://doi.org/10.1002/smll.74020) (2026-06-19)
 
 </details>
@@ -32,21 +33,22 @@ Papers matching only one channel (affiliation-only or acknowledgement-only) are 
 ## 📋 All Papers by Year
 
 <details>
-<summary><b>2026</b> — 26 papers ⭐10 🆕4</summary>
+<summary><b>2026</b> — 26 papers ⭐12 🆕4</summary>
 
-1. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
-2. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
-3. ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearab](https://doi.org/10.1039/d5tb02743h) — *Journal of materials chemistry* (2026-05-06)
-4. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
-5. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
-6. ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Inte](https://doi.org/10.1002/advs.202524380) — *Advanced science (Weinheim, Ba* (2026-03-18)
-7. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
-8. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
-9. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
-10. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
-<details><summary>More papers +13 affiliation +3 InnoHK (single-channel)</summary>
+1. ⭐ [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) — *Science advances* (2026-06-19)
+2. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
+3. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
+4. ⭐ [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearab](https://doi.org/10.1039/d5tb02743h) — *Journal of materials chemistry* (2026-05-06)
+5. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
+6. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
+7. ⭐ [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Inte](https://doi.org/10.1002/advs.202524380) — *Advanced science (Weinheim, Ba* (2026-03-18)
+8. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
+9. ⭐ [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Fa](https://doi.org/10.1021/acssensors.5c03201) — *ACS sensors* (2026-02-25)
+10. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
+11. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
+12. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
+<details><summary>More papers +11 affiliation +3 InnoHK (single-channel)</summary>
 - [Sweat and air permeable electronics enabled by engineered hierarchical fabric sy](https://doi.org/10.1038/s41378-026-01362-6) (2026-06-22)
-- [Electronics with switchable flexibility for 3D conforming neural interfaces.](https://doi.org/10.1126/sciadv.aee2752) (2026-06-19)
 - [MXene-Based Piezoelectric and Triboelectric Energy Harvesters for Personalized M](https://doi.org/10.1002/smll.74020) (2026-06-19)
 - [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Hu](https://doi.org/10.1002/advs.75507) (2026-05-05) 🏷 InnoHK-only
 - [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insen](https://doi.org/10.1002/nbm.70280) (2026-05-01)
@@ -54,7 +56,6 @@ Papers matching only one channel (affiliation-only or acknowledgement-only) are 
 - [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-](https://doi.org/10.1002/advs.202524374) (2026-04-14)
 - [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascul](https://doi.org/10.1016/j.ultras.2026.108095) (2026-04-09)
 - [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advance](https://doi.org/10.1002/smsc.202500526) (2026-03-28)
-- [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Fa](https://doi.org/10.1021/acssensors.5c03201) (2026-02-25)
 - [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and A](https://doi.org/10.1161/CIRCRESAHA.125.326815) (2026-02-13)
 - [Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaque](https://doi.org/10.3390/bioengineering13020190) (2026-02-06) 🏷 InnoHK-only
 - [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) (2026-01-29)

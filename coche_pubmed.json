@@ -64,8 +64,11 @@
       "Peng Shi"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "P.S.) from the Research Grants Council (RGC) of Hong Kong SAR. Support from the Innovation and Technology Commission of Hong Kong through the Centre for Cerebro-Cardiovascular Health Engineering and funds from City University of Hong Kong (7005084, 7005206, 7005642, 7020003, 7020077, 9680233, and 92",
+    "innohk_source": "itc_fullname"
   },
   {
     "pmid": "42318608",
@@ -553,8 +556,11 @@
       "Peng Shi"
     ],
     "source": [
-      "affiliation"
-    ]
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "innohk_snippet": "e and Technology Program (Category C, SGDX2020110309300502, P.S.). Support from Innovation and Technology Commission of Hong Kong through the Centre for Cerebro-Cardiovascular Health Engineering and funds from City University of Hong Kong (7005084, 7005206, 7005642, 7020003, 7020077, 9680233, and 92",
+    "innohk_source": "itc_fullname"
   },
   {
     "pmid": "41757248",
