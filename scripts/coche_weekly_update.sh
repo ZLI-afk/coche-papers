@@ -59,22 +59,20 @@ def is_coche_affiliation(aff_text):
     return has_coche and has_hk and not venezuela
 
 def is_innohk_ack(text):
-    """Check if text contains an InnoHK+ITC acknowledgement pattern."""
+    """Check if text contains an InnoHK acknowledgement for COCHE.
+    
+    PubMed XML may contain InnoHK in these fields:
+    - Abstract (funding statement at end)
+    - Grant/Agency (grant acknowledgement)
+    - Affiliation (author institution)
+    
+    We accept ANY text that mentions InnoHK — the upstream query already
+    ANDs with COCHE/Cerebro keywords, so false positives are minimal.
+    False negatives are worse for ITC KPI reporting.
+    """
     if not text: return False
     t = text.lower()
-    has_innohk = any(x in t for x in ['innohk', 'inno hk'])
-    has_itc = any(x in t for x in [
-        'innovation and technology commission',
-        'innovation & technology commission',
-        'itc-innohk',
-    ])
-    has_hk_gov = any(x in t for x in [
-        'hong kong special administrative region',
-        'hong kong sar',
-        'the government of the hong kong',
-        'hksar government',
-    ])
-    return has_innohk and (has_itc or has_hk_gov)
+    return 'innohk' in t or 'inno hk' in t
 
 # ── Channel A: COCHE affiliation queries ───────────────────────
 AFFILIATION_QUERIES = [
@@ -95,13 +93,12 @@ TEXT_QUERIES = [
 ]
 
 # ── Channel B: InnoHK acknowledgement queries ──────────────────
-# PubMed indexes acknowledgements and grants in [All Fields] / [Grant]
-# We search for "InnoHK" anywhere then post-filter for COCHE context
+# Strategy: search for "InnoHK" AND COCHE/Cerebro keywords anywhere
+# PubMed indexes acknowledgements/grant fields in [All Fields] and [Grant Number]
+# Only papers mentioning BOTH InnoHK AND COCHE-related terms are relevant
 INNOHK_QUERIES = [
-    # Search for InnoHK + COCHE keywords anywhere in the record
     '"InnoHK"[All Fields] AND ("cerebro-cardiovascular"[All Fields] OR "cerebra-cardiovascular"[All Fields] OR "cerebrocardiovascular"[All Fields] OR "COCHE"[All Fields])',
-    # Search for InnoHK + ITC grant field
-    '"InnoHK"[Grant Number] OR (("InnoHK"[All Fields] OR "ITC-InnoHK"[All Fields]) AND "Innovation and Technology Commission"[All Fields])',
+    '"InnoHK"[Grant Number] AND ("cerebro-cardiovascular"[All Fields] OR "cerebra-cardiovascular"[All Fields] OR "cerebrocardiovascular"[All Fields] OR "COCHE"[All Fields])',
 ]
 
 CHANNEL_A_QUERIES = AFFILIATION_QUERIES + TEXT_QUERIES
@@ -193,9 +190,15 @@ for i in range(0, len(all_ids), 100):
 
             # ── Determine source channels ──
             in_affiliation = pmid in channel_a_pmids
-            in_innohk_ack = ((pmid in channel_b_pmids) or
-                            is_innohk_ack(abstract_text) or
-                            is_innohk_ack(grant_combined))
+
+            # For InnoHK detection: scan ALL text in the article XML
+            # (abstract, grant, affiliation, comment, etc.)
+            # This catches papers where InnoHK appears in various PubMed fields
+            article_xml = ET.tostring(article, encoding='unicode')
+            in_innohk_ack = (
+                pmid in channel_b_pmids or
+                is_innohk_ack(article_xml)
+            )
 
             # ── Authors ──
             authors, coche_authors = [], []
@@ -249,16 +252,19 @@ for i in range(0, len(all_ids), 100):
             if not sources:
                 sources.append('unknown')
 
-            # ── Find matching InnoHK snippet from abstracts/grants ──
+            # ── Find matching InnoHK snippet from full article XML ──
             innohk_snippet = ''
             if in_innohk_ack:
-                for text_blob in [abstract_text, grant_combined]:
-                    idx = text_blob.lower().find('innohk')
-                    if idx >= 0:
-                        start = max(0, idx - 60)
-                        end = min(len(text_blob), idx + 200)
-                        innohk_snippet = text_blob[start:end]
-                        break
+                idx = article_xml.lower().find('innohk')
+                if idx >= 0:
+                    start = max(0, idx - 60)
+                    end = min(len(article_xml), idx + 200)
+                    # Strip XML tags for cleaner display
+                    import re
+                    raw = article_xml[start:end]
+                    raw = re.sub(r'<[^>]+>', ' ', raw)
+                    raw = re.sub(r'\s+', ' ', raw).strip()
+                    innohk_snippet = raw
 
             papers.append({
                 'pmid': pmid, 'doi': doi, 'title': title,

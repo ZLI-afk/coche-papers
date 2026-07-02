@@ -1,24 +1,22 @@
-# COCHE Weekly Report
+# COCHE Paper Tracker — Weekly Report
+**更新时间**: 2026-07-02 13:10 (Asia/Shanghai)
 
-**2026-07-02 13:00** UTC+8
+## 📊 概要
+- **论文总数**: 0 篇
+  - 机构署名 (affiliation): 0 篇
+  - InnoHK致谢收录: 0 篇
+  - 纯InnoHK致谢 (无COCHE署名): 0 篇
+- **本周新增**: 0 篇 (其中 InnoHK-only: 0 篇)
+- **近30天发表**: 0 篇
 
-## Summary
-- Total: 263 (affiliation: 0 | InnoHK ack: 0 | InnoHK-only: 0)
-- Past 30d: 4
+## 📝 搜索策略
+采用双通道搜索，以满足ITC KPI申报要求：
+1. **机构署名匹配** — 作者affiliation包含COCHE/Cerebro-Cardiovascular Health Engineering + Hong Kong
+2. **InnoHK致谢匹配** — 论文acknowledgement/grant中包含InnoHK + ITC/HKSAR Government
 
-## Search Strategy
-Dual-channel search for ITC KPI compliance:
-1. Affiliation: COCHE/Cerebro-Cardiovascular Health Engineering + Hong Kong
-2. Acknowledgement: InnoHK + ITC/HKSAR Government
-
-## 🟡 Past 30 Days
-
-| # | Title | Date | Journal | COCHE Authors | Source |
-|---|---|---|---|---|---|
-| 1 | [Sweat and air permeable electronics enabled by engineered hi](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | Microsystems & nanoengine | Xinge Yu | affil |
-| 2 | [Electronics with switchable flexibility for 3D conforming ne](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | Science advances | Peng Shi | affil |
-| 3 | [MXene-Based Piezoelectric and Triboelectric Energy Harvester](https://doi.org/10.1002/smll.74020) | 2026-06-19 | Small (Weinheim an der Be | Bangul Khan,Bee Luan Khoo | affil |
-| 4 | [The piezoionic diode: field-driven amplification of mechano-](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang … | affil |
+ITC认可致谢声明模板：
+> *Fully supported:* "This study was supported by the InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government."
+> *Partly supported:* "This study was funded in part by the InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government..."
 
 ---
-*Generated 2026-07-02 13:00:06 · Dual-channel: affiliation + InnoHK*
+*自动生成于 2026-07-02 13:10:29 | 数据来源: PubMed API (双通道: affiliation + InnoHK acknowledgement)*
