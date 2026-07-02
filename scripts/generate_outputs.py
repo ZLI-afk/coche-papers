@@ -10,6 +10,7 @@ Rules (DO NOT MODIFY):
   - All dates are extracted from JSON fields as-is
   - Sorting: by pub_year DESC, pub_month DESC, pub_day DESC
   - "Recent 30 days" = papers where date >= (today - 30 days)
+  - Supports "source" field: 'affiliation' and/or 'innohk_acknowledgement'
   - This script contains ZERO LLM-generated content — only deterministic logic
 """
 
@@ -71,11 +72,14 @@ def is_recent(p, threshold_date):
     return format_date(p) >= threshold_date
 
 def generate_readme(papers, recent, now):
+    affil_count = sum(1 for p in papers if 'affiliation' in p.get('source', []))
+    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
     lines = []
     lines.append('# 🧠 COCHE Paper Tracker')
     lines.append('')
     lines.append('> **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  ')
-    lines.append(f'> 📊 **{len(papers)} papers** | 🆕 **{len(recent)} past 30d** | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8')
+    lines.append('> 双通道搜索: 机构署名 (affiliation) + InnoHK 致谢 (ITC KPI 合规)')
+    lines.append(f'> 📊 **{len(papers)} papers** | 🏷 InnoHK收录: {innohk_count} | 🆕 **{len(recent)} past 30d** | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8')
     lines.append('')
     lines.append('📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)')
     lines.append('')
@@ -85,7 +89,9 @@ def generate_readme(papers, recent, now):
         lines.append(f'## 🟡 Past 30 Days ({len(recent)})')
         lines.append('')
         for i, p in enumerate(recent, 1):
-            lines.append(f'{i}. **[{p["title"]}]({format_link(p)})**  ')
+            sources = p.get('source', [])
+            tag = ' 🏷️' if 'innohk_acknowledgement' in sources and 'affiliation' not in sources else ''
+            lines.append(f'{i}. **[{p["title"]}]({format_link(p)})**{tag}')
             lines.append(f'   - 📅 {format_date(p)} | 📰 {(p.get("journal","") or "N/A")[:40]} | 👤 {format_authors(p)}')
         lines.append('')
     year_counts = Counter(p['pub_year'] for p in papers)
@@ -94,17 +100,22 @@ def generate_readme(papers, recent, now):
     for year in sorted(year_counts.keys(), reverse=True):
         yr_papers = [p for p in papers if p['pub_year'] == year]
         yr_recent = sum(1 for p in yr_papers if is_recent(p, threshold_str))
-        badge = f' 🆕{yr_recent}' if yr_recent else ''
+        yr_innohk = sum(1 for p in yr_papers if 'innohk_acknowledgement' in p.get('source', []))
+        badge = ''
+        if yr_recent: badge += f' 🆕{yr_recent}'
+        if yr_innohk: badge += f' 🏷{yr_innohk}'
         lines.append(f'<details>')
         lines.append(f'<summary><b>{year}</b> — {len(yr_papers)} papers{badge}</summary>')
         lines.append('')
         for i, p in enumerate(yr_papers, 1):
-            lines.append(f'{i}. [{p["title"]}]({format_link(p)}) — *{(p.get("journal","") or "N/A")[:30]}* ({format_date(p)})')
+            sources = p.get('source', [])
+            tag = ' 🏷' if 'innohk_acknowledgement' in sources else ''
+            lines.append(f'{i}. [{p["title"]}]({format_link(p)}) — *{(p.get("journal","") or "N/A")[:30]}* ({format_date(p)}){tag}')
         lines.append('')
         lines.append('</details>')
         lines.append('')
     lines.append('---')
-    lines.append('*Auto-updated weekly via PubMed API — all dates are first-published*')
+    lines.append('*Auto-updated weekly via PubMed API (dual-channel: affiliation + InnoHK acknowledgement) — all dates are first-published*')
     lines.append('')
     return '\n'.join(lines)
 
@@ -113,6 +124,7 @@ def generate_full_list(papers, now):
     lines.append('# COCHE All Papers')
     lines.append('')
     lines.append(f'> 📊 **{len(papers)}** papers | ⏰ {now.strftime("%Y-%m-%d %H:%M")} UTC+8 | [Home](README.md)')
+    lines.append(f'> 搜索策略: 机构署名 + InnoHK 致谢 (ITC KPI 合规)')
     lines.append('')
     lines.append('---')
     lines.append('')
@@ -121,59 +133,83 @@ def generate_full_list(papers, now):
         yr_papers = [p for p in papers if p['pub_year'] == year]
         lines.append(f'## {year} ({len(yr_papers)})')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors | PMID |')
-        lines.append('|---|---|---|---|---|---|')
+        lines.append('| # | Title | Date | Journal | COCHE Authors | Source | PMID |')
+        lines.append('|---|---|---|---|---|---|---|')
         for i, p in enumerate(yr_papers, 1):
             title_escaped = p['title'].replace('|', '\\|')
-            lines.append(f'| {i} | [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:30]} | {format_authors(p, 99, "")} | {p["pmid"]} |')
+            sources = p.get('source', [])
+            if 'innohk_acknowledgement' in sources:
+                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
+            else:
+                src = 'affil'
+            lines.append(f'| {i} | [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:30]} | {format_authors(p, 99, "")} | {src} | {p["pmid"]} |')
         lines.append('')
     lines.append(f'---')
-    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · All dates are first-published*')
+    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · Dual-channel search · All dates are first-published*')
     lines.append('')
     return '\n'.join(lines)
 
 def generate_report(papers, recent, now):
+    affil_count = sum(1 for p in papers if 'affiliation' in p.get('source', []))
+    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
+    innohk_only = sum(1 for p in papers if p.get('source') == ['innohk_acknowledgement'])
     lines = []
     lines.append(f'# COCHE Weekly Report')
     lines.append('')
     lines.append(f'**{now.strftime("%Y-%m-%d %H:%M")}** UTC+8')
     lines.append('')
     lines.append('## Summary')
-    lines.append(f'- Total: {len(papers)}')
+    lines.append(f'- Total: {len(papers)} (affiliation: {affil_count} | InnoHK ack: {innohk_count} | InnoHK-only: {innohk_only})')
     lines.append(f'- Past 30d: {len(recent)}')
+    lines.append('')
+    lines.append('## Search Strategy')
+    lines.append('Dual-channel search for ITC KPI compliance:')
+    lines.append('1. Affiliation: COCHE/Cerebro-Cardiovascular Health Engineering + Hong Kong')
+    lines.append('2. Acknowledgement: InnoHK + ITC/HKSAR Government')
     lines.append('')
     if recent:
         lines.append('## 🟡 Past 30 Days')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors |')
-        lines.append('|---|---|---|---|---|')
+        lines.append('| # | Title | Date | Journal | COCHE Authors | Source |')
+        lines.append('|---|---|---|---|---|---|')
         for i, p in enumerate(recent, 1):
-            lines.append(f'| {i} | [{p["title"][:60]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 2, " …")} |')
+            sources = p.get('source', [])
+            if 'innohk_acknowledgement' in sources:
+                src_label = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
+            else:
+                src_label = 'affil'
+            lines.append(f'| {i} | [{p["title"][:60]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 2, " …")} | {src_label} |')
         lines.append('')
     lines.append('---')
-    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")}*')
+    lines.append(f'*Generated {now.strftime("%Y-%m-%d %H:%M:%S")} · Dual-channel: affiliation + InnoHK*')
     lines.append('')
     return '\n'.join(lines)
 
 def generate_index(papers, recent, now):
+    innohk_count = sum(1 for p in papers if 'innohk_acknowledgement' in p.get('source', []))
     lines = []
     lines.append('# COCHE Paper Tracker')
     lines.append('')
     lines.append('> **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**')
-    lines.append('> Weekly auto-update · Data: PubMed API')
+    lines.append('> Weekly auto-update · Data: PubMed API · Dual-channel: affiliation + InnoHK')
     lines.append('')
-    lines.append(f'📊 **Total: {len(papers)}** | 🆕 Past 30d: {len(recent)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")}')
+    lines.append(f'📊 **Total: {len(papers)}** | 🏷 InnoHK: {innohk_count} | 🆕 Past 30d: {len(recent)} | ⏰ {now.strftime("%Y-%m-%d %H:%M")}')
     lines.append('')
     lines.append('---')
     lines.append('')
     if recent:
         lines.append(f'## 🟡 Past 30 Days ({len(recent)})')
         lines.append('')
-        lines.append('| # | Title | Date | Journal | COCHE Authors |')
-        lines.append('|---|---|---|---|---|')
+        lines.append('| # | Title | Date | Journal | COCHE Authors | Source |')
+        lines.append('|---|---|---|---|---|---|')
         for i, p in enumerate(recent, 1):
-            title = p['title'][:75] + ('...' if len(p['title']) > 75 else '')
-            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:28]} | {format_authors(p, 2, " 等")} |')
+            title = p['title'][:70] + ('...' if len(p['title']) > 70 else '')
+            sources = p.get('source', [])
+            if 'innohk_acknowledgement' in sources:
+                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
+            else:
+                src = 'affil'
+            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:28]} | {format_authors(p, 2, " 等")} | {src} |')
         lines.append('')
     year_counts = Counter(p['pub_year'] for p in papers)
     lines.append(f'## 📋 Full List ({len(papers)})')
@@ -182,17 +218,24 @@ def generate_index(papers, recent, now):
         yr_papers = [p for p in papers if p['pub_year'] == year]
         lines.append(f'### {year} ({len(yr_papers)})')
         lines.append('')
-        lines.append('| # | Title | Date | Journal |')
-        lines.append('|---|---|---|---|')
+        lines.append('| # | Title | Date | Journal | Source |')
+        lines.append('|---|---|---|---|---|')
         for i, p in enumerate(yr_papers, 1):
-            title = p['title'][:75] + ('...' if len(p['title']) > 75 else '')
-            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:28]} |')
+            title = p['title'][:70] + ('...' if len(p['title']) > 70 else '')
+            sources = p.get('source', [])
+            if 'innohk_acknowledgement' in sources:
+                src = '🏷 InnoHK' if 'affiliation' not in sources else 'both'
+            else:
+                src = 'affil'
+            lines.append(f'| {i} | [{title}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:26]} | {src} |')
         lines.append('')
     lines.append('---')
     lines.append('')
     lines.append('📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)')
     lines.append('')
-    lines.append(f'*{now.strftime("%Y-%m-%d %H:%M:%S")} · PubMed API*')
+    lines.append('> 🏷️ affil = affiliation match | InnoHK = acknowledgement match (ITC KPI compliant) | both = matched both')
+    lines.append('')
+    lines.append(f'*{now.strftime("%Y-%m-%d %H:%M:%S")} · PubMed API · Dual-channel search*')
     lines.append('')
     return '\n'.join(lines)
 
@@ -206,12 +249,13 @@ def generate_excel(papers, threshold_str):
     hdr_fill = PatternFill(start_color='2F5496', end_color='2F5496', fill_type='solid')
     hdr_align = Alignment(horizontal='center', vertical='center', wrap_text=True)
     yellow_fill = PatternFill(start_color='FFF2CC', end_color='FFF2CC', fill_type='solid')
+    green_fill = PatternFill(start_color='D9EAD3', end_color='D9EAD3', fill_type='solid')
     thin_border = Border(left=Side(style='thin'),right=Side(style='thin'),top=Side(style='thin'),bottom=Side(style='thin'))
-    headers = ['#','PMID','Title','DOI','First Published','Journal','COCHE Authors','All Authors','Link']
+    headers = ['#','PMID','Title','DOI','First Published','Journal','COCHE Authors','Source','All Authors','Link']
     for col, h in enumerate(headers, 1):
         c = ws.cell(row=1, column=col, value=h)
         c.font = hdr_font; c.fill = hdr_fill; c.alignment = hdr_align; c.border = thin_border
-    col_widths = [5, 10, 55, 30, 14, 30, 30, 50, 35]
+    col_widths = [5, 10, 55, 30, 14, 30, 30, 22, 50, 35]
     for i,w in enumerate(col_widths, 1):
         ws.column_dimensions[ws.cell(row=1, column=i).column_letter].width = w
     for idx, p in enumerate(papers, 1):
@@ -220,16 +264,36 @@ def generate_excel(papers, threshold_str):
         coche_auth = ', '.join(p.get('coche_authors', []))
         all_auth = ', '.join(str(a) for a in p.get('authors', [])[:8])
         if len(p.get('authors', [])) > 8: all_auth += ' ...'
-        row_data = [idx, p['pmid'], p['title'], p.get('doi',''), date_str, p.get('journal',''), coche_auth, all_auth, link]
+        # Source label
+        sources = p.get('source', [])
+        if 'affiliation' in sources and 'innohk_acknowledgement' in sources:
+            source_label = 'affiliation + InnoHK'
+        elif 'innohk_acknowledgement' in sources:
+            source_label = 'InnoHK acknowledgement'
+        elif 'affiliation' in sources:
+            source_label = 'affiliation'
+        else:
+            source_label = 'unknown'
+        row_data = [idx, p['pmid'], p['title'], p.get('doi',''), date_str, p.get('journal',''), coche_auth, source_label, all_auth, link]
         is_rec = date_str >= threshold_str
+        is_innohk_only = p.get('source') == ['innohk_acknowledgement']
         for col, val in enumerate(row_data, 1):
             c = ws.cell(row=idx + 1, column=col, value=val)
             c.font = Font(size=10, bold=is_rec); c.alignment = Alignment(vertical='top', wrap_text=True); c.border = thin_border
-            if is_rec: c.fill = yellow_fill
+            if is_rec:
+                c.fill = yellow_fill
+            elif is_innohk_only:
+                c.fill = green_fill
     legend_row = len(papers) + 3
     ws.cell(row=legend_row, column=1, value='🟡').font = Font(size=14)
-    ws.cell(row=legend_row, column=2, value=f'Yellow highlight = past 30 days ({len([p for p in papers if format_date(p) >= threshold_str])} papers)')
-    ws.merge_cells(start_row=legend_row, start_column=2, end_row=legend_row, end_column=9)
+    recent_count = len([p for p in papers if format_date(p) >= threshold_str])
+    ws.cell(row=legend_row, column=2, value=f'Yellow = past 30 days ({recent_count} papers)')
+    ws.merge_cells(start_row=legend_row, start_column=2, end_row=legend_row, end_column=10)
+    legend_row2 = legend_row + 1
+    innohk_only_count = sum(1 for p in papers if p.get('source') == ['innohk_acknowledgement'])
+    ws.cell(row=legend_row2, column=1, value='🟢').font = Font(size=14)
+    ws.cell(row=legend_row2, column=2, value=f'Green = InnoHK acknowledgement only (no COCHE affiliation, {innohk_only_count} papers)')
+    ws.merge_cells(start_row=legend_row2, start_column=2, end_row=legend_row2, end_column=10)
     ws.freeze_panes = 'A2'
     ws.auto_filter.ref = ws.dimensions
     wb.save(EXCEL_FILE)
