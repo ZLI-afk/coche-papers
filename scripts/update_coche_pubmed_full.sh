@@ -132,6 +132,7 @@ for i in range(0, len(all_ids), 100):
                 title = ''
             
             authors = []
+            author_list = []
             coche_authors = []
             all_affiliations = []
             
@@ -142,13 +143,22 @@ for i in range(0, len(all_ids), 100):
                 
                 affs = []
                 in_coche = False
+                is_corr = False
                 for aff in author.findall('.//AffiliationInfo/Affiliation'):
                     aff_text = aff.text or ''
                     affs.append(aff_text)
                     all_affiliations.append(aff_text)
                     if is_coche_affiliation(aff_text):
                         in_coche = True
+                    if re.search(r'(?:correspond|\*|✉|📧)', aff_text, re.IGNORECASE):
+                        is_corr = True
                 authors.append({'name': name.strip() if name else '', 'affiliations': affs})
+                author_list.append({
+                    'name': name.strip() if name else '',
+                    'affiliations': affs,
+                    'is_corresponding': is_corr,
+                    'is_coche': in_coche
+                })
                 if in_coche and name:
                     coche_authors.append(name.strip())
             
@@ -190,7 +200,7 @@ for i in range(0, len(all_ids), 100):
                 'pmid': pmid, 'doi': doi, 'title': title,
                 'journal': journal_name, 'pub_year': year,
                 'pub_month': month, 'pub_day': day,
-                'authors': authors, 'coche_authors': coche_authors,
+                'authors': authors, 'author_list': author_list, 'coche_authors': coche_authors,
                 'coche_in_grants': grants_mention_coche,
                 'all_affiliations': all_affiliations[:50]
             })

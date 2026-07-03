@@ -7,9 +7,13 @@
 #   1. Fetch NEW papers only from PubMed (dual-channel search)
 #   2. Merge new papers → coche_pubmed.json (preserving existing data)
 #   3. Scan new papers for InnoHK via PMC full-text
-#   4. Scan new papers for InnoHK/ITC via HKU EZproxy (full-text publisher pages)
-#   5. Generate all outputs (README.md, Excel, etc.)
+#   4. Scan new papers for InnoHK via HKU EZproxy (full-text publisher pages)
+#   5. Generate all outputs (README.md, Excel, etc.) with ITC year sorting
 #   6. Commit & push to GitHub
+#
+# === Channel B (updated 2025-07): ONLY the word "InnoHK" ===
+# === ITC reporting period: Dec 1 – Nov 30 ===
+# === Excel: full author names, corresponding authors marked with * ===
 #
 # NOTE: This script NEVER re-fetches existing papers — coche_pubmed.json
 # is the single source of truth. All existing InnoHK tags are preserved.
@@ -155,21 +159,35 @@ else:
                     grant_texts.append(' '.join(parts))
                 grant_combined = ' '.join(grant_texts)
                 
-                # Authors
-                authors, coche_authors = [], []
+                # Authors — capture structured data with corresponding author info
+                author_list = []
+                coche_authors = []
                 for author in article.findall('.//Author'):
                     last = author.find('./LastName')
                     fore = author.find('./ForeName')
                     name = f'{fore.text} {last.text}' if fore is not None and last is not None else ''
+                    
                     in_coche = False
+                    aff_list = []
+                    is_corr = False
                     for aff in author.findall('.//AffiliationInfo/Affiliation'):
                         aff_text = aff.text or ''
+                        aff_list.append(aff_text)
                         if is_coche_affiliation(aff_text):
                             in_coche = True
-                        authors.append(aff_text) if aff_text else None
+                        # Detect corresponding author from common markers
+                        if re.search(r'(?:correspond|\*|✉|📧)', aff_text, re.IGNORECASE):
+                            is_corr = True
+                    
                     if in_coche and name:
                         coche_authors.append(name.strip())
-                    authors.append(name.strip() if name else '')
+                    
+                    author_list.append({
+                        'name': name.strip() if name else '',
+                        'affiliations': aff_list,
+                        'is_corresponding': is_corr,
+                        'is_coche': in_coche
+                    })
                 
                 journal = article.find('.//Journal/Title')
                 journal_name = journal.text if journal is not None else ''
@@ -193,7 +211,7 @@ else:
                 papers.append({
                     'pmid': pmid, 'doi': doi, 'title': title,
                     'journal': journal_name, 'pub_year': y, 'pub_month': m, 'pub_day': d,
-                    'authors': authors, 'coche_authors': coche_authors,
+                    'author_list': author_list, 'coche_authors': coche_authors,
                     'source': ['affiliation'] if coche_authors else [],
                     'pmc': pmc,
                     'date_is_precise': True,
@@ -255,7 +273,7 @@ else:
     innohk = sum(1 for p in existing if 'innohk_acknowledgement' in p.get('source', []))
     both = sum(1 for p in existing if 'affiliation' in p.get('source', []) and 'innohk_acknowledgement' in p.get('source', []))
     print(f"  Merged {added} new papers")
-    print(f"  Total: {len(existing)} | ⭐ Dual-Channel: {both} | InnoHK total: {innohk}")
+    print(f"  Total: {len(existing)} | ⭐ InnoHK: {innohk} ({both} dual)")
 PYEOF
 
 # ==============================================================
@@ -269,10 +287,10 @@ python3 "$SCRIPT_DIR/scan_innohk_pmc.py" 2>&1 | tee -a "$LOG_FILE" || echo "  PM
 # ==============================================================
 # Step 4: Scan new papers for InnoHK/ITC via EZproxy
 # ==============================================================
-echo "[$(date '+%H:%M:%S')] [4/6] Scanning new papers via EZproxy (InnoHK + ITC full-name)..." | tee -a "$LOG_FILE"
+echo "[$(date '+%H:%M:%S')] [4/6] Scanning new papers via EZproxy (InnoHK only)..." | tee -a "$LOG_FILE"
 
 python3 << 'PYEOF'
-"""EZproxy scan for NEW papers only — check for InnoHK and Innovation and Technology Commission."""
+"""EZproxy scan for NEW papers only — check for InnoHK acknowledgement."""
 import json, requests, re, time, os
 
 WORKSPACE = '/home/ubuntu/.openclaw/workspace'
@@ -296,11 +314,9 @@ cookies = {
 }
 headers = {'User-Agent': 'Mozilla/5.0'}
 
-# Combined patterns: InnoHK + ITC full name
+# Channel B: ONLY detect the word "InnoHK" (not ITC full name)
 patterns = [
     re.compile(r'InnoHK', re.IGNORECASE),
-    re.compile(r'Innovation\s+and\s+Technology\s+Commission.*?(?:through|project|grant|support|fund|award|InnoHK|COCHE|Centre|Center|Health)', re.IGNORECASE),
-    re.compile(r'(?:supported|funded|sponsored)\s+(?:by|in\s+part\s+by).*?Innovation\s+and\s+Technology\s+Commission', re.IGNORECASE),
 ]
 
 def has_ack_context(html, match_pos):
@@ -341,11 +357,30 @@ for p in target:
                 
                 p.setdefault('source', []).append('innohk_acknowledgement')
                 p['innohk_snippet'] = snippet[:300]
-                p['innohk_source'] = f'ezproxy_{"itc_fullname" if "commission" in m.group().lower() else "innohk"}'
+                p['innohk_source'] = 'ezproxy_innohk'
                 new_finds += 1
                 found = True
                 print(f"  ✅ PMID {p['pmid']}: {p['title'][:70]}")
-                break
+        
+        # Also try to find corresponding authors from publisher page
+        author_list = p.get('author_list', [])
+        if author_list and not any(a.get('is_corresponding', False) for a in author_list):
+            # Look for corresponding author annotations near author names
+            for author in author_list:
+                name = author.get('name', '')
+                if not name.strip():
+                    continue
+                last_name = name.split()[-1]
+                # Find position of this last name in the HTML
+                # Common patterns: "*Correspondence", "email:", corresponding author ID
+                name_pat = re.escape(last_name)
+                for m2 in re.finditer(name_pat, html, re.IGNORECASE):
+                    start = max(0, m2.start() - 500)
+                    end = min(len(html), m2.end() + 500)
+                    chunk = html[start:end].lower()
+                    if re.search(r'(?:correspond|email[:\"]\s*\w|✉|📧|to\s+whom)', chunk):
+                        author['is_corresponding'] = True
+                        break
         
     except Exception as e:
         pass
@@ -367,8 +402,8 @@ with open(PUBMED_FILE, 'w') as f:
 
 both_final = sum(1 for p in papers if 'affiliation' in p.get('source',[]) and 'innohk_acknowledgement' in p.get('source',[]))
 io_final = sum(1 for p in papers if p.get('source') == ['innohk_acknowledgement'])
-print(f"  EZproxy scan done: {new_finds} new InnoHK/ITC finds")
-print(f"  Total: {len(papers)} | ⭐ Dual-Channel: {both_final} | InnoHK-only: {io_final}")
+print(f"  EZproxy scan done: {new_finds} new InnoHK finds")
+print(f"  Total: {len(papers)} | ⭐ InnoHK: {both_final} | InnoHK-only: {io_final}")
 PYEOF
 
 # ==============================================================
