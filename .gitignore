@@ -28,3 +28,7 @@ coche_pubmed_fetch_log.txt
 openclaw-workspace-state.json
 coche_gs_ack_checklist.md
 
+# PDFs - local only, too large for GitHub
+/pdfs/
+missing_categorized.json
+
