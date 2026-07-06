@@ -1,12 +1,12 @@
 # COCHE All Papers
 
-> 📊 **409** papers | ⭐ InnoHK: 142 (133 dual) | ⏰ 2026-07-03 12:40 UTC+8 | [Home](README.md)
+> 📊 **448** papers | ⭐ InnoHK: 121 (107 dual) | ⏰ 2026-07-06 09:12 UTC+8 | [Home](README.md)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgement (ITC KPI metric). Papers are grouped by ITC reporting year (Dec 1 – Nov 30).
 
 ---
 
-## ITC 2026 (43 papers, 20 InnoHK)
+## ITC 2026 (44 papers, 21 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
@@ -16,45 +16,46 @@
 | 4 | [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang,Zhihao Ma,Zhiheng Zeng,Dong Wang,Derek Ho | ⭐ InnoHK | 42300259 |
 | - | [Mechanisms of Pericyte-Mediated Cancer Metastasis.](https://doi.org/10.1002/advs.202600031) | 2026-06-01 | Advanced science (Weinhei | N/A | COCHE affiliation | 42138940 |
 | 6 | [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) | 2026-05-28 | Lab on a chip | Hogi Hartanto,Jiaheng Li,Ting-Hsuan Chen | ⭐ InnoHK | 42206883 |
+| - | [Surface reduction boosts free electron concentration in MXene for enhanced photothermal performance.](https://doi.org/10.1126/sciadv.aee2009) | 2026-05-15 | Science advances | N/A | 🏷 InnoHK-only | 42127176 |
 | - | [Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular mo](https://doi.org/10.1039/d5tb02743h) | 2026-05-06 | Journal of materials chem | Bangul Khan,Muhammad Shehzad Khan,Liangyi Lyu,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | COCHE affiliation | 41995179 |
 | - | [A Soft Mechanoluminescent Skin for High-Resolution Optical Tactile Sensing in Human-Machine Interact](https://doi.org/10.1002/advs.75507) | 2026-05-05 | Advanced science (Weinhei | N/A | 🏷 InnoHK-only | 42086494 |
 | - | [Noninvasive Mapping of Creatine Kinase Metabolism in Human Muscle Using pH-Insensitive PCrCEST MRI a](https://doi.org/10.1002/nbm.70280) | 2026-05-01 | NMR in biomedicine | Qizhi Yang | COCHE affiliation | 41948794 |
 | - | [DermalECG: Multifunctional Organohydrogel for Real-Time ECG Monitoring and Wound Healing on Burned S](https://doi.org/10.1002/adhm.202505887) | 2026-04-24 | Advanced healthcare mater | Rafi U Shan Ahmad,Muhammad Shehzad Khan,Bangul Khan,Bee Luan Khoo | COCHE affiliation | 42027058 |
-| 11 | [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American C | Yue Hou,Chunyi Zhi | ⭐ InnoHK | 41989927 |
-| 12 | [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | ⭐ InnoHK | 41984945 |
+| 12 | [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition for High-Performance S](https://doi.org/10.1021/jacs.5c23299) | 2026-04-16 | Journal of the American C | Yue Hou,Chunyi Zhi | ⭐ InnoHK | 41989927 |
+| 13 | [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for the muscles.](https://doi.org/10.1126/sciadv.aed7673) | 2026-04-15 | Science advances | Zhenlin Chen,Jingkun Zhou,Huiling Jia,Shengxin Jia,Binbin Zhang,Chun Ki Yiu,Jian Li,Xinge Yu | ⭐ InnoHK | 41984945 |
 | - | [Fixed-Linkage Enabled Ultra-Stable Ion Transport Channels in Membranes for Long-Life Alkaline Flow B](https://doi.org/10.1002/advs.202524374) | 2026-04-14 | Advanced science (Weinhei | Yue Hou | COCHE affiliation | 41980210 |
 | - | [Frame‑wise weighted resolution‑enhanced power Doppler ultrasound for microvascular structural and fu](https://doi.org/10.1016/j.ultras.2026.108095) | 2026-04-09 | Ultrasonics | Yang Liu | COCHE affiliation | 41980481 |
 | - | [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advanced Wearable Electroca](https://doi.org/10.1002/smsc.202500526) | 2026-03-28 | Small science | Bangul Khan,Md Shohidul Islam,Iyappan Gunasekaran,Rafi U Shan Ahmad,Bee Luan Khoo | COCHE affiliation | 42112468 |
 | - | [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Integration.](https://doi.org/10.1002/advs.202524380) | 2026-03-18 | Advanced science (Weinhei | Jianpeng Zhang,Binbin Zhang,Chun Ki Yiu,Jingkun Zhou,Weibin Zhu,Xinge Yu | COCHE affiliation | 41847908 |
-| 17 | [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | ⭐ InnoHK | 41498585 |
+| 18 | [A review of microfluidic technologies for thermal management in flexible electronics.](https://doi.org/10.1039/d5lc00906e) | 2026-03-04 | Lab on a chip | Xinge Yu | ⭐ InnoHK | 41498585 |
 | - | [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Failure.](https://doi.org/10.1021/acssensors.5c03201) | 2026-02-25 | ACS sensors | Richard Yan-Do,Xi Zhao,Peng Shi | COCHE affiliation | 41739548 |
-| 19 | [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligen | Wei Tang | ⭐ InnoHK | 41757248 |
+| 20 | [Cardiac health assessment across scenarios and devices using a multimodal foundation model pretraine](https://doi.org/10.1038/s42256-026-01180-5) | 2026-02-24 | Nature machine intelligen | Wei Tang | ⭐ InnoHK | 41757248 |
 | - | [Coviretinopathy: COVID-19-induced VEGF-dependent retinopathy.](https://doi.org/10.1073/pnas.2516405123) | 2026-02-17 | Proceedings of the Nation | N/A | COCHE affiliation | 41662529 |
 | - | [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and Atherogenesis Through](https://doi.org/10.1161/CIRCRESAHA.125.326815) | 2026-02-13 | Circulation research | Yujie Pu,Yu Huang | COCHE affiliation | 41685426 |
-| 22 | [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | ⭐ InnoHK | 42051419 |
+| 23 | [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) | 2026-02-12 | National science review | Peng Shi | ⭐ InnoHK | 42051419 |
 | - | [Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaques from Carotid Ultra](https://doi.org/10.3390/bioengineering13020190) | 2026-02-06 | Bioengineering (Basel, Sw | N/A | 🏷 InnoHK-only | 41749730 |
 | - | [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) | 2026-01-29 | International journal of  | Bee Luan Khoo | COCHE affiliation | 41683755 |
 | - | [A microfluidic microspheres accumulation platform for direct visualization of urine albumin-to-creat](https://doi.org/10.1016/j.bios.2026.118400) | 2026-01-13 | Biosensors & bioelectroni | Chenyu Cui,Ting-Hsuan Chen | COCHE affiliation | 41564481 |
-| 26 | [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineerin | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | ⭐ InnoHK | 41520071 |
+| 27 | [Accelerating CEST MRI through complementary undersampling and multi-offset transformer reconstructio](https://doi.org/10.1038/s44172-025-00580-6) | 2026-01-10 | Communications engineerin | Huabing Liu,Zilin Chen,Lok Hin Law,Yang Liu,Kannie Wai Yan Chan | ⭐ InnoHK | 41520071 |
 | - | [Artificial Intelligence-Enhanced Wearable Blood Pressure Monitoring in Resource-Limited Settings: A ](https://doi.org/10.1007/s40820-025-02003-9) | 2026-01-05 | Nano-micro letters | Ting Xiang,Zijun Liu | COCHE affiliation | 41486315 |
 | - | [Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1 vaccination using a](https://doi.org/10.1371/journal.pone.0336449) | 2026-01-01 | PloS one | N/A | 🏷 InnoHK-only | 41719246 |
 | - | [A Perspective on Non-Invasive Blood Pressure Monitoring: Bridging Emerging Principles, Enabling Tech](https://pubmed.ncbi.nlm.nih.gov/) | 2026-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [MIMIC platform: Automated microfluidic platform for efficient circulating cell-free DNA extraction a](https://pubmed.ncbi.nlm.nih.gov/) | 2026-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Meet the First Authors](https://pubmed.ncbi.nlm.nih.gov/) | 2026-01-01 | N/A | N/A | COCHE affiliation |  |
-| 32 | [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with Electrochemical Synerg](https://doi.org/10.1007/s42765-026-00727-w) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 33 | [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with Electrochemical Synerg](https://doi.org/10.1007/s42765-026-00727-w) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [Tracking ovulation: Self-test microfluidic chip for personal luteinizing hormone level monitoring](https://pubmed.ncbi.nlm.nih.gov/) | 2026-01-01 | N/A | N/A | COCHE affiliation |  |
-| 34 | [A three-dimensional stretchable core–shell cable for soft and hybrid electronics that is patternable](https://doi.org/10.1038/s41928-026-01596-2) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 35 | [A three-dimensional stretchable core–shell cable for soft and hybrid electronics that is patternable](https://doi.org/10.1038/s41928-026-01596-2) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [Feature-Aligned Cell Detection for Heterogeneous Microscopic Images With Focal Attenuated Distance T](https://pubmed.ncbi.nlm.nih.gov/) | 2026-01-01 | N/A | N/A | COCHE affiliation |  |
-| 36 | [Surface reduction boosts free electron concentration in MXene for enhanced photothermal performance](https://doi.org/10.1126/sciadv.aee2009) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 37 | [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Structure Designs and Dru](https://doi.org/10.3390/molecules31010086) | 2025-12-25 | Molecules (Basel, Switzer | Qi Zhang | ⭐ InnoHK | 41515383 |
-| 38 | [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) | 2025-12-22 | Proceedings of the Nation | Chun Ki Yiu,Binbin Zhang,Jingkun Zhou,Jian Li,Jiyu Li,Zhenlin Chen,Zhenyu Liu,Xinge Yu | ⭐ InnoHK | 41428887 |
+| 37 | [Surface reduction boosts free electron concentration in MXene for enhanced photothermal performance](https://doi.org/10.1126/sciadv.aee2009) | 2026-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 38 | [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Structure Designs and Dru](https://doi.org/10.3390/molecules31010086) | 2025-12-25 | Molecules (Basel, Switzer | Qi Zhang | ⭐ InnoHK | 41515383 |
+| 39 | [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) | 2025-12-22 | Proceedings of the Nation | Chun Ki Yiu,Binbin Zhang,Jingkun Zhou,Jian Li,Jiyu Li,Zhenlin Chen,Zhenyu Liu,Xinge Yu | ⭐ InnoHK | 41428887 |
 | - | [Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by reperfusion therapy-a ](https://doi.org/10.1038/s41467-025-66167-z) | 2025-12-14 | Nature communications | L T Lui,Rosa H M Chan | COCHE affiliation | 41392086 |
-| 40 | [A conformal piezoelectric microsystem for demographic-adaptive and calibration-free cuffless blood p](https://doi.org/10.1038/s41467-025-67118-4) | 2025-12-09 | Nature communications | Cunman Liang,Zhou Jiang,Lei Zhao,Xiao Yang,Ni Zhao | ⭐ InnoHK | 41366208 |
-| 41 | [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data Consistency.](https://doi.org/10.1002/nbm.70159) | 2025-12-01 | NMR in biomedicine | Huabing Liu,Kannie W Y Chan | ⭐ InnoHK | 41098042 |
-| 42 | [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interactions in Polymer Elect](https://doi.org/10.1002/adma.202512960) | 2025-12-01 | Advanced materials (Deerf | Dechao Zhang,Shimei Li,Qi Xiong,Chunyi Zhi | ⭐ InnoHK | 41324265 |
+| 41 | [A conformal piezoelectric microsystem for demographic-adaptive and calibration-free cuffless blood p](https://doi.org/10.1038/s41467-025-67118-4) | 2025-12-09 | Nature communications | Cunman Liang,Zhou Jiang,Lei Zhao,Xiao Yang,Ni Zhao | ⭐ InnoHK | 41366208 |
+| 42 | [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data Consistency.](https://doi.org/10.1002/nbm.70159) | 2025-12-01 | NMR in biomedicine | Huabing Liu,Kannie W Y Chan | ⭐ InnoHK | 41098042 |
+| 43 | [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interactions in Polymer Elect](https://doi.org/10.1002/adma.202512960) | 2025-12-01 | Advanced materials (Deerf | Dechao Zhang,Shimei Li,Qi Xiong,Chunyi Zhi | ⭐ InnoHK | 41324265 |
 | - | [HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane detection in fetal he](https://doi.org/10.1016/j.media.2025.103758) | 2025-12-01 | Medical image analysis | N/A | 🏷 InnoHK-only | 40876099 |
 
-## ITC 2025 (90 papers, 37 InnoHK)
+## ITC 2025 (91 papers, 37 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
@@ -73,54 +74,55 @@
 | - | [Hybrid living electronic skin for proactive scarless wound healing.](https://doi.org/10.1016/j.biomaterials.2025.123721) | 2025-09-15 | Biomaterials | Peng Shi | COCHE affiliation | 40972250 |
 | - | [Lewis Acid-Driven Weak Electrostatic Interaction of Polybenzimidazole-Based Membrane for Alkaline Zi](https://doi.org/10.1002/adma.202510023) | 2025-09-09 | Advanced materials (Deerf | Chunyi Zhi | COCHE affiliation | 40926377 |
 | 15 | [A solid-state battery capable of 180 C superfast charging and 100% energy retention at -30 °C.](https://doi.org/10.1073/pnas.2511121122) | 2025-09-08 | Proceedings of the Nation | Shimei Li,Dechao Zhang,Qi Xiong,Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 40920935 |
+| - | [From deep learning discovery to clinical validation: a new composite marker predicts mortality in ty](https://doi.org/10.1186/s40842-025-00229-5) | 2025-09-03 | Cardiovascular diabetolog | N/A | COCHE affiliation | 41013834 |
 | - | [Oriented synergistic assembly of one-dimensional Te nanowires/SWCNTs for high-performance thermoelec](https://doi.org/10.1016/j.jcis.2025.138878) | 2025-08-29 | Journal of colloid and in | Bo Wu | COCHE affiliation | 40896993 |
-| 17 | [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) | 2025-08-29 | Magnetic resonance in med | Yang Liu,Se Weon Park,Lok Hin Law,Kannie W Y Chan | ⭐ InnoHK | 40883871 |
-| 18 | [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) | 2025-08-28 | ACS nano | Wooyoung Park,Shengxin Jia,Chun Ki Yiu,Xinge Yu | ⭐ InnoHK | 40873398 |
+| 18 | [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) | 2025-08-29 | Magnetic resonance in med | Yang Liu,Se Weon Park,Lok Hin Law,Kannie W Y Chan | ⭐ InnoHK | 40883871 |
+| 19 | [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) | 2025-08-28 | ACS nano | Wooyoung Park,Shengxin Jia,Chun Ki Yiu,Xinge Yu | ⭐ InnoHK | 40873398 |
 | - | [Advancements in microfluidic technology for rapid bacterial detection and inflammation-driven diseas](https://doi.org/10.1039/d4lc00795f) | 2025-07-08 | Lab on a chip | Yatian Fu,Wei Li,Bee Luan Khoo | COCHE affiliation | 40201957 |
 | - | [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for Rapid, Cost-Effective Urinary](https://doi.org/10.1021/acs.analchem.5c00930) | 2025-07-08 | Analytical chemistry | Wei Li,Mingze Zhu,Xinrui Wang,Zhiqiang Ma,Mohamed Elhousseini Hilal,Bryan P Yan,Bee Luan Khoo | COCHE affiliation | 40628647 |
 | - | [Automatic cell classification and quantification with machine learning in immunohistochemistry image](https://doi.org/10.1080/01478885.2025.2523618) | 2025-07-01 | Journal of histotechnolog | Muhammad Shehzad Khan | COCHE affiliation | 40591929 |
-| 22 | [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electronic wound bandage.](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | Yanli Jiao,Jingkun Zhou,Chun Ki Yiu,Jian Li,Binbin Zhang,Zhenlin Chen,Xinge Yu | ⭐ InnoHK | 40593825 |
+| 23 | [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electronic wound bandage.](https://doi.org/10.1038/s41467-025-61261-8) | 2025-07-01 | Nature communications | Yanli Jiao,Jingkun Zhou,Chun Ki Yiu,Jian Li,Binbin Zhang,Zhenlin Chen,Xinge Yu | ⭐ InnoHK | 40593825 |
 | - | [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos with a multi-tier tr](https://doi.org/10.1016/j.media.2025.103611) | 2025-07-01 | Medical image analysis | N/A | 🏷 InnoHK-only | 40344944 |
-| 24 | [Plasmonic printing of high-performance metal oxide electronics under room temperature.](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | Jian Li,Jingkun Zhou,Xinge Yu | ⭐ InnoHK | 40537557 |
+| 25 | [Plasmonic printing of high-performance metal oxide electronics under room temperature.](https://doi.org/10.1038/s41563-025-02268-w) | 2025-06-19 | Nature materials | Jian Li,Jingkun Zhou,Xinge Yu | ⭐ InnoHK | 40537557 |
 | - | [Deep learning enhanced deciphering of brain activity maps for discovery of therapeutics for brain di](https://doi.org/10.1016/j.isci.2025.112868) | 2025-06-10 | iScience | Peng Shi | COCHE affiliation | 40678509 |
-| 26 | [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Intern | Chunyi Zhi | ⭐ InnoHK | 40464841 |
+| 27 | [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) | 2025-06-09 | Angewandte Chemie (Intern | Chunyi Zhi | ⭐ InnoHK | 40464841 |
 | - | [Artificial intelligence-enabled prenatal ultrasound for the detection of fetal cardiac abnormalities](https://doi.org/10.1016/j.eclinm.2025.103250) | 2025-06-01 | EClinicalMedicine | N/A | 🏷 InnoHK-only | 40687738 |
-| 28 | [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | Xiao Yang,Kannie W Y Chan,Zuankai Wang | ⭐ InnoHK | 40474951 |
-| 29 | [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Flexible and Compact E](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Be | Qing Yin | ⭐ InnoHK | 40434238 |
-| 30 | [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interphases Enabling 5.1 V S](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Intern | Yue Hou,Shimei Li,Chunyi Zhi | ⭐ InnoHK | 40377405 |
+| 29 | [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) | 2025-05-30 | Chemical science | Xiao Yang,Kannie W Y Chan,Zuankai Wang | ⭐ InnoHK | 40474951 |
+| 30 | [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Flexible and Compact E](https://doi.org/10.1002/smll.202504209) | 2025-05-28 | Small (Weinheim an der Be | Qing Yin | ⭐ InnoHK | 40434238 |
+| 31 | [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interphases Enabling 5.1 V S](https://doi.org/10.1002/anie.202505147) | 2025-05-23 | Angewandte Chemie (Intern | Yue Hou,Shimei Li,Chunyi Zhi | ⭐ InnoHK | 40377405 |
 | - | [Y-shaped DNA as a dynamic self-assembly nanomaterial for phenotype-specific regulation of stem cell ](https://doi.org/10.1093/rb/rbaf043) | 2025-05-14 | Regenerative biomaterials | Ting Hsuan Chen | COCHE affiliation | 40575763 |
-| 32 | [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-Voltage Lithium Meta](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerf | Shimei Li,Qi Xiong,Dechao Zhang,Chunyi Zhi | ⭐ InnoHK | 40317519 |
+| 33 | [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-Voltage Lithium Meta](https://doi.org/10.1002/adma.202504333) | 2025-05-02 | Advanced materials (Deerf | Shimei Li,Qi Xiong,Dechao Zhang,Chunyi Zhi | ⭐ InnoHK | 40317519 |
 | - | [Advancements in Bio-Integrated Flexible Electronics for Hemodynamic Monitoring in Cardiovascular Hea](https://doi.org/10.1002/advs.202415215) | 2025-04-25 | Advanced science (Weinhei | Ke Huang,Zhiqiang Ma,Bee Luan Khoo | COCHE affiliation | 40278795 |
 | - | [Minimizing neonatal hypothyroidism induced by lithium exposure through breast milk.](https://doi.org/10.1016/j.jtemb.2025.127653) | 2025-04-12 | Journal of trace elements | Muhammad Shehzad Khan | COCHE affiliation | 40250223 |
 | - | [Progress in Developing Polymer Electrolytes for Advanced Zn Batteries.](https://doi.org/10.1002/smtd.202500031) | 2025-04-08 | Small methods | Chunyi Zhi | COCHE affiliation | 40195887 |
 | - | [Multimodal triple-mode probe with colorimetric-fluorescence-SERS (CFSERS) for sensitive and quantita](https://doi.org/10.1016/j.talanta.2025.128100) | 2025-04-07 | Talanta | Wei Li,Xinrui Wang,Mingze Zhu,Xin Huang,Pacifique Hirwa Umutoni,Ting-Hsuan Chen,Jian Lu,Shih-Chi Chen,Bryan P Yan,Bee Luan Khoo | COCHE affiliation | 40245796 |
-| 37 | [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface f](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | Chunki Yiu,Jian Li,Jingkun Zhou,Binbin Zhang,Xinge Yu | ⭐ InnoHK | 40138404 |
+| 38 | [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface f](https://doi.org/10.1126/sciadv.adt6041) | 2025-03-26 | Science advances | Chunki Yiu,Jian Li,Jingkun Zhou,Binbin Zhang,Xinge Yu | ⭐ InnoHK | 40138404 |
 | - | [A Multifunctional Binder for Current-Collector-Free Zn Powder Anodes.](https://doi.org/10.1002/adma.202419702) | 2025-03-25 | Advanced materials (Deerf | Chunyi Zhi | COCHE affiliation | 40130704 |
-| 39 | [Self-powered electrotactile textile haptic glove for enhanced human-machine interface.](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | Shengxin Jia,Jiyu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | ⭐ InnoHK | 40117358 |
-| 40 | [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and intraoperative and post](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | Xinge Yu | ⭐ InnoHK | 40106548 |
+| 40 | [Self-powered electrotactile textile haptic glove for enhanced human-machine interface.](https://doi.org/10.1126/sciadv.adt0318) | 2025-03-21 | Science advances | Shengxin Jia,Jiyu Li,Binbin Zhang,Chun Ki Yiu,Xinge Yu | ⭐ InnoHK | 40117358 |
+| 41 | [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and intraoperative and post](https://doi.org/10.1126/sciadv.adu3146) | 2025-03-19 | Science advances | Xinge Yu | ⭐ InnoHK | 40106548 |
 | - | [Deformation-invariant neural network and its applications in distorted image restoration and analysi](https://doi.org/10.1016/j.neunet.2025.107378) | 2025-03-16 | Neural networks : the off | Han Zhang | COCHE affiliation | 40121786 |
-| 42 | [Emerging rapid detection methods for the monitoring of cardiovascular diseases: Current trends and f](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | Rafi U Shan Ahmad,Wasim Ullah Khan,Muhammad Shehzad Khan | ⭐ InnoHK | 40213156 |
+| 43 | [Emerging rapid detection methods for the monitoring of cardiovascular diseases: Current trends and f](https://doi.org/10.1016/j.mtbio.2025.101663) | 2025-03-14 | Materials today. Bio | Rafi U Shan Ahmad,Wasim Ullah Khan,Muhammad Shehzad Khan | ⭐ InnoHK | 40213156 |
 | - | [Utilizing Nanomaterials in Microfluidic Devices for Disease Detection and Treatment.](https://doi.org/10.3390/nano15060434) | 2025-03-12 | Nanomaterials (Basel, Swi | Yatian Fu | COCHE affiliation | 40137607 |
 | - | [A parts-per-million scale electrolyte additive for durable aqueous zinc batteries.](https://doi.org/10.1038/s41467-025-56607-1) | 2025-02-20 | Nature communications | Dechao Zhang,Chunyi Zhi | COCHE affiliation | 39979314 |
 | - | [Sweetener aspartame aggravates atherosclerosis through insulin-triggered inflammation.](https://doi.org/10.1016/j.cmet.2025.01.006) | 2025-02-19 | Cell metabolism | Weijie Wu,Wenhai Sui,Sizhe Chen,Xu Jing,Xiaolu Wang,Qun Wang,Xinshuang Yu,Wenjing Xiong,Yihai Cao | COCHE affiliation | 39978336 |
-| 46 | [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time Monitoring and Vascu](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | Zhiqiang Ma,Shangjie Zou,Ke Huang,Wei Li,Mohamed Elhousseini Hilal,Mingze Zhu,Yatian Fu,Bee Luan Khoo | ⭐ InnoHK | 39818734 |
+| 47 | [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time Monitoring and Vascu](https://doi.org/10.1021/acsnano.4c09980) | 2025-01-17 | ACS nano | Zhiqiang Ma,Shangjie Zou,Ke Huang,Wei Li,Mohamed Elhousseini Hilal,Mingze Zhu,Yatian Fu,Bee Luan Khoo | ⭐ InnoHK | 39818734 |
 | - | [A tellurium iodide perovskite structure enabling eleven-electron transfer in zinc ion batteries.](https://doi.org/10.1038/s41467-024-55385-6) | 2025-01-08 | Nature communications | Dechao Zhang,Chunyi Zhi | COCHE affiliation | 39779662 |
 | - | [Bioinspired bicontinuous adhesive hydrogel for wearable strain sensor with high sensitivity and a wi](https://doi.org/10.1016/j.jcis.2025.01.031) | 2025-01-07 | Journal of colloid and in | Qing Yin | COCHE affiliation | 39809019 |
 | - | [Aqueous Alkaline Zinc-Iodine Battery with Two-Electron Transfer.](https://doi.org/10.1021/acsnano.4c16550) | 2025-01-07 | ACS nano | Zhaodong Huang,Chunyi Zhi | COCHE affiliation | 39772478 |
-| 50 | [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applicat | Hongjin Li,Shih-Chi Chen | ⭐ InnoHK | 39741128 |
+| 51 | [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) | 2025-01-01 | Light, science & applicat | Hongjin Li,Shih-Chi Chen | ⭐ InnoHK | 39741128 |
 | - | [Hierarchical yolk‐shell silicon/carbon anode materials enhanced by vertical graphene sheets for comm](https://doi.org/10.1002/adfm.202413081) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Salt dissociation and localized high-concentration solvation at the interface of a fluorinated gel a](https://pubmed.ncbi.nlm.nih.gov/) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
-| 53 | [Sweat‐powered, skin‐adhesive multimodal sensor for long‐term and real‐time sweat monitoring](https://doi.org/10.1002/bmm2.12124) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 54 | [Sweat‐powered, skin‐adhesive multimodal sensor for long‐term and real‐time sweat monitoring](https://doi.org/10.1002/bmm2.12124) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [Personalized continuous blood pressure tracking through single channel PPG in wearable scenarios](https://doi.org/10.1109/jbhi.2025.3535788) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Prolonged monitoring and risk management of hyperuricemia using interference-resistant wearable bioe](https://doi.org/10.1016/j.device.2025.100753) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
-| 56 | [Prenatal detection of congenital heart defects using the deep learning-based image and video analysi](https://doi.org/10.1136/bmjopen-2025-101263) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 57 | [Fluorinated-oligomeric ionic liquids for high-performance wide-temperature solid zinc batteries](https://doi.org/10.1039/d4ee05153j) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 57 | [Prenatal detection of congenital heart defects using the deep learning-based image and video analysi](https://doi.org/10.1136/bmjopen-2025-101263) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 58 | [Fluorinated-oligomeric ionic liquids for high-performance wide-temperature solid zinc batteries](https://doi.org/10.1039/d4ee05153j) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [Incongruent multimodal federated learning for medical vision and language-based multi-label disease ](https://doi.org/10.1609/aaai.v39i27.35054) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
-| 59 | [A multi-modal smart chest patch for real-time cardiopulmonary monitoring and anomaly detection](https://doi.org/10.1007/s40843-025-3667-7) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 60 | [A multi-modal smart chest patch for real-time cardiopulmonary monitoring and anomaly detection](https://doi.org/10.1007/s40843-025-3667-7) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [PDSNet: Patient-disease dual spatial similarity neural networks for predicting heart failure risk us](https://pubmed.ncbi.nlm.nih.gov/) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Individualised treatment effects estimation with composite treatments and composite outcomes](https://doi.org/10.1109/embc58623.2025.11252651) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [High-Quality CEST Mapping With Lorentzian-Model Informed Neural Representation](https://doi.org/10.1109/tbme.2025.3574238/mm1) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
-| 63 | [A textile-based alignment-free electrophysiological sensing sleeve for comprehensive cardiovascular ](https://doi.org/10.1038/s41378-025-01088-x) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 64 | [A textile-based alignment-free electrophysiological sensing sleeve for comprehensive cardiovascular ](https://doi.org/10.1038/s41378-025-01088-x) | 2025-01-01 | N/A | N/A | ⭐ InnoHK |  |
 | - | [ECG-guided individual identification via PPG](https://doi.org/10.1109/icassp49660.2025.10890435) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Multi-Wavelength Photoplethysmographic Assessment of Fingertip Vasculature for Auto-Calibrated Cuffl](https://pubmed.ncbi.nlm.nih.gov/) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Blind Adaptive Local Denoising for CEST Imaging](https://pubmed.ncbi.nlm.nih.gov/) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
@@ -141,15 +143,15 @@
 | - | [Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a General](https://doi.org/10.48550/arXiv.2512.21652) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Guest Editorial AI-Generated Content Empowered Healthcare Electronics](https://doi.org/10.1109/tce.2025.3553026) | 2025-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Navigating sensor-skin coupling challenges in magnetic-based blood pressure monitoring: Innovations ](https://doi.org/10.1016/j.cpcardiol.2024.102964) | 2024-12-17 | Current problems in cardi | Wasim Ullah Khan | COCHE affiliation | 39701402 |
-| 84 | [Designing Zwitterionic Bottlebrush Polymers to Enable Long-Cycling Quasi-Solid-State Lithium Metal B](https://doi.org/10.1002/anie.202409500) | 2024-12-16 | Angewandte Chemie (Intern | Shimei Li,Dechao Zhang,Qi Xiong,Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 39636300 |
-| 85 | [Design Chemical Exchange Saturation Transfer Contrast Agents and Nanocarriers for Imaging Proton Exc](https://doi.org/10.1021/acsnano.4c05923) | 2024-12-06 | ACS nano | Haoyun Su,Kannie W Y Chan | ⭐ InnoHK | 39642940 |
-| 86 | [Optimizing Perovskite Surfaces to Enhance Post-Treatment for Efficient Blue Mixed-Halide Perovskite ](https://doi.org/10.1002/adma.202414788) | 2024-12-04 | Advanced materials (Deerf | Aqiang Liu,Ni Zhao | ⭐ InnoHK | 39632461 |
-| 87 | [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthcare Monitoring.](https://doi.org/10.1002/adma.202406798) | 2024-12-02 | Advanced materials (Deerf | Jingkun Zhou,Jiyu Li,Binbin Zhang,Jian Li,Xinge Yu | ⭐ InnoHK | 39623795 |
+| 85 | [Designing Zwitterionic Bottlebrush Polymers to Enable Long-Cycling Quasi-Solid-State Lithium Metal B](https://doi.org/10.1002/anie.202409500) | 2024-12-16 | Angewandte Chemie (Intern | Shimei Li,Dechao Zhang,Qi Xiong,Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 39636300 |
+| 86 | [Design Chemical Exchange Saturation Transfer Contrast Agents and Nanocarriers for Imaging Proton Exc](https://doi.org/10.1021/acsnano.4c05923) | 2024-12-06 | ACS nano | Haoyun Su,Kannie W Y Chan | ⭐ InnoHK | 39642940 |
+| 87 | [Optimizing Perovskite Surfaces to Enhance Post-Treatment for Efficient Blue Mixed-Halide Perovskite ](https://doi.org/10.1002/adma.202414788) | 2024-12-04 | Advanced materials (Deerf | Aqiang Liu,Ni Zhao | ⭐ InnoHK | 39632461 |
+| 88 | [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthcare Monitoring.](https://doi.org/10.1002/adma.202406798) | 2024-12-02 | Advanced materials (Deerf | Jingkun Zhou,Jiyu Li,Binbin Zhang,Jian Li,Xinge Yu | ⭐ InnoHK | 39623795 |
 | - | [Tailoring Biopolymers for Electronic Skins: Materials Design and Applications.](https://doi.org/10.1002/adma.202413112) | 2024-12-01 | Advanced materials (Deerf | Xiao Yang | COCHE affiliation | 39618142 |
 | - | [Exploring the effectiveness of instruction tuning in biomedical language processing.](https://doi.org/10.1016/j.artmed.2024.103007) | 2024-12-01 | Artificial intelligence i | N/A | 🏷 InnoHK-only | 39541861 |
 | - | [Uncertainty quantification of the pressure waveform using a Windkessel model.](https://doi.org/10.1002/cnm.3867) | 2024-12-01 | International journal for | N/A | 🏷 InnoHK-only | 39239830 |
 
-## ITC 2024 (115 papers, 33 InnoHK)
+## ITC 2024 (115 papers, 25 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
@@ -225,22 +227,22 @@
 | 70 | [Battery-free, wireless, and electricity-driven soft swimmer for water quality and virus monitoring.](https://doi.org/10.1126/sciadv.adk6301) | 2024-01-10 | Science advances | Dengfeng Li,Jingkun Zhou,Ya Huang,Huiling Jia,Xinge Yu | ⭐ InnoHK | 38198552 |
 | - | [Opportunities for System Neuroscience.](https://doi.org/10.1007/978-3-031-69188-1_10) | 2024-01-01 | Advances in neurobiology | Russell W Chan | COCHE affiliation | 39589717 |
 | - | [The effect of aquaporin-4 inhibition on cerebrospinal fluid-tissue water exchange in mouse brain det](https://doi.org/10.1002/nbm.5093) | 2024-01-01 | NMR in biomedicine | Kannie W Y Chan | COCHE affiliation | 38163739 |
-| 73 | [Permeable, three-dimensional integrated electronic skins with stretchable hybrid liquid metal solder](https://doi.org/10.1038/s41928-024-01189-x) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Permeable, three-dimensional integrated electronic skins with stretchable hybrid liquid metal solder](https://doi.org/10.1038/s41928-024-01189-x) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Generalizability assessment of AI models across hospitals in a low-middle and high income country](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 75 | [Deep reinforcement learning for multi-class imbalanced training: applications in healthcare](https://doi.org/10.1007/s10994-023-06481-z) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Deep reinforcement learning for multi-class imbalanced training: applications in healthcare](https://doi.org/10.1007/s10994-023-06481-z) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Eegmatch: Learning with incomplete labels for semisupervised eeg-based cross-subject emotion recogni](https://doi.org/10.1109/tnnls.2024.3493425/mm1) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 77 | [Piezoionics: Mechanical‐to‐ionic transduction for sensing, biointerface, and energy harvesting](https://doi.org/10.1002/agt2.425) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Piezoionics: Mechanical‐to‐ionic transduction for sensing, biointerface, and energy harvesting](https://doi.org/10.1002/agt2.425) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Tailoring hydroxyl groups of organic phenazine anodes for high-performance and stable alkaline batte](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Recent advances in laser-induced-graphene-based soft skin electronics for intelligent healthcare](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Recent advances in passive cooling materials for thermal management in flexible electronics](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Programmable microfluidic‐assisted highly conductive hydrogel patches for customizable soft electron](https://doi.org/10.1002/adfm.202401930) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Multi-view cross-fusion transformer based on kinetic features for non-invasive blood glucose measure](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [On‐Site Melanoma Diagnosis Utilizing a Swellable Microneedle‐Assisted Skin Interstitial Fluid Sampli](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 84 | [Integrated piezoelectric vascular graft for continuous real‐time hemodynamics monitoring](https://doi.org/10.1002/adfm.202409874) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Integrated piezoelectric vascular graft for continuous real‐time hemodynamics monitoring](https://doi.org/10.1002/adfm.202409874) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Attention-based MultiOffset deep learning reconstruction of chemical exchange saturation transfer (A](https://doi.org/10.1109/jbhi.2024.3404225) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Vibopneumo: A vibratory-pneumatic finger-worn haptic device for altering perceived texture roughness](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Data-efficient learning control of continuum robots in constrained environments](https://doi.org/10.1109/TASE.2024.3357816) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 88 | [Amoeba‐inspired self‐healing electronic slime for adaptable, durable epidermal wearable electronics](https://doi.org/10.1002/adfm.202402393) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Amoeba‐inspired self‐healing electronic slime for adaptable, durable epidermal wearable electronics](https://doi.org/10.1002/adfm.202402393) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Dynamic inter-treatment information sharing for individualized treatment effects estimation](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Blood pressure Estimation using Self-Attention mechanism Built-In resunet on pulsedb: demographic fa](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Optimized hard exudate detection with supervised contrastive learning](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
@@ -248,14 +250,14 @@
 | - | [A mathematical explanation of UNet](https://doi.org/10.3934/mfc.2024040) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Multi-organ registration with continual learning](https://doi.org/10.1109/lsp.2024.3388954) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Flexible flow sensors-enabled intelligent life](https://doi.org/10.1088/1361-6439/ad4cf8) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 96 | [A multi-channel photoplethysmography array with contact-force regulation for tonoarteriographic imag](https://doi.org/10.20517/chatmed.2023.11) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [A multi-channel photoplethysmography array with contact-force regulation for tonoarteriographic imag](https://doi.org/10.20517/chatmed.2023.11) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Transferring adult-like phase images for robust multi-view isointense infant brain segmentation](https://doi.org/10.1109/tmi.2024.3430348) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 98 | [An electronic slime-based epidermal electrode using carbon nanocomposites for biosignal sensing](https://doi.org/10.1109/ojnano.2024.3488720) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [An electronic slime-based epidermal electrode using carbon nanocomposites for biosignal sensing](https://doi.org/10.1109/ojnano.2024.3488720) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [BP-DeepONet: A new method for cuffless blood pressure estimation using the physcis-informed DeepONet](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [A rechargeable Ca/Cl2 battery](https://doi.org/10.1007/s11426-024-1977-x) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Angiogenesis in diseases: A half-century excursion from the initial therapeutic concept to current c](https://doi.org/10.1097/cm9.0000000000003002) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [A Hybrid Deep Learning Approach for Cuff-less Noninvasive Continuous Blood Pressure Estimation Based](https://doi.org/10.1109/nsens62142.2024.10561418) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
-| 103 | [Wearables Cardiovascular Monitoring: Effects of Cold Pressor Test on Heart Rates Estimated from ECG,](https://doi.org/10.33552/ojrat.2024.02.000541) | 2024-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Wearables Cardiovascular Monitoring: Effects of Cold Pressor Test on Heart Rates Estimated from ECG,](https://doi.org/10.33552/ojrat.2024.02.000541) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Integrated Microfluidic Device for Point-of-Care Monitoring of Urinary Cystatin C Levels*](https://doi.org/10.1109/nanomed64244.2024.10946035) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Prior information inference via Mutual Information constrained cycleGAN enhances EIT reconstruction](https://doi.org/10.36227/techrxiv.172564151.14300206/v1) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [CEST imaging of ApoE–/–mouse brain during atherosclerosis development](https://pubmed.ncbi.nlm.nih.gov/) | 2024-01-01 | N/A | N/A | COCHE affiliation |  |
@@ -269,7 +271,7 @@
 | - | [Metal-Free Eutectic Electrolyte with Weak Hydrogen Bonds for High-Rate and Ultra-Stable Ammonium-Ion](https://doi.org/10.1002/adma.202308210) | 2023-12-06 | Advanced materials (Deerf | Dechao Zhang,Chunyi Zhi | COCHE affiliation | 37916840 |
 | 115 | [Perovskite Cathodes for Aqueous and Organic Iodine Batteries Operating Under One and Two Electrons R](https://doi.org/10.1002/adma.202304557) | 2023-12-03 | Advanced materials (Deerf | Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 37587645 |
 
-## ITC 2023 (97 papers, 45 InnoHK)
+## ITC 2023 (99 papers, 34 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
@@ -295,68 +297,70 @@
 | 20 | [Thin, soft, wearable system for continuous wireless monitoring of artery blood pressure.](https://doi.org/10.1038/s41467-023-40763-3) | 2023-08-17 | Nature communications | Jian Li,Huiling Jia,Jingkun Zhou,Shengxin Jia,Dengfeng Li,Binbin Zhang,Ya Huang,Jiyu Li,Chun Ki Yiu,Yanli Jiao,Xuecheng Tai,Raymond H Chan,Yuanting Zhang,Xinge Yu | ⭐ InnoHK | 37591881 |
 | - | [d-Band Center Optimization of Ti](https://doi.org/10.1021/acsami.3c08512) | 2023-08-15 | ACS applied materials & i | Derek Ho | COCHE affiliation | 37582059 |
 | 22 | [Order-disorder engineering of RuO](https://doi.org/10.1039/d3mh00339f) | 2023-07-31 | Materials horizons | Derek Ho | ⭐ InnoHK | 37194917 |
-| 23 | [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin toxicity and their he](https://doi.org/10.1007/s11356-023-28515-8) | 2023-07-26 | Environmental science and | Muhammad Shehzad Khan | ⭐ InnoHK | 37493912 |
+| - | [Achieving strong, stable, and durable underwater adhesives based on a simple and generic amino-acid-](https://doi.org/10.1039/d3mh00301a) | 2023-07-31 | Materials horizons | N/A | COCHE affiliation | 37183590 |
+| 24 | [Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin toxicity and their he](https://doi.org/10.1007/s11356-023-28515-8) | 2023-07-26 | Environmental science and | Muhammad Shehzad Khan | ⭐ InnoHK | 37493912 |
 | - | [Biofilms exacerbate atherogenesis through macrophage-induced inflammatory responses in a fibrous pla](https://doi.org/10.1016/j.actbio.2023.06.028) | 2023-06-28 | Acta biomaterialia | Yatian Fu,Bee Luan Khoo | COCHE affiliation | 37385520 |
 | - | [Multi-target landmark detection with incomplete images via reinforcement learning and shape prior em](https://doi.org/10.1016/j.media.2023.102875) | 2023-06-24 | Medical image analysis | Dengqiang Jia | COCHE affiliation | 37441881 |
 | - | [European Society of Hypertension recommendations for the validation of cuffless blood pressure measu](https://doi.org/10.1097/HJH.0000000000003483) | 2023-06-22 | Journal of hypertension | Yuanting Zhang | COCHE affiliation | 37303198 |
-| 27 | [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) | 2023-06-14 | Nature reviews. Chemistry | Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 37316580 |
+| 28 | [Anion chemistry in energy storage devices.](https://doi.org/10.1038/s41570-023-00506-w) | 2023-06-14 | Nature reviews. Chemistry | Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 37316580 |
 | - | [Distinct bacterial population dynamics and disease dissemination after biofilm dispersal and disasse](https://doi.org/10.1038/s41396-023-01446-5) | 2023-06-03 | The ISME journal | Bee Luan Khoo | COCHE affiliation | 37270584 |
 | - | [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to detect glucose uptake](https://doi.org/10.1002/nbm.4962) | 2023-06-01 | NMR in biomedicine | Yang Liu,Kannie W Y Chan | COCHE affiliation | 37211349 |
-| 30 | [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for implantable bioelectron](https://doi.org/10.1126/sciadv.adg8602) | 2023-05-31 | Science advances | Jiyu Li,Xinge Yu | ⭐ InnoHK | 37256954 |
-| 31 | [Emerging sensing and modeling technologies for wearable and cuffless blood pressure monitoring.](https://doi.org/10.1038/s41746-023-00835-6) | 2023-05-22 | NPJ digital medicine | Lei Zhao,Cunman Liang,Yiqun Xiao,Nan Ji,Yuan-Ting Zhang,Ni Zhao | ⭐ InnoHK | 37217650 |
-| 32 | [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing System Enhances Oste](https://doi.org/10.1002/advs.202302272) | 2023-05-21 | Advanced science (Weinhei | Xiao Yang,Anthony Hei Long Chan,Raymond Hon Fu Chan,Zuankai Wang | ⭐ InnoHK | 37211693 |
+| 31 | [Wafer-patterned, permeable, and stretchable liquid metal microelectrodes for implantable bioelectron](https://doi.org/10.1126/sciadv.adg8602) | 2023-05-31 | Science advances | Jiyu Li,Xinge Yu | ⭐ InnoHK | 37256954 |
+| 32 | [Emerging sensing and modeling technologies for wearable and cuffless blood pressure monitoring.](https://doi.org/10.1038/s41746-023-00835-6) | 2023-05-22 | NPJ digital medicine | Lei Zhao,Cunman Liang,Yiqun Xiao,Nan Ji,Yuan-Ting Zhang,Ni Zhao | ⭐ InnoHK | 37217650 |
+| 33 | [Bioinspired Tumor-Targeting and Biomarker-Activatable Cell-Material Interfacing System Enhances Oste](https://doi.org/10.1002/advs.202302272) | 2023-05-21 | Advanced science (Weinhei | Xiao Yang,Anthony Hei Long Chan,Raymond Hon Fu Chan,Zuankai Wang | ⭐ InnoHK | 37211693 |
 | - | [Wearable patches for transdermal drug delivery.](https://doi.org/10.1016/j.apsb.2023.05.009) | 2023-05-15 | Acta pharmaceutica Sinica | Xinge Yu | COCHE affiliation | 37425057 |
-| 34 | [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) | 2023-05-09 | Nature communications | Chun Ki Yiu,Shengxin Jia,Jingkun Zhou,Jian Li,Yuyu Gao,Ya Huang,Dengfeng Li,Xinge Yu | ⭐ InnoHK | 37160931 |
-| 35 | [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioelectronics and Thera](https://doi.org/10.3390/mi14051005) | 2023-05-06 | Micromachines | Bangul Khan | ⭐ InnoHK | 37241628 |
-| 36 | [Manipulating Electric Double Layer Adsorption for Stable Solid-Electrolyte Interphase in 2.3 Ah Zn-P](https://doi.org/10.1002/anie.202302583) | 2023-05-03 | Angewandte Chemie (Intern | Yu Wang,Chunyi Zhi | ⭐ InnoHK | 37000437 |
-| 37 | [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion Chemistry.](https://doi.org/10.1002/anie.202303292) | 2023-04-27 | Angewandte Chemie (Intern | Qi Xiong,Chunyi Zhi | ⭐ InnoHK | 37017579 |
+| 35 | [Soft, miniaturized, wireless olfactory interface for virtual reality.](https://doi.org/10.1038/s41467-023-37678-4) | 2023-05-09 | Nature communications | Chun Ki Yiu,Shengxin Jia,Jingkun Zhou,Jian Li,Yuyu Gao,Ya Huang,Dengfeng Li,Xinge Yu | ⭐ InnoHK | 37160931 |
+| 36 | [Current Progress in Conductive Hydrogels and Their Applications in Wearable Bioelectronics and Thera](https://doi.org/10.3390/mi14051005) | 2023-05-06 | Micromachines | Bangul Khan | ⭐ InnoHK | 37241628 |
+| 37 | [Manipulating Electric Double Layer Adsorption for Stable Solid-Electrolyte Interphase in 2.3 Ah Zn-P](https://doi.org/10.1002/anie.202302583) | 2023-05-03 | Angewandte Chemie (Intern | Yu Wang,Chunyi Zhi | ⭐ InnoHK | 37000437 |
+| 38 | [Manipulating Coulombic Efficiency of Cathodes in Aqueous Zinc Batteries by Anion Chemistry.](https://doi.org/10.1002/anie.202303292) | 2023-04-27 | Angewandte Chemie (Intern | Qi Xiong,Chunyi Zhi | ⭐ InnoHK | 37017579 |
 | - | [Distinct chemistry between Zn and Li at varied temperature.](https://doi.org/10.1016/j.scib.2023.04.020) | 2023-04-20 | Science bulletin | Donghong Wang,Chunyi Zhi | COCHE affiliation | 37105799 |
 | - | [Causal inference based cuffless blood pressure estimation: A pilot study.](https://doi.org/10.1016/j.compbiomed.2023.106900) | 2023-04-12 | Computers in biology and  | Yuan-Ting Zhang | COCHE affiliation | 37087777 |
-| 40 | [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in skin electronics.](https://doi.org/10.1126/sciadv.adg1837) | 2023-04-07 | Science advances | Jiyu Li,Jingkun Zhou,Xinge Yu | ⭐ InnoHK | 37027471 |
+| 41 | [Ultrathin, soft, radiative cooling interfaces for advanced thermal management in skin electronics.](https://doi.org/10.1126/sciadv.adg1837) | 2023-04-07 | Science advances | Jiyu Li,Jingkun Zhou,Xinge Yu | ⭐ InnoHK | 37027471 |
 | - | [Early detection of metastasis in ascites and peritoneal lavage - new perspectives using label-free m](https://doi.org/10.1016/j.ebiom.2023.104554) | 2023-04-01 | EBioMedicine | Bee Luan Khoo | COCHE affiliation | 37011437 |
-| 42 | [Sulfolane-containing aqueous electrolyte solutions for producing efficient ampere-hour-level zinc me](https://doi.org/10.1038/s41467-023-37524-7) | 2023-04-01 | Nature communications | Yu Wang,Chunyi Zhi | ⭐ InnoHK | 37005392 |
-| 43 | [Regulating Inorganic and Organic Components to Build Amorphous-ZnF](https://doi.org/10.1002/adma.202210051) | 2023-03-30 | Advanced materials (Deerf | Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 36840372 |
-| 44 | [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) | 2023-03-27 | Nature communications | Xiayi Xu,Fei Han,Shih-Chi Chen | ⭐ InnoHK | 36973254 |
+| 43 | [Sulfolane-containing aqueous electrolyte solutions for producing efficient ampere-hour-level zinc me](https://doi.org/10.1038/s41467-023-37524-7) | 2023-04-01 | Nature communications | Yu Wang,Chunyi Zhi | ⭐ InnoHK | 37005392 |
+| 44 | [Regulating Inorganic and Organic Components to Build Amorphous-ZnF](https://doi.org/10.1002/adma.202210051) | 2023-03-30 | Advanced materials (Deerf | Zhaodong Huang,Chunyi Zhi | ⭐ InnoHK | 36840372 |
+| 45 | [Ultrafast 3D nanofabrication via digital holography.](https://doi.org/10.1038/s41467-023-37163-y) | 2023-03-27 | Nature communications | Xiayi Xu,Fei Han,Shih-Chi Chen | ⭐ InnoHK | 36973254 |
 | - | [Chemical exchange saturation transfer MRI detects myelin changes in cuprizone mouse model at 3T.](https://doi.org/10.1002/nbm.4937) | 2023-03-25 | NMR in biomedicine | Kannie W Y Chan | COCHE affiliation | 36965064 |
-| 46 | [Intelligent Soft Sweat Sensors for the Simultaneous Healthcare Monitoring and Safety Warning.](https://doi.org/10.1002/adhm.202202846) | 2023-03-01 | Advanced healthcare mater | Jiyu Li,Chun Ki Yiu,Jian Li,Jingkun Zhou,Yuyu Gao,Dengfeng Li,Xinge Yu | ⭐ InnoHK | 36773301 |
+| 47 | [Intelligent Soft Sweat Sensors for the Simultaneous Healthcare Monitoring and Safety Warning.](https://doi.org/10.1002/adhm.202202846) | 2023-03-01 | Advanced healthcare mater | Jiyu Li,Chun Ki Yiu,Jian Li,Jingkun Zhou,Yuyu Gao,Dengfeng Li,Xinge Yu | ⭐ InnoHK | 36773301 |
 | - | [Ultrathin, Soft, Bioresorbable Organic Electrochemical Transistors for Transient Spatiotemporal Mapp](https://doi.org/10.1002/advs.202300504) | 2023-02-24 | Advanced science (Weinhei | Jingkun Zhou,Jiyu Li,Jian Li,Huiling Jia,Dengfeng Li,Xinge Yu | COCHE affiliation | 36825679 |
 | - | [Atomic Plasma Grafting: Precise Control of Functional Groups on Ti](https://doi.org/10.1021/acsami.2c22609) | 2023-02-22 | ACS applied materials & i | Jiangang Xu,Derek Ho | COCHE affiliation | 36812910 |
 | - | [Oxidative stress induced by Etoposide anti-cancer chemotherapy drives the emergence of tumor-associa](https://doi.org/10.1016/j.jare.2023.02.011) | 2023-02-21 | Journal of advanced resea | Yanlin Deng,Bee Luan Khoo | COCHE affiliation | 36822389 |
 | - | [An Air-Rechargeable Zn Battery Enabled by Organic-Inorganic Hybrid Cathode.](https://doi.org/10.1007/s40820-023-01023-7) | 2023-02-16 | Nano-micro letters | Xinliang Li,Chunyi Zhi | COCHE affiliation | 36795246 |
-| 51 | [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosis in end-stage heart](https://doi.org/10.3389/fimmu.2023.1053793) | 2023-02-15 | Frontiers in immunology | Shangjie Zou,Bee Luan Khoo | ⭐ InnoHK | 36875078 |
-| 52 | [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal Electrodes and a Pla](https://doi.org/10.3390/s23042021) | 2023-02-10 | Sensors (Basel, Switzerla | Shuai-Chen Wang,Binbin Zhang,Lijing Kang | ⭐ InnoHK | 36850631 |
+| 52 | [Subtyping based on immune cell fractions reveal heterogeneity of cardiac fibrosis in end-stage heart](https://doi.org/10.3389/fimmu.2023.1053793) | 2023-02-15 | Frontiers in immunology | Shangjie Zou,Bee Luan Khoo | ⭐ InnoHK | 36875078 |
+| 53 | [Flexible and Robust Triboelectric Nanogenerators with Chemically Prepared Metal Electrodes and a Pla](https://doi.org/10.3390/s23042021) | 2023-02-10 | Sensors (Basel, Switzerla | Shuai-Chen Wang,Binbin Zhang,Lijing Kang | ⭐ InnoHK | 36850631 |
+| - | [Drawbacks of Artificial Intelligence and Their Potential Solutions in the Healthcare Sector.](https://doi.org/10.1007/s44174-023-00063-2) | 2023-02-08 | Biomedical materials & de | N/A | 🏷 InnoHK-only | 36785697 |
 | - | [Biofilm Potentiates Cancer-Promoting Effects of Tumor-Associated Macrophages in a 3D Multi-Faceted T](https://doi.org/10.1002/smll.202205904) | 2023-02-07 | Small (Weinheim an der Be | Yatian Fu,Bee Luan Khoo | COCHE affiliation | 36748304 |
-| 54 | [Wearable and battery-free wound dressing system for wireless and early sepsis diagnosis.](https://doi.org/10.1002/btm2.10445) | 2023-02-01 | Bioengineering & translat | Jiyu Li,Jingkun Zhou,Jian Li,Xinge Yu | ⭐ InnoHK | 38023725 |
+| 56 | [Wearable and battery-free wound dressing system for wireless and early sepsis diagnosis.](https://doi.org/10.1002/btm2.10445) | 2023-02-01 | Bioengineering & translat | Jiyu Li,Jingkun Zhou,Jian Li,Xinge Yu | ⭐ InnoHK | 38023725 |
 | - | [Hybrid Therapeutic Device (CUHK-OA-M2) for Relieving Symptoms Induced by Knee Osteoarthritis.](https://doi.org/10.3390/bioengineering10010095) | 2023-01-11 | Bioengineering (Basel, Sw | Xiayi Xu | COCHE affiliation | 36671667 |
 | - | [Multiple CEST contrast imaging of nose-to-brain drug delivery using iohexol liposomes at 3T MRI.](https://doi.org/10.1016/j.jconrel.2023.01.011) | 2023-01-10 | Journal of controlled rel | Kannie W Y Chan | COCHE affiliation | 36623695 |
-| 57 | [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressive Energy Storage De](https://doi.org/10.1002/smtd.202201448) | 2023-01-06 | Small methods | Chunyi Zhi | ⭐ InnoHK | 36609814 |
-| 58 | [Lvit: language meets vision transformer in medical image segmentation](https://doi.org/10.1109/tmi.2023.3291719) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| 59 | [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressive Energy Storage De](https://doi.org/10.1002/smtd.202201448) | 2023-01-06 | Small methods | Chunyi Zhi | ⭐ InnoHK | 36609814 |
+| - | [Lvit: language meets vision transformer in medical image segmentation](https://doi.org/10.1109/tmi.2023.3291719) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [A skin-integrated multimodal haptic interface for immersive tactile feedback](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 60 | [An adversarial training framework for mitigating algorithmic biases in clinical machine learning](https://doi.org/10.1038/s41746-023-00805-y) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [An adversarial training framework for mitigating algorithmic biases in clinical machine learning](https://doi.org/10.1038/s41746-023-00805-y) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [PR-PL: A novel prototypical representation based pairwise learning framework for emotion recognition](https://doi.org/10.1109/taffc.2023.3288118/mm1) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Recent progress in thermosensitive hydrogels and their applications in drug delivery area](https://doi.org/10.1002/mba2.55) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Digital health and machine learning technologies for blood glucose monitoring and management of gest](https://doi.org/10.36227/techrxiv.21919254.v1) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 64 | [Grafted MXenes based electrolytes for 5V‐class solid‐state batteries](https://doi.org/10.1002/adfm.202214539) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 65 | [Stretchable, skin‐conformable neuromorphic system for tactile sensory recognizing and encoding](https://doi.org/10.1002/inf2.12472) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Grafted MXenes based electrolytes for 5V‐class solid‐state batteries](https://doi.org/10.1002/adfm.202214539) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
+| - | [Stretchable, skin‐conformable neuromorphic system for tactile sensory recognizing and encoding](https://doi.org/10.1002/inf2.12472) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Semi-supervised learning for multi-label cardiovascular diseases prediction: a multi-dataset study](https://doi.org/10.1109/tpami.2023.3342828/mm1) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Stretchable magnesium–air battery based on dual ions conducting hydrogel for intelligent biomedical ](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Uncertainties in the analysis of heart rate variability: A systematic review](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Liquid metal-based strain-sensing glove for human-machine interaction](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [FlexiPulse: A machine-learning-enabled flexible pulse sensor for cardiovascular disease diagnostics](https://doi.org/10.1016/j.xcrp.2023.101690) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Handbook of mathematical models and algorithms in computer vision and imaging: mathematical imaging ](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 72 | [A distance transformation deep forest framework with hybrid-feature fusion for cxr image classificat](https://doi.org/10.1109/tnnls.2023.3280646) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [A distance transformation deep forest framework with hybrid-feature fusion for cxr image classificat](https://doi.org/10.1109/tnnls.2023.3280646) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Adversarial de-confounding in individualised treatment effects estimation](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 74 | [Thin, soft, skin-integrated electronics for real-time and wireless detection of uric acid in sweat](https://doi.org/10.1080/19475411.2023.2236997) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 75 | [Ultrasensitive Detection of SARS‐CoV‑2 by Flexible Metal Oxide Field‐Effect Transistors](https://doi.org/10.1002/adfm.202301268) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Thin, soft, skin-integrated electronics for real-time and wireless detection of uric acid in sweat](https://doi.org/10.1080/19475411.2023.2236997) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
+| - | [Ultrasensitive Detection of SARS‐CoV‑2 by Flexible Metal Oxide Field‐Effect Transistors](https://doi.org/10.1002/adfm.202301268) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Dynamic inter-treatment information sharing for heterogeneous treatment effects estimation](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [UTransBPNet: a general deep learning model for cuffless blood pressure estimation under activities](https://doi.org/10.36227/techrxiv.21915195.v2) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Interactive dual network with adaptive density map for automatic cell counting](https://doi.org/10.1109/tase.2023.3329973) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 79 | [Patient clustering for vital organ failure using ICD code with graph attention](https://doi.org/10.1109/tbme.2023.3243311) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Patient clustering for vital organ failure using ICD code with graph attention](https://doi.org/10.1109/tbme.2023.3243311) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Unleashing the power of federated learning in fragmented digital healthcare systems: A visionary per](https://doi.org/10.1109/skima59232.2023.10387304) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 81 | [Some perspectives of continuous arterial blood pressure measurements: from kymograph to tonoarteriog](https://doi.org/10.20517/chatmed.2023.03) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 82 | [Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals us](https://doi.org/10.20517/2574-1209.2023.30) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Some perspectives of continuous arterial blood pressure measurements: from kymograph to tonoarteriog](https://doi.org/10.20517/chatmed.2023.03) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
+| - | [Beat-to-beat continuous blood pressure estimation with optimal feature set of PPG and ECG signals us](https://doi.org/10.20517/2574-1209.2023.30) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [A global and patch-wise contrastive loss for accurate automated exudate detection](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 84 | [Towards wearable sensing-based precise and rapid responding system for the early detection of future](https://doi.org/10.20517/chatmed.2023.02) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Towards wearable sensing-based precise and rapid responding system for the early detection of future](https://doi.org/10.20517/chatmed.2023.02) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Advancing cardiovascular disease prediction: portable or wearable devices for automatic and rapid bl](https://doi.org/10.20517/chatmed.2023.04) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Multi-classification using one-versus-one deep learning strategy with joint probability estimates](https://pubmed.ncbi.nlm.nih.gov/) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Semi-supervised vessel wall detection and segmentation from 3D femoral MR images](https://doi.org/10.1117/12.2654129) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
@@ -364,14 +368,14 @@
 | - | [Reinforcement learning for imbalanced vehicle booming noise classification](https://doi.org/10.1109/mlcr61158.2023.00014) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Haptic interface with flexible self-sensing actuators for wireless touch communication](https://doi.org/10.1109/nems57332.2023.10190909) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Embracing the future of healthcare: launching the Journal of Connected Health And Telemedicine](https://doi.org/10.20517/chatmed.2023.01) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
-| 92 | [Towards Fully Automated Cuffless Calibration for Tonoarteriography Using 3-Axis Accelerometer](https://doi.org/10.33552/ojrat.2023.01.000519) | 2023-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 93 | [Touch IoT enabled by wireless self-sensing and haptic-reproducing electronic skin.](https://doi.org/10.1126/sciadv.ade2450) | 2022-12-23 | Science advances | Dengfeng Li,Jingkun Zhou,Chunki Yiu,Binbin Zhang,Jian Li,Jiyu Li,Xinge Yu | ⭐ InnoHK | 36563155 |
-| 94 | [Three-dimensional nanofabrication via ultrafast laser patterning and kinetically regulated material ](https://doi.org/10.1126/science.abm8420) | 2022-12-22 | Science (New York, N.Y.) | Fei Han,Ni Zhao,Shih-Chi Chen | ⭐ InnoHK | 36548430 |
+| - | [Towards Fully Automated Cuffless Calibration for Tonoarteriography Using 3-Axis Accelerometer](https://doi.org/10.33552/ojrat.2023.01.000519) | 2023-01-01 | N/A | N/A | COCHE affiliation |  |
+| 95 | [Touch IoT enabled by wireless self-sensing and haptic-reproducing electronic skin.](https://doi.org/10.1126/sciadv.ade2450) | 2022-12-23 | Science advances | Dengfeng Li,Jingkun Zhou,Chunki Yiu,Binbin Zhang,Jian Li,Jiyu Li,Xinge Yu | ⭐ InnoHK | 36563155 |
+| 96 | [Three-dimensional nanofabrication via ultrafast laser patterning and kinetically regulated material ](https://doi.org/10.1126/science.abm8420) | 2022-12-22 | Science (New York, N.Y.) | Fei Han,Ni Zhao,Shih-Chi Chen | ⭐ InnoHK | 36548430 |
 | - | [Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tumor DNAs.](https://doi.org/10.1002/adma.202207282) | 2022-12-16 | Advanced materials (Deerf | Xianglin Ji,Xi Zhao,Richard Yan-Do,Yuanting Zhang,Peng Shi | COCHE affiliation | 36412926 |
 | - | [COVID-19 instigates adipose browning and atrophy through VEGF in small mammals.](https://doi.org/10.1038/s42255-022-00697-4) | 2022-12-08 | Nature metabolism | Yuanting Zhang | COCHE affiliation | 36482111 |
 | - | [Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and Without Type 2 Diabetes.](https://doi.org/10.2337/db22-0004) | 2022-12-01 | Diabetes | Richard Yan-Do | COCHE affiliation | 36084321 |
 
-## ITC 2022 (46 papers, 7 InnoHK)
+## ITC 2022 (52 papers, 4 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
@@ -385,12 +389,14 @@
 | - | [MRDFF: A deep forest based framework for CT whole heart segmentation.](https://doi.org/10.1016/j.ymeth.2022.10.005) | 2022-10-22 | Methods (San Diego, Calif | Qingqi Hong | COCHE affiliation | 36283656 |
 | - | [Diverse and Composite Roles of miRNA in Non-Neuronal Cells and Neuronal Synapses in Alzheimer's Dise](https://doi.org/10.3390/biom12101505) | 2022-10-17 | Biomolecules | Xinrong Li,Shih-Chi Chen | COCHE affiliation | 36291714 |
 | - | [Construction of enzyme-laden vascular scaffolds based on hyaluronic acid oligosaccharides-modified c](https://doi.org/10.1016/j.actbio.2022.09.041) | 2022-09-23 | Acta biomaterialia | Weibin Jia | COCHE affiliation | 36155095 |
+| - | [Finger-inspired rigid-soft hybrid tactile sensor with superior sensitivity at high frequency.](https://doi.org/10.1038/s41467-022-32827-7) | 2022-08-29 | Nature communications | N/A | 🏷 InnoHK-only | 36038557 |
 | - | [Task Autonomy of a Flexible Endoscopic System for Laser-Assisted Surgery.](https://doi.org/10.34133/2022/9759504) | 2022-08-24 | Cyborg and bionic systems | Hangjie Mo | COCHE affiliation | 38616915 |
 | - | [Wide-Bandwidth Nanocomposite-Sensor Integrated Smart Mask for Tracking Multiphase Respiratory Activi](https://doi.org/10.1002/advs.202203565) | 2022-08-23 | Advanced science (Weinhei | Cong Wu,Xinge Yu,Wen Jung Li | COCHE affiliation | 35999427 |
 | - | [Imaging of sugar-based contrast agents using their hydroxyl proton exchange properties.](https://doi.org/10.1002/nbm.4784) | 2022-07-24 | NMR in biomedicine | Kannie W Y Chan | COCHE affiliation | 35665547 |
 | - | [Label-free enrichment of human blast cells from whole blood for leukemia monitoring.](https://doi.org/10.1016/j.xpro.2022.101584) | 2022-07-20 | STAR protocols | Yatian Fu,Shangjie Zou,Bee Luan Khoo | COCHE affiliation | 35880120 |
 | - | [Implantable Electronic Medicine Enabled by Bioresorbable Microneedles for Wireless Electrotherapy an](https://doi.org/10.1021/acs.nanolett.2c01997) | 2022-07-11 | Nano letters | Ya Huang,Jian Li,Chun Ki Yiu,Jingkun Zhou,Jiyu Li,Dengfeng Li,Binbin Zhang,Xinge Yu | COCHE affiliation | 35816764 |
 | - | [Accurate prediction of drug-induced heterogeneous response of red cell in vivo using a gravity-drive](https://doi.org/10.1016/j.aca.2022.340151) | 2022-07-08 | Analytica chimica acta | Bee Luan Khoo | COCHE affiliation | 35934381 |
+| - | [Recent Progress on Bioinspired Antibacterial Surfaces for Biomedical Application.](https://doi.org/10.3390/biomimetics7030088) | 2022-07-04 | Biomimetics (Basel, Switz | N/A | 🏷 InnoHK-only | 35892358 |
 | - | [Tailoring the metal electrode morphology via electrochemical protocol optimization for long-lasting ](https://doi.org/10.1038/s41467-022-31461-7) | 2022-06-27 | Nature communications | Donghong Wang,Chunyi Zhi | COCHE affiliation | 35760974 |
 | - | [Ionic Liquid-Softened Polymer Electrolyte for Anti-Drying Flexible Zinc Ion Batteries.](https://doi.org/10.1021/acsami.2c06793) | 2022-06-06 | ACS applied materials & i | Donghong Wang,Chunyi Zhi | COCHE affiliation | 35666254 |
 | - | [High-Voltage Organic Cathodes for Zinc-Ion Batteries through Electron Cloud and Solvation Structure ](https://doi.org/10.1002/anie.202203453) | 2022-06-01 | Angewandte Chemie (Intern | Zhaodong Huang,Donghong Wang,Chunyi Zhi | COCHE affiliation | 35532543 |
@@ -405,36 +411,45 @@
 | - | [Electronic skin as wireless human-machine interfaces for robotic VR.](https://doi.org/10.1126/sciadv.abl6700) | 2022-01-14 | Science advances | Chunki Yiu,Ya Huang,Jingkun Zhou,Sina Khazaee Nejad,Dengfeng Li,Xinge Yu | COCHE affiliation | 35030019 |
 | - | [Two-Electron Redox Chemistry Enabled High-Performance Iodide-Ion Conversion Battery.](https://doi.org/10.1002/anie.202113576) | 2022-01-12 | Angewandte Chemie (Intern | Qi Yang,Chunyi Zhi | COCHE affiliation | 34931752 |
 | - | [A 6-gene panel as a signature to predict recovery from advanced heart failure using transcriptomic a](https://doi.org/10.1016/j.gendis.2021.12.001) | 2022-01-05 | Genes & diseases | Shangjie Zou,Bee Luan Khoo | COCHE affiliation | 35873015 |
-| 31 | [Encoding of tactile information in hand via skin-integrated wireless haptic interface](https://doi.org/10.1038/s42256-022-00543-y) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Encoding of tactile information in hand via skin-integrated wireless haptic interface](https://doi.org/10.1038/s42256-022-00543-y) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Triboelectric nanogenerator tattoos enabled by epidermal electronic technologies](https://doi.org/10.1002/adfm.202111269) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Soft, stretchable, wireless intelligent three‐lead electrocardiograph monitors with feedback functio](https://doi.org/10.1002/smm2.1114) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
-| 34 | [Adaptive intention-driven variable impedance control for wearable robots with compliant actuators](https://doi.org/10.1109/tcst.2022.3222728) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Adaptive intention-driven variable impedance control for wearable robots with compliant actuators](https://doi.org/10.1109/tcst.2022.3222728) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Knock-in of a large reporter gene via the high-throughput microinjection of the CRISPR/Cas9 system](https://doi.org/10.1109/tbme.2022.3149530) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
-| 36 | [Scenario adaptive cuffless blood pressure estimation by integrating cardiovascular coupling effects](https://doi.org/10.1109/jbhi.2022.3227235) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
-| 37 | [Video based cocktail causal container for blood pressure classification and blood glucose prediction](https://doi.org/10.1109/jbhi.2022.3220967) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [Scenario adaptive cuffless blood pressure estimation by integrating cardiovascular coupling effects](https://doi.org/10.1109/jbhi.2022.3227235) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
+| - | [Video based cocktail causal container for blood pressure classification and blood glucose prediction](https://doi.org/10.1109/jbhi.2022.3220967) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Deep learning-enhanced dual-module large-throughput microinjection system for adherent cells](https://doi.org/10.1109/tase.2022.3208152) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
-| 39 | [vital_sqi: A Python package for physiological signal quality control](https://doi.org/10.3389/fphys.2022.1020458) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [vital_sqi: A Python package for physiological signal quality control](https://doi.org/10.3389/fphys.2022.1020458) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Classification of tetanus severity in intensive-care settings for low-income countries using wearabl](https://doi.org/10.3390/s22176554) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
-| 41 | [A dual‐doping strategy of LaCoO3 for optimized oxygen evolution reaction toward zinc‐air batteries a](https://doi.org/10.1002/er.8719) | 2022-01-01 | N/A | N/A | ⭐ InnoHK |  |
+| - | [A dual‐doping strategy of LaCoO3 for optimized oxygen evolution reaction toward zinc‐air batteries a](https://doi.org/10.1002/er.8719) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [COPER: Continuous patient state perceiver](https://doi.org/10.1109/bhi56158.2022.9926807) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Spectrum estimation of heart rate variability using low-rank matrix completion](https://doi.org/10.1109/bhi56158.2022.9926897) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Ultrafast Multi-focus Optical Tweezer based on a Digital Micromirror Device](https://doi.org/10.3850/978-981-18-6021-8_or-15-0151.html) | 2022-01-01 | N/A | N/A | COCHE affiliation |  |
+| - | [Analysis of combination therapy of immune checkpoint inhibitors in osteosarcoma.](https://doi.org/10.3389/fchem.2022.847621) | 2022-01-01 | Frontiers in chemistry | N/A | 🏷 InnoHK-only | 36147250 |
 | - | [Stabilizing Interface pH by N-Modified Graphdiyne for Dendrite-Free and High-Rate Aqueous Zn-Ion Bat](https://doi.org/10.1002/anie.202112304) | 2021-12-20 | Angewandte Chemie (Intern | Qi Yang,Chunyi Zhi | COCHE affiliation | 34799952 |
 | - | [Development of Cell-Carrying Magnetic Microrobots with Bioactive Nanostructured Titanate Surface for](https://doi.org/10.3390/mi12121572) | 2021-12-17 | Micromachines | Junyang Li,Lei Fan,Dong Sun | COCHE affiliation | 34945424 |
+| - | [Diagnosis and epidemiology of winged scapula in breast cancer patients: A systematic review and meta](https://doi.org/10.1093/bmb/ldab021) | 2021-12-16 | British medical bulletin | N/A | COCHE affiliation | 34471931 |
+| - | [Arthroscopic debridement of osteochondral lesions of the talus: A systematic review.](https://doi.org/10.1016/j.foot.2021.101852) | 2021-12-01 | Foot (Edinburgh, Scotland | N/A | COCHE affiliation | 34536818 |
+| - | [Arthroscopic debridement for focal articular cartilage lesions of the knee: A systematic review.](https://doi.org/10.1016/j.surge.2020.11.011) | 2021-12-01 | The surgeon : journal of  | N/A | COCHE affiliation | 33423921 |
 
-## ITC 2021 (11 papers, 0 InnoHK)
+## ITC 2021 (16 papers, 0 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
 | - | [Small-Dipole-Molecule-Containing Electrolytes for High-Voltage Aqueous Rechargeable Batteries.](https://doi.org/10.1002/adma.202106180) | 2021-11-28 | Advanced materials (Deerf | Zhaodong Huang,Qi Yang,Chunyi Zhi | COCHE affiliation | 34699667 |
 | - | [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to detect glucose uptake](https://doi.org/10.1002/nbm.4640) | 2021-11-08 | NMR in biomedicine | Yang Liu,Kannie W Y Chan | COCHE affiliation | 34750891 |
 | - | [High Channel Temperature Mapping Electronics in a Thin, Soft, Wireless Format for Non-Invasive Body ](https://doi.org/10.3390/bios11110435) | 2021-11-02 | Biosensors | Chunki Yiu,Jingkun Zhou,Jian Li,Ya Huang,Jiyu Li,Xinge Yu | COCHE affiliation | 34821651 |
+| - | [Arthroscopic os trigonum en-bloc removal outcomes at 6-month follow-up are better compared to Stieda](https://doi.org/10.1136/jisakos-2021-000619) | 2021-11-01 | Journal of ISAKOS : joint | N/A | COCHE affiliation | 34193616 |
 | - | [Relayed nuclear Overhauser effect weighted (rNOEw) imaging identifies multiple sclerosis.](https://doi.org/10.1016/j.nicl.2021.102867) | 2021-10-28 | NeuroImage. Clinical | Kannie W Y Chan | COCHE affiliation | 34751151 |
 | - | [Miniaturization of mechanical actuators in skin-integrated electronics for haptic interfaces.](https://doi.org/10.1038/s41378-021-00301-x) | 2021-10-22 | Microsystems & nanoengine | Dengfeng Li,Jingkun Zhou,Xinge Yu | COCHE affiliation | 34745644 |
 | - | [Deep neural network based CEST and AREX processing: Application in imaging a model of Alzheimer's di](https://doi.org/10.1002/mrm.29044) | 2021-10-17 | Magnetic resonance in med | Yang Liu,Kannie W Y Chan | COCHE affiliation | 34657318 |
 | - | [Conversion-Type Nonmetal Elemental Tellurium Anode with High Utilization for Mild/Alkaline Zinc Batt](https://doi.org/10.1002/adma.202105426) | 2021-10-15 | Advanced materials (Deerf | Qi Yang,Donghong Wang,Chunyi Zhi | COCHE affiliation | 34612536 |
+| - | [Inverted deltoid posterior cruciate ligament femoral insertion accompanied with medial synovial fold](https://doi.org/10.1007/s00276-021-02801-x) | 2021-10-01 | Surgical and radiologic a | N/A | COCHE affiliation | 34259889 |
 | - | [Battery-Sensor Hybrid: A New Gas Sensing Paradigm with Complete Energy Self-Sufficiency.](https://doi.org/10.1021/acsami.1c09255) | 2021-09-27 | ACS applied materials & i | Derek Ho | COCHE affiliation | 34569776 |
 | - | [Interfacial Laser-Induced Graphene Enabling High-Performance Liquid-Solid Triboelectric Nanogenerato](https://doi.org/10.1002/adma.202104290) | 2021-09-12 | Advanced materials (Deerf | Yuan-Ting Zhang,Zuankai Wang | COCHE affiliation | 34510586 |
+| - | [Minor Shoulder Injury Reveals Spontaneous Regression of Proximal Humerus Osteochondroma.](https://doi.org/10.7759/cureus.16793) | 2021-07-01 | Cureus | N/A | COCHE affiliation | 34354896 |
+| - | [Insufficient evidence to support peroneus longus tendon over other autografts for primary anterior c](https://doi.org/10.1136/jisakos-2020-000501) | 2021-05-01 | Journal of ISAKOS : joint | N/A | COCHE affiliation | 34006580 |
+| - | [Nonanatomic and Suture-Based Coracoclavicular Joint Stabilization Techniques Provide Adequate Stabil](https://doi.org/10.1016/j.asmr.2020.12.007) | 2021-04-01 | Arthroscopy, sports medic | N/A | COCHE affiliation | 34027471 |
 | - | [Recommendation to use wearable-based mHealth in closed-loop management of acute cardiovascular disea](https://doi.org/10.1109/jbhi.2021.3059883) | 2021-01-01 | N/A | N/A | COCHE affiliation |  |
 | - | [Model-free adaptive impedance control for autonomous robotic sanding](https://doi.org/10.1109/tase.2021.3126743) | 2021-01-01 | N/A | N/A | COCHE affiliation |  |
 
@@ -444,11 +459,100 @@
 |---|---|---|---|---|---|---|
 | - | [Wearable sensing and telehealth technology with potential applications in the coronavirus pandemic](https://doi.org/10.1109/rbme.2020.2992838) | 2020-01-01 | N/A | N/A | COCHE affiliation |  |
 
-## ITC 2019 (1 papers, 0 InnoHK)
+## ITC 2019 (2 papers, 0 InnoHK)
 
 | # | Title | Date | Journal | COCHE Authors | Status | PMID |
 |---|---|---|---|---|---|---|
+| - | [Post-mortem CT angiography of mesenteric vessels using cinematic rendering vision.](https://doi.org/10.1016/j.diii.2019.05.005) | 2019-09-01 | Diagnostic and interventi | N/A | COCHE affiliation | 31196829 |
 | - | [IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient mag](https://pubmed.ncbi.nlm.nih.gov/) | 2019-01-01 | N/A | N/A | COCHE affiliation |  |
+
+## ITC 2016 (2 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Combatting lung cancer: Advances in imaging on all fronts.](https://doi.org/10.1016/j.diii.2016.09.005) | 2016-10-01 | Diagnostic and interventi | N/A | COCHE affiliation | 27743578 |
+| - | [Evaluation of lung tumor response to therapy: Current and emerging techniques.](https://doi.org/10.1016/j.diii.2016.09.001) | 2016-10-01 | Diagnostic and interventi | N/A | COCHE affiliation | 27693090 |
+
+## ITC 2015 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Development of a Quantitative Real-Time RT-PCR Assay for the Detection of MAGE-A3-Positive Tumors.](https://doi.org/10.1016/j.jmoldx.2015.03.008) | 2015-07-01 | The Journal of molecular  | N/A | COCHE affiliation | 25986000 |
+
+## ITC 2013 (2 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Assessment of lung tumor response by perfusion CT.](https://pubmed.ncbi.nlm.nih.gov/23971175) | 2013-01-01 | JBR-BTR : organe de la So | N/A | COCHE affiliation | 23971175 |
+| - | [Recist and beyond.](https://pubmed.ncbi.nlm.nih.gov/23971174) | 2013-01-01 | JBR-BTR : organe de la So | N/A | COCHE affiliation | 23971174 |
+
+## ITC 2012 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Advances and perspectives in lung cancer imaging using multidetector row computed tomography.](https://doi.org/10.1586/era.12.112) | 2012-10-01 | Expert review of anticanc | N/A | COCHE affiliation | 23176619 |
+
+## ITC 2010 (2 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Quantitative right and left ventricular functional analysis during gated whole-chest MDCT: a feasibi](https://doi.org/10.1016/j.ejrad.2009.05.037) | 2010-06-01 | European journal of radio | N/A | COCHE affiliation | 19540692 |
+| - | [Lung cancer: Morphological and functional approach to screening, staging and treatment planning.](https://doi.org/10.2217/fon.10.7) | 2010-03-01 | Future oncology (London,  | N/A | COCHE affiliation | 20222794 |
+
+## ITC 2008 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Screening for lung cancer with low-dose CT.](https://pubmed.ncbi.nlm.nih.gov/18447122) | 2008-01-01 | JBR-BTR : organe de la So | N/A | COCHE affiliation | 18447122 |
+
+## ITC 2007 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Acute chest pain in emergency room. Preliminary findings with 40-64-slice CT ECG-gated of the whole ](https://pubmed.ncbi.nlm.nih.gov/17555066) | 2007-01-01 | JBR-BTR : organe de la So | N/A | COCHE affiliation | 17555066 |
+
+## ITC 2006 (4 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Anomalous origin of the left main coronary artery from the main pulmonary artery (ALCAPA) illustrate](https://pubmed.ncbi.nlm.nih.gov/16908686) | 2006-09-01 | Heart (British Cardiac So | N/A | COCHE affiliation | 16908686 |
+| - | [Pulmonary embolism: radiation dose with multi-detector row CT and digital angiography for diagnosis.](https://pubmed.ncbi.nlm.nih.gov/16857975) | 2006-09-01 | Radiology | N/A | COCHE affiliation | 16857975 |
+| - | [Acute myocardial infarction and cardiac perforation on non-gated CT.](https://pubmed.ncbi.nlm.nih.gov/16373359) | 2006-01-01 | European heart journal | N/A | COCHE affiliation | 16373359 |
+| - | [Tricuspid valve endocarditis and septic pulmonary emboli illustrated by ECG-gated multi-slice CT of ](https://pubmed.ncbi.nlm.nih.gov/16308323) | 2006-01-01 | European heart journal | N/A | COCHE affiliation | 16308323 |
+
+## ITC 2005 (3 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Acute coronary artery occlusion revealed by ECG-gated 16-slice CT scan of the whole chest.](https://pubmed.ncbi.nlm.nih.gov/16195322) | 2005-10-01 | European heart journal | N/A | COCHE affiliation | 16195322 |
+| - | [Transdiaphragmatic peritoneal hernia complicating peritoneal dialysis: demonstration with spiral com](https://pubmed.ncbi.nlm.nih.gov/15565312) | 2005-08-01 | European radiology | N/A | COCHE affiliation | 15565312 |
+| - | [Evaluation of biventricular ejection fraction with ECG-gated 16-slice CT: preliminary findings in ac](https://pubmed.ncbi.nlm.nih.gov/15776245) | 2005-07-01 | European radiology | N/A | COCHE affiliation | 15776245 |
+
+## ITC 2004 (2 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Pulmonary embolism findings on chest radiographs and multislice spiral CT.](https://pubmed.ncbi.nlm.nih.gov/14968257) | 2004-07-01 | European radiology | N/A | COCHE affiliation | 14968257 |
+| - | [Diagnosis of acute pulmonary embolism in outpatients: comparison of thin-collimation multi-detector ](https://pubmed.ncbi.nlm.nih.gov/14657313) | 2003-12-01 | Radiology | N/A | COCHE affiliation | 14657313 |
+
+## ITC 2003 (2 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Peripheral pulmonary arteries: identification at multi-slice spiral CT with 3D reconstruction.](https://pubmed.ncbi.nlm.nih.gov/12664122) | 2003-04-01 | European radiology | N/A | COCHE affiliation | 12664122 |
+| - | [Multiple thoracic paraspinal meningeal cysts in autosomal dominant polycystic kidney disease.](https://pubmed.ncbi.nlm.nih.gov/12552486) | 2003-02-01 | American journal of kidne | N/A | COCHE affiliation | 12552486 |
+
+## ITC 2002 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Upper airway imaging in patients with sleep-related breathing disorders.](https://pubmed.ncbi.nlm.nih.gov/12092322) | 2002-01-01 | Acta oto-rhino-laryngolog | N/A | COCHE affiliation | 12092322 |
+
+## ITC 2001 (1 papers, 0 InnoHK)
+
+| # | Title | Date | Journal | COCHE Authors | Status | PMID |
+|---|---|---|---|---|---|---|
+| - | [Demonstration of pulmonary embolism with gadolinium-enhanced spiral CT.](https://pubmed.ncbi.nlm.nih.gov/11702176) | 2001-01-01 | European radiology | N/A | COCHE affiliation | 11702176 |
 
 ## ITC 0 (5 papers, 0 InnoHK)
 
@@ -462,4 +566,4 @@
 
 ---
 > **⭐ InnoHK** = paper has "InnoHK" acknowledgement (ITC KPI metric) | Papers grouped by ITC year (Dec–Nov) | * = corresponding author
-*Generated 2026-07-03 12:40:34*
+*Generated 2026-07-06 09:12:26*

@@ -7,7 +7,7 @@ Strategies (tried in order):
   3. Publisher-specific direct PDF URL patterns
   4. Parse PDF link from EZproxy publisher page
 """
-import json, requests, re, time, os
+import json, requests, re, time, os, gc, sys
 from urllib.parse import urljoin
 
 WORKSPACE = '/home/ubuntu/.openclaw/workspace'
@@ -43,23 +43,54 @@ def get_itc_year(p):
     return y + 1 if mn == 12 else y
 
 def try_download_url(url, filepath):
-    """Try to download PDF from a URL via EZproxy."""
+    """Try to download PDF from a URL. Streams to disk to avoid memory issues."""
     try:
         resp = requests.get(url, headers=headers, timeout=45, allow_redirects=True, stream=True)
-        content = resp.content
-        if content[:4] == b'%PDF' and len(content) > 2000:
+        if resp.status_code == 200:
+            total = 0
             with open(filepath, 'wb') as f:
-                f.write(content)
-            return len(content)
+                for chunk in resp.iter_content(chunk_size=65536):
+                    if chunk:
+                        f.write(chunk)
+                        total += len(chunk)
+            resp.close()
+            if total > 2000:
+                # Verify PDF magic
+                with open(filepath, 'rb') as f:
+                    magic = f.read(4)
+                if magic == b'%PDF':
+                    return total
+                else:
+                    os.remove(filepath)
+                    return 0
+            else:
+                os.remove(filepath)
+                return 0
+        resp.close()
         # Also try without EZproxy for OA papers
         if 'eproxy.lib.hku.hk' in url:
             direct_url = url.replace('https://eproxy.lib.hku.hk/login?url=', '')
             if direct_url != url:
-                resp2 = requests.get(direct_url, headers=headers, timeout=30, allow_redirects=True)
-                if resp2.content[:4] == b'%PDF' and len(resp2.content) > 2000:
+                resp2 = requests.get(direct_url, headers=headers, timeout=30, allow_redirects=True, stream=True)
+                if resp2.status_code == 200:
+                    total2 = 0
                     with open(filepath, 'wb') as f:
-                        f.write(resp2.content)
-                    return len(resp2.content)
+                        for chunk in resp2.iter_content(chunk_size=65536):
+                            if chunk:
+                                f.write(chunk)
+                                total2 += len(chunk)
+                    resp2.close()
+                    if total2 > 2000:
+                        with open(filepath, 'rb') as f:
+                            magic2 = f.read(4)
+                        if magic2 == b'%PDF':
+                            return total2
+                        else:
+                            os.remove(filepath)
+                    else:
+                        os.remove(filepath)
+                else:
+                    resp2.close()
     except:
         pass
     return 0
@@ -186,7 +217,9 @@ for idx, (orig_i, p) in enumerate(target):
             print(f"  ❌ {result}: {p['title'][:50]}", flush=True)
     
     time.sleep(0.3)
-    if (idx + 1) % 20 == 0:
+    # Force garbage collection to manage memory
+    gc.collect()
+    if (idx + 1) % 15 == 0:
         print(f"  💾 {idx+1}/{len(target)}: {downloaded} ok, {exists} exist, {failed} fail", flush=True)
 
 # Summary

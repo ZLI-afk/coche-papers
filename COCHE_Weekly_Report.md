@@ -1,18 +1,12 @@
 # COCHE Weekly Report
 
-**2026-07-03 12:40** UTC+8
+**2026-07-06 09:12** UTC+8
 
 ## Summary
-- Total: 409 | ⭐ InnoHK: 142 (133 + COCHE affiliation, 9 InnoHK-only)
-- Past 30d: 4 (InnoHK: 1)
+- Total: 448 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
+- Past 30d: 3 (InnoHK: 0)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
-
-## ⭐ Recent — InnoHK
-
-| # | Title | Date | Journal | COCHE Authors |
-|---|---|---|---|---|
-| 1 | [The piezoionic diode: field-driven amplification of mechano-](https://doi.org/10.1039/d6mh00251j) | 2026-06-04 | Materials horizons | Bolong Li,Kai Yang … |
 
 ## 📋 Other Recent
 
@@ -24,15 +18,28 @@
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 43 | 16 | 4 | 18 |
-| ITC 2025 | 90 | 33 | 4 | 45 |
-| ITC 2024 | 115 | 32 | 1 | 70 |
-| ITC 2023 | 97 | 45 | 0 | 43 |
-| ITC 2022 | 46 | 7 | 0 | 39 |
-| ITC 2021 | 11 | 0 | 0 | 11 |
+| ITC 2026 | 44 | 16 | 5 | 18 |
+| ITC 2025 | 91 | 33 | 4 | 46 |
+| ITC 2024 | 115 | 24 | 1 | 78 |
+| ITC 2023 | 99 | 33 | 1 | 56 |
+| ITC 2022 | 52 | 1 | 3 | 48 |
+| ITC 2021 | 16 | 0 | 0 | 16 |
 | ITC 2020 | 1 | 0 | 0 | 1 |
-| ITC 2019 | 1 | 0 | 0 | 0 |
+| ITC 2019 | 2 | 0 | 0 | 1 |
+| ITC 2016 | 2 | 0 | 0 | 2 |
+| ITC 2015 | 1 | 0 | 0 | 1 |
+| ITC 2013 | 2 | 0 | 0 | 2 |
+| ITC 2012 | 1 | 0 | 0 | 1 |
+| ITC 2010 | 2 | 0 | 0 | 2 |
+| ITC 2008 | 1 | 0 | 0 | 1 |
+| ITC 2007 | 1 | 0 | 0 | 1 |
+| ITC 2006 | 4 | 0 | 0 | 4 |
+| ITC 2005 | 3 | 0 | 0 | 3 |
+| ITC 2004 | 2 | 0 | 0 | 2 |
+| ITC 2003 | 2 | 0 | 0 | 2 |
+| ITC 2002 | 1 | 0 | 0 | 1 |
+| ITC 2001 | 1 | 0 | 0 | 1 |
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-07-03 12:40:34 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-07-06 09:12:26 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

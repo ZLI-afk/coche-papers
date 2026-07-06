@@ -622,6 +622,52 @@
     ]
   },
   {
+    "pmid": "42127176",
+    "doi": "10.1126/sciadv.aee2009",
+    "title": "Surface reduction boosts free electron concentration in MXene for enhanced photothermal performance.",
+    "journal": "Science advances",
+    "pub_year": "2026",
+    "pub_month": "May",
+    "pub_day": "15",
+    "author_list": [
+      {
+        "name": "Haoming Ding",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong SAR, China.",
+          "Cardiovascular and Cerebrovascular Health Research Centre (COCHE), Hong Kong Science Park, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xiao Tong",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong SAR, China.",
+          "Cardiovascular and Cerebrovascular Health Research Centre (COCHE), Hong Kong Science Park, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yong Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong SAR, China.",
+          "Cardiovascular and Cerebrovascular Health Research Centre (COCHE), Hong Kong Science Park, Hong Kong SAR, China.",
+          "Department of Materials Science and Engineering, College of Engineering, City University of Hong Kong, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC13170662",
+    "date_is_precise": true,
+    "innohk_snippet": "titution-id institution-id-type=\"FundRef\"/> The InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government <award-group id="
+  },
+  {
     "pmid": "41995179",
     "doi": "10.1039/d5tb02743h",
     "title": "Plasmonic hot-electron-assisted ultra-stretchable hydrogel electrodes for wearable cardiovascular monitoring and AI-driven predictive analytics.",
@@ -7058,6 +7104,79 @@
         "is_coche": true
       }
     ]
+  },
+  {
+    "pmid": "41013834",
+    "doi": "10.1186/s40842-025-00229-5",
+    "title": "From deep learning discovery to clinical validation: a new composite marker predicts mortality in type 2 diabetes.",
+    "journal": "Cardiovascular diabetology. Endocrinology reports",
+    "pub_year": "2025",
+    "pub_month": "Sep",
+    "pub_day": "03",
+    "author_list": [
+      {
+        "name": "Jianjun Wu",
+        "affiliations": [
+          "Department of Cardiology, the Second Affiliated Hospital of Harbin Medical University, Harbin, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Dawei Yang",
+        "affiliations": [
+          "Department of Orthopedics, the Fourth Affiliated Hospital of Harbin Medical University, Harbin, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Youqi Zhang",
+        "affiliations": [
+          "Department of Cardiology, the Second Affiliated Hospital of Harbin Medical University, Harbin, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Liu Ji",
+        "affiliations": [
+          "Department of Cardiology, the Second Affiliated Hospital of Harbin Medical University, Harbin, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xiao Tong",
+        "affiliations": [
+          "Department of Biomedical Engineering, Hong Kong Cardiovascular and Cerebrovascular Health Engineering Research Center (COCHE), Hong Kong, China. xtong@hkcoche.org."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Guanghua Chen",
+        "affiliations": [
+          "Department of Orthopedics, The Second Affiliated Hospital of Harbin Medical University, Harbin, China. 602163@hrbmu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Fan Yang",
+        "affiliations": [
+          "Department of Cardiology, the Second Affiliated Hospital of Harbin Medical University, Harbin, China. yangfana@sina.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC12406340",
+    "date_is_precise": true
   },
   {
     "pmid": "40896993",
@@ -29100,6 +29219,79 @@
     ]
   },
   {
+    "pmid": "37183590",
+    "doi": "10.1039/d3mh00301a",
+    "title": "Achieving strong, stable, and durable underwater adhesives based on a simple and generic amino-acid-resembling design.",
+    "journal": "Materials horizons",
+    "pub_year": "2023",
+    "pub_month": "Jul",
+    "pub_day": "31",
+    "author_list": [
+      {
+        "name": "Feng Li",
+        "affiliations": [
+          "MOE Key Laboratory of Wood Material Science and Application & Beijing Key Laboratory of Wood Science and Engineering, Beijing Forestry University, Beijing 100083, China. lijzh@bjfu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jiaying Mo",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Hong Kong, China, Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhicheng Zhang",
+        "affiliations": [
+          "MOE Key Laboratory of Wood Material Science and Application & Beijing Key Laboratory of Wood Science and Engineering, Beijing Forestry University, Beijing 100083, China. lijzh@bjfu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Sheldon Q Shi",
+        "affiliations": [
+          "Department of Mechanical and Energy Engineering, University of North Texas, Denton, TX 76203, USA."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jianzhang Li",
+        "affiliations": [
+          "MOE Key Laboratory of Wood Material Science and Application & Beijing Key Laboratory of Wood Science and Engineering, Beijing Forestry University, Beijing 100083, China. lijzh@bjfu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jinfeng Cao",
+        "affiliations": [
+          "MOE Key Laboratory of Wood Material Science and Application & Beijing Key Laboratory of Wood Science and Engineering, Beijing Forestry University, Beijing 100083, China. lijzh@bjfu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zuankai Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hong Kong, China. zuanwang@polyu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "37493912",
     "doi": "10.1007/s11356-023-28515-8",
     "title": "Comparative valuation of the chlorpyrifos, acetamiprid, and lambda-cyhalothrin toxicity and their hematological and histopathological consequences in pigeons.",
@@ -32607,6 +32799,82 @@
         "is_coche": false
       }
     ]
+  },
+  {
+    "pmid": "36785697",
+    "doi": "10.1007/s44174-023-00063-2",
+    "title": "Drawbacks of Artificial Intelligence and Their Potential Solutions in the Healthcare Sector.",
+    "journal": "Biomedical materials & devices (New York, N.Y.)",
+    "pub_year": "2023",
+    "pub_month": "Feb",
+    "pub_day": "08",
+    "author_list": [
+      {
+        "name": "Bangul Khan",
+        "affiliations": [
+          "Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Shatin, Hong Kong.",
+          "Riphah International University, Lahore, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Hajira Fatima",
+        "affiliations": [
+          "Mehran University of Engineering and Technology, Jamshoro, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ayatullah Qureshi",
+        "affiliations": [
+          "Mehran University of Engineering and Technology, Jamshoro, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Sanjay Kumar",
+        "affiliations": [
+          "NED University, Karachi, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Abdul Hanan",
+        "affiliations": [
+          "Mehran University of Engineering and Technology, Jamshoro, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jawad Hussain",
+        "affiliations": [
+          "Riphah International University, Lahore, Pakistan."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Saad Abdullah",
+        "affiliations": [
+          "Riphah International University, Lahore, Pakistan.",
+          "Mälardalen University, Västerås, Sweden."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC9908503",
+    "date_is_precise": true,
+    "innohk_snippet": "gements The authors would like to thanks Health @ InnoHK (Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Shatin, Hong Kong, SAR China, Mälardalen University Sweden, and Mehran University of Engineering and Technology Jamshoro"
   },
   {
     "pmid": "36748304",
@@ -36838,6 +37106,121 @@
     ]
   },
   {
+    "pmid": "36038557",
+    "doi": "10.1038/s41467-022-32827-7",
+    "title": "Finger-inspired rigid-soft hybrid tactile sensor with superior sensitivity at high frequency.",
+    "journal": "Nature communications",
+    "pub_year": "2022",
+    "pub_month": "Aug",
+    "pub_day": "29",
+    "author_list": [
+      {
+        "name": "Jinhui Zhang",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Haimin Yao",
+        "affiliations": [
+          "Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jiaying Mo",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Hong Kong, 999077, China.",
+          "Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Hong Kong, 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Songyue Chen",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yu Xie",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Shenglin Ma",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Rui Chen",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Tao Luo",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Weisong Ling",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Lifeng Qin",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China. liq@xmu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zuankai Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Hong Kong, 999077, China. zuanwang@cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wei Zhou",
+        "affiliations": [
+          "Department of Mechanical and Electrical Engineering, Xiamen University, Xiamen, 361102, China. weizhou@xmu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC9422944",
+    "date_is_precise": true,
+    "innohk_snippet": "stdoctoral Science Foundation (no. 2020M671946), and Health@InnoHK (Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE)). The authors thank professor Zhong-Qun Tian, professor Wenjing Hong, Dr. Xuyang Chu, Dr. Yunsong Lian, Dr. Shaogan Ye, D"
+  },
+  {
     "pmid": "38616915",
     "doi": "10.34133/2022/9759504",
     "title": "Task Autonomy of a Flexible Endoscopic System for Laser-Assisted Surgery.",
@@ -37654,6 +38037,118 @@
         "is_coche": false
       }
     ]
+  },
+  {
+    "pmid": "35892358",
+    "doi": "10.3390/biomimetics7030088",
+    "title": "Recent Progress on Bioinspired Antibacterial Surfaces for Biomedical Application.",
+    "journal": "Biomimetics (Basel, Switzerland)",
+    "pub_year": "2022",
+    "pub_month": "Jul",
+    "pub_day": "04",
+    "author_list": [
+      {
+        "name": "Xiao Yang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China.",
+          "Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Shatin, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wei Zhang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China.",
+          "Centre for Nature-Inspired Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xuezhi Qin",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China.",
+          "School of Mechanical and Aerospace Engineering, Jilin University, Changchun 130022, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Miaomiao Cui",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yunting Guo",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ting Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Kaiqiang Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China.",
+          "State Key Laboratory of Tribology, Tsinghua University, Beijing 100084, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhenqiang Shi",
+        "affiliations": [
+          "CAS Key Laboratory of Separation Science for Analytical Chemistry, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chao Zhang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wanbo Li",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zuankai Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China.",
+          "Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Shatin, Hong Kong 999077, China.",
+          "Centre for Nature-Inspired Engineering, City University of Hong Kong, Kowloon, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC9326651",
+    "date_is_precise": true,
+    "innohk_snippet": "-group> Health @ InnoHK (Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE)), Innovation and Technology Commission, The Government of the Hong Kong Special Administrative Region of the People’s Rep"
   },
   {
     "pmid": "35760974",
@@ -40550,6 +41045,58 @@
     "gs_snippet": "… Hong Kong SAR, China 2 Oxford-CityU Centre for Cerebro-Cardiovascular Health Engineering \n(CoCHE), Hong Kong Science Park, NT, Hong Kong SAR, China# Corresponding Author/…"
   },
   {
+    "pmid": "36147250",
+    "doi": "10.3389/fchem.2022.847621",
+    "title": "Analysis of combination therapy of immune checkpoint inhibitors in osteosarcoma.",
+    "journal": "Frontiers in chemistry",
+    "pub_year": "2022",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Lijun Peng",
+        "affiliations": [
+          "Hunan Province Key Laboratory of Tumor Cellular and Molecular Pathology, Cancer Research Institute, Hengyang Medical School, University of South China, Hengyang, China.",
+          "The First Affiliated Hospital, Department of Spine Surgery, Hengyang Medical School, University of South China, Hengyang, China.",
+          "Cancer Epigenetics Laboratory, Department of Clinical Oncology, State Key Laboratory of Oncology in South China, Sir YK Pao Center for Cancer and Li Ka Shing Institute of Health Sciences, The Chinese University of Hong Kong, Hong Kong, Hong Kong, SAR China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Huapan Fang",
+        "affiliations": [
+          "Institute of Functional Nano and Soft Materials (FUNSOM), Jiangsu Key Laboratory for Carbon Based Functional Materials and Devices, Soochow University, Suzhou, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xiao Yang",
+        "affiliations": [
+          "Hong Kong Centre for Cerebro-Caradiovasular Health Engineering (COCHE), Hong Kong, Hong Kong, SAR China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xi Zeng",
+        "affiliations": [
+          "Hunan Province Key Laboratory of Tumor Cellular and Molecular Pathology, Cancer Research Institute, Hengyang Medical School, University of South China, Hengyang, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC9485470",
+    "date_is_precise": true,
+    "innohk_snippet": "> This work was also supported by the Funding from Health@InnoHK (Hong Kong Centre for Cerebro-cardiovascular Health Engineering [COCHE]), Innovation and Technology Commission, the Government of the Hong Kong Special Administrative Region of the People’s Rep"
+  },
+  {
     "pmid": "34799952",
     "doi": "10.1002/anie.202112304",
     "title": "Stabilizing Interface pH by N-Modified Graphdiyne for Dendrite-Free and High-Rate Aqueous Zn-Ion Batteries.",
@@ -40814,6 +41361,165 @@
         "is_coche": true
       }
     ]
+  },
+  {
+    "pmid": "34471931",
+    "doi": "10.1093/bmb/ldab021",
+    "title": "Diagnosis and epidemiology of winged scapula in breast cancer patients: A systematic review and meta-analysis.",
+    "journal": "British medical bulletin",
+    "pub_year": "2021",
+    "pub_month": "Dec",
+    "pub_day": "16",
+    "author_list": [
+      {
+        "name": "Milger P Plaza Meza",
+        "affiliations": [
+          "Department of General Surgery, Hospital Universitario Periférico de Coche, Av. Intercomunal de El Valle con Calle Zea, 1090 Caracas, Venezuela.",
+          "Clínica de Prevención del Cancer, Sociedad Anticancerosa de Venezuela, Av. Norte 3, Canónigos a Esperanza, N° 43, Parroquia Altagracia, 1010 Caracas, Venezuela."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Department of Traumatology, Hospital Universitario Periférico de Coche, Av. Intercomunal de El Valle con Calle Zea, 1090 Caracas, Venezuela."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Nicola Maffulli",
+        "affiliations": [
+          "Department of Trauma and Orthopaedic Surgery, AOU San Giovanni di Dio e Ruggi D'Aragona, Via San Leonardo 1, 84131 Salerno, Italy.",
+          "Department of Medicine, Surgery and Dentistry, University of Salerno, Via S. Allende, 84081 Baronissi, Italy.",
+          "Queen Mary University of London, Barts and the London School of Medicine and Dentistry, Centre for Sports and Exercise Medicine, Mile End Hospital, 275 Bancroft Road, London E1 4DG, UK.",
+          "School of Pharmacy and Bioengineering, Keele University School of Medicine, Thornburrow Drive, Stoke on Trent, UK."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "34536818",
+    "doi": "10.1016/j.foot.2021.101852",
+    "title": "Arthroscopic debridement of osteochondral lesions of the talus: A systematic review.",
+    "journal": "Foot (Edinburgh, Scotland)",
+    "pub_year": "2021",
+    "pub_month": "Dec",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Department of Traumatology, Hospital Universitario Periférico de Coche \"Dr. Leopoldo Manrique Terrero\", Caracas, Venezuela. Electronic address: theodorakysmarin@yahoo.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jean M Hovsepian",
+        "affiliations": [
+          "Department of Sports Orthopaedics, Hessing Klinik, Augsburg, Germany."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Pieter D'Hooghe",
+        "affiliations": [
+          "Aspetar Orthopedic and Sports Medicine Hospital, Doha, Qatar."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Emmanouil T Papakostas",
+        "affiliations": [
+          "Aspetar Orthopedic and Sports Medicine Hospital, Doha, Qatar."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "33423921",
+    "doi": "10.1016/j.surge.2020.11.011",
+    "title": "Arthroscopic debridement for focal articular cartilage lesions of the knee: A systematic review.",
+    "journal": "The surgeon : journal of the Royal Colleges of Surgeons of Edinburgh and Ireland",
+    "pub_year": "2021",
+    "pub_month": "Dec",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Trifon Totlis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (TheMIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece. Electronic address: totlis@auth.gr."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (TheMIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece; Department of Traumatology, Hospital Periférico de Coche, Intercomunal avenue at Zea street, 1090, Coche, Caracas, Venezuela. Electronic address: theodorakysmarin@yahoo.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Giorgos Kalifis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (TheMIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece; Department of Orthopaedic Surgery and Musculoskeletal Trauma, General University Hospital of Larissa, Mezourlo, 41110, Larissa, Greece. Electronic address: giorgiokal@hotmail.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ioannis Terzidis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (TheMIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece. Electronic address: jonterz@otenet.gr."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Nicola Maffulli",
+        "affiliations": [
+          "Department of Musculoskeletal Disorders, Faculty of Medicine and Surgery, University of Salerno, Via Salvator Allende, 84081, Salerno, Italy; Queen Mary University of London, Barts and the London School of Medicine and Dentistry, Centre for Sports and Exercise Medicine, Mile End Hospital, 275 Bancroft Road, London, E1 4DG, England, UK; Institute of Science and Technology in Medicine, Keele University School of Medicine, Thornburrow Drive, Stoke on Trent, England, UK. Electronic address: n.maffulli@qmul.ac.uk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Emmanouil Papakostas",
+        "affiliations": [
+          "Aspetar Orthopedic and Sports Medicine Hospital, Sports City Street, 29222, Doha, Qatar. Electronic address: epapacostas@gmail.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
   },
   {
     "pmid": "34699667",
@@ -41204,6 +41910,74 @@
         "is_coche": true
       }
     ]
+  },
+  {
+    "pmid": "34193616",
+    "doi": "10.1136/jisakos-2021-000619",
+    "title": "Arthroscopic os trigonum en-bloc removal outcomes at 6-month follow-up are better compared to Stieda's process resection in patients with posterior ankle impingement syndrome: a prospective comparative study.",
+    "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+    "pub_year": "2021",
+    "pub_month": "Nov",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Panagiotis D Symeonidis",
+        "affiliations": [
+          "St. Luke's Hospital, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Emmanouil T Papakostas",
+        "affiliations": [
+          "Aspetar Orthopaedic and Sports Medicine Hospital, Doha, Qatar.",
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Greece theodorakysmarin@yahoo.com.",
+          "Department of Traumatology, Hospital Universitario Periférico de Coche, Caracas, Venezuela."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Maria Tsatlidou",
+        "affiliations": [
+          "St. Luke's Hospital, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ioannis Terzidis",
+        "affiliations": [
+          "St. Luke's Hospital, Thessaloniki, Greece.",
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Pericles Papadopoulos",
+        "affiliations": [
+          "2nd Orthopedic Department, General Hospital of Thessaloniki Gennimatas, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
   },
   {
     "pmid": "34751151",
@@ -41672,6 +42446,57 @@
     ]
   },
   {
+    "pmid": "34259889",
+    "doi": "10.1007/s00276-021-02801-x",
+    "title": "Inverted deltoid posterior cruciate ligament femoral insertion accompanied with medial synovial fold: a case of a complex posterior cruciate ligament anatomical variation recalcitrant to conservative treatment.",
+    "journal": "Surgical and radiologic anatomy : SRA",
+    "pub_year": "2021",
+    "pub_month": "Oct",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Ioannis Terzidis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (The-MIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Efthymios Papasoulis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (The-MIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Theodorakys Marin Fermin",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (The-MIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece.",
+          "Department of Traumatology, Hospital Universitario Periferico de Coche, Caracas, Venezuela."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Trifon Totlis",
+        "affiliations": [
+          "Thessaloniki Minimally Invasive Surgery (The-MIS) Orthopaedic Center, St. Luke's Hospital, 55236, Thessaloniki, Greece. totlis@auth.gr.",
+          "Department of Anatomy and Surgical Anatomy, School of Medicine, Faculty of Health Sciences, Aristotle University of Thessaloniki, Thessaloniki, Greece. totlis@auth.gr."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "3028247",
+    "date_is_precise": true
+  },
+  {
     "pmid": "34569776",
     "doi": "10.1021/acsami.1c09255",
     "title": "Battery-Sensor Hybrid: A New Gas Sensing Paradigm with Complete Energy Self-Sufficiency.",
@@ -41907,6 +42732,190 @@
         "is_coche": false
       }
     ]
+  },
+  {
+    "pmid": "34354896",
+    "doi": "10.7759/cureus.16793",
+    "title": "Minor Shoulder Injury Reveals Spontaneous Regression of Proximal Humerus Osteochondroma.",
+    "journal": "Cureus",
+    "pub_year": "2021",
+    "pub_month": "Jul",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "George Kalifis",
+        "affiliations": [
+          "Department of Orthopedic Surgery & Musculoskeletal Trauma, University General Hospital of Larissa, Larissa, GRC."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Theodorakys Marin Fermin",
+        "affiliations": [
+          "Department of Traumatology, Hospital Universitario Periférico de Coche, Caracas, VEN."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Efstathios Konstantinou",
+        "affiliations": [
+          "Department of Orthopedic Surgery & Musculoskeletal Trauma, University General Hospital of Larissa, Larissa, GRC."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Vasilios Raoulis",
+        "affiliations": [
+          "Emergency Department, University General Hospital of Larissa, Larissa, GRC."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Michael Hantes",
+        "affiliations": [
+          "Department of Orthopedic Surgery & Musculoskeletal Trauma, University General Hospital of Larissa, Larissa, GRC."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC8328843",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "34006580",
+    "doi": "10.1136/jisakos-2020-000501",
+    "title": "Insufficient evidence to support peroneus longus tendon over other autografts for primary anterior cruciate ligament reconstruction: a systematic review.",
+    "journal": "Journal of ISAKOS : joint disorders & orthopaedic sports medicine",
+    "pub_year": "2021",
+    "pub_month": "May",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Orthopedics, Hospital Periferico de Coche, Caracas, Capital District, Venezuela, Bolivarian Republic of theodorakysmarin@yahoo.com.",
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Central Macedonia, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jean Michel Hovsepian",
+        "affiliations": [
+          "Department of Orthopaedic Sports Medicine, Chirurgisches Klinikum München Süd, München, Bayern, Germany."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Panagiotis D Symeonidis",
+        "affiliations": [
+          "St. Luke's Hospital, Thessaloniki, Central Macedonia, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ioannis Terzidis",
+        "affiliations": [
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Central Macedonia, Greece.",
+          "St. Luke's Hospital, Thessaloniki, Central Macedonia, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Emmanouil Theodorus Papakostas",
+        "affiliations": [
+          "Sports Medicine Orthopaedics, TheMIS Orthopaedic Center, Thessaloniki, Central Macedonia, Greece.",
+          "Sports Medicine Orthopaedics, Aspetar Orthopaedic and Sports Medicine Hospital, Doha, Ad Dawhah, Qatar."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "34027471",
+    "doi": "10.1016/j.asmr.2020.12.007",
+    "title": "Nonanatomic and Suture-Based Coracoclavicular Joint Stabilization Techniques Provide Adequate Stability at a Lower Cost of Implants in Biomechanical Studies When Compared With Anatomic Techniques: A Systematic Review and Meta-Analysis.",
+    "journal": "Arthroscopy, sports medicine, and rehabilitation",
+    "pub_year": "2021",
+    "pub_month": "Apr",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Theodorakys Marín Fermín",
+        "affiliations": [
+          "Department of Traumatology. Hospital Periférico de Coche \"Dr. Leopoldo Manrique Terrero,\" Caracas, Venezuela.",
+          "TheMIS Orthopaedic Center, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jean Michel Hovsepian",
+        "affiliations": [
+          "Department of Orthopaedic Sports Medicine, Chirurgisches Klinikum München Süd, Munich, Germany."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Víctor Miguel Rodrigues Fernandes",
+        "affiliations": [
+          "Department of Traumatology, Clínica Santa María de la Asunción, Tolosa, Spain."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ioannis Terzidis",
+        "affiliations": [
+          "TheMIS Orthopaedic Center, Thessaloniki, Greece."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Emmanouil Papakostas",
+        "affiliations": [
+          "TheMIS Orthopaedic Center, Thessaloniki, Greece.",
+          "Aspetar Orthopedic and Sports Medicine Hospital, Doha, Qatar."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jason Koh",
+        "affiliations": [
+          "NorthShore University Health System, Evanston; University of Chicago Pritzker School of Medicine, Chicago; and Northwestern University School of Engineering. Evanston, Illinois, U.S.A."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC8129474",
+    "date_is_precise": true
   },
   {
     "pmid": "",
@@ -42200,6 +43209,47 @@
     "gs_snippet": "… Engineering, City University of Hong Kong and Hong Kong Centre for Cerebro-Cardiovascular \nHealth Engineering (COCHE), Hong Kong SAR, China (e-mail: nanji3-c@my.cityu.edu.hk…"
   },
   {
+    "pmid": "31196829",
+    "doi": "10.1016/j.diii.2019.05.005",
+    "title": "Post-mortem CT angiography of mesenteric vessels using cinematic rendering vision.",
+    "journal": "Diagnostic and interventional imaging",
+    "pub_year": "2019",
+    "pub_month": "Sep",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "X de Spiegeleire",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Brussels, Belgium."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "J Vanhaebost",
+        "affiliations": [
+          "Department of Pathology and Legal Medicine, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Brussels, Belgium."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Brussels, Belgium. Electronic address: emmanuel.coche@uclouvain.be."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "",
     "doi": "",
     "title": "IMAE for noise-robust learning: Mean absolute error does not treat examples equally and gradient magnitude&#39;s variance matters",
@@ -42216,6 +43266,879 @@
     ],
     "gs_citations": 97,
     "gs_snippet": "… Clifton was supported by the NIHR Oxford Biomedical Research Centre, the InnoHK Hong \nKong Centre for Cerebro-cardiovascular Health Engineering (COCHE), and the Pandemic …"
+  },
+  {
+    "pmid": "27743578",
+    "doi": "10.1016/j.diii.2016.09.005",
+    "title": "Combatting lung cancer: Advances in imaging on all fronts.",
+    "journal": "Diagnostic and interventional imaging",
+    "pub_year": "2016",
+    "pub_month": "Oct",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Département de radiologie, université Catholique de Louvain, cliniques universitaires Saint-Luc, avenue Hippocrate, 10, 1200 Bruxelles, Belgium. Electronic address: Emmanuel.coche@uclouvain.be."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "27693090",
+    "doi": "10.1016/j.diii.2016.09.001",
+    "title": "Evaluation of lung tumor response to therapy: Current and emerging techniques.",
+    "journal": "Diagnostic and interventional imaging",
+    "pub_year": "2016",
+    "pub_month": "Oct",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Radiology Department, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Avenue Hippocrate, 10, 1200 Brussels, Belgium. Electronic address: Emmanuel.coche@ucloucvain.be."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "25986000",
+    "doi": "10.1016/j.jmoldx.2015.03.008",
+    "title": "Development of a Quantitative Real-Time RT-PCR Assay for the Detection of MAGE-A3-Positive Tumors.",
+    "journal": "The Journal of molecular diagnostics : JMD",
+    "pub_year": "2015",
+    "pub_month": "Jul",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Olivier Gruselle",
+        "affiliations": [
+          "Immunotherapeutics, GSK Vaccines, Rixensart, Belgium."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Thierry Coche",
+        "affiliations": [
+          "Immunotherapeutics, GSK Vaccines, Rixensart, Belgium. Electronic address: thierry.coche@gsk.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jamila Louahed",
+        "affiliations": [
+          "Immunotherapeutics, GSK Vaccines, Rixensart, Belgium."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "23971175",
+    "doi": "",
+    "title": "Assessment of lung tumor response by perfusion CT.",
+    "journal": "JBR-BTR : organe de la Societe royale belge de radiologie (SRBR) = orgaan van de Koninklijke Belgische Vereniging voor Radiologie (KBVR)",
+    "pub_year": "2013",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Brussels, Belgium. Emmanuel.coche@uclouvain.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "23971174",
+    "doi": "",
+    "title": "Recist and beyond.",
+    "journal": "JBR-BTR : organe de la Societe royale belge de radiologie (SRBR) = orgaan van de Koninklijke Belgische Vereniging voor Radiologie (KBVR)",
+    "pub_year": "2013",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Brussels, Belgium. Emmanuel.coche@uclouvain.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "23176619",
+    "doi": "10.1586/era.12.112",
+    "title": "Advances and perspectives in lung cancer imaging using multidetector row computed tomography.",
+    "journal": "Expert review of anticancer therapy",
+    "pub_year": "2012",
+    "pub_month": "Oct",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Avenue Hippocrate, 10, 1200 Brussels, Belgium. emmanuel.coche@uclouvain.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "19540692",
+    "doi": "10.1016/j.ejrad.2009.05.037",
+    "title": "Quantitative right and left ventricular functional analysis during gated whole-chest MDCT: a feasibility study comparing automatic segmentation to semi-manual contouring.",
+    "journal": "European journal of radiology",
+    "pub_year": "2010",
+    "pub_month": "Jun",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Université Catholique de Louvain, Cliniques Universitaires St-Luc (UCL), Avenue Hippocrate, 10, 1200 Brussels, Belgium. Emmanuel.coche@uclouvain.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Matthew J Walker",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Francis Zech",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Rodolphe de Crombrugghe",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Alain Vlassenbroek",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "20222794",
+    "doi": "10.2217/fon.10.7",
+    "title": "Lung cancer: Morphological and functional approach to screening, staging and treatment planning.",
+    "journal": "Future oncology (London, England)",
+    "pub_year": "2010",
+    "pub_month": "Mar",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Université Catholique de Louvain, Cliniques Universitaires St-Luc, Brussels, Belgium. emmanuel.coche@uclouvain.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Max Lonneux",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xavier Geets",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "18447122",
+    "doi": "",
+    "title": "Screening for lung cancer with low-dose CT.",
+    "journal": "JBR-BTR : organe de la Societe royale belge de radiologie (SRBR) = orgaan van de Koninklijke Belgische Vereniging voor Radiologie (KBVR)",
+    "pub_year": "2008",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "17555066",
+    "doi": "",
+    "title": "Acute chest pain in emergency room. Preliminary findings with 40-64-slice CT ECG-gated of the whole chest.",
+    "journal": "JBR-BTR : organe de la Societe royale belge de radiologie (SRBR) = orgaan van de Koninklijke Belgische Vereniging voor Radiologie (KBVR)",
+    "pub_year": "2007",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Avenue Hippocrate 10, B-1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "16908686",
+    "doi": "",
+    "title": "Anomalous origin of the left main coronary artery from the main pulmonary artery (ALCAPA) illustrated before and after surgical correction on ECG-gated 40-slice computed tomography.",
+    "journal": "Heart (British Cardiac Society)",
+    "pub_year": "2006",
+    "pub_month": "Sep",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "P Muller",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "B Gerber",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC1861168",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "16857975",
+    "doi": "",
+    "title": "Pulmonary embolism: radiation dose with multi-detector row CT and digital angiography for diagnosis.",
+    "journal": "Radiology",
+    "pub_year": "2006",
+    "pub_month": "Sep",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Departments of Medical Imaging and Radiation Therapy, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Avenue Hippocrate, 10, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Stefaan Vynckier",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Michelle Octave-Prignot",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "16373359",
+    "doi": "",
+    "title": "Acute myocardial infarction and cardiac perforation on non-gated CT.",
+    "journal": "European heart journal",
+    "pub_year": "2006",
+    "pub_month": "Jan",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Université Catholique de Louvain, Cliniques Universitaires St-Luc, Avenue Hippocrate 10, Brussels 1200, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Pol Janssens",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Muriel Parent",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "16308323",
+    "doi": "",
+    "title": "Tricuspid valve endocarditis and septic pulmonary emboli illustrated by ECG-gated multi-slice CT of the chest.",
+    "journal": "European heart journal",
+    "pub_year": "2006",
+    "pub_month": "Jan",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Université Catholique de Louvain, Cliniques Universitaires St-Luc, Avenue Hippocrate 10, Brussels 1200, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Etienne Mauel",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Christophe Beauloye",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Agnes Pasquet",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "16195322",
+    "doi": "",
+    "title": "Acute coronary artery occlusion revealed by ECG-gated 16-slice CT scan of the whole chest.",
+    "journal": "European heart journal",
+    "pub_year": "2005",
+    "pub_month": "Oct",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Université Catholique de Louvain, Cliniques Universitaires Saint-Luc, Avenue Hippocrate 10, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Franck Verschuren",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Joelle Kefer",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "15565312",
+    "doi": "",
+    "title": "Transdiaphragmatic peritoneal hernia complicating peritoneal dialysis: demonstration with spiral computed tomography peritoneography and peritoneal scintigraphy.",
+    "journal": "European radiology",
+    "pub_year": "2005",
+    "pub_month": "Aug",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Avenue Hippocrate 10, 1200, Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Max Lonneux",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Eric Goffin",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "15776245",
+    "doi": "",
+    "title": "Evaluation of biventricular ejection fraction with ECG-gated 16-slice CT: preliminary findings in acute pulmonary embolism in comparison with radionuclide ventriculography.",
+    "journal": "European radiology",
+    "pub_year": "2005",
+    "pub_month": "Jul",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Medical Imaging, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Alain Vlassenbroek",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Véronique Roelants",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "William D'Hoore",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Franck Verschuren",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Louis Goncette",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Baudouin Maldague",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "14968257",
+    "doi": "",
+    "title": "Pulmonary embolism findings on chest radiographs and multislice spiral CT.",
+    "journal": "European radiology",
+    "pub_year": "2004",
+    "pub_month": "Jul",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires Saint-Luc, Université Catholique de Louvain, Avenue Hippocrate 10, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Franck Verschuren",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Philippe Hainaut",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Louis Goncette",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "14657313",
+    "doi": "",
+    "title": "Diagnosis of acute pulmonary embolism in outpatients: comparison of thin-collimation multi-detector row spiral CT and planar ventilation-perfusion scintigraphy.",
+    "journal": "Radiology",
+    "pub_year": "2003",
+    "pub_month": "Dec",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Av Hippocrate 10, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Franck Verschuren",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "André Keyeux",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Pierre Goffette",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Louis Goncette",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Philippe Hainaut",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Frank Hammer",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Edith Lavenne",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Francis Zech",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Philippe Meert",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Marc S Reynaert",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "12664122",
+    "doi": "",
+    "title": "Peripheral pulmonary arteries: identification at multi-slice spiral CT with 3D reconstruction.",
+    "journal": "European radiology",
+    "pub_year": "2003",
+    "pub_month": "Apr",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Radiology, St Luc Hospital, UCL, Avenue Hippocrate, 10, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Sebastien Pawlak",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Stéphane Dechambre",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Baudouin Maldague",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "12552486",
+    "doi": "",
+    "title": "Multiple thoracic paraspinal meningeal cysts in autosomal dominant polycystic kidney disease.",
+    "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+    "pub_year": "2003",
+    "pub_month": "Feb",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Emmanuel Coche",
+        "affiliations": [
+          "Department of Radiology, Cliniques Universitaires St-Luc, Université Catholique de Louvain, Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Alexandre Persu",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Guy Cosnard",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Albert Quoidbach",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yves Pirson",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "12092322",
+    "doi": "",
+    "title": "Upper airway imaging in patients with sleep-related breathing disorders.",
+    "journal": "Acta oto-rhino-laryngologica Belgica",
+    "pub_year": "2002",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E Coche",
+        "affiliations": [
+          "Department of Radiology, Saint-Luc University Hospital, U.C.L., Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "11702176",
+    "doi": "",
+    "title": "Demonstration of pulmonary embolism with gadolinium-enhanced spiral CT.",
+    "journal": "European radiology",
+    "pub_year": "2001",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "E E Coche",
+        "affiliations": [
+          "Department of Radiology, St. Luc University Hospital, University of Louvain, 1200 Brussels, Belgium. coche@rdgn.ucl.ac.be"
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "F D Hammer",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "P P Goffette",
+        "affiliations": [],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
   },
   {
     "pmid": "",
