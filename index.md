@@ -35,4 +35,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-07-13 09:15:33 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-07-13 09:15:35 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
