@@ -1,24 +1,23 @@
 # COCHE Weekly Report
 
-**2026-07-13 09:32** UTC+8
+**2026-07-20 06:36** UTC+8
 
 ## Summary
-- Total: 448 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
-- Past 30d: 3 (InnoHK: 0)
+- Total: 449 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
+- Past 30d: 2 (InnoHK: 0)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
 ## 📋 Other Recent
 
+- [Author Correction: Plasmonic printing of high-performance me](https://doi.org/10.1038/s41563-026-02698-0) | 2026-07-13 | COCHE affiliation
 - [Sweat and air permeable electronics enabled by engineered hi](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | COCHE affiliation
-- [Electronics with switchable flexibility for 3D conforming ne](https://doi.org/10.1126/sciadv.aee2752) | 2026-06-19 | COCHE affiliation
-- [MXene-Based Piezoelectric and Triboelectric Energy Harvester](https://doi.org/10.1002/smll.74020) | 2026-06-19 | COCHE affiliation
 
 ## By ITC Reporting Year
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 44 | 16 | 5 | 18 |
+| ITC 2026 | 45 | 16 | 5 | 19 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -42,4 +41,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-07-13 09:32:24 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-07-20 06:36:20 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

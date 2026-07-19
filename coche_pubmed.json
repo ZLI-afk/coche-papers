@@ -1,5 +1,114 @@
 [
   {
+    "pmid": "42443455",
+    "doi": "10.1038/s41563-026-02698-0",
+    "title": "Author Correction: Plasmonic printing of high-performance metal oxide electronics under room temperature.",
+    "journal": "Nature materials",
+    "pub_year": "2026",
+    "pub_month": "Jul",
+    "pub_day": "13",
+    "author_list": [
+      {
+        "name": "Zhan Gao",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yang Fu",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Qiang Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Kowloon, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jian Li",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Zhiyuan Li",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Guihuan Guo",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Dengfeng Li",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jingkun Zhou",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Dangyuan Lei",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong, China. dangylei@cityu.edu.hk.",
+          "Hong Kong Institute for Clean Energy, City University of Hong Kong, Kowloon, China. dangylei@cityu.edu.hk.",
+          "Department of Physics, Centre for Functional Photonics, and Hong Kong Branch of National Precious Metals Material Engineering Research Centre, City University of Hong Kong, Hong Kong, China. dangylei@cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinge Yu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China. xingeyu@cityu.edu.hk.",
+          "Institute of Digital Medicine, City University of Hong Kong, Kowloon, China. xingeyu@cityu.edu.hk.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, China. xingeyu@cityu.edu.hk.",
+          "Hong Kong Institute for Clean Energy, City University of Hong Kong, Kowloon, China. xingeyu@cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Jian Li",
+      "Jingkun Zhou",
+      "Xinge Yu"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42324249",
     "doi": "10.1038/s41378-026-01362-6",
     "title": "Sweat and air permeable electronics enabled by engineered hierarchical fabric system for exercise management.",
