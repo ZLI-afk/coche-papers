@@ -1,23 +1,23 @@
 # COCHE Weekly Report
 
-**2026-07-20 06:36** UTC+8
+**2026-07-26 05:06** UTC+8
 
 ## Summary
-- Total: 449 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
+- Total: 450 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
 - Past 30d: 2 (InnoHK: 0)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
 ## 📋 Other Recent
 
+- [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) | 2026-07-21 | COCHE affiliation
 - [Author Correction: Plasmonic printing of high-performance me](https://doi.org/10.1038/s41563-026-02698-0) | 2026-07-13 | COCHE affiliation
-- [Sweat and air permeable electronics enabled by engineered hi](https://doi.org/10.1038/s41378-026-01362-6) | 2026-06-22 | COCHE affiliation
 
 ## By ITC Reporting Year
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 45 | 16 | 5 | 19 |
+| ITC 2026 | 46 | 16 | 5 | 20 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -41,4 +41,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-07-20 06:36:22 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-07-26 05:06:16 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

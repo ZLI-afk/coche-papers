@@ -1,5 +1,105 @@
 [
   {
+    "pmid": "42481379",
+    "doi": "10.1021/acsabm.5c02536",
+    "title": "Ag-Anchored Ti",
+    "journal": "ACS applied bio materials",
+    "pub_year": "2026",
+    "pub_month": "Jul",
+    "pub_day": "21",
+    "author_list": [
+      {
+        "name": "Bangul Khan",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Building 19W, Hong Kong Science Park, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Bilawal Khan",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Weibin Zhu",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Building 19W, Hong Kong Science Park, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Changqiu Zhou",
+        "affiliations": [
+          "Department of Data and Systems Engineering, The University of Hong Kong, Hong Kong SAR 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ching Yin Fong",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Rafi U Shan Ahmad",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Building 19W, Hong Kong Science Park, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Iyappan Gunasekran",
+        "affiliations": [
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Building 19W, Hong Kong Science Park, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Mohamed Elhousseini Hilal",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Bee Luan Khoo",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Building 19W, Hong Kong Science Park, Hong Kong 999077, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Kowloon Tong, Hong Kong SAR 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Bangul Khan",
+      "Weibin Zhu",
+      "Rafi U Shan Ahmad",
+      "Iyappan Gunasekran",
+      "Bee Luan Khoo"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42443455",
     "doi": "10.1038/s41563-026-02698-0",
     "title": "Author Correction: Plasmonic printing of high-performance metal oxide electronics under room temperature.",
