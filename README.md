@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **450 papers** | ⭐ InnoHK: 121 (107 dual) | ⏰ 2026-07-27 09:09 UTC+8
+> 📊 **451 papers** | ⭐ InnoHK: 121 (107 dual) | ⏰ 2026-08-01 05:36 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -15,8 +15,9 @@
 
 ---
 
-<details><summary>📋 Other Recent (2 papers, no InnoHK or single-channel)</summary>
+<details><summary>📋 Other Recent (3 papers, no InnoHK or single-channel)</summary>
 
+- [Sequencing-free spatial profiling of post-transcriptional regulation in fresh ti](https://doi.org/10.1038/s41551-026-01745-0) (2026-07-28)
 - [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) (2026-07-21)
 - [Author Correction: Plasmonic printing of high-performance metal oxide electronic](https://doi.org/10.1038/s41563-026-02698-0) (2026-07-13)
 
@@ -25,7 +26,7 @@
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 46 papers ⭐16 🆕2</summary>
+<summary><b>ITC 2026</b> — 47 papers ⭐16 🆕3</summary>
 
 1. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
 2. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
@@ -43,7 +44,8 @@
 14. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
 15. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12-01)
 16. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
-<details><summary>More papers +20 COCHE affiliation +5 InnoHK-only +5 other (non-InnoHK)</summary>
+<details><summary>More papers +21 COCHE affiliation +5 InnoHK-only +5 other (non-InnoHK)</summary>
+- [Sequencing-free spatial profiling of post-transcriptional regulation in fresh ti](https://doi.org/10.1038/s41551-026-01745-0) (2026-07-28)
 - [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) (2026-07-21)
 - [Author Correction: Plasmonic printing of high-performance metal oxide electronic](https://doi.org/10.1038/s41563-026-02698-0) (2026-07-13)
 - [Sweat and air permeable electronics enabled by engineered hierarchical fabric sy](https://doi.org/10.1038/s41378-026-01362-6) (2026-06-22)

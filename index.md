@@ -3,13 +3,13 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ InnoHK = paper acknowledges InnoHK (ITC KPI metric)
 
-📊 **Total: 450** | ⭐ InnoHK: 121 | 🆕 Past 30d: 2 (0 InnoHK) | ⏰ 2026-07-27 09:09
+📊 **Total: 451** | ⭐ InnoHK: 121 | 🆕 Past 30d: 3 (0 InnoHK) | ⏰ 2026-08-01 05:36
 
 ---
 
 ## 📋 By ITC Reporting Year
 
-- **ITC 2026**: 46 papers (21 InnoHK)
+- **ITC 2026**: 47 papers (21 InnoHK)
 - **ITC 2025**: 91 papers (37 InnoHK)
 - **ITC 2024**: 115 papers (25 InnoHK)
 - **ITC 2023**: 99 papers (34 InnoHK)
@@ -35,4 +35,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-07-27 09:09:32 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-08-01 05:36:22 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*

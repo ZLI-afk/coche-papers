@@ -1,15 +1,16 @@
 # COCHE Weekly Report
 
-**2026-07-27 09:09** UTC+8
+**2026-08-01 05:36** UTC+8
 
 ## Summary
-- Total: 450 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
-- Past 30d: 2 (InnoHK: 0)
+- Total: 451 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
+- Past 30d: 3 (InnoHK: 0)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
 ## 📋 Other Recent
 
+- [Sequencing-free spatial profiling of post-transcriptional re](https://doi.org/10.1038/s41551-026-01745-0) | 2026-07-28 | COCHE affiliation
 - [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) | 2026-07-21 | COCHE affiliation
 - [Author Correction: Plasmonic printing of high-performance me](https://doi.org/10.1038/s41563-026-02698-0) | 2026-07-13 | COCHE affiliation
 
@@ -17,7 +18,7 @@
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 46 | 16 | 5 | 20 |
+| ITC 2026 | 47 | 16 | 5 | 21 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -41,4 +42,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-07-27 09:09:32 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-08-01 05:36:22 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

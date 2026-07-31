@@ -1,5 +1,160 @@
 [
   {
+    "pmid": "42521808",
+    "doi": "10.1038/s41551-026-01745-0",
+    "title": "Sequencing-free spatial profiling of post-transcriptional regulation in fresh tissues using nanoneedle arrays.",
+    "journal": "Nature biomedical engineering",
+    "pub_year": "2026",
+    "pub_month": "Jul",
+    "pub_day": "28",
+    "author_list": [
+      {
+        "name": "Xianglin Ji",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Peilin Fang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Youyang Wan",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xi Zhao",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Institute of Scientific Instrumentation, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chuanyin Xiong",
+        "affiliations": [
+          "College of Bioresources Chemical and Materials Engineering, Shanxi University of Science and Technology, Xi'an, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Feng Guo",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Qi Yang",
+        "affiliations": [
+          "College of Bioresources Chemical and Materials Engineering, Shanxi University of Science and Technology, Xi'an, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Richard Yan-Do",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong Science Park, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Lin Qi",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chenjie Xu",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xin Wang",
+        "affiliations": [
+          "Department of Surgery, The Chinese University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Linfeng Huang",
+        "affiliations": [
+          "Wang-Cai Biochemistry Lab, Division of Natural and Applied Sciences, Duke Kunshan University, Kunshan, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wenjun Zhang",
+        "affiliations": [
+          "Department of Material Sciences and Engineering, College of Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Center of Super-Diamond and Advanced Films, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zixun Wang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "CAS Key Laboratory of Nano-Bio Interface, Suzhou Institute of Nano-Tech and Nano-Bionics, Chinese Academy of Sciences, Suzhou, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jia Ke",
+        "affiliations": [
+          "Department of General Surgery, Guangdong Provincial Key Laboratory of Colorectal and Pelvic Floor Diseases, Biomedical Innovation Center, the Sixth Affiliated Hospital, Sun Yat-sen University, Guangzhou, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Peng Shi",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China. pengshi@cityu.edu.hk.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong Science Park, Hong Kong, China. pengshi@cityu.edu.hk.",
+          "Center of Super-Diamond and Advanced Films, City University of Hong Kong, Hong Kong, China. pengshi@cityu.edu.hk.",
+          "Shenzhen Research Institute, City University of Hong Kong, Shenzhen, China. pengshi@cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Richard Yan-Do",
+      "Peng Shi"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "4662681",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42481379",
     "doi": "10.1021/acsabm.5c02536",
     "title": "Ag-Anchored Ti",
