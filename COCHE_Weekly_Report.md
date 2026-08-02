@@ -1,6 +1,6 @@
 # COCHE Weekly Report
 
-**2026-08-01 08:31** UTC+8
+**2026-08-02 19:01** UTC+8
 
 ## Summary
 - Total: 451 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
@@ -42,4 +42,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-08-01 08:31:07 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-08-02 19:01:08 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
