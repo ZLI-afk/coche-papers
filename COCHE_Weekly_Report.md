@@ -1,12 +1,18 @@
 # COCHE Weekly Report
 
-**2026-08-02 19:01** UTC+8
+**2026-08-08 05:37** UTC+8
 
 ## Summary
-- Total: 451 | ⭐ InnoHK: 121 (107 + COCHE affiliation, 14 InnoHK-only)
-- Past 30d: 3 (InnoHK: 0)
+- Total: 452 | ⭐ InnoHK: 122 (108 + COCHE affiliation, 14 InnoHK-only)
+- Past 30d: 4 (InnoHK: 1)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
+
+## ⭐ Recent — InnoHK
+
+| # | Title | Date | Journal | COCHE Authors |
+|---|---|---|---|---|
+| 1 | [A hemispherical latitude-gradient sensor for closed-loop mon](https://doi.org/10.1126/sciadv.aeh1421) | 2026-07-31 | Science advances | Jianpeng Zhang,Weibin Zhu … |
 
 ## 📋 Other Recent
 
@@ -18,7 +24,7 @@
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 47 | 16 | 5 | 21 |
+| ITC 2026 | 48 | 17 | 5 | 21 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -42,4 +48,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-08-02 19:01:08 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-08-08 05:37:57 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

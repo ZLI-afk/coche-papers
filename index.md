@@ -3,13 +3,19 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ InnoHK = paper acknowledges InnoHK (ITC KPI metric)
 
-📊 **Total: 451** | ⭐ InnoHK: 121 | 🆕 Past 30d: 3 (0 InnoHK) | ⏰ 2026-08-02 19:01
+📊 **Total: 452** | ⭐ InnoHK: 122 | 🆕 Past 30d: 4 (1 InnoHK) | ⏰ 2026-08-08 05:37
 
 ---
 
+## ⭐ Recent — InnoHK (1)
+
+| # | Title | Date | Journal | COCHE Authors |
+|---|---|---|---|---|
+| 1 | [A hemispherical latitude-gradient sensor for closed-loop monitoring an...](https://doi.org/10.1126/sciadv.aeh1421) | 2026-07-31 | Science advances | Jianpeng Zhang,Weibin Zhu et al. |
+
 ## 📋 By ITC Reporting Year
 
-- **ITC 2026**: 47 papers (21 InnoHK)
+- **ITC 2026**: 48 papers (22 InnoHK)
 - **ITC 2025**: 91 papers (37 InnoHK)
 - **ITC 2024**: 115 papers (25 InnoHK)
 - **ITC 2023**: 99 papers (34 InnoHK)
@@ -35,4 +41,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-08-02 19:01:08 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-08-08 05:37:57 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*

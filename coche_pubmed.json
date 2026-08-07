@@ -1,5 +1,142 @@
 [
   {
+    "pmid": "42536739",
+    "doi": "10.1126/sciadv.aeh1421",
+    "title": "A hemispherical latitude-gradient sensor for closed-loop monitoring and management of scoliosis correction.",
+    "journal": "Science advances",
+    "pub_year": "2026",
+    "pub_month": "Jul",
+    "pub_day": "31",
+    "author_list": [
+      {
+        "name": "Hehua Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yuyu Gao",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinxin He",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Department of Orthopaedics and Traumatology, The Chinese University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Haoyu Wang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jianpeng Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Weibin Zhu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Yuan Guo",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhenlin Chen",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Binbin Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Key Laboratory of Photonic-Electronic Integration and Communication-Sensing Convergence, School of Information Science and Technology, Southwest Jiaotong University, Chengdu, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Shengxin Jia",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Kuanming Yao",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Division of Integrative Systems and Design, The Hong Kong University of Science and Technology, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yiming Liu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Macao Institute of Materials Science and Engineering (MIMSE) Faculty of Innovation Engineering, Macau University of Science and Technology, Macao, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinge Yu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Jianpeng Zhang",
+      "Weibin Zhu",
+      "Zhenlin Chen",
+      "Xinge Yu"
+    ],
+    "source": [
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC13426408",
+    "date_is_precise": true,
+    "innohk_snippet": "/institution> InnoHK Project 2.2–AI-based 3D ultrasound imaging algorithm pmc-status-qastatus 0"
+  },
+  {
     "pmid": "42521808",
     "doi": "10.1038/s41551-026-01745-0",
     "title": "Sequencing-free spatial profiling of post-transcriptional regulation in fresh tissues using nanoneedle arrays.",
