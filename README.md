@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **452 papers** | ⭐ InnoHK: 122 (108 dual) | ⏰ 2026-08-08 07:01 UTC+8
+> 📊 **452 papers** | ⭐ InnoHK: 122 (108 dual) | ⏰ 2026-08-09 09:01 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
