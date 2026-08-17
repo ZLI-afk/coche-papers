@@ -1,5 +1,328 @@
 [
   {
+    "pmid": "42595234",
+    "doi": "10.1016/j.ijpharm.2026.127301",
+    "title": "A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanotherapy in atherosclerosis.",
+    "journal": "International journal of pharmaceutics",
+    "pub_year": "2026",
+    "pub_month": "Aug",
+    "pub_day": "13",
+    "author_list": [
+      {
+        "name": "Yatian Fu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China. Electronic address: yatianfu2-c@my.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Mohamed Elhousseini Hilal",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China. Electronic address: melhouss@um.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wang Guo",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China; Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. Electronic address: wangguo2-@my.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Ke Huang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China; Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. Electronic address: khuang28-c@my.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Wei Li",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China; Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. Electronic address: weili229-c@my.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Sander Dekyvere",
+        "affiliations": [
+          "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Luoshi Road 122, Wuhan 430070, China. Electronic address: sander4a@hotmail.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhiqiang Ma",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China; Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. Electronic address: zhiqiangma@buaa.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Junchen Liao",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China. Electronic address: liao.jc@my.cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Somboon Chaemchuen",
+        "affiliations": [
+          "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Luoshi Road 122, Wuhan 430070, China. Electronic address: che@hotmail.com."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yang Sylvia Liu",
+        "affiliations": [
+          "Department of Applied Biology and Chemical Technology, The Hong Kong Polytechnic University, Hong Kong, China. Electronic address: sylviayang.liu@polyu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Song Lin Chua",
+        "affiliations": [
+          "Department of Applied Biology and Chemical Technology, The Hong Kong Polytechnic University, Hong Kong, China; State Key Laboratory of Chemical Biology and Drug Discovery, Hong Kong, China; Shenzhen Key Laboratory of Food Biological Safety Control, The Hong Kong Polytechnic University, Hong Kong, China. Electronic address: song-lin.chua@polyu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Francis Verpoort",
+        "affiliations": [
+          "State Key Laboratory of Advanced Technology for Materials Synthesis and Processing, Wuhan University of Technology, Luoshi Road 122, Wuhan 430070, China; Joint Institute of Chemical Research (FFMiEN), Peoples Friendship University of Russia (RUDN University), 6 Miklukho-Maklaya Str., 117198 Moscow, Russia. Electronic address: francis@whut.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Bee Luan Khoo",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China; Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China; Department of Precision Diagnostic and Therapeutic Technology, City University of Hong Kong, Shenzhen-Futian Research Institute, Shenzhen 518057, China. Electronic address: blkhoo@cityu.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Wang Guo",
+      "Ke Huang",
+      "Wei Li",
+      "Zhiqiang Ma",
+      "Bee Luan Khoo"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "42580373",
+    "doi": "10.1016/j.tcm.2026.08.005",
+    "title": "Artificial Intelligence in Cardiovascular Imaging and Risk Stratification: From Algorithmic Discovery to Meaningful Clinical Implication.",
+    "journal": "Trends in cardiovascular medicine",
+    "pub_year": "2026",
+    "pub_month": "Aug",
+    "pub_day": "11",
+    "author_list": [
+      {
+        "name": "Xu Xia",
+        "affiliations": [
+          "School of Nursing, Shandong XieHe University, Jinan, Shandong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wasim Ullah Khan",
+        "affiliations": [
+          "School of Information Engineering, Yango University, Fuzhou 350015, China; Institute of Intelligent Algorithms and Complex Systems, Yango University, Fuzhou 350015, China; Institute of Industrial Internet Intelligent Control Technology and System in Universities of Fujian Province, 350015, Fuzhou, Fujian, China; Hong Kong Centre for Cerebro Cardiovascular Health Engineering, Hong Kong. Electronic address: kwasim814@whu.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Qaisar Khan",
+        "affiliations": [
+          "MBBS, Yangtze University, Jingzhou, Hubei, 434023, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chen Zhong",
+        "affiliations": [
+          "School of Information Engineering, Yango University, Fuzhou 350015, China; Institute of Intelligent Algorithms and Complex Systems, Yango University, Fuzhou 350015, China; Institute of Industrial Internet Intelligent Control Technology and System in Universities of Fujian Province, 350015, Fuzhou, Fujian, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Muhammad Shehzad Khan",
+        "affiliations": [
+          "School of Medicine, City University of Hong Kong, Kowloon Tong, Hong Kong."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [
+      "Wasim Ullah Khan"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
+    "pmid": "42503880",
+    "doi": "10.1021/acsnano.6c09063",
+    "title": "Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile Sensing in a Soft Ionic Skin.",
+    "journal": "ACS nano",
+    "pub_year": "2026",
+    "pub_month": "Aug",
+    "pub_day": "11",
+    "author_list": [
+      {
+        "name": "Yu Feng",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jiankun Li",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Cong Wu",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "School of Engineering and Technology, China University of Geosciences (Beijing), Beijing100083, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Senlin Hou",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yehui Liu",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Hui Sun",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Meng Chen",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ziyi Li",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhi Li",
+        "affiliations": [
+          "College of Computer Science and Software Engineering, Shenzhen University, Shenzhen518000, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Guanglie Zhang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Steven Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Vellaisamy A L Roy",
+        "affiliations": [
+          "School of Science and Technology, Hong Kong Metropolitan University, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinge Yu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wen Jung Li",
+        "affiliations": [
+          "Department of Mechanical Engineering, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China.",
+          "CAS-CityU Joint Laboratory for Robotic Research, City University of Hong Kong, Kowloon, Hong Kong SAR999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC13472318",
+    "date_is_precise": true,
+    "innohk_snippet": "id=\"fnd-5\"> InnoHK Project NA </funding-sou"
+  },
+  {
     "pmid": "42536739",
     "doi": "10.1126/sciadv.aeh1421",
     "title": "A hemispherical latitude-gradient sensor for closed-loop monitoring and management of scoliosis correction.",
@@ -135,6 +458,73 @@
     "pmc": "PMC13426408",
     "date_is_precise": true,
     "innohk_snippet": "/institution> InnoHK Project 2.2–AI-based 3D ultrasound imaging algorithm pmc-status-qastatus 0"
+  },
+  {
+    "pmid": "42601293",
+    "doi": "10.1016/j.scib.2026.07.073",
+    "title": "Patternable, pore-tunable and pyrolysis-free nanofabrication of nanoporous carbon.",
+    "journal": "Science bulletin",
+    "pub_year": "2026",
+    "pub_month": "Jul",
+    "pub_day": "29",
+    "author_list": [
+      {
+        "name": "Zuxi Ouyang",
+        "affiliations": [
+          "Zhejiang Key Laboratory of 3D Micro/Nano Fabrication and Characterization, Department of Electronic and Information Engineering, School of Engineering, Westlake University, Hangzhou 310030, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinyu Sun",
+        "affiliations": [
+          "Zhejiang Key Laboratory of 3D Micro/Nano Fabrication and Characterization, Department of Electronic and Information Engineering, School of Engineering, Westlake University, Hangzhou 310030, China; Westlake Institute for Optoelectronics, Hangzhou 311400, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Rui Zheng",
+        "affiliations": [
+          "Zhejiang Key Laboratory of 3D Micro/Nano Fabrication and Characterization, Department of Electronic and Information Engineering, School of Engineering, Westlake University, Hangzhou 310030, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ding Zhao",
+        "affiliations": [
+          "Zhejiang Key Laboratory of 3D Micro/Nano Fabrication and Characterization, Department of Electronic and Information Engineering, School of Engineering, Westlake University, Hangzhou 310030, China; Westlake Institute for Optoelectronics, Hangzhou 311400, China. Electronic address: zhaoding@westlake.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinggang Shang",
+        "affiliations": [
+          "Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong, Hong Kong 999077, China; Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong 999077, China. Electronic address: shangxinggang@westlake.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Min Qiu",
+        "affiliations": [
+          "Zhejiang Key Laboratory of 3D Micro/Nano Fabrication and Characterization, Department of Electronic and Information Engineering, School of Engineering, Westlake University, Hangzhou 310030, China; Westlake Institute for Optoelectronics, Hangzhou 311400, China. Electronic address: qiu_lab@westlake.edu.cn."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [
+      "Xinggang Shang"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
   },
   {
     "pmid": "42521808",
