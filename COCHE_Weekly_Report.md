@@ -1,10 +1,10 @@
 # COCHE Weekly Report
 
-**2026-08-17 09:06** UTC+8
+**2026-08-24 09:06** UTC+8
 
 ## Summary
 - Total: 456 | ⭐ InnoHK: 123 (108 + COCHE affiliation, 15 InnoHK-only)
-- Past 30d: 7 (InnoHK: 2)
+- Past 30d: 6 (InnoHK: 2)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
@@ -21,7 +21,6 @@
 - [Intrinsic Force-Temperature Self-Decoupling Enables Human-li](https://doi.org/10.1021/acsnano.6c09063) | 2026-08-11 | 🏷 InnoHK-only
 - [Patternable, pore-tunable and pyrolysis-free nanofabrication](https://doi.org/10.1016/j.scib.2026.07.073) | 2026-07-29 | COCHE affiliation
 - [Sequencing-free spatial profiling of post-transcriptional re](https://doi.org/10.1038/s41551-026-01745-0) | 2026-07-28 | COCHE affiliation
-- [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) | 2026-07-21 | COCHE affiliation
 
 ## By ITC Reporting Year
 
@@ -51,4 +50,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-08-17 09:06:52 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-08-24 09:06:18 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

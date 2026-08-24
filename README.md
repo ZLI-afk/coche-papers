@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **456 papers** | ⭐ InnoHK: 123 (108 dual) | ⏰ 2026-08-17 09:06 UTC+8
+> 📊 **456 papers** | ⭐ InnoHK: 123 (108 dual) | ⏰ 2026-08-24 09:06 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -20,21 +20,20 @@
 1. **[A hemispherical latitude-gradient sensor for closed-loop monitoring and management of scoliosis correction.](https://doi.org/10.1126/sciadv.aeh1421)**
    - 📅 2026-07-31 | 📰 Science advances | 👤 Jianpeng Zhang,Weibin Zhu,Zhenlin Chen et al.
 
-<details><summary>📋 Other Recent (6 papers, no InnoHK or single-channel)</summary>
+<details><summary>📋 Other Recent (5 papers, no InnoHK or single-channel)</summary>
 
 - [A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanother](https://doi.org/10.1016/j.ijpharm.2026.127301) (2026-08-13)
 - [Artificial Intelligence in Cardiovascular Imaging and Risk Stratification: From ](https://doi.org/10.1016/j.tcm.2026.08.005) (2026-08-11)
 - [Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile Sensing i](https://doi.org/10.1021/acsnano.6c09063) (2026-08-11) 🏷 InnoHK-only
 - [Patternable, pore-tunable and pyrolysis-free nanofabrication of nanoporous carbo](https://doi.org/10.1016/j.scib.2026.07.073) (2026-07-29)
 - [Sequencing-free spatial profiling of post-transcriptional regulation in fresh ti](https://doi.org/10.1038/s41551-026-01745-0) (2026-07-28)
-- [Ag-Anchored Ti](https://doi.org/10.1021/acsabm.5c02536) (2026-07-21)
 
 </details>
 
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 52 papers ⭐17 🆕7</summary>
+<summary><b>ITC 2026</b> — 52 papers ⭐17 🆕6</summary>
 
 1. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
 2. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
