@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **456 papers** | ⭐ InnoHK: 123 (108 dual) | ⏰ 2026-08-24 09:06 UTC+8
+> 📊 **457 papers** | ⭐ InnoHK: 124 (108 dual) | ⏰ 2026-08-31 09:06 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -15,25 +15,19 @@
 
 ---
 
-## ⭐ Recent — InnoHK (1)
+<details><summary>📋 Other Recent (4 papers, no InnoHK or single-channel)</summary>
 
-1. **[A hemispherical latitude-gradient sensor for closed-loop monitoring and management of scoliosis correction.](https://doi.org/10.1126/sciadv.aeh1421)**
-   - 📅 2026-07-31 | 📰 Science advances | 👤 Jianpeng Zhang,Weibin Zhu,Zhenlin Chen et al.
-
-<details><summary>📋 Other Recent (5 papers, no InnoHK or single-channel)</summary>
-
+- [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
 - [A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanother](https://doi.org/10.1016/j.ijpharm.2026.127301) (2026-08-13)
 - [Artificial Intelligence in Cardiovascular Imaging and Risk Stratification: From ](https://doi.org/10.1016/j.tcm.2026.08.005) (2026-08-11)
 - [Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile Sensing i](https://doi.org/10.1021/acsnano.6c09063) (2026-08-11) 🏷 InnoHK-only
-- [Patternable, pore-tunable and pyrolysis-free nanofabrication of nanoporous carbo](https://doi.org/10.1016/j.scib.2026.07.073) (2026-07-29)
-- [Sequencing-free spatial profiling of post-transcriptional regulation in fresh ti](https://doi.org/10.1038/s41551-026-01745-0) (2026-07-28)
 
 </details>
 
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 52 papers ⭐17 🆕6</summary>
+<summary><b>ITC 2026</b> — 53 papers ⭐17 🆕4</summary>
 
 1. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
 2. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
@@ -52,7 +46,8 @@
 15. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
 16. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12-01)
 17. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
-<details><summary>More papers +24 COCHE affiliation +6 InnoHK-only +5 other (non-InnoHK)</summary>
+<details><summary>More papers +24 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+- [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
 - [A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanother](https://doi.org/10.1016/j.ijpharm.2026.127301) (2026-08-13)
 - [Artificial Intelligence in Cardiovascular Imaging and Risk Stratification: From ](https://doi.org/10.1016/j.tcm.2026.08.005) (2026-08-11)
 - [Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile Sensing i](https://doi.org/10.1021/acsnano.6c09063) (2026-08-11) 🏷 InnoHK-only

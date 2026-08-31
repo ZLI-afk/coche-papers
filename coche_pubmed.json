@@ -1,5 +1,106 @@
 [
   {
+    "pmid": "42660959",
+    "doi": "10.1038/s41523-026-01038-4",
+    "title": "DynamicBUS: restoring temporal dynamics from static ultrasound for improved breast cancer diagnosis.",
+    "journal": "NPJ breast cancer",
+    "pub_year": "2026",
+    "pub_month": "Aug",
+    "pub_day": "28",
+    "author_list": [
+      {
+        "name": "Zhikai Yang",
+        "affiliations": [
+          "Department of Biomedical Engineering and Health Systems, KTH Royal Institute of Technology, Stockholm, Sweden. zhikai@kth.se."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yaofang Liu",
+        "affiliations": [
+          "City University of Hong Kong, Hong Kong, China.",
+          "COCHE, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Tianhao Bai",
+        "affiliations": [
+          "Department of Ultrasound, Aviation General Hospital, Beijing, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ander Biguri",
+        "affiliations": [
+          "University of Cambridge, Cambridge, UK."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Haoyuan Chen",
+        "affiliations": [
+          "School of Biomedical Engineering & State Key Laboratory of Advanced Medical Materials and Devices, ShanghaiTech University, Shanghai, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yonghao Li",
+        "affiliations": [
+          "School of Biomedical Engineering & State Key Laboratory of Advanced Medical Materials and Devices, ShanghaiTech University, Shanghai, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Carola-Bibiane Schönlieb",
+        "affiliations": [
+          "University of Cambridge, Cambridge, UK."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Örjan Smedby",
+        "affiliations": [
+          "Department of Biomedical Engineering and Health Systems, KTH Royal Institute of Technology, Stockholm, Sweden."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Raymond Chan",
+        "affiliations": [
+          "COCHE, Hong Kong, China. hfchan@ln.edu.hk.",
+          "Lingnan University, Hong Kong, China. hfchan@ln.edu.hk."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Rodrigo Moreno",
+        "affiliations": [
+          "Department of Biomedical Engineering and Health Systems, KTH Royal Institute of Technology, Stockholm, Sweden. rodmore@kth.se.",
+          "Department of Neurobiology, Care Sciences and Society, Karolinska Institute, Stockholm, Sweden. rodmore@kth.se."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [],
+    "source": [
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC13522559",
+    "date_is_precise": true,
+    "innohk_snippet": "922), ITF (grant number LU BGR 105824, MHP/054/22), and the InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government. We thank the MAIA platform at KTH Royal Institute of Technology (<ext-link xmln"
+  },
+  {
     "pmid": "42595234",
     "doi": "10.1016/j.ijpharm.2026.127301",
     "title": "A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanotherapy in atherosclerosis.",
