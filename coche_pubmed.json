@@ -1,5 +1,59 @@
 [
   {
+    "pmid": "42696383",
+    "doi": "10.1021/acssensors.6c02077",
+    "title": "Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary Cystatin C Levels.",
+    "journal": "ACS sensors",
+    "pub_year": "2026",
+    "pub_month": "Sep",
+    "pub_day": "04",
+    "author_list": [
+      {
+        "name": "Lok Tim Pang",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong Special Administrative Region, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Miu Ling Lam",
+        "affiliations": [
+          "School of Creative Media, City University of Hong Kong, Hong Kong Special Administrative Region, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Cheuk Chun Szeto",
+        "affiliations": [
+          "Department of Medicine & Therapeutics, Faculty of Medicine, Chinese University of Hong Kong, Hong Kong Special Administrative Region, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ting-Hsuan Chen",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Hong Kong Special Administrative Region, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering , Hong Kong Science Park, Hong Kong Special Administrative Region, China.",
+          "City University of Hong Kong Shenzhen Research Institute , Shenzhen518057, China.",
+          "The Institute of Digital Medicine, City University of Hong Kong, Hong Kong Special Administrative Region, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Ting-Hsuan Chen"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42660959",
     "doi": "10.1038/s41523-026-01038-4",
     "title": "DynamicBUS: restoring temporal dynamics from static ultrasound for improved breast cancer diagnosis.",
