@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **458 papers** | ⭐ InnoHK: 124 (108 dual) | ⏰ 2026-09-07 09:06 UTC+8
+> 📊 **460 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-09-14 09:06 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -15,39 +15,44 @@
 
 ---
 
-<details><summary>📋 Other Recent (5 papers, no InnoHK or single-channel)</summary>
+## ⭐ Recent — InnoHK (1)
 
+1. **[Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood pressure analyzer.](https://doi.org/10.1126/sciadv.aee4501)**
+   - 📅 2026-09-11 | 📰 Science advances | 👤 Xuejie Liu,Zheng Gong,Zhiheng Zeng et al.
+
+<details><summary>📋 Other Recent (3 papers, no InnoHK or single-channel)</summary>
+
+- [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
 - [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
-- [A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanother](https://doi.org/10.1016/j.ijpharm.2026.127301) (2026-08-13)
-- [Artificial Intelligence in Cardiovascular Imaging and Risk Stratification: From ](https://doi.org/10.1016/j.tcm.2026.08.005) (2026-08-11)
-- [Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile Sensing i](https://doi.org/10.1021/acsnano.6c09063) (2026-08-11) 🏷 InnoHK-only
 
 </details>
 
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 54 papers ⭐17 🆕5</summary>
+<summary><b>ITC 2026</b> — 56 papers ⭐18 🆕4</summary>
 
-1. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
-2. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
-3. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
-4. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
-5. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
-6. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
-7. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
-8. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
-9. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
-10. ⭐ [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with El](https://doi.org/10.1007/s42765-026-00727-w) — *N/A* (2026-01-01)
-11. ⭐ [A three-dimensional stretchable core–shell cable for soft and hybrid electronics](https://doi.org/10.1038/s41928-026-01596-2) — *N/A* (2026-01-01)
-12. ⭐ [Surface reduction boosts free electron concentration in MXene for enhanced photo](https://doi.org/10.1126/sciadv.aee2009) — *N/A* (2026-01-01)
-13. ⭐ [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Struc](https://doi.org/10.3390/molecules31010086) — *Molecules (Basel, Switzerland)* (2025-12-25)
-14. ⭐ [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) — *Proceedings of the National Ac* (2025-12-22)
-15. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
-16. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12-01)
-17. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
-<details><summary>More papers +25 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+1. ⭐ [Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood ](https://doi.org/10.1126/sciadv.aee4501) — *Science advances* (2026-09-11)
+2. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
+3. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
+4. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
+5. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
+6. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
+7. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
+8. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
+9. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
+10. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
+11. ⭐ [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with El](https://doi.org/10.1007/s42765-026-00727-w) — *N/A* (2026-01-01)
+12. ⭐ [A three-dimensional stretchable core–shell cable for soft and hybrid electronics](https://doi.org/10.1038/s41928-026-01596-2) — *N/A* (2026-01-01)
+13. ⭐ [Surface reduction boosts free electron concentration in MXene for enhanced photo](https://doi.org/10.1126/sciadv.aee2009) — *N/A* (2026-01-01)
+14. ⭐ [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Struc](https://doi.org/10.3390/molecules31010086) — *Molecules (Basel, Switzerland)* (2025-12-25)
+15. ⭐ [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) — *Proceedings of the National Ac* (2025-12-22)
+16. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
+17. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12-01)
+18. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
+<details><summary>More papers +26 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+- [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
 - [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
 - [A bioengineered 3D fibrous plaque microsystem for evaluating multimodal nanother](https://doi.org/10.1016/j.ijpharm.2026.127301) (2026-08-13)

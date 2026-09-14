@@ -1,26 +1,30 @@
 # COCHE Weekly Report
 
-**2026-09-07 09:06** UTC+8
+**2026-09-14 09:06** UTC+8
 
 ## Summary
-- Total: 458 | ⭐ InnoHK: 124 (108 + COCHE affiliation, 16 InnoHK-only)
-- Past 30d: 5 (InnoHK: 2)
+- Total: 460 | ⭐ InnoHK: 125 (109 + COCHE affiliation, 16 InnoHK-only)
+- Past 30d: 4 (InnoHK: 2)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
+## ⭐ Recent — InnoHK
+
+| # | Title | Date | Journal | COCHE Authors |
+|---|---|---|---|---|
+| 1 | [Piezoionic copolymer ionogel with tunable hydrogen bond enab](https://doi.org/10.1126/sciadv.aee4501) | 2026-09-11 | Science advances | Xuejie Liu,Zheng Gong … |
+
 ## 📋 Other Recent
 
+- [Decoupling multiphysics interference for precise, real-time ](https://doi.org/10.1126/sciadv.aee6204) | 2026-09-11 | COCHE affiliation
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care M](https://doi.org/10.1021/acssensors.6c02077) | 2026-09-04 | COCHE affiliation
 - [DynamicBUS: restoring temporal dynamics from static ultrasou](https://doi.org/10.1038/s41523-026-01038-4) | 2026-08-28 | 🏷 InnoHK-only
-- [A bioengineered 3D fibrous plaque microsystem for evaluating](https://doi.org/10.1016/j.ijpharm.2026.127301) | 2026-08-13 | COCHE affiliation
-- [Artificial Intelligence in Cardiovascular Imaging and Risk S](https://doi.org/10.1016/j.tcm.2026.08.005) | 2026-08-11 | COCHE affiliation
-- [Intrinsic Force-Temperature Self-Decoupling Enables Human-li](https://doi.org/10.1021/acsnano.6c09063) | 2026-08-11 | 🏷 InnoHK-only
 
 ## By ITC Reporting Year
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 54 | 17 | 7 | 25 |
+| ITC 2026 | 56 | 18 | 7 | 26 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -44,4 +48,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-09-07 09:06:03 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-09-14 09:06:11 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

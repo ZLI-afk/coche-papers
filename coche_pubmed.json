@@ -1,5 +1,245 @@
 [
   {
+    "pmid": "42726845",
+    "doi": "10.1126/sciadv.aee4501",
+    "title": "Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood pressure analyzer.",
+    "journal": "Science advances",
+    "pub_year": "2026",
+    "pub_month": "Sep",
+    "pub_day": "11",
+    "author_list": [
+      {
+        "name": "Xuejie Liu",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Zheng Gong",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China.",
+          "Department of Electrical Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Zhiheng Zeng",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Kai Yang",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Bo Wu",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Bolong Li",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Derek Ho",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Kowloon 999077, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-cardiovascular Health Engineering, N.T. 999077, Hong Kong, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Kowloon 999077, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Xuejie Liu",
+      "Zheng Gong",
+      "Zhiheng Zeng",
+      "Kai Yang",
+      "Bo Wu",
+      "Bolong Li",
+      "Derek Ho"
+    ],
+    "source": [
+      "affiliation",
+      "innohk_acknowledgement"
+    ],
+    "pmc": "PMC13564951",
+    "date_is_precise": true,
+    "innohk_snippet": "/institution> InnoHK@Health Hong Kong RGC Project <"
+  },
+  {
+    "pmid": "42726859",
+    "doi": "10.1126/sciadv.aee6204",
+    "title": "Decoupling multiphysics interference for precise, real-time piezoresistive airflow sensing by integrated laser-induced graphene system.",
+    "journal": "Science advances",
+    "pub_year": "2026",
+    "pub_month": "Sep",
+    "pub_day": "11",
+    "author_list": [
+      {
+        "name": "Zihao Li",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chunki Yiu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Kowloon Tong, Hong Kong SAR, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Hong Kong Science Park, New Territories, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Libei Huang",
+        "affiliations": [
+          "Division of Science, Engineering and Health Study, School of Professional Education and Executive Development, The Hong Kong Polytechnic University, Hong Kong 999077, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Weihua Guo",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Le Cheng",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Hao Hu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Kowloon Tong, Hong Kong SAR, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Hong Kong Science Park, New Territories, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Jianju Su",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yun Song",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Mingming He",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yinger Xin",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Qiang Zhang",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Ge Ye",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xinge Yu",
+        "affiliations": [
+          "Department of Biomedical Engineering, City University of Hong Kong, Kowloon Tong, Hong Kong SAR, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Hong Kong Science Park, New Territories, Hong Kong SAR, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Kowloon, Hong Kong SAR, China.",
+          "Hong Kong Institute for Clean Energy, City University of Hong Kong, Kowloon, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Ruquan Ye",
+        "affiliations": [
+          "Department of Chemistry, State Key Laboratory of Marine Environmental Health, City University of Hong Kong, Hong Kong 999077, China.",
+          "City University of Hong Kong Shenzhen Research Institute, Shenzhen 518057, Guangdong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [
+      "Chunki Yiu",
+      "Hao Hu",
+      "Xinge Yu"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC13564898",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42696383",
     "doi": "10.1021/acssensors.6c02077",
     "title": "Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary Cystatin C Levels.",

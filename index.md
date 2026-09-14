@@ -3,7 +3,7 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ InnoHK = paper acknowledges InnoHK (ITC KPI metric)
 
-📊 **Total: 458** | ⭐ InnoHK: 124 | 🆕 Past 30d: 5 (2 InnoHK) | ⏰ 2026-09-07 09:06
+📊 **Total: 460** | ⭐ InnoHK: 125 | 🆕 Past 30d: 4 (2 InnoHK) | ⏰ 2026-09-14 09:06
 
 ---
 
@@ -11,12 +11,12 @@
 
 | # | Title | Date | Journal | COCHE Authors |
 |---|---|---|---|---|
-| 1 | [DynamicBUS: restoring temporal dynamics from static ultrasound for imp...](https://doi.org/10.1038/s41523-026-01038-4) | 2026-08-28 | NPJ breast cancer | N/A |
-| 2 | [Intrinsic Force-Temperature Self-Decoupling Enables Human-like Tactile...](https://doi.org/10.1021/acsnano.6c09063) | 2026-08-11 | ACS nano | N/A |
+| 1 | [Piezoionic copolymer ionogel with tunable hydrogen bond enables epider...](https://doi.org/10.1126/sciadv.aee4501) | 2026-09-11 | Science advances | Xuejie Liu,Zheng Gong et al. |
+| 2 | [DynamicBUS: restoring temporal dynamics from static ultrasound for imp...](https://doi.org/10.1038/s41523-026-01038-4) | 2026-08-28 | NPJ breast cancer | N/A |
 
 ## 📋 By ITC Reporting Year
 
-- **ITC 2026**: 54 papers (24 InnoHK)
+- **ITC 2026**: 56 papers (25 InnoHK)
 - **ITC 2025**: 91 papers (37 InnoHK)
 - **ITC 2024**: 115 papers (25 InnoHK)
 - **ITC 2023**: 99 papers (34 InnoHK)
@@ -42,4 +42,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-09-07 09:06:03 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-09-14 09:06:11 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
