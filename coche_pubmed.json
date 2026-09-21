@@ -1,5 +1,114 @@
 [
   {
+    "pmid": "42752358",
+    "doi": "10.7554/eLife.111251",
+    "title": "Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive Müller glia reprogramming in uninjured mouse retina.",
+    "journal": "eLife",
+    "pub_year": "2026",
+    "pub_month": "Sep",
+    "pub_day": "17",
+    "author_list": [
+      {
+        "name": "Baoshan Liao",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chengshang Lyu",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yuqing Jiang",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Shanggong Liu",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Waiho Wong",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Jiadong Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Tai Po, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Hoyin Tsang",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Junxi Xie",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Lingxi Chen",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Qinrong Zhang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Wenjun Xiong",
+        "affiliations": [
+          "Department of Biomedical Sciences, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Key Laboratory of Biochip Technology, Biotech and Health Centre, Shenzhen Research Institute of City University of Hong Kong, Shenzhen, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [
+      "Jiadong Zhang"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC13585425",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42726845",
     "doi": "10.1126/sciadv.aee4501",
     "title": "Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood pressure analyzer.",

@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **460 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-09-14 09:06 UTC+8
+> 📊 **461 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-09-21 09:06 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -20,8 +20,9 @@
 1. **[Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood pressure analyzer.](https://doi.org/10.1126/sciadv.aee4501)**
    - 📅 2026-09-11 | 📰 Science advances | 👤 Xuejie Liu,Zheng Gong,Zhiheng Zeng et al.
 
-<details><summary>📋 Other Recent (3 papers, no InnoHK or single-channel)</summary>
+<details><summary>📋 Other Recent (4 papers, no InnoHK or single-channel)</summary>
 
+- [Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive M](https://doi.org/10.7554/eLife.111251) (2026-09-17)
 - [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
 - [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
@@ -31,7 +32,7 @@
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 56 papers ⭐18 🆕4</summary>
+<summary><b>ITC 2026</b> — 57 papers ⭐18 🆕5</summary>
 
 1. ⭐ [Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood ](https://doi.org/10.1126/sciadv.aee4501) — *Science advances* (2026-09-11)
 2. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
@@ -51,7 +52,8 @@
 16. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
 17. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12-01)
 18. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
-<details><summary>More papers +26 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+<details><summary>More papers +27 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+- [Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive M](https://doi.org/10.7554/eLife.111251) (2026-09-17)
 - [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
 - [DynamicBUS: restoring temporal dynamics from static ultrasound for improved brea](https://doi.org/10.1038/s41523-026-01038-4) (2026-08-28) 🏷 InnoHK-only
