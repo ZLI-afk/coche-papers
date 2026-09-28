@@ -1,5 +1,60 @@
 [
   {
+    "pmid": "42801586",
+    "doi": "10.1002/advs.77296",
+    "title": "Translational Barriers and AI-Driven Challenges of Microfluidics-Enabled Wearables and Implantable Systems in Personalized Medicine.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "pub_year": "2026",
+    "pub_month": "Sep",
+    "pub_day": "27",
+    "author_list": [
+      {
+        "name": "Ke Huang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Ching Yin Fong",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xin Huang",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Bee Luan Khoo",
+        "affiliations": [
+          "Department of Biomedical Engineering, College of Biomedicine, City University of Hong Kong, Hong Kong, China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, China.",
+          "Institute of Digital Medicine, City University of Hong Kong, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Ke Huang",
+      "Bee Luan Khoo"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42752358",
     "doi": "10.7554/eLife.111251",
     "title": "Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive Müller glia reprogramming in uninjured mouse retina.",
