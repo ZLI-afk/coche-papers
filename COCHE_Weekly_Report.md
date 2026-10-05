@@ -1,10 +1,10 @@
 # COCHE Weekly Report
 
-**2026-09-28 09:06** UTC+8
+**2026-10-05 09:08** UTC+8
 
 ## Summary
 - Total: 462 | ⭐ InnoHK: 125 (109 + COCHE affiliation, 16 InnoHK-only)
-- Past 30d: 5 (InnoHK: 1)
+- Past 30d: 4 (InnoHK: 1)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
@@ -19,7 +19,6 @@
 - [Translational Barriers and AI-Driven Challenges of Microflui](https://doi.org/10.1002/advs.77296) | 2026-09-27 | COCHE affiliation
 - [Synergistic inhibition of Notch signaling and forced cell cy](https://doi.org/10.7554/eLife.111251) | 2026-09-17 | COCHE affiliation
 - [Decoupling multiphysics interference for precise, real-time ](https://doi.org/10.1126/sciadv.aee6204) | 2026-09-11 | COCHE affiliation
-- [Sample-to-Answer Quantitative Rapid Test for Point-of-Care M](https://doi.org/10.1021/acssensors.6c02077) | 2026-09-04 | COCHE affiliation
 
 ## By ITC Reporting Year
 
@@ -49,4 +48,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-09-28 09:06:26 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-10-05 09:08:15 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

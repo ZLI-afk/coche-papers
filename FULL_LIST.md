@@ -1,6 +1,6 @@
 # COCHE All Papers
 
-> 📊 **462** papers | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-09-28 09:06 UTC+8 | [Home](README.md)
+> 📊 **462** papers | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-10-05 09:08 UTC+8 | [Home](README.md)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgement (ITC KPI metric). Papers are grouped by ITC reporting year (Dec 1 – Nov 30).
 
@@ -580,4 +580,4 @@
 
 ---
 > **⭐ InnoHK** = paper has "InnoHK" acknowledgement (ITC KPI metric) | Papers grouped by ITC year (Dec–Nov) | * = corresponding author
-*Generated 2026-09-28 09:06:26*
+*Generated 2026-10-05 09:08:15*

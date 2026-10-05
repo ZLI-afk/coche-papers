@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **462 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-09-28 09:06 UTC+8
+> 📊 **462 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-10-05 09:08 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -20,19 +20,18 @@
 1. **[Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood pressure analyzer.](https://doi.org/10.1126/sciadv.aee4501)**
    - 📅 2026-09-11 | 📰 Science advances | 👤 Xuejie Liu,Zheng Gong,Zhiheng Zeng et al.
 
-<details><summary>📋 Other Recent (4 papers, no InnoHK or single-channel)</summary>
+<details><summary>📋 Other Recent (3 papers, no InnoHK or single-channel)</summary>
 
 - [Translational Barriers and AI-Driven Challenges of Microfluidics-Enabled Wearabl](https://doi.org/10.1002/advs.77296) (2026-09-27)
 - [Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive M](https://doi.org/10.7554/eLife.111251) (2026-09-17)
 - [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
-- [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
 
 </details>
 
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 58 papers ⭐18 🆕5</summary>
+<summary><b>ITC 2026</b> — 58 papers ⭐18 🆕4</summary>
 
 1. ⭐ [Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood ](https://doi.org/10.1126/sciadv.aee4501) — *Science advances* (2026-09-11)
 2. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
