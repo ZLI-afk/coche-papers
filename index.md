@@ -3,19 +3,13 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ InnoHK = paper acknowledges InnoHK (ITC KPI metric)
 
-📊 **Total: 462** | ⭐ InnoHK: 125 | 🆕 Past 30d: 4 (1 InnoHK) | ⏰ 2026-10-05 09:08
+📊 **Total: 464** | ⭐ InnoHK: 125 | 🆕 Past 30d: 3 (0 InnoHK) | ⏰ 2026-10-12 09:06
 
 ---
 
-## ⭐ Recent — InnoHK (1)
-
-| # | Title | Date | Journal | COCHE Authors |
-|---|---|---|---|---|
-| 1 | [Piezoionic copolymer ionogel with tunable hydrogen bond enables epider...](https://doi.org/10.1126/sciadv.aee4501) | 2026-09-11 | Science advances | Xuejie Liu,Zheng Gong et al. |
-
 ## 📋 By ITC Reporting Year
 
-- **ITC 2026**: 58 papers (25 InnoHK)
+- **ITC 2026**: 60 papers (25 InnoHK)
 - **ITC 2025**: 91 papers (37 InnoHK)
 - **ITC 2024**: 115 papers (25 InnoHK)
 - **ITC 2023**: 99 papers (34 InnoHK)
@@ -41,4 +35,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-10-05 09:08:15 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-10-12 09:06:18 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*

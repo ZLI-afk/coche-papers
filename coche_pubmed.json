@@ -1,5 +1,147 @@
 [
   {
+    "pmid": "42855818",
+    "doi": "10.1002/adma.75303",
+    "title": "Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High-Performance Zinc-Sulfur Batteries.",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "pub_year": "2026",
+    "pub_month": "Oct",
+    "pub_day": "09",
+    "author_list": [
+      {
+        "name": "Shixun Wang",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Arsenii Portniagin",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Qingshun Nian",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhiquan Wei",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Yeyang Jia",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhiqiang Zhao",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Zhuo Li",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Shimei Li",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Shaoce Zhang",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Hu Hong",
+        "affiliations": [
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Xueying Zheng",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xiaoyan Zhong",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Hong Kong Institute for Clean Energy (HKICE) and TRACE EM Unit, City University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "City University of Hong Kong Matter Science Research Institute (Futian), Shenzhen, P. R. China.",
+          "Nanomanufacturing Laboratory (NML), City University of Hong Kong Shenzhen Research Institute, Shenzhen, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Andrey L Rogach",
+        "affiliations": [
+          "Department of Materials Science and Engineering, City University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chunyi Zhi",
+        "affiliations": [
+          "Department of Mechanical Engineering, The University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong SAR, P. R. China.",
+          "Centre for Energy Storage, The University of Hong Kong, Hong Kong SAR, P. R. China.",
+          "Materials Innovation Institute for Life Sciences and Energy (MILES), HKU-SIRI, Shenzhen, P. R. China.",
+          "Department of Materials and Energy, The University of Hong Kong, Hong Kong SAR, P. R. China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      }
+    ],
+    "coche_authors": [
+      "Hu Hong",
+      "Chunyi Zhi"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "",
+    "date_is_precise": true
+  },
+  {
     "pmid": "42801586",
     "doi": "10.1002/advs.77296",
     "title": "Translational Barriers and AI-Driven Challenges of Microfluidics-Enabled Wearables and Implantable Systems in Personalized Medicine.",
@@ -5365,6 +5507,76 @@
     "gs_snippet": "… Health Engineering (COCHE), and in part by Novel Fluorescent Microscopy Platforms for \n3D Imaging of Hong Kong Centre for Cerebro-cardiovascular Health Engineering …",
     "innohk_snippet": "paragraph\">This work was supported by the following funds and institutions: The InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government; the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE); the City University of ",
     "innohk_source": "ezproxy_innohk"
+  },
+  {
+    "pmid": "42846869",
+    "doi": "10.3389/fmicb.2026.1946449",
+    "title": "Antimicrobial peptides in the era of resistance: integrating AI-driven design, host-microbe interactions, and nanotechnological delivery.",
+    "journal": "Frontiers in microbiology",
+    "pub_year": "2026",
+    "pub_month": "",
+    "pub_day": "",
+    "author_list": [
+      {
+        "name": "Zhu Yu Hua",
+        "affiliations": [
+          "School of Nursing, Shandong XieHe University, Jinan, Shandong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Xu Xia",
+        "affiliations": [
+          "School of Nursing, Shandong XieHe University, Jinan, Shandong, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Khan Qaisar",
+        "affiliations": [
+          "School of Medicine, Yangtze University, Jingzhou, Hubei, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Chen Zhong",
+        "affiliations": [
+          "Institute of Industrial Internet Intelligent Control Technology and System in Universities of Fujian Province, Fuzhou, Fujian, China.",
+          "School of Information Engineering, Yango University, Fuzhou, China.",
+          "Institute of Intelligent Algorithms and Complex Systems, Yango University, Fuzhou, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      },
+      {
+        "name": "Khan Muhammad Shehzad",
+        "affiliations": [
+          "Hong Kong Centre for Cerebro Cardiovascular Health Engineering, Hong Kong, Hong Kong SAR, China.",
+          "School of Medicine, City University of Hong Kong, Hong Kong, Hong Kong SAR, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": true
+      },
+      {
+        "name": "Rashid Khan",
+        "affiliations": [
+          "School of Artificial Intelligence, Shenzhen Technology University, Shenzhen, China."
+        ],
+        "is_corresponding": false,
+        "is_coche": false
+      }
+    ],
+    "coche_authors": [
+      "Khan Muhammad Shehzad"
+    ],
+    "source": [
+      "affiliation"
+    ],
+    "pmc": "PMC13643753",
+    "date_is_precise": true
   },
   {
     "pmid": "41515383",

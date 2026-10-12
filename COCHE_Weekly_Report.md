@@ -1,30 +1,24 @@
 # COCHE Weekly Report
 
-**2026-10-05 09:08** UTC+8
+**2026-10-12 09:06** UTC+8
 
 ## Summary
-- Total: 462 | ⭐ InnoHK: 125 (109 + COCHE affiliation, 16 InnoHK-only)
-- Past 30d: 4 (InnoHK: 1)
+- Total: 464 | ⭐ InnoHK: 125 (109 + COCHE affiliation, 16 InnoHK-only)
+- Past 30d: 3 (InnoHK: 0)
 
 > **⭐ InnoHK** = paper contains "InnoHK" in acknowledgements. ITC KPI metric.
 
-## ⭐ Recent — InnoHK
-
-| # | Title | Date | Journal | COCHE Authors |
-|---|---|---|---|---|
-| 1 | [Piezoionic copolymer ionogel with tunable hydrogen bond enab](https://doi.org/10.1126/sciadv.aee4501) | 2026-09-11 | Science advances | Xuejie Liu,Zheng Gong … |
-
 ## 📋 Other Recent
 
+- [Successive Redox Mediation Supported by Pnictogen Chalcohali](https://doi.org/10.1002/adma.75303) | 2026-10-09 | COCHE affiliation
 - [Translational Barriers and AI-Driven Challenges of Microflui](https://doi.org/10.1002/advs.77296) | 2026-09-27 | COCHE affiliation
 - [Synergistic inhibition of Notch signaling and forced cell cy](https://doi.org/10.7554/eLife.111251) | 2026-09-17 | COCHE affiliation
-- [Decoupling multiphysics interference for precise, real-time ](https://doi.org/10.1126/sciadv.aee6204) | 2026-09-11 | COCHE affiliation
 
 ## By ITC Reporting Year
 
 | ITC Year | Total | ⭐ InnoHK (dual) | InnoHK-only | COCHE only |
 |---|---|---|---|---|
-| ITC 2026 | 58 | 18 | 7 | 28 |
+| ITC 2026 | 60 | 18 | 7 | 30 |
 | ITC 2025 | 91 | 33 | 4 | 46 |
 | ITC 2024 | 115 | 24 | 1 | 78 |
 | ITC 2023 | 99 | 33 | 1 | 56 |
@@ -48,4 +42,4 @@
 | ITC 0 | 5 | 0 | 0 | 4 |
 
 ---
-*Generated 2026-10-05 09:08:15 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-10-12 09:06:18 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
