@@ -56,11 +56,38 @@ def load_papers():
     return papers
 
 def format_date(p):
+    """
+    Return a human-readable publication date.
+    - Full date when year/month/day are all present.
+    - Year + month when day is missing.
+    - Year only when month (and day) are missing — do NOT invent 01-01.
+    """
     y = p.get('pub_year','') or ''
-    m = (p.get('pub_month','') or 'Jan')[:3]
-    d = (p.get('pub_day','') or '01').zfill(2)
-    mm = MONTH_MAP.get(m, '01')
-    return f'{y}-{mm}-{d}'
+    m = p.get('pub_month','') or ''
+    d = p.get('pub_day','') or ''
+    if not y:
+        return 'N/A'
+    if m:
+        mm = MONTH_MAP.get(m[:3], m[:3])
+        if d:
+            return f'{y}-{mm}-{str(d).zfill(2)}'
+        return f'{y}-{mm}'
+    return str(y)
+
+
+def format_date_sortable(p):
+    """
+    Return a YYYY-MM-DD string safe for comparison/sorting. Missing month/day
+    fall back to the *beginning* of the known window ONLY for ordering purposes
+    (year-only -> YYYY-00-00 so misdated papers sort last rather than as Jan 1).
+    This function is internal; do NOT use its output for display.
+    """
+    y = p.get('pub_year','') or '0000'
+    m = p.get('pub_month','') or ''
+    d = p.get('pub_day','') or ''
+    mm = MONTH_MAP.get(m[:3], '00') if m else '00'
+    dd = str(d).zfill(2) if d else '00'
+    return f'{y}-{mm}-{dd}'
 
 def format_link(p):
     doi = p.get('doi','')
@@ -153,7 +180,11 @@ def is_dual(p):
     return ('affiliation' in p.get('source', [])) and is_channel_b(p)
 
 def is_recent(p, threshold_date):
-    return format_date(p) >= threshold_date
+    # Only papers with a precise-enough date (month present) can be "recent".
+    # Year-only records are excluded from the 30-day window to avoid false matches.
+    if not (p.get('pub_year') and p.get('pub_month')):
+        return False
+    return format_date_sortable(p) >= threshold_date
 
 def get_innohk_snippet(p):
     """Get the InnoHK acknowledgement snippet from the paper."""
@@ -458,7 +489,7 @@ def generate_excel(papers, threshold_str):
                     p.get('journal',''), all_auth, coche_auth, status_label,
                     f'ITC {itc_year}', link]
 
-        is_rec = date_str >= threshold_str
+        is_rec = format_date_sortable(p) >= threshold_str
         for col, val in enumerate(row_data, 1):
             c = ws.cell(row=idx + 1, column=col, value=val)
             c.font = Font(size=10, bold=(is_both and is_rec),
@@ -472,7 +503,7 @@ def generate_excel(papers, threshold_str):
     ws.cell(row=legend_row, column=1, value='🟡').font = Font(size=14)
     both_count = sum(1 for p in papers if is_channel_b(p) and ('affiliation' in p.get('source',[])))
     innohk_total = sum(1 for p in papers if is_channel_b(p))
-    recent_both = sum(1 for p in papers if is_channel_b(p) and ('affiliation' in p.get('source',[])) and format_date(p) >= threshold_str)
+    recent_both = sum(1 for p in papers if is_channel_b(p) and ('affiliation' in p.get('source',[])) and format_date_sortable(p) >= threshold_str)
     ws.cell(row=legend_row, column=2,
             value=(f'⭐ InnoHK = papers with "InnoHK" acknowledgement ({innohk_total} total, {both_count} also have COCHE affiliation) | '
                    f'ITC Year = Dec 1–Nov 30 cycle | Gold highlight = InnoHK + past 30 days ({recent_both}) | '
