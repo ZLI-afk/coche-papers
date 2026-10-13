@@ -1,7 +1,7 @@
 # 🧠 COCHE Paper Tracker
 
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**  
-> 📊 **464 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-10-13 16:16 UTC+8
+> 📊 **464 papers** | ⭐ InnoHK: 125 (109 dual) | ⏰ 2026-10-13 17:30 UTC+8
 
 📥 [Excel](COCHE_Papers.xlsx) | [JSON](coche_pubmed.json) | [Full Table](FULL_LIST.md) | [Report](COCHE_Weekly_Report.md)
 
@@ -15,10 +15,16 @@
 
 ---
 
-<details><summary>📋 Other Recent (3 papers, no InnoHK or single-channel)</summary>
+## ⭐ Recent — InnoHK (1)
+
+1. **[Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with Electrochemical Synergy for Parkinson&#39;s Disease Management](https://doi.org/10.1007/s42765-026-00727-w)**
+   - 📅 2026-10 | 📰 N/A | 👤 N/A
+
+<details><summary>📋 Other Recent (4 papers, no InnoHK or single-channel)</summary>
 
 - [Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High-Perf](https://doi.org/10.1002/adma.75303) (2026-10-09)
 - [Translational Barriers and AI-Driven Challenges of Microfluidics-Enabled Wearabl](https://doi.org/10.1002/advs.77296) (2026-09-27)
+- [Antimicrobial peptides in the era of resistance: integrating AI-driven design, h](https://doi.org/10.3389/fmicb.2026.1946449) (2026-09-23)
 - [Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive M](https://doi.org/10.7554/eLife.111251) (2026-09-17)
 
 </details>
@@ -26,29 +32,31 @@
 ## 📋 All Papers by ITC Year
 
 <details>
-<summary><b>ITC 2026</b> — 60 papers ⭐18 🆕3</summary>
+<summary><b>ITC 2026</b> — 62 papers ⭐19 🆕5</summary>
 
-1. ⭐ [Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood ](https://doi.org/10.1126/sciadv.aee4501) — *Science advances* (2026-09-11)
-2. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
-3. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
-4. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
-5. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
-6. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
-7. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
-8. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
-9. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
-10. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
-11. ⭐ [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with El](https://doi.org/10.1007/s42765-026-00727-w) — *N/A* (2026)
-12. ⭐ [A three-dimensional stretchable core–shell cable for soft and hybrid electronics](https://doi.org/10.1038/s41928-026-01596-2) — *N/A* (2026)
-13. ⭐ [Surface reduction boosts free electron concentration in MXene for enhanced photo](https://doi.org/10.1126/sciadv.aee2009) — *N/A* (2026)
+1. ⭐ [Multifunctional Textile Electronics Based on Triboelectric Nanogenerator with El](https://doi.org/10.1007/s42765-026-00727-w) — *N/A* (2026-10)
+2. ⭐ [Piezoionic copolymer ionogel with tunable hydrogen bond enables epidermal blood ](https://doi.org/10.1126/sciadv.aee4501) — *Science advances* (2026-09-11)
+3. ⭐ [A hemispherical latitude-gradient sensor for closed-loop monitoring and manageme](https://doi.org/10.1126/sciadv.aeh1421) — *Science advances* (2026-07-31)
+4. ⭐ [The piezoionic diode: field-driven amplification of mechano-ionic conversion.](https://doi.org/10.1039/d6mh00251j) — *Materials horizons* (2026-06-04)
+5. ⭐ [A quantitative rapid test for urine creatinine ](https://doi.org/10.1039/d6lc00249h) — *Lab on a chip* (2026-05-28)
+6. ⭐ [Surface reduction boosts free electron concentration in MXene for enhanced photo](https://doi.org/10.1126/sciadv.aee2009) — *N/A* (2026-05-15)
+7. ⭐ [Leveraging Piezoelectric and Ferroelectric Effects to Control Zinc Deposition fo](https://doi.org/10.1021/jacs.5c23299) — *Journal of the American Chemic* (2026-04-16)
+8. ⭐ [Drawn-on-skin electronic tattoo as a closed-loop sensing-stimulation system for ](https://doi.org/10.1126/sciadv.aed7673) — *Science advances* (2026-04-15)
+9. ⭐ [A three-dimensional stretchable core–shell cable for soft and hybrid electronics](https://doi.org/10.1038/s41928-026-01596-2) — *N/A* (2026-03-31)
+10. ⭐ [A review of microfluidic technologies for thermal management in flexible electro](https://doi.org/10.1039/d5lc00906e) — *Lab on a chip* (2026-03-04)
+11. ⭐ [Cardiac health assessment across scenarios and devices using a multimodal founda](https://doi.org/10.1038/s42256-026-01180-5) — *Nature machine intelligence* (2026-02-24)
+12. ⭐ [Ultrathin and ultrastrong hydrogel bioelectronic membranes.](https://doi.org/10.1093/nsr/nwag105) — *National science review* (2026-02-12)
+13. ⭐ [Accelerating CEST MRI through complementary undersampling and multi-offset trans](https://doi.org/10.1038/s44172-025-00580-6) — *Communications engineering* (2026-01-10)
 14. ⭐ [Magnetic Microrobots for Drug Delivery: A Review of Fabrication Materials, Struc](https://doi.org/10.3390/molecules31010086) — *Molecules (Basel, Switzerland)* (2025-12-25)
 15. ⭐ [A neuromorphic robotic electronic skin with active pain and injury perception.](https://doi.org/10.1073/pnas.2520922122) — *Proceedings of the National Ac* (2025-12-22)
 16. ⭐ [A conformal piezoelectric microsystem for demographic-adaptive and calibration-f](https://doi.org/10.1038/s41467-025-67118-4) — *Nature communications* (2025-12-09)
 17. ⭐ [Enhancing SNR of CEST MRI Through Noise-to-Noise Deep Learning With K-Space Data](https://doi.org/10.1002/nbm.70159) — *NMR in biomedicine* (2025-12)
 18. ⭐ [Modulating Salt Dissociation and Solvent Immobilization Through Dipole Interacti](https://doi.org/10.1002/adma.202512960) — *Advanced materials (Deerfield * (2025-12-01)
-<details><summary>More papers +30 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
+19. ⭐ [A multi-modal smart chest patch for real-time cardiopulmonary monitoring and ano](https://doi.org/10.1007/s40843-025-3667-7) — *N/A* (2025-12)
+<details><summary>More papers +31 COCHE affiliation +7 InnoHK-only +5 other (non-InnoHK)</summary>
 - [Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High-Perf](https://doi.org/10.1002/adma.75303) (2026-10-09)
 - [Translational Barriers and AI-Driven Challenges of Microfluidics-Enabled Wearabl](https://doi.org/10.1002/advs.77296) (2026-09-27)
+- [Antimicrobial peptides in the era of resistance: integrating AI-driven design, h](https://doi.org/10.3389/fmicb.2026.1946449) (2026-09-23)
 - [Synergistic inhibition of Notch signaling and forced cell cycle re-entry drive M](https://doi.org/10.7554/eLife.111251) (2026-09-17)
 - [Decoupling multiphysics interference for precise, real-time piezoresistive airfl](https://doi.org/10.1126/sciadv.aee6204) (2026-09-11)
 - [Sample-to-Answer Quantitative Rapid Test for Point-of-Care Monitoring of Urinary](https://doi.org/10.1021/acssensors.6c02077) (2026-09-04)
@@ -74,117 +82,116 @@
 - [Ion-Driven Interfacial Engineering of MXene-Polyacrylamide Hydrogels for Advance](https://doi.org/10.1002/smsc.202500526) (2026-03-28)
 - [Wearable Tailored Passive Radiative Cooling Textile for Flexible Electronic Inte](https://doi.org/10.1002/advs.202524380) (2026-03-18)
 - [Colorimetric Sensing of MicroRNAs in Whole Blood for Early Diagnosis of Heart Fa](https://doi.org/10.1021/acssensors.5c03201) (2026-02-25)
+- [Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1](https://doi.org/10.1371/journal.pone.0336449) (2026-02-20) 🏷 InnoHK-only
 - [Coviretinopathy: COVID-19-induced VEGF-dependent retinopathy.](https://doi.org/10.1073/pnas.2516405123) (2026-02-17)
 - [Endothelial TBK1 Deficiency Inhibits Endothelial-to-Mesenchymal Transition and A](https://doi.org/10.1161/CIRCRESAHA.125.326815) (2026-02-13)
 - [Cascaded Deep Learning-Based Model for Classification and Segmentation of Plaque](https://doi.org/10.3390/bioengineering13020190) (2026-02-06) 🏷 InnoHK-only
 - [Mechano-Organ-on-Chip for Cancer Research.](https://doi.org/10.3390/ijms27031330) (2026-01-29)
 - [A microfluidic microspheres accumulation platform for direct visualization of ur](https://doi.org/10.1016/j.bios.2026.118400) (2026-01-13)
 - [Artificial Intelligence-Enhanced Wearable Blood Pressure Monitoring in Resource-](https://doi.org/10.1007/s40820-025-02003-9) (2026-01-05)
-- [Prediction of COVID-19 hospitalisation, ICU admission or death following ChAdOx1](https://doi.org/10.1371/journal.pone.0336449) (2026) 🏷 InnoHK-only
 - [A Perspective on Non-Invasive Blood Pressure Monitoring: Bridging Emerging Princ](https://pubmed.ncbi.nlm.nih.gov/) (2026)
 - [MIMIC platform: Automated microfluidic platform for efficient circulating cell-f](https://pubmed.ncbi.nlm.nih.gov/) (2026)
 - [Meet the First Authors](https://pubmed.ncbi.nlm.nih.gov/) (2026)
 - [Tracking ovulation: Self-test microfluidic chip for personal luteinizing hormone](https://pubmed.ncbi.nlm.nih.gov/) (2026)
 - [Feature-Aligned Cell Detection for Heterogeneous Microscopic Images With Focal A](https://pubmed.ncbi.nlm.nih.gov/) (2026)
-- [Antimicrobial peptides in the era of resistance: integrating AI-driven design, h](https://doi.org/10.3389/fmicb.2026.1946449) (2026)
 - [Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by re](https://doi.org/10.1038/s41467-025-66167-z) (2025-12-14)
 - [HarmonicEchoNet: Leveraging harmonic convolutions for automated standard plane d](https://doi.org/10.1016/j.media.2025.103758) (2025-12) 🏷 InnoHK-only
+- [The inaugural Med-X Young Investigator Award in bioelectronics](https://doi.org/10.1007/s44258-025-00061-7) (2025-12)
 </details>
 
 </details>
 
 <details>
-<summary><b>ITC 2025</b> — 91 papers ⭐33</summary>
+<summary><b>ITC 2025</b> — 90 papers ⭐32</summary>
 
-1. ⭐ [Covalent and polyfluorinated lithium salt for stable LiCoO](https://doi.org/10.1038/s41467-025-65256-3) — *Nature communications* (2025-11-24)
-2. ⭐ [Deciphering age- and sex-specific patterns of coronary artery atherosclerosis fr](https://doi.org/10.1038/s41467-025-64940-8) — *Nature communications* (2025-11-22)
-3. ⭐ [High-strength and fracture-resistant ionogels via solvent-tailored interphase co](https://doi.org/10.1126/sciadv.aea6883) — *Science advances* (2025-11-19)
-4. ⭐ [Catalytic electrolytes enable fast reaction kinetics and temperature adaptabilit](https://doi.org/10.1038/s41467-025-65047-w) — *Nature communications* (2025-11-18)
-5. ⭐ [Assessment of Acute Stress and Chronic Stress for Mental Health Management by a ](https://doi.org/10.1021/acsnano.5c12395) — *ACS nano* (2025-11-06)
-6. ⭐ [Long-life aqueous zinc-iodine flow batteries enabled by selectively intercepting](https://doi.org/10.1038/s41467-025-64344-8) — *Nature communications* (2025-10-21)
-7. ⭐ [Micro/Nanorobots for Combating Brain Disorders: Challenges, Advances, and Perspe](https://doi.org/10.1002/advs.202516592) — *Advanced science (Weinheim, Ba* (2025-10-17)
-8. ⭐ [A practical 4.8-V Li||LiCoO](https://doi.org/10.1126/sciadv.adx5020) — *Science advances* (2025-09-17)
-9. ⭐ [A solid-state battery capable of 180 C superfast charging and 100% energy retent](https://doi.org/10.1073/pnas.2511121122) — *Proceedings of the National Ac* (2025-09-08)
-10. ⭐ [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) — *Magnetic resonance in medicine* (2025-08-29)
-11. ⭐ [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) — *ACS nano* (2025-08-28)
-12. ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electron](https://doi.org/10.1038/s41467-025-61261-8) — *Nature communications* (2025-07-01)
-13. ⭐ [Plasmonic printing of high-performance metal oxide electronics under room temper](https://doi.org/10.1038/s41563-025-02268-w) — *Nature materials* (2025-06-19)
-14. ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) — *Angewandte Chemie (Internation* (2025-06-09)
-15. ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) — *Chemical science* (2025-05-30)
-16. ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Fl](https://doi.org/10.1002/smll.202504209) — *Small (Weinheim an der Bergstr* (2025-05-28)
-17. ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interpha](https://doi.org/10.1002/anie.202505147) — *Angewandte Chemie (Internation* (2025-05-23)
-18. ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-](https://doi.org/10.1002/adma.202504333) — *Advanced materials (Deerfield * (2025-05-02)
-19. ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human](https://doi.org/10.1126/sciadv.adt6041) — *Science advances* (2025-03-26)
-20. ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine inte](https://doi.org/10.1126/sciadv.adt0318) — *Science advances* (2025-03-21)
-21. ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and int](https://doi.org/10.1126/sciadv.adu3146) — *Science advances* (2025-03-19)
-22. ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: ](https://doi.org/10.1016/j.mtbio.2025.101663) — *Materials today. Bio* (2025-03-14)
-23. ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time ](https://doi.org/10.1021/acsnano.4c09980) — *ACS nano* (2025-01-17)
-24. ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) — *Light, science & applications* (2025-01-01)
-25. ⭐ [Sweat‐powered, skin‐adhesive multimodal sensor for long‐term and real‐time sweat](https://doi.org/10.1002/bmm2.12124) — *N/A* (2025)
-26. ⭐ [Prenatal detection of congenital heart defects using the deep learning-based ima](https://doi.org/10.1136/bmjopen-2025-101263) — *N/A* (2025)
-27. ⭐ [Fluorinated-oligomeric ionic liquids for high-performance wide-temperature solid](https://doi.org/10.1039/d4ee05153j) — *N/A* (2025)
-28. ⭐ [A multi-modal smart chest patch for real-time cardiopulmonary monitoring and ano](https://doi.org/10.1007/s40843-025-3667-7) — *N/A* (2025)
-29. ⭐ [A textile-based alignment-free electrophysiological sensing sleeve for comprehen](https://doi.org/10.1038/s41378-025-01088-x) — *N/A* (2025)
-30. ⭐ [Designing Zwitterionic Bottlebrush Polymers to Enable Long-Cycling Quasi-Solid-S](https://doi.org/10.1002/anie.202409500) — *Angewandte Chemie (Internation* (2024-12-16)
-31. ⭐ [Design Chemical Exchange Saturation Transfer Contrast Agents and Nanocarriers fo](https://doi.org/10.1021/acsnano.4c05923) — *ACS nano* (2024-12-06)
-32. ⭐ [Optimizing Perovskite Surfaces to Enhance Post-Treatment for Efficient Blue Mixe](https://doi.org/10.1002/adma.202414788) — *Advanced materials (Deerfield * (2024-12-04)
-33. ⭐ [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthc](https://doi.org/10.1002/adma.202406798) — *Advanced materials (Deerfield * (2024-12-02)
+1. ⭐ [A textile-based alignment-free electrophysiological sensing sleeve for comprehen](https://doi.org/10.1038/s41378-025-01088-x) — *N/A* (2025-11-26)
+2. ⭐ [Covalent and polyfluorinated lithium salt for stable LiCoO](https://doi.org/10.1038/s41467-025-65256-3) — *Nature communications* (2025-11-24)
+3. ⭐ [Deciphering age- and sex-specific patterns of coronary artery atherosclerosis fr](https://doi.org/10.1038/s41467-025-64940-8) — *Nature communications* (2025-11-22)
+4. ⭐ [High-strength and fracture-resistant ionogels via solvent-tailored interphase co](https://doi.org/10.1126/sciadv.aea6883) — *Science advances* (2025-11-19)
+5. ⭐ [Catalytic electrolytes enable fast reaction kinetics and temperature adaptabilit](https://doi.org/10.1038/s41467-025-65047-w) — *Nature communications* (2025-11-18)
+6. ⭐ [Assessment of Acute Stress and Chronic Stress for Mental Health Management by a ](https://doi.org/10.1021/acsnano.5c12395) — *ACS nano* (2025-11-06)
+7. ⭐ [Long-life aqueous zinc-iodine flow batteries enabled by selectively intercepting](https://doi.org/10.1038/s41467-025-64344-8) — *Nature communications* (2025-10-21)
+8. ⭐ [Micro/Nanorobots for Combating Brain Disorders: Challenges, Advances, and Perspe](https://doi.org/10.1002/advs.202516592) — *Advanced science (Weinheim, Ba* (2025-10-17)
+9. ⭐ [A practical 4.8-V Li||LiCoO](https://doi.org/10.1126/sciadv.adx5020) — *Science advances* (2025-09-17)
+10. ⭐ [A solid-state battery capable of 180 C superfast charging and 100% energy retent](https://doi.org/10.1073/pnas.2511121122) — *Proceedings of the National Ac* (2025-09-08)
+11. ⭐ [Evaluating the effectiveness of distortion self-correction for CEST-EPI.](https://doi.org/10.1002/mrm.70048) — *Magnetic resonance in medicine* (2025-08-29)
+12. ⭐ [Self-Driven, Stretchable Drug Delivery Electronics for Acne Treatment.](https://doi.org/10.1021/acsnano.5c09857) — *ACS nano* (2025-08-28)
+13. ⭐ [A skin-interfaced three-dimensional closed-loop sensing and therapeutic electron](https://doi.org/10.1038/s41467-025-61261-8) — *Nature communications* (2025-07-01)
+14. ⭐ [Plasmonic printing of high-performance metal oxide electronics under room temper](https://doi.org/10.1038/s41563-025-02268-w) — *Nature materials* (2025-06-19)
+15. ⭐ [Acidic Nitrate Electroreduction with Ultrahigh Energy Efficiency.](https://doi.org/10.1002/anie.202507724) — *Angewandte Chemie (Internation* (2025-06-09)
+16. ⭐ [Prenatal detection of congenital heart defects using the deep learning-based ima](https://doi.org/10.1136/bmjopen-2025-101263) — *N/A* (2025-06)
+17. ⭐ [Role of chemistry in nature-inspired skin adhesives.](https://doi.org/10.1039/d5sc01777g) — *Chemical science* (2025-05-30)
+18. ⭐ [Self-Reinforcing Carbon Nanotube Framework with Aligned Network Structure for Fl](https://doi.org/10.1002/smll.202504209) — *Small (Weinheim an der Bergstr* (2025-05-28)
+19. ⭐ [A Solid Polymer Electrolyte with Inorganic-Enriched Cathode Electrolyte Interpha](https://doi.org/10.1002/anie.202505147) — *Angewandte Chemie (Internation* (2025-05-23)
+20. ⭐ [In Situ Polymerized Polyfluorinated Crosslinked Polyether Electrolytes for High-](https://doi.org/10.1002/adma.202504333) — *Advanced materials (Deerfield * (2025-05-02)
+21. ⭐ [Skin-interfaced multimodal sensing and tactile feedback system as enhanced human](https://doi.org/10.1126/sciadv.adt6041) — *Science advances* (2025-03-26)
+22. ⭐ [Self-powered electrotactile textile haptic glove for enhanced human-machine inte](https://doi.org/10.1126/sciadv.adt0318) — *Science advances* (2025-03-21)
+23. ⭐ [An ICU-grade breathable cardiac electronic skin for health, diagnostics, and int](https://doi.org/10.1126/sciadv.adu3146) — *Science advances* (2025-03-19)
+24. ⭐ [Emerging rapid detection methods for the monitoring of cardiovascular diseases: ](https://doi.org/10.1016/j.mtbio.2025.101663) — *Materials today. Bio* (2025-03-14)
+25. ⭐ [Sweat‐powered, skin‐adhesive multimodal sensor for long‐term and real‐time sweat](https://doi.org/10.1002/bmm2.12124) — *N/A* (2025-03)
+26. ⭐ [Smart Vascular Grafts with Integrated Flow Biosensors for Hemodynamic Real-Time ](https://doi.org/10.1021/acsnano.4c09980) — *ACS nano* (2025-01-17)
+27. ⭐ [Optical sectioning methods in three-dimensional bioimaging.](https://doi.org/10.1038/s41377-024-01677-x) — *Light, science & applications* (2025-01-01)
+28. ⭐ [Fluorinated-oligomeric ionic liquids for high-performance wide-temperature solid](https://doi.org/10.1039/d4ee05153j) — *N/A* (2025)
+29. ⭐ [Designing Zwitterionic Bottlebrush Polymers to Enable Long-Cycling Quasi-Solid-S](https://doi.org/10.1002/anie.202409500) — *Angewandte Chemie (Internation* (2024-12-16)
+30. ⭐ [Design Chemical Exchange Saturation Transfer Contrast Agents and Nanocarriers fo](https://doi.org/10.1021/acsnano.4c05923) — *ACS nano* (2024-12-06)
+31. ⭐ [Optimizing Perovskite Surfaces to Enhance Post-Treatment for Efficient Blue Mixe](https://doi.org/10.1002/adma.202414788) — *Advanced materials (Deerfield * (2024-12-04)
+32. ⭐ [Army Ant Nest Inspired Adaptive Textile for Smart Thermal Regulation and Healthc](https://doi.org/10.1002/adma.202406798) — *Advanced materials (Deerfield * (2024-12-02)
 <details><summary>More papers +46 COCHE affiliation +4 InnoHK-only +8 other (non-InnoHK)</summary>
+- [Current Limitations of Automated Reflection Consolidation in LLMs for Clinical N](https://doi.org/10.1109/bhi67747.2025.11269565) (2025-10-26)
 - [Deep-learning-based HER2 status assessment from multimodal breast cancer data pr](https://doi.org/10.1038/s41551-025-01495-5) (2025-10-17)
 - [Saturation-Transfer-Based MRI of the Brain in Multiple Sclerosis Patients at 3T.](https://doi.org/10.1002/jmri.70147) (2025-10-13)
+- [Chronic Venous Function Monitoring via a highly Flexible Capacitive Strain Sensi](https://doi.org/10.1109/nmdc64551.2025.11234679) (2025-10-09)
 - [Corrigendum to "sulfated hyaluronic acid/collagen-based biomimetic hybrid nanofi](https://doi.org/10.1016/j.carbpol.2025.124372) (2025-09-25)
 - [Next-Generation Piezoelectric Materials in Wearable and Implantable Devices for ](https://doi.org/10.1002/advs.202507853) (2025-09-25)
 - [Hybrid living electronic skin for proactive scarless wound healing.](https://doi.org/10.1016/j.biomaterials.2025.123721) (2025-09-15)
 - [Lewis Acid-Driven Weak Electrostatic Interaction of Polybenzimidazole-Based Memb](https://doi.org/10.1002/adma.202510023) (2025-09-09)
 - [From deep learning discovery to clinical validation: a new composite marker pred](https://doi.org/10.1186/s40842-025-00229-5) (2025-09-03)
 - [Oriented synergistic assembly of one-dimensional Te nanowires/SWCNTs for high-pe](https://doi.org/10.1016/j.jcis.2025.138878) (2025-08-29)
+- [Individualised treatment effects estimation with composite treatments and compos](https://doi.org/10.1109/embc58623.2025.11252651) (2025-07-14)
+- [Quantitative Analysis of Heart Age Metrics: A Multi-Standard Assessment in the U](https://doi.org/10.1109/embc58623.2025.11253610) (2025-07-14)
+- [A Stratified Model for Enhanced Cuffless Blood Pressure Estimation Using Hyperte](https://doi.org/10.1109/EMBC58623.2025.11253392) (2025-07-14)
+- [Multimodal Pulmonary Embolism Diagnosis Tool with Electrical Impedance Tomograph](https://doi.org/10.1109/embc58623.2025.11254394) (2025-07-14)
 - [Advancements in microfluidic technology for rapid bacterial detection and inflam](https://doi.org/10.1039/d4lc00795f) (2025-07-08)
 - [A Novel Hand-Held Spinning Platform with Centrifugal Microfluidics for Rapid, Co](https://doi.org/10.1021/acs.analchem.5c00930) (2025-07-08)
 - [Automatic cell classification and quantification with machine learning in immuno](https://doi.org/10.1080/01478885.2025.2523618) (2025-07-01)
 - [TIER-LOC: Visual Query-based Video Clip Localization in fetal ultrasound videos ](https://doi.org/10.1016/j.media.2025.103611) (2025-07) 🏷 InnoHK-only
+- [Prolonged monitoring and risk management of hyperuricemia using interference-res](https://doi.org/10.1016/j.device.2025.100753) (2025-07)
 - [Deep learning enhanced deciphering of brain activity maps for discovery of thera](https://doi.org/10.1016/j.isci.2025.112868) (2025-06-10)
 - [Artificial intelligence-enabled prenatal ultrasound for the detection of fetal c](https://doi.org/10.1016/j.eclinm.2025.103250) (2025-06) 🏷 InnoHK-only
+- [Personalized continuous blood pressure tracking through single channel PPG in we](https://doi.org/10.1109/jbhi.2025.3535788) (2025-06)
 - [Y-shaped DNA as a dynamic self-assembly nanomaterial for phenotype-specific regu](https://doi.org/10.1093/rb/rbaf043) (2025-05-14)
+- [Amplification‐Free, Sequencing‐Free, Detection of Viral RNAs with Variant Specif](https://doi.org/10.1002/adfm.202570125) (2025-05)
+- [Pancreas Segmentation with Multi-Phase Feature Aggregation and Modality Adaptive](https://doi.org/10.1109/jbhi.2025.3628709) (2025-05)
 - [Advancements in Bio-Integrated Flexible Electronics for Hemodynamic Monitoring i](https://doi.org/10.1002/advs.202415215) (2025-04-25)
 - [Minimizing neonatal hypothyroidism induced by lithium exposure through breast mi](https://doi.org/10.1016/j.jtemb.2025.127653) (2025-04-12)
+- [Incongruent multimodal federated learning for medical vision and language-based ](https://doi.org/10.1609/aaai.v39i27.35054) (2025-04-11)
 - [Progress in Developing Polymer Electrolytes for Advanced Zn Batteries.](https://doi.org/10.1002/smtd.202500031) (2025-04-08)
 - [Multimodal triple-mode probe with colorimetric-fluorescence-SERS (CFSERS) for se](https://doi.org/10.1016/j.talanta.2025.128100) (2025-04-07)
+- [ECG-guided individual identification via PPG](https://doi.org/10.1109/icassp49660.2025.10890435) (2025-04-06)
 - [A Multifunctional Binder for Current-Collector-Free Zn Powder Anodes.](https://doi.org/10.1002/adma.202419702) (2025-03-25)
+- [Eccentric Strain Sensor Arrays for Shear Force Sensing](https://doi.org/10.1109/nsens65807.2025.11428056) (2025-03-23)
 - [Deformation-invariant neural network and its applications in distorted image res](https://doi.org/10.1016/j.neunet.2025.107378) (2025-03-16)
 - [Utilizing Nanomaterials in Microfluidic Devices for Disease Detection and Treatm](https://doi.org/10.3390/nano15060434) (2025-03-12)
 - [A parts-per-million scale electrolyte additive for durable aqueous zinc batterie](https://doi.org/10.1038/s41467-025-56607-1) (2025-02-20)
 - [Sweetener aspartame aggravates atherosclerosis through insulin-triggered inflamm](https://doi.org/10.1016/j.cmet.2025.01.006) (2025-02-19)
+- [Guest Editorial AI-Generated Content Empowered Healthcare Electronics](https://doi.org/10.1109/tce.2025.3553026) (2025-02)
 - [A tellurium iodide perovskite structure enabling eleven-electron transfer in zin](https://doi.org/10.1038/s41467-024-55385-6) (2025-01-08)
 - [Bioinspired bicontinuous adhesive hydrogel for wearable strain sensor with high ](https://doi.org/10.1016/j.jcis.2025.01.031) (2025-01-07)
 - [Aqueous Alkaline Zinc-Iodine Battery with Two-Electron Transfer.](https://doi.org/10.1021/acsnano.4c16550) (2025-01-07)
-- [Hierarchical yolk‐shell silicon/carbon anode materials enhanced by vertical grap](https://doi.org/10.1002/adfm.202413081) (2025)
+- [Hierarchical yolk‐shell silicon/carbon anode materials enhanced by vertical grap](https://doi.org/10.1002/adfm.202413081) (2025-01)
 - [Salt dissociation and localized high-concentration solvation at the interface of](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [Personalized continuous blood pressure tracking through single channel PPG in we](https://doi.org/10.1109/jbhi.2025.3535788) (2025)
-- [Prolonged monitoring and risk management of hyperuricemia using interference-res](https://doi.org/10.1016/j.device.2025.100753) (2025)
-- [Incongruent multimodal federated learning for medical vision and language-based ](https://doi.org/10.1609/aaai.v39i27.35054) (2025)
 - [PDSNet: Patient-disease dual spatial similarity neural networks for predicting h](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [Individualised treatment effects estimation with composite treatments and compos](https://doi.org/10.1109/embc58623.2025.11252651) (2025)
 - [High-Quality CEST Mapping With Lorentzian-Model Informed Neural Representation](https://doi.org/10.1109/tbme.2025.3574238/mm1) (2025)
-- [ECG-guided individual identification via PPG](https://doi.org/10.1109/icassp49660.2025.10890435) (2025)
 - [Multi-Wavelength Photoplethysmographic Assessment of Fingertip Vasculature for A](https://pubmed.ncbi.nlm.nih.gov/) (2025)
 - [Blind Adaptive Local Denoising for CEST Imaging](https://pubmed.ncbi.nlm.nih.gov/) (2025)
 - [Adaptive color Doppler for axial velocity imaging of microvessel networks](https://doi.org/10.1109/tuffc.2025.3559238/mm1) (2025)
-- [Quantitative Analysis of Heart Age Metrics: A Multi-Standard Assessment in the U](https://doi.org/10.1109/embc58623.2025.11253610) (2025)
 - [Flexible pulse waveform sensor array for cuffless PWV measurement](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [A Stratified Model for Enhanced Cuffless Blood Pressure Estimation Using Hyperte](https://doi.org/10.1109/EMBC58623.2025.11253392) (2025)
-- [Amplification‐Free, Sequencing‐Free, Detection of Viral RNAs with Variant Specif](https://doi.org/10.1002/adfm.202570125) (2025)
 - [A novel method for double-parameter decoupling measurement of temperature and pr](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [The inaugural Med-X Young Investigator Award in bioelectronics](https://doi.org/10.1007/s44258-025-00061-7) (2025)
-- [Chronic Venous Function Monitoring via a highly Flexible Capacitive Strain Sensi](https://doi.org/10.1109/nmdc64551.2025.11234679) (2025)
 - [New Ways to Design Deep Neural Networks.](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [Eccentric Strain Sensor Arrays for Shear Force Sensing](https://doi.org/10.1109/nsens65807.2025.11428056) (2025)
-- [Multimodal Pulmonary Embolism Diagnosis Tool with Electrical Impedance Tomograph](https://doi.org/10.1109/embc58623.2025.11254394) (2025)
 - [Olga Patey, Netzahualcoyotl Hernandez-Cruz, 4 Elena D&#39;Alberti](https://pubmed.ncbi.nlm.nih.gov/) (2025)
-- [Current Limitations of Automated Reflection Consolidation in LLMs for Clinical N](https://doi.org/10.1109/bhi67747.2025.11269565) (2025)
-- [Pancreas Segmentation with Multi-Phase Feature Aggregation and Modality Adaptive](https://doi.org/10.1109/jbhi.2025.3628709) (2025)
 - [Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environ](https://doi.org/10.48550/arXiv.2512.21652) (2025)
-- [Guest Editorial AI-Generated Content Empowered Healthcare Electronics](https://doi.org/10.1109/tce.2025.3553026) (2025)
 - [Navigating sensor-skin coupling challenges in magnetic-based blood pressure moni](https://doi.org/10.1016/j.cpcardiol.2024.102964) (2024-12-17)
+- [Integrated Microfluidic Device for Point-of-Care Monitoring of Urinary Cystatin ](https://doi.org/10.1109/nanomed64244.2024.10946035) (2024-12-02)
 - [Tailoring Biopolymers for Electronic Skins: Materials Design and Applications.](https://doi.org/10.1002/adma.202413112) (2024-12-01)
 - [Exploring the effectiveness of instruction tuning in biomedical language process](https://doi.org/10.1016/j.artmed.2024.103007) (2024-12) 🏷 InnoHK-only
 - [Uncertainty quantification of the pressure waveform using a Windkessel model.](https://doi.org/10.1002/cnm.3867) (2024-12) 🏷 InnoHK-only
@@ -193,7 +200,7 @@
 </details>
 
 <details>
-<summary><b>ITC 2024</b> — 115 papers ⭐24</summary>
+<summary><b>ITC 2024</b> — 120 papers ⭐24</summary>
 
 1. ⭐ [Ultrahigh Energy and Power Density in Ni-Zn Aqueous Battery via Superoxide-Activ](https://doi.org/10.1007/s40820-024-01586-z) — *Nano-micro letters* (2024-11-29)
 2. ⭐ [Ion-Selective Mobility Differential Amplifier: Enhancing Pressure-Induced Voltag](https://doi.org/10.1002/anie.202415000) — *Angewandte Chemie (Internation* (2024-11-26)
@@ -219,7 +226,8 @@
 22. ⭐ [Battery-free, wireless, and electricity-driven soft swimmer for water quality an](https://doi.org/10.1126/sciadv.adk6301) — *Science advances* (2024-01-10)
 23. ⭐ [Selenium-Anchored Chlorine Redox Chemistry in Aqueous Zinc Dual-Ion Batteries.](https://doi.org/10.1002/adma.202309330) — *Advanced materials (Deerfield * (2023-12-06)
 24. ⭐ [Perovskite Cathodes for Aqueous and Organic Iodine Batteries Operating Under One](https://doi.org/10.1002/adma.202304557) — *Advanced materials (Deerfield * (2023-12-03)
-<details><summary>More papers +78 COCHE affiliation +1 InnoHK-only +12 other (non-InnoHK)</summary>
+<details><summary>More papers +83 COCHE affiliation +1 InnoHK-only +12 other (non-InnoHK)</summary>
+- [Mechanical decoupling on multiscale heterointerface for customizable and robust ](https://doi.org/10.21203/rs.3.rs-5280548/v1) (2024-11-28)
 - [In vivo gene editing of T-cells in lymph nodes for enhanced cancer immunotherapy](https://doi.org/10.1038/s41467-024-54292-0) (2024-11-25)
 - [Miniaturized, portable gustation interfaces for VR/AR/MR.](https://doi.org/10.1073/pnas.2412116121) (2024-11-25)
 - [Multifunctional hydrogel electronics for closed-loop antiepileptic treatment.](https://doi.org/10.1126/sciadv.adq9207) (2024-11-22)
@@ -227,25 +235,34 @@
 - [Gradient Distribution of Zincophilic Sites for Stable Aqueous Zinc-Based Flow Ba](https://doi.org/10.1002/adma.202414388) (2024-11-14)
 - [Imaging treatment efficacy of repeated photodynamic therapy in glioblastoma usin](https://doi.org/10.1002/mrm.30362) (2024-11-05)
 - [Unleashing the strengths of unlabelled data in deep learning-assisted pan-cancer](https://doi.org/10.1016/S2589-7500(24)00154-7) (2024-11)
+- [Integrated piezoelectric vascular graft for continuous real‐time hemodynamics mo](https://doi.org/10.1002/adfm.202409874) (2024-11)
 - [NOise Reduction with DIstribution Corrected (NORDIC) principal component analysi](https://doi.org/10.1162/imag_a_00325) (2024-10-24)
 - [DNA polymerase mediated CRISPR/Cas12a trans-cleavage for dual-mode quantificatio](https://doi.org/10.1016/j.talanta.2024.127089) (2024-10-21)
 - [A fully integrated breathable haptic textile.](https://doi.org/10.1126/sciadv.adq9575) (2024-10-18)
+- [Skin-interfaced, Soft, Reliable Pulse Sensor for Cardiovascular Disease Diagnost](https://doi.org/10.70477/mqvh1558) (2024-10-07)
 - [Unsupervised shape-and-texture-based generative adversarial tuning of pre-traine](https://doi.org/10.1002/mp.17291) (2024-10) 🏷 InnoHK-only
 - [Effective Prevention and Treatment of Acute Leukemias in Mice by Activation of T](https://doi.org/10.1002/advs.202402332) (2024-10)
+- [Programmable microfluidic‐assisted highly conductive hydrogel patches for custom](https://doi.org/10.1002/adfm.202401930) (2024-10)
 - [Accurate detection and instance segmentation of unstained living adherent cells ](https://doi.org/10.1016/j.compbiomed.2024.109151) (2024-09-26)
 - [Constructing a Janus Catholyte/Cathode Structure: A New Strategy for Stable Zn-O](https://doi.org/10.1002/adma.202410209) (2024-09-20)
 - [MXene Supported Electrodeposition Engineering of Layer Double Hydroxide for Alka](https://doi.org/10.1002/anie.202411443) (2024-09-13)
 - [Illumination-adjustable photoacoustic and harmonic ultrasound for tracking magne](https://doi.org/10.1364/BOE.535028) (2024-09-06)
+- [Prior information inference via Mutual Information constrained cycleGAN enhances](https://doi.org/10.36227/techrxiv.172564151.14300206/v1) (2024-09-06)
 - [Decorating Delivery Vehicles Using Hyaluronic Acid Oligosaccharides Enables Acti](https://doi.org/10.1002/adhm.202402158) (2024-09-02)
 - [Dual-species proteomics and targeted intervention of animal-pathogen interaction](https://doi.org/10.1016/j.jare.2024.08.038) (2024-09-02)
+- [Amoeba‐inspired self‐healing electronic slime for adaptable, durable epidermal w](https://doi.org/10.1002/adfm.202402393) (2024-09)
+- [A rechargeable Ca/Cl2 battery](https://doi.org/10.1007/s11426-024-1977-x) (2024-09)
 - [Decoupled tin-silver batteries with long cycle life and power output stability b](https://doi.org/10.1039/d4sc04851b) (2024-08-28)
 - [CEST effect of dimethyl sulfoxide at negative offset frequency.](https://doi.org/10.1002/nbm.5238) (2024-08-12)
 - [Bacterial Iron Siderophore Drives Tumor Survival and Ferroptosis Resistance in a](https://doi.org/10.1002/advs.202404467) (2024-08-12)
 - [An ingestible, battery-free, tissue-adhering robotic interface for non-invasive ](https://doi.org/10.1038/s41467-024-51102-5) (2024-08-08)
+- [Attention-based MultiOffset deep learning reconstruction of chemical exchange sa](https://doi.org/10.1109/jbhi.2024.3404225) (2024-08)
 - [High-Detectivity All-Polymer Photodiode Empowers Smart Vitality Surveillance and](https://doi.org/10.1002/adma.202407271) (2024-07-30)
 - [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacem](https://doi.org/10.1016/j.bios.2024.116597) (2024-07-20)
 - [Deciphering the Temporal-Spatial Interactive Heterogeneity of Long Non-Coding RN](https://doi.org/10.1021/jacs.4c05205) (2024-07-17)
 - [Biometric-Tuned E-Skin Sensor with Real Fingerprints Provides Insights on Tactil](https://doi.org/10.1002/advs.202400234) (2024-07-10)
+- [Permeable, three-dimensional integrated electronic skins with stretchable hybrid](https://doi.org/10.1038/s41928-024-01189-x) (2024-07-01)
+- [Flexible flow sensors-enabled intelligent life](https://doi.org/10.1088/1361-6439/ad4cf8) (2024-07-01)
 - [Baroreceptor-Inspired Microneedle Skin Patch for Pressure-Controlled Drug Releas](https://doi.org/10.34133/bmef.0044) (2024-06-28)
 - [Highly Reversible Positive-Valence Conversion of Sulfur Chemistry for High-Volta](https://doi.org/10.1002/adma.202402898) (2024-06-17)
 - [Constructing static two-electron lithium-bromide battery.](https://doi.org/10.1126/sciadv.adl0587) (2024-06-14)
@@ -254,69 +271,64 @@
 - [Roles of Cytokines in Alzheimer's Disease.](https://doi.org/10.3390/ijms25115803) (2024-05-26)
 - [Vertebrates on a Chip: Noninvasive Electrical and Optical Mapping of Whole Brain](https://doi.org/10.1021/acschemneuro.4c00158) (2024-05-22)
 - [Starch-mediated colloidal chemistry for highly reversible zinc-based polyiodide ](https://doi.org/10.1038/s41467-024-48263-8) (2024-05-07)
+- [Deep reinforcement learning for multi-class imbalanced training: applications in](https://doi.org/10.1007/s10994-023-06481-z) (2024-05)
 - [Halide Exchange in Perovskites Enables Bromine/Iodine Hybrid Cathodes for Highly](https://doi.org/10.1002/adma.202401924) (2024-04-15)
 - [Zinc Powder Anodes for Rechargeable Aqueous Zinc-Based Batteries.](https://doi.org/10.1021/acs.nanolett.4c00101) (2024-03-30)
+- [Wearables Cardiovascular Monitoring: Effects of Cold Pressor Test on Heart Rates](https://doi.org/10.33552/ojrat.2024.02.000541) (2024-03-27)
+- [Angiogenesis in diseases: A half-century excursion from the initial therapeutic ](https://doi.org/10.1097/cm9.0000000000003002) (2024-03-20)
 - [Deep-learning-based super-resolution for accelerating chemical exchange saturati](https://doi.org/10.1002/nbm.5130) (2024-03-15)
 - [Sulfated hyaluronic acid/collagen-based biomimetic hybrid nanofiber skin for dia](https://doi.org/10.1016/j.carbpol.2024.122025) (2024-03-05)
+- [A Hybrid Deep Learning Approach for Cuff-less Noninvasive Continuous Blood Press](https://doi.org/10.1109/nsens62142.2024.10561418) (2024-03-02)
 - [On-Site Melanoma Diagnosis Utilizing a Swellable Microneedle-Assisted Skin Inter](https://doi.org/10.1002/advs.202306188) (2024-02-28)
+- [A multi-channel photoplethysmography array with contact-force regulation for ton](https://doi.org/10.20517/chatmed.2023.11) (2024-02-19)
 - [Molecular Structure Engineering of Isomeric Additives for Long Lifetime Zn Anode](https://doi.org/10.1002/smll.202400085) (2024-02-08)
 - [AIEgen-deep: Deep learning of single AIEgen-imaging pattern for cancer cell disc](https://doi.org/10.1016/j.bios.2024.116086) (2024-02-07)
 - [Asymmetric Anion Zinc Salt Derived Solid Electrolyte Interphase Enabled Long-Lif](https://doi.org/10.1002/anie.202319125) (2024-02-06)
 - [Effect of inhaled oxygen level on dynamic glucose-enhanced MRI in mouse brain.](https://doi.org/10.1002/mrm.30035) (2024-02-02)
+- [Piezoionics: Mechanical‐to‐ionic transduction for sensing, biointerface, and ene](https://doi.org/10.1002/agt2.425) (2024-02)
 - [Juglone as a Natural Quorum Sensing Inhibitor against ](https://doi.org/10.1021/acsptsci.3c00354) (2024-01-25)
+- [Layered transition metal carbides/nitrides: from chemical etching to chemical ed](https://doi.org/10.1021/accountsmr.4c00250) (2024-01-24)
 - [Fine Tuning Water States in Hydrogels for High Voltage Aqueous Batteries.](https://doi.org/10.1021/acsnano.3c08398) (2024-01-18)
 - [Beyond the silence: A comprehensive exploration of long non-coding RNAs as genet](https://doi.org/10.1016/j.cpcardiol.2024.102390) (2024-01-15)
 - [Heartfelt living: Deciphering the link between lifestyle choices and cardiovascu](https://doi.org/10.1016/j.cpcardiol.2024.102397) (2024-01-15)
 - [Preclinical Application of CEST MRI to Detect Early and Regional Tumor Response ](https://doi.org/10.3390/pharmaceutics16010101) (2024-01-12)
 - [Opportunities for System Neuroscience.](https://doi.org/10.1007/978-3-031-69188-1_10) (2024)
 - [The effect of aquaporin-4 inhibition on cerebrospinal fluid-tissue water exchang](https://doi.org/10.1002/nbm.5093) (2024-01-01)
-- [Permeable, three-dimensional integrated electronic skins with stretchable hybrid](https://doi.org/10.1038/s41928-024-01189-x) (2024)
 - [Generalizability assessment of AI models across hospitals in a low-middle and hi](https://pubmed.ncbi.nlm.nih.gov/) (2024)
-- [Deep reinforcement learning for multi-class imbalanced training: applications in](https://doi.org/10.1007/s10994-023-06481-z) (2024)
 - [Eegmatch: Learning with incomplete labels for semisupervised eeg-based cross-sub](https://doi.org/10.1109/tnnls.2024.3493425/mm1) (2024)
-- [Piezoionics: Mechanical‐to‐ionic transduction for sensing, biointerface, and ene](https://doi.org/10.1002/agt2.425) (2024)
 - [Tailoring hydroxyl groups of organic phenazine anodes for high-performance and s](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Recent advances in laser-induced-graphene-based soft skin electronics for intell](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Recent advances in passive cooling materials for thermal management in flexible ](https://pubmed.ncbi.nlm.nih.gov/) (2024)
-- [Programmable microfluidic‐assisted highly conductive hydrogel patches for custom](https://doi.org/10.1002/adfm.202401930) (2024)
 - [Multi-view cross-fusion transformer based on kinetic features for non-invasive b](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [On‐Site Melanoma Diagnosis Utilizing a Swellable Microneedle‐Assisted Skin Inter](https://pubmed.ncbi.nlm.nih.gov/) (2024)
-- [Integrated piezoelectric vascular graft for continuous real‐time hemodynamics mo](https://doi.org/10.1002/adfm.202409874) (2024)
-- [Attention-based MultiOffset deep learning reconstruction of chemical exchange sa](https://doi.org/10.1109/jbhi.2024.3404225) (2024)
 - [Vibopneumo: A vibratory-pneumatic finger-worn haptic device for altering perceiv](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Data-efficient learning control of continuum robots in constrained environments](https://doi.org/10.1109/TASE.2024.3357816) (2024)
-- [Amoeba‐inspired self‐healing electronic slime for adaptable, durable epidermal w](https://doi.org/10.1002/adfm.202402393) (2024)
 - [Dynamic inter-treatment information sharing for individualized treatment effects](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Blood pressure Estimation using Self-Attention mechanism Built-In resunet on pul](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Optimized hard exudate detection with supervised contrastive learning](https://pubmed.ncbi.nlm.nih.gov/) (2024)
-- [Layered transition metal carbides/nitrides: from chemical etching to chemical ed](https://doi.org/10.1021/accountsmr.4c00250) (2024)
 - [A mathematical explanation of UNet](https://doi.org/10.3934/mfc.2024040) (2024)
 - [Multi-organ registration with continual learning](https://doi.org/10.1109/lsp.2024.3388954) (2024)
-- [Flexible flow sensors-enabled intelligent life](https://doi.org/10.1088/1361-6439/ad4cf8) (2024)
-- [A multi-channel photoplethysmography array with contact-force regulation for ton](https://doi.org/10.20517/chatmed.2023.11) (2024)
-- [Transferring adult-like phase images for robust multi-view isointense infant bra](https://doi.org/10.1109/tmi.2024.3430348) (2024)
+- [Transferring adult-like phase images for robust multi-view isointense infant bra](https://doi.org/10.1109/tmi.2024.3430348) (2024-01)
 - [An electronic slime-based epidermal electrode using carbon nanocomposites for bi](https://doi.org/10.1109/ojnano.2024.3488720) (2024)
 - [BP-DeepONet: A new method for cuffless blood pressure estimation using the physc](https://pubmed.ncbi.nlm.nih.gov/) (2024)
-- [A rechargeable Ca/Cl2 battery](https://doi.org/10.1007/s11426-024-1977-x) (2024)
-- [Angiogenesis in diseases: A half-century excursion from the initial therapeutic ](https://doi.org/10.1097/cm9.0000000000003002) (2024)
-- [A Hybrid Deep Learning Approach for Cuff-less Noninvasive Continuous Blood Press](https://doi.org/10.1109/nsens62142.2024.10561418) (2024)
-- [Wearables Cardiovascular Monitoring: Effects of Cold Pressor Test on Heart Rates](https://doi.org/10.33552/ojrat.2024.02.000541) (2024)
-- [Integrated Microfluidic Device for Point-of-Care Monitoring of Urinary Cystatin ](https://doi.org/10.1109/nanomed64244.2024.10946035) (2024)
-- [Prior information inference via Mutual Information constrained cycleGAN enhances](https://doi.org/10.36227/techrxiv.172564151.14300206/v1) (2024)
 - [CEST imaging of ApoE–/–mouse brain during atherosclerosis development](https://pubmed.ncbi.nlm.nih.gov/) (2024)
 - [Imaging the brain with multiple sclerosis using 3D CUBE CEST MRI at clinical 3T](https://doi.org/10.58530/2024/2948) (2024)
-- [Mechanical decoupling on multiscale heterointerface for customizable and robust ](https://doi.org/10.21203/rs.3.rs-5280548/v1) (2024)
+- [A New Method to Compute the Blood Flow Equation Using the Physics-Informed Neura](https://doi.org/10.2139/ssrn.4808841) (2024)
 - [Integrated Ink Printing Paper Based Self-Powered Electrochemical Multimodal Bios](https://doi.org/10.1002/advs.202305962) (2023-12-31)
 - [[Application of electronic skin in healthcare and virtual reality].](https://doi.org/10.7507/1001-5515.202210035) (2023-12-25)
 - [Thermal and Moisture Managing E-Textiles Enabled by Janus Hierarchical Gradient ](https://doi.org/10.1002/adma.202311633) (2023-12-24)
 - [Cardiovascular challenges in the era of antiretroviral therapy for AIDS/ HIV: A ](https://doi.org/10.1016/j.cpcardiol.2023.102353) (2023-12-20)
+- [Reinforcement learning for imbalanced vehicle booming noise classification](https://doi.org/10.1109/mlcr61158.2023.00014) (2023-12-09)
+- [Unleashing the power of federated learning in fragmented digital healthcare syst](https://doi.org/10.1109/skima59232.2023.10387304) (2023-12-08)
 - [Metal-Free Eutectic Electrolyte with Weak Hydrogen Bonds for High-Rate and Ultra](https://doi.org/10.1002/adma.202308210) (2023-12-06)
+- [Stretchable, skin‐conformable neuromorphic system for tactile sensory recognizin](https://doi.org/10.1002/inf2.12472) (2023-12)
+- [FlexiPulse: A machine-learning-enabled flexible pulse sensor for cardiovascular ](https://doi.org/10.1016/j.xcrp.2023.101690) (2023-12)
 </details>
 
 </details>
 
 <details>
-<summary><b>ITC 2023</b> — 99 papers ⭐33</summary>
+<summary><b>ITC 2023</b> — 97 papers ⭐33</summary>
 
 1. ⭐ [The 2023 wearable photoplethysmography roadmap.](https://doi.org/10.1088/1361-6579/acead2) — *Physiological measurement* (2023-11-29)
 2. ⭐ [Wireless, battery-free, multifunctional integrated bioelectronics for respirator](https://doi.org/10.1038/s41467-023-43189-z) — *Nature communications* (2023-11-20)
@@ -351,26 +363,41 @@
 31. ⭐ [Hydrogel Electrolyte with High Tolerance to a Wide Spectrum of pHs and Compressi](https://doi.org/10.1002/smtd.202201448) — *Small methods* (2023-01-06)
 32. ⭐ [Touch IoT enabled by wireless self-sensing and haptic-reproducing electronic ski](https://doi.org/10.1126/sciadv.ade2450) — *Science advances* (2022-12-23)
 33. ⭐ [Three-dimensional nanofabrication via ultrafast laser patterning and kinetically](https://doi.org/10.1126/science.abm8420) — *Science (New York, N.Y.)* (2022-12-22)
-<details><summary>More papers +56 COCHE affiliation +1 InnoHK-only +9 other (non-InnoHK)</summary>
+<details><summary>More papers +54 COCHE affiliation +1 InnoHK-only +9 other (non-InnoHK)</summary>
 - [Crystal Orientation Engineering of Perfectly Matched Heterogeneous Textured ZnSe](https://doi.org/10.1021/acsnano.3c07848) (2023-11-30)
 - [Beyond the beat: A pioneering investigation into exercise modalities for allevia](https://doi.org/10.1016/j.cpcardiol.2023.102222) (2023-11-23)
 - [Cardiovascular diseases crossroads: cGAS-STING signaling and disease progression](https://doi.org/10.1016/j.cpcardiol.2023.102189) (2023-11-11)
 - [Editorial for "Multi-Parametric MRI for Evaluating Variations in Renal Structure](https://doi.org/10.1002/jmri.29096) (2023-10-26)
+- [Beat-to-beat continuous blood pressure estimation with optimal feature set of PP](https://doi.org/10.20517/2574-1209.2023.30) (2023-10-20)
 - [Creatine mapping of the brain at 3T by CEST MRI.](https://doi.org/10.1002/mrm.29876) (2023-10-09)
 - [Muscle-inspired soft robots based on bilateral dielectric elastomer actuators.](https://doi.org/10.1038/s41378-023-00592-2) (2023-10-07)
+- [Thin, soft, skin-integrated electronics for real-time and wireless detection of ](https://doi.org/10.1080/19475411.2023.2236997) (2023-10-02)
+- [A distance transformation deep forest framework with hybrid-feature fusion for c](https://doi.org/10.1109/tnnls.2023.3280646) (2023-10)
+- [Ultrasensitive Detection of SARS‐CoV‑2 by Flexible Metal Oxide Field‐Effect Tran](https://doi.org/10.1002/adfm.202301268) (2023-10)
+- [Interactive dual network with adaptive density map for automatic cell counting](https://doi.org/10.1109/tase.2023.3329973) (2023-10)
 - [Recent Advances in Bioelectronics for Localized Drug Delivery.](https://doi.org/10.1002/smtd.202301068) (2023-09-27)
+- [Advancing cardiovascular disease prediction: portable or wearable devices for au](https://doi.org/10.20517/chatmed.2023.04) (2023-09-27)
+- [Some perspectives of continuous arterial blood pressure measurements: from kymog](https://doi.org/10.20517/chatmed.2023.03) (2023-09-13)
 - [Three-Electron Transfer-Based High-Capacity Organic Lithium-Iodine (Chlorine) Ba](https://doi.org/10.1002/anie.202310168) (2023-09-12)
+- [Recent progress in thermosensitive hydrogels and their applications in drug deli](https://doi.org/10.1002/mba2.55) (2023-09)
+- [UTransBPNet: a general deep learning model for cuffless blood pressure estimatio](https://doi.org/10.36227/techrxiv.21915195.v2) (2023-08-22)
 - [d-Band Center Optimization of Ti](https://doi.org/10.1021/acsami.3c08512) (2023-08-15)
+- [Patient clustering for vital organ failure using ICD code with graph attention](https://doi.org/10.1109/tbme.2023.3243311) (2023-08)
 - [Achieving strong, stable, and durable underwater adhesives based on a simple and](https://doi.org/10.1039/d3mh00301a) (2023-07-31)
 - [Biofilms exacerbate atherogenesis through macrophage-induced inflammatory respon](https://doi.org/10.1016/j.actbio.2023.06.028) (2023-06-28)
 - [Multi-target landmark detection with incomplete images via reinforcement learnin](https://doi.org/10.1016/j.media.2023.102875) (2023-06-24)
 - [European Society of Hypertension recommendations for the validation of cuffless ](https://doi.org/10.1097/HJH.0000000000003483) (2023-06-22)
 - [Distinct bacterial population dynamics and disease dissemination after biofilm d](https://doi.org/10.1038/s41396-023-01446-5) (2023-06-03)
 - [Sensitivity schemes for dynamic glucose-enhanced magnetic resonance imaging to d](https://doi.org/10.1002/nbm.4962) (2023-06)
+- [Grafted MXenes based electrolytes for 5V‐class solid‐state batteries](https://doi.org/10.1002/adfm.202214539) (2023-06)
 - [Wearable patches for transdermal drug delivery.](https://doi.org/10.1016/j.apsb.2023.05.009) (2023-05-15)
+- [Haptic interface with flexible self-sensing actuators for wireless touch communi](https://doi.org/10.1109/nems57332.2023.10190909) (2023-05-14)
 - [Distinct chemistry between Zn and Li at varied temperature.](https://doi.org/10.1016/j.scib.2023.04.020) (2023-04-20)
 - [Causal inference based cuffless blood pressure estimation: A pilot study.](https://doi.org/10.1016/j.compbiomed.2023.106900) (2023-04-12)
+- [A freehand 3D ultrasound carotid scanning system for point-of-care ultrasonograp](https://doi.org/10.1117/12.2652986) (2023-04-10)
+- [Semi-supervised vessel wall detection and segmentation from 3D femoral MR images](https://doi.org/10.1117/12.2654129) (2023-04-03)
 - [Early detection of metastasis in ascites and peritoneal lavage - new perspective](https://doi.org/10.1016/j.ebiom.2023.104554) (2023-04-01)
+- [An adversarial training framework for mitigating algorithmic biases in clinical ](https://doi.org/10.1038/s41746-023-00805-y) (2023-03-29)
 - [Chemical exchange saturation transfer MRI detects myelin changes in cuprizone mo](https://doi.org/10.1002/nbm.4937) (2023-03-25)
 - [Ultrathin, Soft, Bioresorbable Organic Electrochemical Transistors for Transient](https://doi.org/10.1002/advs.202300504) (2023-02-24)
 - [Atomic Plasma Grafting: Precise Control of Functional Groups on Ti](https://doi.org/10.1021/acsami.2c22609) (2023-02-22)
@@ -378,67 +405,58 @@
 - [An Air-Rechargeable Zn Battery Enabled by Organic-Inorganic Hybrid Cathode.](https://doi.org/10.1007/s40820-023-01023-7) (2023-02-16)
 - [Drawbacks of Artificial Intelligence and Their Potential Solutions in the Health](https://doi.org/10.1007/s44174-023-00063-2) (2023-02-08) 🏷 InnoHK-only
 - [Biofilm Potentiates Cancer-Promoting Effects of Tumor-Associated Macrophages in ](https://doi.org/10.1002/smll.202205904) (2023-02-07)
+- [Digital health and machine learning technologies for blood glucose monitoring an](https://doi.org/10.36227/techrxiv.21919254.v1) (2023-01-24)
+- [Towards Fully Automated Cuffless Calibration for Tonoarteriography Using 3-Axis ](https://doi.org/10.33552/ojrat.2023.01.000519) (2023-01-17)
 - [Hybrid Therapeutic Device (CUHK-OA-M2) for Relieving Symptoms Induced by Knee Os](https://doi.org/10.3390/bioengineering10010095) (2023-01-11)
 - [Multiple CEST contrast imaging of nose-to-brain drug delivery using iohexol lipo](https://doi.org/10.1016/j.jconrel.2023.01.011) (2023-01-10)
-- [Lvit: language meets vision transformer in medical image segmentation](https://doi.org/10.1109/tmi.2023.3291719) (2023)
+- [Lvit: language meets vision transformer in medical image segmentation](https://doi.org/10.1109/tmi.2023.3291719) (2023-01)
 - [A skin-integrated multimodal haptic interface for immersive tactile feedback](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [An adversarial training framework for mitigating algorithmic biases in clinical ](https://doi.org/10.1038/s41746-023-00805-y) (2023)
 - [PR-PL: A novel prototypical representation based pairwise learning framework for](https://doi.org/10.1109/taffc.2023.3288118/mm1) (2023)
-- [Recent progress in thermosensitive hydrogels and their applications in drug deli](https://doi.org/10.1002/mba2.55) (2023)
-- [Digital health and machine learning technologies for blood glucose monitoring an](https://doi.org/10.36227/techrxiv.21919254.v1) (2023)
-- [Grafted MXenes based electrolytes for 5V‐class solid‐state batteries](https://doi.org/10.1002/adfm.202214539) (2023)
-- [Stretchable, skin‐conformable neuromorphic system for tactile sensory recognizin](https://doi.org/10.1002/inf2.12472) (2023)
 - [Semi-supervised learning for multi-label cardiovascular diseases prediction: a m](https://doi.org/10.1109/tpami.2023.3342828/mm1) (2023)
 - [Stretchable magnesium–air battery based on dual ions conducting hydrogel for int](https://pubmed.ncbi.nlm.nih.gov/) (2023)
 - [Uncertainties in the analysis of heart rate variability: A systematic review](https://pubmed.ncbi.nlm.nih.gov/) (2023)
 - [Liquid metal-based strain-sensing glove for human-machine interaction](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [FlexiPulse: A machine-learning-enabled flexible pulse sensor for cardiovascular ](https://doi.org/10.1016/j.xcrp.2023.101690) (2023)
 - [Handbook of mathematical models and algorithms in computer vision and imaging: m](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [A distance transformation deep forest framework with hybrid-feature fusion for c](https://doi.org/10.1109/tnnls.2023.3280646) (2023)
 - [Adversarial de-confounding in individualised treatment effects estimation](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [Thin, soft, skin-integrated electronics for real-time and wireless detection of ](https://doi.org/10.1080/19475411.2023.2236997) (2023)
-- [Ultrasensitive Detection of SARS‐CoV‑2 by Flexible Metal Oxide Field‐Effect Tran](https://doi.org/10.1002/adfm.202301268) (2023)
 - [Dynamic inter-treatment information sharing for heterogeneous treatment effects ](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [UTransBPNet: a general deep learning model for cuffless blood pressure estimatio](https://doi.org/10.36227/techrxiv.21915195.v2) (2023)
-- [Interactive dual network with adaptive density map for automatic cell counting](https://doi.org/10.1109/tase.2023.3329973) (2023)
-- [Patient clustering for vital organ failure using ICD code with graph attention](https://doi.org/10.1109/tbme.2023.3243311) (2023)
-- [Unleashing the power of federated learning in fragmented digital healthcare syst](https://doi.org/10.1109/skima59232.2023.10387304) (2023)
-- [Some perspectives of continuous arterial blood pressure measurements: from kymog](https://doi.org/10.20517/chatmed.2023.03) (2023)
-- [Beat-to-beat continuous blood pressure estimation with optimal feature set of PP](https://doi.org/10.20517/2574-1209.2023.30) (2023)
 - [A global and patch-wise contrastive loss for accurate automated exudate detectio](https://pubmed.ncbi.nlm.nih.gov/) (2023)
 - [Towards wearable sensing-based precise and rapid responding system for the early](https://doi.org/10.20517/chatmed.2023.02) (2023)
-- [Advancing cardiovascular disease prediction: portable or wearable devices for au](https://doi.org/10.20517/chatmed.2023.04) (2023)
 - [Multi-classification using one-versus-one deep learning strategy with joint prob](https://pubmed.ncbi.nlm.nih.gov/) (2023)
-- [Semi-supervised vessel wall detection and segmentation from 3D femoral MR images](https://doi.org/10.1117/12.2654129) (2023)
-- [A freehand 3D ultrasound carotid scanning system for point-of-care ultrasonograp](https://doi.org/10.1117/12.2652986) (2023)
-- [Reinforcement learning for imbalanced vehicle booming noise classification](https://doi.org/10.1109/mlcr61158.2023.00014) (2023)
-- [Haptic interface with flexible self-sensing actuators for wireless touch communi](https://doi.org/10.1109/nems57332.2023.10190909) (2023)
 - [Embracing the future of healthcare: launching the Journal of Connected Health An](https://doi.org/10.20517/chatmed.2023.01) (2023)
-- [Towards Fully Automated Cuffless Calibration for Tonoarteriography Using 3-Axis ](https://doi.org/10.33552/ojrat.2023.01.000519) (2023)
 - [Self-Healing Electronics for Prognostic Monitoring of Methylated Circulating Tum](https://doi.org/10.1002/adma.202207282) (2022-12-16)
 - [COVID-19 instigates adipose browning and atrophy through VEGF in small mammals.](https://doi.org/10.1038/s42255-022-00697-4) (2022-12-08)
 - [Ca2+ Oscillations, Waves, and Networks in Islets From Human Donors With and With](https://doi.org/10.2337/db22-0004) (2022-12-01)
+- [Soft, stretchable, wireless intelligent three‐lead electrocardiograph monitors w](https://doi.org/10.1002/smm2.1114) (2022-12)
+- [A dual‐doping strategy of LaCoO3 for optimized oxygen evolution reaction toward ](https://doi.org/10.1002/er.8719) (2022-12)
 </details>
 
 </details>
 
 <details>
-<summary><b>ITC 2022</b> — 52 papers ⭐1</summary>
+<summary><b>ITC 2022</b> — 51 papers ⭐1</summary>
 
 1. ⭐ [Polymeric Single-Ion Conductors with Enhanced Side-Chain Motion for High-Perform](https://doi.org/10.1002/adma.202207682) — *Advanced materials (Deerfield * (2022-11-07)
-<details><summary>More papers +48 COCHE affiliation +3 InnoHK-only (non-InnoHK)</summary>
+<details><summary>More papers +47 COCHE affiliation +3 InnoHK-only (non-InnoHK)</summary>
 - [Monitor Tumor pHe and Response Longitudinally during Treatment Using CEST MRI-De](https://doi.org/10.1021/acsami.2c10493) (2022-11-30)
 - [Lithium in breast milk transiently affects the renal electrolytic balance of inf](https://doi.org/10.1111/bdi.13275) (2022-11-28)
 - [Chemical Exchange Saturation Transfer Magnetic Resonance Imaging for Longitudina](https://doi.org/10.1161/STROKEAHA.122.040830) (2022-11-23)
 - [Blood vessels in fat tissues and vasculature-derived signals in controlling lipi](https://doi.org/10.1097/CM9.0000000000002406) (2022-11-20)
+- [vital_sqi: A Python package for physiological signal quality control](https://doi.org/10.3389/fphys.2022.1020458) (2022-11-11)
 - [Mapping of Spatiotemporal Auricular Electrophysiological Signals Reveals Human B](https://doi.org/10.1002/adhm.202201404) (2022-10-31)
 - [Discrete single-cell microRNA analysis for phenotyping the heterogeneity of acut](https://doi.org/10.1016/j.biomaterials.2022.121869) (2022-10-25)
 - [MRDFF: A deep forest based framework for CT whole heart segmentation.](https://doi.org/10.1016/j.ymeth.2022.10.005) (2022-10-22)
 - [Diverse and Composite Roles of miRNA in Non-Neuronal Cells and Neuronal Synapses](https://doi.org/10.3390/biom12101505) (2022-10-17)
+- [Encoding of tactile information in hand via skin-integrated wireless haptic inte](https://doi.org/10.1038/s42256-022-00543-y) (2022-10-17)
+- [Deep learning-enhanced dual-module large-throughput microinjection system for ad](https://doi.org/10.1109/tase.2022.3208152) (2022-10)
+- [COPER: Continuous patient state perceiver](https://doi.org/10.1109/bhi56158.2022.9926807) (2022-09-27)
+- [Spectrum estimation of heart rate variability using low-rank matrix completion](https://doi.org/10.1109/bhi56158.2022.9926897) (2022-09-27)
 - [Construction of enzyme-laden vascular scaffolds based on hyaluronic acid oligosa](https://doi.org/10.1016/j.actbio.2022.09.041) (2022-09-23)
+- [Analysis of combination therapy of immune checkpoint inhibitors in osteosarcoma.](https://doi.org/10.3389/fchem.2022.847621) (2022-09-06) 🏷 InnoHK-only
+- [Classification of tetanus severity in intensive-care settings for low-income cou](https://doi.org/10.3390/s22176554) (2022-08-30)
 - [Finger-inspired rigid-soft hybrid tactile sensor with superior sensitivity at hi](https://doi.org/10.1038/s41467-022-32827-7) (2022-08-29) 🏷 InnoHK-only
 - [Task Autonomy of a Flexible Endoscopic System for Laser-Assisted Surgery.](https://doi.org/10.34133/2022/9759504) (2022-08-24)
 - [Wide-Bandwidth Nanocomposite-Sensor Integrated Smart Mask for Tracking Multiphas](https://doi.org/10.1002/advs.202203565) (2022-08-23)
+- [Knock-in of a large reporter gene via the high-throughput microinjection of the ](https://doi.org/10.1109/tbme.2022.3149530) (2022-08)
 - [Imaging of sugar-based contrast agents using their hydroxyl proton exchange prop](https://doi.org/10.1002/nbm.4784) (2022-07-24)
 - [Label-free enrichment of human blast cells from whole blood for leukemia monitor](https://doi.org/10.1016/j.xpro.2022.101584) (2022-07-20)
 - [Implantable Electronic Medicine Enabled by Bioresorbable Microneedles for Wirele](https://doi.org/10.1021/acs.nanolett.2c01997) (2022-07-11)
@@ -447,32 +465,23 @@
 - [Tailoring the metal electrode morphology via electrochemical protocol optimizati](https://doi.org/10.1038/s41467-022-31461-7) (2022-06-27)
 - [Ionic Liquid-Softened Polymer Electrolyte for Anti-Drying Flexible Zinc Ion Batt](https://doi.org/10.1021/acsami.2c06793) (2022-06-06)
 - [High-Voltage Organic Cathodes for Zinc-Ion Batteries through Electron Cloud and ](https://doi.org/10.1002/anie.202203453) (2022-06-01)
+- [Adaptive intention-driven variable impedance control for wearable robots with co](https://doi.org/10.1109/tcst.2022.3222728) (2022-05)
 - [3D Upconversion Barcodes for Combinatory Wireless Neuromodulation in Behaving An](https://doi.org/10.1002/adhm.202200304) (2022-04-28)
 - [Dendrite Issues for Zinc Anodes in a Flexible Cell Configuration for Zinc-Based ](https://doi.org/10.1002/anie.202202780) (2022-04-27)
 - [Transient, Implantable, Ultrathin Biofuel Cells Enabled by Laser-Induced Graphen](https://doi.org/10.1021/acs.nanolett.2c00864) (2022-04-12)
+- [Triboelectric nanogenerator tattoos enabled by epidermal electronic technologies](https://doi.org/10.1002/adfm.202111269) (2022-04)
 - [Sequencing-free Analysis of Multiple Methylations on Gene-Specific mRNAs.](https://doi.org/10.1021/jacs.2c01036) (2022-03-23)
+- [Scenario adaptive cuffless blood pressure estimation by integrating cardiovascul](https://doi.org/10.1109/jbhi.2022.3227235) (2022-03)
 - [Rapid detection of microorganisms in a fish infection microfluidics platform.](https://doi.org/10.1016/j.jhazmat.2022.128572) (2022-02-25)
 - [Molecular Imaging of Brain Tumors and Drug Delivery Using CEST MRI: Promises and](https://doi.org/10.3390/pharmaceutics14020451) (2022-02-20)
 - [Early Predictor Tool of Disease Using Label-Free Liquid Biopsy-Based Platforms f](https://doi.org/10.3390/cancers14030818) (2022-02-06)
+- [Video based cocktail causal container for blood pressure classification and bloo](https://doi.org/10.1109/jbhi.2022.3220967) (2022-02)
 - [Stretchable Sweat-Activated Battery in Skin-Integrated Electronics for Continuou](https://doi.org/10.1002/advs.202104635) (2022-01-28)
 - [Electronic skin as wireless human-machine interfaces for robotic VR.](https://doi.org/10.1126/sciadv.abl6700) (2022-01-14)
 - [Two-Electron Redox Chemistry Enabled High-Performance Iodide-Ion Conversion Batt](https://doi.org/10.1002/anie.202113576) (2022-01-12)
 - [A 6-gene panel as a signature to predict recovery from advanced heart failure us](https://doi.org/10.1016/j.gendis.2021.12.001) (2022-01-05)
-- [Encoding of tactile information in hand via skin-integrated wireless haptic inte](https://doi.org/10.1038/s42256-022-00543-y) (2022)
-- [Triboelectric nanogenerator tattoos enabled by epidermal electronic technologies](https://doi.org/10.1002/adfm.202111269) (2022)
-- [Soft, stretchable, wireless intelligent three‐lead electrocardiograph monitors w](https://doi.org/10.1002/smm2.1114) (2022)
-- [Adaptive intention-driven variable impedance control for wearable robots with co](https://doi.org/10.1109/tcst.2022.3222728) (2022)
-- [Knock-in of a large reporter gene via the high-throughput microinjection of the ](https://doi.org/10.1109/tbme.2022.3149530) (2022)
-- [Scenario adaptive cuffless blood pressure estimation by integrating cardiovascul](https://doi.org/10.1109/jbhi.2022.3227235) (2022)
-- [Video based cocktail causal container for blood pressure classification and bloo](https://doi.org/10.1109/jbhi.2022.3220967) (2022)
-- [Deep learning-enhanced dual-module large-throughput microinjection system for ad](https://doi.org/10.1109/tase.2022.3208152) (2022)
-- [vital_sqi: A Python package for physiological signal quality control](https://doi.org/10.3389/fphys.2022.1020458) (2022)
-- [Classification of tetanus severity in intensive-care settings for low-income cou](https://doi.org/10.3390/s22176554) (2022)
-- [A dual‐doping strategy of LaCoO3 for optimized oxygen evolution reaction toward ](https://doi.org/10.1002/er.8719) (2022)
-- [COPER: Continuous patient state perceiver](https://doi.org/10.1109/bhi56158.2022.9926807) (2022)
-- [Spectrum estimation of heart rate variability using low-rank matrix completion](https://doi.org/10.1109/bhi56158.2022.9926897) (2022)
 - [Ultrafast Multi-focus Optical Tweezer based on a Digital Micromirror Device](https://doi.org/10.3850/978-981-18-6021-8_or-15-0151.html) (2022)
-- [Analysis of combination therapy of immune checkpoint inhibitors in osteosarcoma.](https://doi.org/10.3389/fchem.2022.847621) (2022) 🏷 InnoHK-only
+- [Operando Surface-Enhanced Raman Spectroscopy Monitoring of Molecular Reorientati](https://doi.org/10.2139/ssrn.4081177) (2022)
 - [Stabilizing Interface pH by N-Modified Graphdiyne for Dendrite-Free and High-Rat](https://doi.org/10.1002/anie.202112304) (2021-12-20)
 - [Development of Cell-Carrying Magnetic Microrobots with Bioactive Nanostructured ](https://doi.org/10.3390/mi12121572) (2021-12-17)
 - [Diagnosis and epidemiology of winged scapula in breast cancer patients: A system](https://doi.org/10.1093/bmb/ldab021) (2021-12-16)
@@ -495,13 +504,13 @@
 - [Deep neural network based CEST and AREX processing: Application in imaging a mod](https://doi.org/10.1002/mrm.29044) (2021-10-17)
 - [Conversion-Type Nonmetal Elemental Tellurium Anode with High Utilization for Mil](https://doi.org/10.1002/adma.202105426) (2021-10-15)
 - [Inverted deltoid posterior cruciate ligament femoral insertion accompanied with ](https://doi.org/10.1007/s00276-021-02801-x) (2021-10)
+- [Model-free adaptive impedance control for autonomous robotic sanding](https://doi.org/10.1109/tase.2021.3126743) (2021-10)
 - [Battery-Sensor Hybrid: A New Gas Sensing Paradigm with Complete Energy Self-Suff](https://doi.org/10.1021/acsami.1c09255) (2021-09-27)
 - [Interfacial Laser-Induced Graphene Enabling High-Performance Liquid-Solid Triboe](https://doi.org/10.1002/adma.202104290) (2021-09-12)
-- [Minor Shoulder Injury Reveals Spontaneous Regression of Proximal Humerus Osteoch](https://doi.org/10.7759/cureus.16793) (2021-07)
+- [Minor Shoulder Injury Reveals Spontaneous Regression of Proximal Humerus Osteoch](https://doi.org/10.7759/cureus.16793) (2021-07-31)
 - [Insufficient evidence to support peroneus longus tendon over other autografts fo](https://doi.org/10.1136/jisakos-2020-000501) (2021-05)
 - [Nonanatomic and Suture-Based Coracoclavicular Joint Stabilization Techniques Pro](https://doi.org/10.1016/j.asmr.2020.12.007) (2021-04)
-- [Recommendation to use wearable-based mHealth in closed-loop management of acute ](https://doi.org/10.1109/jbhi.2021.3059883) (2021)
-- [Model-free adaptive impedance control for autonomous robotic sanding](https://doi.org/10.1109/tase.2021.3126743) (2021)
+- [Recommendation to use wearable-based mHealth in closed-loop management of acute ](https://doi.org/10.1109/jbhi.2021.3059883) (2021-04)
 </details>
 
 </details>
@@ -548,8 +557,8 @@
 <summary><b>ITC 2013</b> — 2 papers</summary>
 
 <details><summary>More papers +2 COCHE affiliation (non-InnoHK)</summary>
-- [Assessment of lung tumor response by perfusion CT.](https://pubmed.ncbi.nlm.nih.gov/23971175) (2013)
-- [Recist and beyond.](https://pubmed.ncbi.nlm.nih.gov/23971174) (2013)
+- [Assessment of lung tumor response by perfusion CT.](https://pubmed.ncbi.nlm.nih.gov/23971175) (2013-05)
+- [Recist and beyond.](https://pubmed.ncbi.nlm.nih.gov/23971174) (2013-05)
 </details>
 
 </details>
@@ -568,7 +577,7 @@
 
 <details><summary>More papers +2 COCHE affiliation (non-InnoHK)</summary>
 - [Quantitative right and left ventricular functional analysis during gated whole-c](https://doi.org/10.1016/j.ejrad.2009.05.037) (2010-06)
-- [Lung cancer: Morphological and functional approach to screening, staging and tre](https://doi.org/10.2217/fon.10.7) (2010-03)
+- [Lung cancer: Morphological and functional approach to screening, staging and tre](https://doi.org/10.2217/fon.10.7) (2010-03-31)
 </details>
 
 </details>
@@ -577,7 +586,7 @@
 <summary><b>ITC 2008</b> — 1 papers</summary>
 
 <details><summary>More papers +1 COCHE affiliation (non-InnoHK)</summary>
-- [Screening for lung cancer with low-dose CT.](https://pubmed.ncbi.nlm.nih.gov/18447122) (2008)
+- [Screening for lung cancer with low-dose CT.](https://pubmed.ncbi.nlm.nih.gov/18447122) (2008-01)
 </details>
 
 </details>
@@ -586,7 +595,7 @@
 <summary><b>ITC 2007</b> — 1 papers</summary>
 
 <details><summary>More papers +1 COCHE affiliation (non-InnoHK)</summary>
-- [Acute chest pain in emergency room. Preliminary findings with 40-64-slice CT ECG](https://pubmed.ncbi.nlm.nih.gov/17555066) (2007)
+- [Acute chest pain in emergency room. Preliminary findings with 40-64-slice CT ECG](https://pubmed.ncbi.nlm.nih.gov/17555066) (2007-03)
 </details>
 
 </details>
@@ -653,12 +662,9 @@
 </details>
 
 <details>
-<summary><b>ITC 0</b> — 5 papers</summary>
+<summary><b>ITC 0</b> — 2 papers</summary>
 
-<details><summary>More papers +4 COCHE affiliation +1 other (non-InnoHK)</summary>
-- [A New Method to Compute the Blood Flow Equation Using the Physics-Informed Neura](https://doi.org/10.2139/ssrn.4808841) (N/A)
-- [Skin-interfaced, Soft, Reliable Pulse Sensor for Cardiovascular Disease Diagnost](https://doi.org/10.70477/mqvh1558) (N/A)
-- [Operando Surface-Enhanced Raman Spectroscopy Monitoring of Molecular Reorientati](https://doi.org/10.2139/ssrn.4081177) (N/A)
+<details><summary>More papers +1 COCHE affiliation +1 other (non-InnoHK)</summary>
 - [Demyelination and remyelination in cuprizone mouse model detected by CEST MRI at](https://doi.org/10.58530/2022/4517) (N/A)
 - [Limitations of Automated Reflection Consolidation in LLMs for Clinical Note Extr](https://pubmed.ncbi.nlm.nih.gov/) (N/A)
 </details>
