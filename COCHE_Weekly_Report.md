@@ -1,6 +1,6 @@
 # COCHE Weekly Report
 
-**2026-10-13 17:30** UTC+8
+**2026-10-13 17:40** UTC+8
 
 ## Summary
 - Total: 464 | ⭐ InnoHK: 125 (109 + COCHE affiliation, 16 InnoHK-only)
@@ -12,7 +12,7 @@
 
 | # | Title | Date | Journal | COCHE Authors |
 |---|---|---|---|---|
-| 1 | [Multifunctional Textile Electronics Based on Triboelectric N](https://doi.org/10.1007/s42765-026-00727-w) | 2026-10 | N/A | N/A |
+| 1 | [Multifunctional Textile Electronics Based on Triboelectric N](https://doi.org/10.1007/s42765-026-00727-w) | 2026-10-13 | N/A | N/A |
 
 ## 📋 Other Recent
 
@@ -49,4 +49,4 @@
 | ITC 0 | 2 | 0 | 0 | 1 |
 
 ---
-*Generated 2026-10-13 17:30:42 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*
+*Generated 2026-10-13 17:40:22 · ⭐ = "InnoHK" in acknowledgements (ITC KPI)*

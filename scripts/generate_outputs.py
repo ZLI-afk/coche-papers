@@ -328,7 +328,7 @@ def generate_full_list(papers, now):
             else:
                 status = 'COCHE affiliation'
                 prefix = '-'
-            lines.append(f'| {prefix} | [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 99, "")} | {status} | {p["pmid"]} |')
+            lines.append(f'| {prefix} | [{title_escaped[:100]}]({format_link(p)}) | {format_date(p)}{" ⚠" if p.get("date_missing_warning") else ""} | {(p.get("journal","") or "N/A")[:25]} | {format_authors(p, 99, "")} | {status} | {p["pmid"]} |')
         lines.append('')
     lines.append('---')
     lines.append('> **⭐ InnoHK** = paper has "InnoHK" acknowledgement (ITC KPI metric) | Papers grouped by ITC year (Dec–Nov) | * = corresponding author')
@@ -463,6 +463,8 @@ def generate_excel(papers, threshold_str):
 
     for idx, p in enumerate(papers_sorted, 1):
         date_str = format_date(p)
+        if p.get('date_missing_warning'):
+            date_str += ' ⚠'
         link = format_link(p)
         itc_year = get_itc_reporting_year(p)[0]
         coche_auth = ', '.join(p.get('coche_authors', []))

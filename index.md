@@ -3,7 +3,7 @@
 > **Hong Kong Centre for Cerebro-Cardiovascular Health Engineering**
 > Weekly auto-update · ⭐ InnoHK = paper acknowledges InnoHK (ITC KPI metric)
 
-📊 **Total: 464** | ⭐ InnoHK: 125 | 🆕 Past 30d: 5 (1 InnoHK) | ⏰ 2026-10-13 17:30
+📊 **Total: 464** | ⭐ InnoHK: 125 | 🆕 Past 30d: 5 (1 InnoHK) | ⏰ 2026-10-13 17:40
 
 ---
 
@@ -11,7 +11,7 @@
 
 | # | Title | Date | Journal | COCHE Authors |
 |---|---|---|---|---|
-| 1 | [Multifunctional Textile Electronics Based on Triboelectric Nanogenerat...](https://doi.org/10.1007/s42765-026-00727-w) | 2026-10 | N/A | N/A |
+| 1 | [Multifunctional Textile Electronics Based on Triboelectric Nanogenerat...](https://doi.org/10.1007/s42765-026-00727-w) | 2026-10-13 | N/A | N/A |
 
 ## 📋 By ITC Reporting Year
 
@@ -41,4 +41,4 @@
 ---
 📥 [Excel](COCHE_Papers.xlsx) | 📄 [JSON](coche_pubmed.json) | 📝 [Report](COCHE_Weekly_Report.md)
 
-*2026-10-13 17:30:42 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*
+*2026-10-13 17:40:22 · PubMed API · ⭐ = "InnoHK" in acknowledgement (ITC KPI)*

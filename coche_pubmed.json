@@ -2120,7 +2120,7 @@
     "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
     "pub_year": "2026",
     "pub_month": "Jun",
-    "pub_day": "",
+    "pub_day": "15",
     "date_is_precise": true,
     "authors": [
       "Ziheng Guo",
@@ -2521,7 +2521,7 @@
     "journal": "NMR in biomedicine",
     "pub_year": "2026",
     "pub_month": "May",
-    "pub_day": "",
+    "pub_day": "8",
     "date_is_precise": false,
     "authors": [
       "Xinran Chen",
@@ -5099,7 +5099,8 @@
       "gs_only"
     ],
     "gs_citations": 1,
-    "gs_snippet": "… of China under Grant 2021YFA0805100, and in part by the ITC-InnoHK grant to the Hong \nKong Centre for Cerebro-Cardiovascular Health Engineering (COCHE). (Chentao Du, …"
+    "gs_snippet": "… of China under Grant 2021YFA0805100, and in part by the ITC-InnoHK grant to the Hong \nKong Centre for Cerebro-Cardiovascular Health Engineering (COCHE). (Chentao Du, …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -5117,7 +5118,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… The present study protocol was approved by the Human Research Review Committee of \nCOCHE &amp; Prince of Wales Hospital, CityOne, Hong Kong. The local ethics committee reviewed …"
+    "gs_snippet": "… The present study protocol was approved by the Human Research Review Committee of \nCOCHE &amp; Prince of Wales Hospital, CityOne, Hong Kong. The local ethics committee reviewed …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -5135,7 +5137,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… ’s lab at the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering. She earned \n… PhD from the Chinese University of Hong Kong. Passionate about improving cardiovascular …"
+    "gs_snippet": "… ’s lab at the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering. She earned \n… PhD from the Chinese University of Hong Kong. Passionate about improving cardiovascular …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -5144,7 +5147,7 @@
     "journal": "",
     "pub_year": "2026",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "13",
     "date_is_precise": true,
     "authors": [
       "Hongwei Chu",
@@ -5267,7 +5270,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… and Innovation Commission of Shenzhen Municipality (JCYJ20240813153115021), and \nInnoHK Project at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… and Innovation Commission of Shenzhen Municipality (JCYJ20240813153115021), and \nInnoHK Project at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -5462,7 +5466,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… Mechanical Engineering, City University of Hong Kong, Hong Kong, SAR, China, and also \nwith Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong…"
+    "gs_snippet": "… Mechanical Engineering, City University of Hong Kong, Hong Kong, SAR, China, and also \nwith Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong…",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -6497,7 +6502,7 @@
     "journal": "NMR in biomedicine",
     "pub_year": "2025",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "16",
     "date_is_precise": false,
     "authors": [
       "Huabing Liu",
@@ -13115,7 +13120,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "Jan",
-    "pub_day": "",
+    "pub_day": "14",
     "date_is_precise": true,
     "authors": [
       "Peilun Yu",
@@ -13186,7 +13191,8 @@
       "gs_only"
     ],
     "gs_citations": 54,
-    "gs_snippet": "… : Soft Battery and self-powered, flexible medical devices] at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). All data supporting the findings of this study …"
+    "gs_snippet": "… : Soft Battery and self-powered, flexible medical devices] at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). All data supporting the findings of this study …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -13195,7 +13201,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "Mar",
-    "pub_day": "",
+    "pub_day": "22",
     "date_is_precise": true,
     "authors": [
       "Xinxin He",
@@ -13643,7 +13649,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "Jun",
-    "pub_day": "",
+    "pub_day": "5",
     "date_is_precise": true,
     "authors": [
       "O. Patey",
@@ -13792,7 +13798,8 @@
     "gs_citations": 13,
     "gs_snippet": "… (FAST) for monitoring of CVD risk factors: soft battery and self-powered, flexible medical \ndevices] at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
     "innohk_snippet": "Program of China under Project 2019YFA0705104. It was supported in part by the InnoHK Project on [Project 1.4 – Flexible and Stretchable Technologies (FAST) for monitoring of CVD risk factors: soft battery and self-powered, flexible medical devices] at Hong Kong Centre for Cerebro-cardiovascular Hea",
-    "innohk_source": "ezproxy_innohk"
+    "innohk_source": "ezproxy_innohk",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -13856,7 +13863,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "30",
     "date_is_precise": true,
     "authors": [
       "Shirong Qiu",
@@ -13944,7 +13951,8 @@
       "gs_only"
     ],
     "gs_citations": 5,
-    "gs_snippet": "… Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE) and City University \nof Hong Kong (… Chan are with the Hong Kong Centre for Cerebro-Cardiovascular Health …"
+    "gs_snippet": "… Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE) and City University \nof Hong Kong (… Chan are with the Hong Kong Centre for Cerebro-Cardiovascular Health …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14019,7 +14027,8 @@
       "affiliation"
     ],
     "gs_citations": 3,
-    "gs_snippet": "… the Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, and \nalso with the Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong. …"
+    "gs_snippet": "… the Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, and \nalso with the Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong. …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -14192,7 +14201,8 @@
       "gs_only"
     ],
     "gs_citations": 2,
-    "gs_snippet": "… Project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) (… \nTherefore, we established 10mmHg intervals, where a central value represents the final BP …"
+    "gs_snippet": "… Project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) (… \nTherefore, we established 10mmHg intervals, where a central value represents the final BP …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14210,7 +14220,8 @@
       "gs_only"
     ],
     "gs_citations": 1,
-    "gs_snippet": "… City University of Hong Kong Hong Kong Centre for Cerebro-cardiovascular Health \nEngineering Hong Kong Aitor Artola Hong Kong Centre for Cerebro-cardiovascular Health …"
+    "gs_snippet": "… City University of Hong Kong Hong Kong Centre for Cerebro-cardiovascular Health \nEngineering Hong Kong Aitor Artola Hong Kong Centre for Cerebro-cardiovascular Health …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14237,7 +14248,8 @@
       "affiliation"
     ],
     "gs_citations": 1,
-    "gs_snippet": "… Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China, \nHong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China and the …"
+    "gs_snippet": "… Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China, \nHong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China and the …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -14303,7 +14315,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… of Electronic Engineering, Chinese University of Hong Kong, Hong Kong SAR China 3 \nHong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Hong Kong SAR …"
+    "gs_snippet": "… of Electronic Engineering, Chinese University of Hong Kong, Hong Kong SAR China 3 \nHong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), Hong Kong SAR …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14353,7 +14366,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "May",
-    "pub_day": "",
+    "pub_day": "22",
     "date_is_precise": true,
     "authors": [
       "Zixun Wang",
@@ -14452,7 +14465,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… of Biomedical Engineering, City University of Hong Kong, Hong Kong SAR, PR China; Hong \nKong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong SAR, …"
+    "gs_snippet": "… of Biomedical Engineering, City University of Hong Kong, Hong Kong SAR, PR China; Hong \nKong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong SAR, …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14461,7 +14475,7 @@
     "journal": "",
     "pub_year": "2025",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "21",
     "date_is_precise": true,
     "authors": [
       "Jun Chen"
@@ -14573,7 +14587,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) … \nA central insight of our work is that deep neural networks (DNN) can be naturally derived as dis…"
+    "gs_snippet": "… project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE) … \nA central insight of our work is that deep neural networks (DNN) can be naturally derived as dis…",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -14680,7 +14695,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… and Technology Commission of Hong Kong (InnoHK), the Centre for Cerebro- cardiovascular \nHealth Engineering (COCHE), Hong Kong, and the Oxford NIHR Biomedical Research …"
+    "gs_snippet": "… and Technology Commission of Hong Kong (InnoHK), the Centre for Cerebro- cardiovascular \nHealth Engineering (COCHE), Hong Kong, and the Oxford NIHR Biomedical Research …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -15307,7 +15323,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… 15Hong Kong Centre for Cerebro-cardiovascular Health Engineering, China. 16Department \nof Nuclear Medicine/PET Center, Huashan Hospital, Fudan University, China. 17School of …"
+    "gs_snippet": "… 15Hong Kong Centre for Cerebro-cardiovascular Health Engineering, China. 16Department \nof Nuclear Medicine/PET Center, Huashan Hospital, Fudan University, China. 17School of …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -16097,7 +16114,7 @@
     "journal": "International journal for numerical methods in biomedical engineering",
     "pub_year": "2024",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "6",
     "authors": [
       "Joaquín Flores-Gerónimo",
       "Alireza Keramat",
@@ -18774,7 +18791,7 @@
     "journal": "Medical physics",
     "pub_year": "2024",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "15",
     "authors": [
       "Zhaozheng Chen",
       "Mingjie Jiang",
@@ -18819,7 +18836,7 @@
     "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
     "pub_year": "2024",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "25",
     "date_is_precise": true,
     "authors": [
       "Ruibo Chen",
@@ -21237,7 +21254,7 @@
     "journal": "Biotechnology journal",
     "pub_year": "2024",
     "pub_month": "Jul",
-    "pub_day": "",
+    "pub_day": "10",
     "date_is_precise": false,
     "authors": [
       "Chenyu Cui",
@@ -25101,8 +25118,8 @@
     "title": "Opportunities for System Neuroscience.",
     "journal": "Advances in neurobiology",
     "pub_year": "2024",
-    "pub_month": "",
-    "pub_day": "",
+    "pub_month": "Nov",
+    "pub_day": "27",
     "date_is_precise": false,
     "authors": [
       "Russell W Chan",
@@ -25348,7 +25365,8 @@
       "gs_only"
     ],
     "gs_citations": 104,
-    "gs_snippet": "… With a particular emphasis on biomedical engineering and AI, we aim to evaluate the … , the \nInnoHK Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), and the …"
+    "gs_snippet": "… With a particular emphasis on biomedical engineering and AI, we aim to evaluate the … , the \nInnoHK Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), and the …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25357,7 +25375,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "May",
-    "pub_day": "",
+    "pub_day": "28",
     "date_is_precise": true,
     "authors": [
       "Jenny Yang",
@@ -25451,7 +25469,8 @@
       "affiliation"
     ],
     "gs_citations": 61,
-    "gs_snippet": "… the City University of Hong Kong Project under Grant 9610640; and in part by the InnoHK \nProjects under Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE). (…"
+    "gs_snippet": "… the City University of Hong Kong Project under Grant 9610640; and in part by the InnoHK \nProjects under Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE). (…",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -25460,7 +25479,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "Feb",
-    "pub_day": "",
+    "pub_day": "22",
     "date_is_precise": true,
     "authors": [
       "Kongqi Chen",
@@ -25503,7 +25522,8 @@
       "gs_only"
     ],
     "gs_citations": 49,
-    "gs_snippet": "… (FAST) for monitoring of CVD risk factors: Soft Battery and self-powered, flexible medical \ndevices] at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… (FAST) for monitoring of CVD risk factors: Soft Battery and self-powered, flexible medical \ndevices] at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25521,7 +25541,8 @@
       "gs_only"
     ],
     "gs_citations": 45,
-    "gs_snippet": "… Precision Medicine for Acute CVD Patients (a closed-loop CVD control system) at the Hong \nKong Center for Cerebro-cardiovascular Health Engineering (COCHE). City University of …"
+    "gs_snippet": "… Precision Medicine for Acute CVD Patients (a closed-loop CVD control system) at the Hong \nKong Center for Cerebro-cardiovascular Health Engineering (COCHE). City University of …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25539,7 +25560,8 @@
       "gs_only"
     ],
     "gs_citations": 37,
-    "gs_snippet": "… Project on Project 2.2—AI-based 3D ultrasound imaging algorithm at Hong Kong Centre for \nCerebro-Cardiovascular Health Engineering (COCHE), the Research Grants Council of the …"
+    "gs_snippet": "… Project on Project 2.2—AI-based 3D ultrasound imaging algorithm at Hong Kong Centre for \nCerebro-Cardiovascular Health Engineering (COCHE), the Research Grants Council of the …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25548,7 +25570,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "9",
     "date_is_precise": true,
     "authors": [
       "Junchen Liao",
@@ -25640,7 +25662,8 @@
       "gs_only"
     ],
     "gs_citations": 34,
-    "gs_snippet": "… Yuan-Ting Zhang is with Hong Kong Center for Cerebrocardiovascular Health Engineering \n(… Department of Biomedical Engineering at City University of Hong Kong, Hong Kong, China (…"
+    "gs_snippet": "… Yuan-Ting Zhang is with Hong Kong Center for Cerebrocardiovascular Health Engineering \n(… Department of Biomedical Engineering at City University of Hong Kong, Hong Kong, China (…",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25658,7 +25681,8 @@
       "gs_only"
     ],
     "gs_citations": 32,
-    "gs_snippet": "… Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Rm 1115-1119, Building \n19W, 19 Science Park West Avenue… Hong Kong Centre for Cerebro-Cardiovascular Health …"
+    "gs_snippet": "… Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Rm 1115-1119, Building \n19W, 19 Science Park West Avenue… Hong Kong Centre for Cerebro-Cardiovascular Health …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25667,7 +25691,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "Nov",
-    "pub_day": "",
+    "pub_day": "6",
     "date_is_precise": true,
     "authors": [
       "Zhiqiang Ma",
@@ -25821,7 +25845,8 @@
       "gs_only"
     ],
     "gs_citations": 25,
-    "gs_snippet": "… Professor of Biomedical Engineering at City University of Hong Kong, and Associate Director \nof Hong Kong Centre for Cerebro-cardiovascular Health Engineering. He is the recipient of …"
+    "gs_snippet": "… Professor of Biomedical Engineering at City University of Hong Kong, and Associate Director \nof Hong Kong Centre for Cerebro-cardiovascular Health Engineering. He is the recipient of …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -25883,7 +25908,8 @@
       "affiliation"
     ],
     "gs_citations": 24,
-    "gs_snippet": "… Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Hong Kong, China. His \nresearch interests include medical robotics, cable-driven manipulators, and deep learning. …"
+    "gs_snippet": "… Hong Kong Center for Cerebro-Cardiovascular Health Engineering, Hong Kong, China. His \nresearch interests include medical robotics, cable-driven manipulators, and deep learning. …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -25892,7 +25918,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "Sep",
-    "pub_day": "",
+    "pub_day": "15",
     "date_is_precise": true,
     "authors": [
       "Yu Feng",
@@ -25984,7 +26010,8 @@
       "gs_only"
     ],
     "gs_citations": 20,
-    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK \nProject … System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK \nProject … System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -26002,7 +26029,8 @@
       "gs_only"
     ],
     "gs_citations": 19,
-    "gs_snippet": "… to Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE) and City \nUniversity of Hong Kong (… Engineering, City University of Hong Kong, Hong Kong, China, and …"
+    "gs_snippet": "… to Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE) and City \nUniversity of Hong Kong (… Engineering, City University of Hong Kong, Hong Kong, China, and …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -26020,7 +26048,8 @@
       "gs_only"
     ],
     "gs_citations": 18,
-    "gs_snippet": "… 1 Hong Kong Centre for Cerebro-Cardiovascular Health … Jizhou Li and the Hong Kong \nCentre for Cerebro-Cardiovascular Health Engineering (hkcoche.org) for the collaboration and …"
+    "gs_snippet": "… 1 Hong Kong Centre for Cerebro-Cardiovascular Health … Jizhou Li and the Hong Kong \nCentre for Cerebro-Cardiovascular Health Engineering (hkcoche.org) for the collaboration and …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -26123,7 +26152,8 @@
       "affiliation"
     ],
     "gs_citations": 16,
-    "gs_snippet": "… the InnoHK project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering \n(COCHE). … The central ideas for multigrid methods we use in this work for solving minimization …"
+    "gs_snippet": "… the InnoHK project at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering \n(COCHE). … The central ideas for multigrid methods we use in this work for solving minimization …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -26178,7 +26208,8 @@
       "affiliation"
     ],
     "gs_citations": 9,
-    "gs_snippet": "… the Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. \n… Slices around the center of the target organs are sampled to create a data stream consisting …"
+    "gs_snippet": "… the Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong, China. \n… Slices around the center of the target organs are sampled to create a data stream consisting …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -26419,7 +26450,8 @@
       "affiliation"
     ],
     "gs_citations": 4,
-    "gs_snippet": "… This work was supported in part by the Hong Kong Research Grants Council under Grant … \nProject at the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… This work was supported in part by the Hong Kong Research Grants Council under Grant … \nProject at the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -26437,7 +26469,8 @@
       "gs_only"
     ],
     "gs_citations": 4,
-    "gs_snippet": "… The work of Lingfeng Li is supported by the InnoHK project at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). The work of Xue-Cheng Tai is partially …"
+    "gs_snippet": "… The work of Lingfeng Li is supported by the InnoHK project at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). The work of Xue-Cheng Tai is partially …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -26446,7 +26479,7 @@
     "journal": "",
     "pub_year": "2024",
     "pub_month": "Sep",
-    "pub_day": "",
+    "pub_day": "5",
     "date_is_precise": true,
     "authors": [
       "Shixun Wang",
@@ -26694,7 +26727,8 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… Hong Kong, Hong Kong, Hong Kong, 2 Hong Kong Centre for Cerebro-Cardiovascular \nHealth Engineering (COCHE), Hong Kong, Hong Kong, 3 Russell H. Morgan Department of …"
+    "gs_snippet": "… Hong Kong, Hong Kong, Hong Kong, 2 Hong Kong Centre for Cerebro-Cardiovascular \nHealth Engineering (COCHE), Hong Kong, Hong Kong, 3 Russell H. Morgan Department of …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -26791,7 +26825,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… Science, The Johns Hopkins University School of Medicine, Baltimore, MD, United States, \n6 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China …"
+    "gs_snippet": "… Science, The Johns Hopkins University School of Medicine, Baltimore, MD, United States, \n6 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, Hong Kong, China …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -31666,7 +31701,7 @@
     "journal": "NMR in biomedicine",
     "pub_year": "2023",
     "pub_month": "Jun",
-    "pub_day": "",
+    "pub_day": "21",
     "date_is_precise": false,
     "authors": [
       "Jianpan Huang",
@@ -35131,7 +35166,8 @@
       "gs_only"
     ],
     "gs_citations": 225,
-    "gs_snippet": "… GHP/095/20GD), as part of the InnoHK Project on Project 2.2—AI-based 3D ultrasound \nimaging algorithm at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, …"
+    "gs_snippet": "… GHP/095/20GD), as part of the InnoHK Project on Project 2.2—AI-based 3D ultrasound \nimaging algorithm at Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -35213,7 +35249,8 @@
       "affiliation"
     ],
     "gs_citations": 129,
-    "gs_snippet": "… for CerebroCardiovascular Health Engineering (COCHE), Hong … in part by the InnoHK \nprojects under the Hong Kong Center for Cerebrocardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… for CerebroCardiovascular Health Engineering (COCHE), Hong … in part by the InnoHK \nprojects under the Hong Kong Center for Cerebrocardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -35222,7 +35259,7 @@
     "journal": "",
     "pub_year": "2023",
     "pub_month": "Sep",
-    "pub_day": "",
+    "pub_day": "11",
     "date_is_precise": true,
     "authors": [
       "Bangul Khan",
@@ -35388,7 +35425,7 @@
     "journal": "",
     "pub_year": "2023",
     "pub_month": "Jun",
-    "pub_day": "",
+    "pub_day": "3",
     "date_is_precise": true,
     "authors": [
       "Ze Chen",
@@ -35485,7 +35522,7 @@
     "journal": "",
     "pub_year": "2023",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "29",
     "date_is_precise": true,
     "authors": [
       "Mengge Wu",
@@ -35621,7 +35658,8 @@
       "affiliation"
     ],
     "gs_citations": 46,
-    "gs_snippet": "… for Cerebro-cardiovascular Health Engineering (COCHE), in part by the NIHR Oxford … \ndirector with the Hong Kong Center for Cerebro-cardiovascular Health Engineering and the chair …"
+    "gs_snippet": "… for Cerebro-cardiovascular Health Engineering (COCHE), in part by the NIHR Oxford … \ndirector with the Hong Kong Center for Cerebro-cardiovascular Health Engineering and the chair …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -35639,7 +35677,8 @@
       "gs_only"
     ],
     "gs_citations": 45,
-    "gs_snippet": "… and Applications at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), \nCenter of Flexible Electronics Technology, Qiantang Science &amp; Technology Innovation …"
+    "gs_snippet": "… and Applications at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE), \nCenter of Flexible Electronics Technology, Qiantang Science &amp; Technology Innovation …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -35657,7 +35696,8 @@
       "gs_only"
     ],
     "gs_citations": 31,
-    "gs_snippet": "… Centre (BRC), and in part by an InnoHK Project at the Hong Kong Centre for Cerebro-cardiovascular \nHealth Engineering (COCHE… Sensing Engineering (WISE) at Hong Kong Centre for …"
+    "gs_snippet": "… Centre (BRC), and in part by an InnoHK Project at the Hong Kong Centre for Cerebro-cardiovascular \nHealth Engineering (COCHE… Sensing Engineering (WISE) at Hong Kong Centre for …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -35675,7 +35715,8 @@
       "gs_only"
     ],
     "gs_citations": 31,
-    "gs_snippet": "… 9440298), and in part by the InnoHK Project on Project 2.2-AI-based 3D ultrasound \nimaging algorithm at Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… 9440298), and in part by the InnoHK Project on Project 2.2-AI-based 3D ultrasound \nimaging algorithm at Hong Kong Center for Cerebro-Cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -35797,7 +35838,8 @@
       "gs_only"
     ],
     "gs_citations": 26,
-    "gs_snippet": "… Xue-Cheng Tai is a chief research scientist and executive programme director at Hong Kong \nCenter for Cerebro-cardiovascular Health Engineering (COCHE), Hong Kong Science Park…"
+    "gs_snippet": "… Xue-Cheng Tai is a chief research scientist and executive programme director at Hong Kong \nCenter for Cerebro-cardiovascular Health Engineering (COCHE), Hong Kong Science Park…",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -35891,7 +35933,8 @@
       "gs_only"
     ],
     "gs_citations": 22,
-    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK Project \n… : Warning System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (…"
+    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK Project \n… : Warning System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (…",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -36053,7 +36096,7 @@
     "journal": "",
     "pub_year": "2023",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "19",
     "date_is_precise": true,
     "authors": [
       "Sihui Hou",
@@ -36159,7 +36202,8 @@
       "gs_only"
     ],
     "gs_citations": 12,
-    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK \nProject … System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …"
+    "gs_snippet": "… Research (NIHR) Oxford Biomedical Research Centre (BRC) and in part by InnoHK \nProject … System at Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE). …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -36514,7 +36558,8 @@
       "gs_only"
     ],
     "gs_citations": 3,
-    "gs_snippet": "… 1 Hong Kong Centre for Cerebro-Cardiovascular Health … Jizhou Li and the Hong Kong \nCentre for Cerebro-Cardiovascular Health Engineering (hkcoche.org) for the collaboration and …"
+    "gs_snippet": "… 1 Hong Kong Centre for Cerebro-Cardiovascular Health … Jizhou Li and the Hong Kong \nCentre for Cerebro-Cardiovascular Health Engineering (hkcoche.org) for the collaboration and …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -36625,7 +36670,8 @@
       "affiliation"
     ],
     "gs_citations": 3,
-    "gs_snippet": "… 2Hong Kong Centre for Cerebro-cardiovascular Health Engineering (… to Hong Kong Centre \nfor Cerebro-cardiovascular Health Engineering (COCHE) and City University of Hong Kong (…"
+    "gs_snippet": "… 2Hong Kong Centre for Cerebro-cardiovascular Health Engineering (… to Hong Kong Centre \nfor Cerebro-cardiovascular Health Engineering (COCHE) and City University of Hong Kong (…",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -36684,7 +36730,8 @@
       "gs_only"
     ],
     "gs_citations": 1,
-    "gs_snippet": "… Chan is with the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, \nEmail: hlchan@hkcoche.org L. Dai is with the Department of Mathematics, City University of …"
+    "gs_snippet": "… Chan is with the Hong Kong Centre for Cerebro-Cardiovascular Health Engineering, \nEmail: hlchan@hkcoche.org L. Dai is with the Department of Mathematics, City University of …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "",
@@ -36889,7 +36936,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, \n… home and well-being studies, connected health and telemedicine for parental and fetal care, …"
+    "gs_snippet": "… Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong, \n… home and well-being studies, connected health and telemedicine for parental and fetal care, …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -41746,7 +41794,7 @@
     "journal": "",
     "pub_year": "2022",
     "pub_month": "Apr",
-    "pub_day": "",
+    "pub_day": "26",
     "date_is_precise": true,
     "authors": [
       "Tsz Hung Wong",
@@ -41871,7 +41919,7 @@
     "journal": "",
     "pub_year": "2022",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "16",
     "date_is_precise": true,
     "authors": [
       "Chunki Yiu",
@@ -42500,7 +42548,7 @@
     "journal": "",
     "pub_year": "2022",
     "pub_month": "Dec",
-    "pub_day": "",
+    "pub_day": "6",
     "date_is_precise": true,
     "authors": [
       "Mohamed Elhousseini Hilal",
@@ -42704,7 +42752,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… Hong Kong SAR, China 2 Oxford-CityU Centre for Cerebro-Cardiovascular Health Engineering \n(CoCHE), Hong Kong Science Park, NT, Hong Kong SAR, China# Corresponding Author/…"
+    "gs_snippet": "… Hong Kong SAR, China 2 Oxford-CityU Centre for Cerebro-Cardiovascular Health Engineering \n(CoCHE), Hong Kong Science Park, NT, Hong Kong SAR, China# Corresponding Author/…",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "36147250",
@@ -44114,7 +44163,7 @@
     "journal": "Surgical and radiologic anatomy : SRA",
     "pub_year": "2021",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "14",
     "author_list": [
       {
         "name": "Ioannis Terzidis",
@@ -44519,7 +44568,7 @@
     "journal": "Arthroscopy, sports medicine, and rehabilitation",
     "pub_year": "2021",
     "pub_month": "Apr",
-    "pub_day": "",
+    "pub_day": "24",
     "author_list": [
       {
         "name": "Theodorakys Marín Fermín",
@@ -44868,7 +44917,8 @@
       "affiliation"
     ],
     "gs_citations": 341,
-    "gs_snippet": "… Engineering, City University of Hong Kong and Hong Kong Centre for Cerebro-Cardiovascular \nHealth Engineering (COCHE), Hong Kong SAR, China (e-mail: nanji3-c@my.cityu.edu.hk…"
+    "gs_snippet": "… Engineering, City University of Hong Kong and Hong Kong Centre for Cerebro-Cardiovascular \nHealth Engineering (COCHE), Hong Kong SAR, China (e-mail: nanji3-c@my.cityu.edu.hk…",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "31196829",
@@ -44927,7 +44977,8 @@
       "gs_only"
     ],
     "gs_citations": 97,
-    "gs_snippet": "… Clifton was supported by the NIHR Oxford Biomedical Research Centre, the InnoHK Hong \nKong Centre for Cerebro-cardiovascular Health Engineering (COCHE), and the Pandemic …"
+    "gs_snippet": "… Clifton was supported by the NIHR Oxford Biomedical Research Centre, the InnoHK Hong \nKong Centre for Cerebro-cardiovascular Health Engineering (COCHE), and the Pandemic …",
+    "date_missing_warning": "no_identifier_gs_only"
   },
   {
     "pmid": "27743578",
@@ -45077,7 +45128,7 @@
     "journal": "Expert review of anticancer therapy",
     "pub_year": "2012",
     "pub_month": "Oct",
-    "pub_day": "",
+    "pub_day": "10",
     "author_list": [
       {
         "name": "Emmanuel Coche",
@@ -45763,7 +45814,8 @@
       "affiliation"
     ],
     "pmc": "",
-    "date_is_precise": true
+    "date_is_precise": true,
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "11702176",
@@ -45800,7 +45852,8 @@
       "affiliation"
     ],
     "pmc": "",
-    "date_is_precise": true
+    "date_is_precise": true,
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -45841,7 +45894,8 @@
       "affiliation"
     ],
     "gs_citations": 1,
-    "gs_snippet": "… The work of Lingfeng Li is supported by the InnoHK project at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). The work of Xue-Cheng Tai is partially …"
+    "gs_snippet": "… The work of Lingfeng Li is supported by the InnoHK project at Hong Kong Centre for \nCerebro-cardiovascular Health Engineering (COCHE). The work of Xue-Cheng Tai is partially …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -45986,7 +46040,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… from Health@InnoHK (Hong Kong Centre for Cerebro-cardiovascular Health Engineering \n(COCHE), Innovation and Technology Commission, the Government of the Hong Kong …"
+    "gs_snippet": "… from Health@InnoHK (Hong Kong Centre for Cerebro-cardiovascular Health Engineering \n(COCHE), Innovation and Technology Commission, the Government of the Hong Kong …",
+    "date_missing_warning": "missing_month"
   },
   {
     "pmid": "",
@@ -46041,7 +46096,8 @@
       "affiliation"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… States, 4 City University of Hong Kong Shenzhen Research Institute, Shenzhen, China… \n5 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong…"
+    "gs_snippet": "… States, 4 City University of Hong Kong Shenzhen Research Institute, Shenzhen, China… \n5 Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong…",
+    "date_missing_warning": "missing_year"
   },
   {
     "pmid": "",
@@ -46059,6 +46115,7 @@
       "gs_only"
     ],
     "gs_citations": 0,
-    "gs_snippet": "… .hk 1 Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong SAR \n… supported fully by InnoHK Project at Hong Kong Centre for Cerebro-cardiovascular Health …"
+    "gs_snippet": "… .hk 1 Hong Kong Centre for Cerebro-cardiovascular Health Engineering, Hong Kong SAR \n… supported fully by InnoHK Project at Hong Kong Centre for Cerebro-cardiovascular Health …",
+    "date_missing_warning": "no_identifier_gs_only"
   }
 ]
