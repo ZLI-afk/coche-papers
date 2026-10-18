@@ -2253,7 +2253,8 @@
     ],
     "coche_authors": [],
     "source": [
-      "innohk_acknowledgement"
+      "innohk_acknowledgement",
+      "affiliation"
     ],
     "pmc": "PMC13170662",
     "date_is_precise": true,
@@ -5468,50 +5469,6 @@
     "gs_citations": 0,
     "gs_snippet": "… Mechanical Engineering, City University of Hong Kong, Hong Kong, SAR, China, and also \nwith Hong Kong Centre for Cerebro-Cardiovascular Health Engineering (COCHE), Hong Kong…",
     "date_missing_warning": "no_identifier_gs_only"
-  },
-  {
-    "pmid": "",
-    "doi": "10.1126/sciadv.aee2009",
-    "title": "Surface reduction boosts free electron concentration in MXene for enhanced photothermal performance",
-    "journal": "",
-    "pub_year": "2026",
-    "pub_month": "May",
-    "pub_day": "15",
-    "date_is_precise": true,
-    "authors": [
-      "Haoming Ding",
-      "Xiao Tong",
-      "Yong Zhang"
-    ],
-    "author_list": [
-      {
-        "name": "Haoming Ding",
-        "affiliations": [],
-        "is_corresponding": false,
-        "is_coche": false
-      },
-      {
-        "name": "Xiao Tong",
-        "affiliations": [],
-        "is_corresponding": false,
-        "is_coche": false
-      },
-      {
-        "name": "Yong Zhang",
-        "affiliations": [],
-        "is_corresponding": false,
-        "is_coche": false
-      }
-    ],
-    "coche_authors": [],
-    "source": [
-      "affiliation",
-      "innohk_acknowledgement"
-    ],
-    "gs_citations": 0,
-    "gs_snippet": "… Health Engineering (COCHE), and in part by Novel Fluorescent Microscopy Platforms for \n3D Imaging of Hong Kong Centre for Cerebro-cardiovascular Health Engineering …",
-    "innohk_snippet": "paragraph\">This work was supported by the following funds and institutions: The InnoHK initiative of the Innovation and Technology Commission of the Hong Kong Special Administrative Region Government; the Hong Kong Centre for Cerebro-cardiovascular Health Engineering (COCHE); the City University of ",
-    "innohk_source": "ezproxy_innohk"
   },
   {
     "pmid": "42846869",
